@@ -1,0 +1,120 @@
+[R2-C12769] Augmented Reality as a Visualization Technique for Scholarly Publications in Astronomy: An Empirical Evaluation | Visualization | 2023 | doi:10.1109/vis54172.2023.00016
+    WHY UNSURE: AR for astronomy publications; possibly paper-anchored
+    FULLTEXT: fulltext/txt/R2-C12769.txt
+[R2-C12772] Augmented Reality Safety Zone Configurations in Human-Robot Collaboration: A User Study | ACM/IEEE International Conference on Human-Robot Interaction | 2023 | doi:10.1145/3568294.3580106
+    WHY UNSURE: AR safety zones around real robot; data vis?
+    FULLTEXT: fulltext/txt/R2-C12772.txt
+[R2-C12997] iTraNet: a web-based platform for integrated trans-omics network visualization and analysis | Bioinformatics Advances | 2023 | doi:10.1093/bioadv/vbae141
+    WHY UNSURE: trans-omics multi-type network visualization; layered?
+    FULLTEXT: fulltext/txt/R2-C12997.txt
+[R2-C13062] Patient-specific modeling for guided rehabilitation of stroke patients: the BrainX3 use-case | Frontiers in Neurology | 2023 | doi:10.3389/fneur.2023.1279875
+    WHY UNSURE: neuroinformatics platform, brain networks, possibly immersive
+    FULLTEXT: fulltext/txt/R2-C13062.txt
+[R2-C13309] A Software Visualization Approach for Multiple Visual Output Devices | IEEE Working Conference on Software Visualization (VISSOFT) | 2024 | doi:10.1109/vissoft64034.2024.00020
+    WHY UNSURE: software vis across devices incl. AR/VR; graph-based?
+    FULLTEXT: fulltext/txt/R2-C13309.txt
+[R2-C13310] A Study on Collaborative Visual Data Analysis in Augmented Reality with Asymmetric Display Types | IEEE Transactions on Visualization and Computer Graphics | 2024 | doi:10.1109/tvcg.2024.3372103
+    WHY UNSURE: co-located AR collaborative analysis, display types
+    FULLTEXT: fulltext/txt/R2-C13310.txt
+[R2-C13401] Chronoblox: Chronophotographic Sequential Graph Visualization | arXiv (Cornell University) | 2024 | doi:10.48550/arxiv.2405.07506
+    WHY UNSURE: dynamic graph snapshots in common space; layering?
+    FULLTEXT: fulltext/txt/R2-C13401.txt
+[R2-C13409] Collaborative Software Exploration with Multimedia Note Taking in Virtual Reality | IEEE International Conference on Program Comprehension (ICPC | 2024 | doi:10.1145/3643916.3644427
+    WHY UNSURE: collaborative VR software exploration; graph-based?
+    FULLTEXT: fulltext/txt/R2-C13409.txt
+[R2-C13502] Exploring Relationships among Topics in Neuroscience Literature using Augmented Reality Visualization | Utrecht University Repository (Utrecht University) | 2024 | doi:10.33540/2491
+    WHY UNSURE: AR vis of topic relationships; likely graph (I2)
+    FULLTEXT: fulltext/txt/R2-C13502.txt
+[R2-C13551] I Did Not Notice: A Comparison of Immersive Analytics with Augmented and Virtual Reality | CHI Conference Extended Abstracts on Human Factors in Comput | 2024 | doi:10.1145/3613905.3651085
+    WHY UNSURE: AR vs VR immersive analytics comparison
+    FULLTEXT: fulltext/txt/R2-C13551.txt
+[R2-C13553] Immersive Analysis: Enhancing Material Inspection of X-Ray Computed Tomography Datasets in Augmented Reality | arXiv.org | 2024 | doi:10.48550/arxiv.2404.12751
+    WHY UNSURE: XCT volume overlay; secondary data maybe abstract
+    FULLTEXT: fulltext/txt/R2-C13553.txt
+[R2-C13556] Immersive Software Archaeology: Collaborative Exploration and Note Taking in Virtual Reality | IEEE International Conference on Program Comprehension (ICPC | 2024 | doi:10.1145/3643916.3644438
+    WHY UNSURE: VR collaborative software vis; maybe graph (I2)
+    FULLTEXT: fulltext/txt/R2-C13556.txt
+[R2-C13787] Understanding the Impact of Referent Design on Scale Perception in Immersive Data Visualization | CHI Conference Extended Abstracts on Human Factors in Comput | 2024 | doi:10.1145/3613905.3650783
+    WHY UNSURE: in-situ referents for immersive scale perception
+    FULLTEXT: fulltext/txt/R2-C13787.txt
+[R2-C13813] Visual Analysis of Multi-Outcome Causal Graphs | IEEE Transactions on Visualization and Computer Graphics | 2024 | doi:10.1109/tvcg.2024.3456346
+    WHY UNSURE: comparative vis of multiple causal graphs (I1?)
+    FULLTEXT: fulltext/txt/R2-C13813.txt
+[R2-C13920] Augmented reality to support the installation of MEP systems: a conceptual framework | UCL Discovery (University College London) | 2025 | doi:
+    WHY UNSURE: AR on-site MEP installation framework; anchoring
+    FULLTEXT: fulltext/txt/R2-C13920.txt
+[R2-C13996] DTBIA: An Immersive Visual Analytics System for Brain-Inspired Research | IEEE Transactions on Visualization and Computer Graphics | 2025 | doi:10.1109/tvcg.2025.3567135
+    WHY UNSURE: immersive brain DTB vis; network content unclear
+    FULLTEXT: fulltext/txt/R2-C13996.txt
+[R2-C14102] Immersive Inspection: Intuitive Material Analysis using X-Ray Computed Tomography Data in AR | Journal of Nondestructive Evaluation | 2025 | doi:10.1007/s10921-025-01220-x
+    WHY UNSURE: XCT volume overlay; secondary data maybe abstract
+    FULLTEXT: fulltext/txt/R2-C14102.txt
+[R2-C14145] LitForager: Exploring Multimodal Literature Foraging Strategies in Immersive Sensemaking | IEEE Transactions on Visualization and Computer Graphics | 2025 | doi:10.1109/tvcg.2025.3616732
+    WHY UNSURE: immersive literature sensemaking; maybe citation network
+    FULLTEXT: fulltext/txt/R2-C14145.txt
+[R2-C14268] Spatially-Embedded Lens Visualization: A Design Space | arXiv (Cornell University) | 2025 | doi:10.48550/arxiv.2503.23441
+    WHY UNSURE: design space spatially-embedded lenses (I4?)
+    FULLTEXT: fulltext/txt/R2-C14268.txt
+[R2-C14362] Vitessce Link: A Mixed Reality and 2D Display Hybrid Approach for Visual Analysis of 3D Tissue Maps | arXiv.org | 2025 | doi:10.48550/arxiv.2511.04262
+    WHY UNSURE: MR + 2D hybrid tissue maps
+    FULLTEXT: fulltext/txt/R2-C14362.txt
+[R2-C14399] A Space-Agnostic Visual Game Analytics Tool with Adaptive Spatial Reconstruction for Mixed Reality Game Development | IEEE Conference on Games (CoG) | 2026 | doi:10.1109/cog67430.2026.11778644
+    WHY UNSURE: MR game analytics with spatial reconstruction
+    FULLTEXT: fulltext/txt/R2-C14399.txt
+[R2-C14563] GeoTEAM: A Geospatial Tangible User Interface for Exploration and Visual Analysis of Migration Data | arXiv (Cornell University) | 2026 | doi:10.48550/arxiv.2607.22825
+    WHY UNSURE: tangible geospatial UI for migration flows (I3?)
+    FULLTEXT: fulltext/txt/R2-C14563.txt
+[R2-C14653] muxvizpy: a Python library for the analysis of multilayer biological networks | arXiv (Cornell University) | 2026 | doi:10.48550/arxiv.2608.07344
+    WHY UNSURE: muxviz multilayer library; vis component? (I1)
+    FULLTEXT: fulltext/txt/R2-C14653.txt
+[R2-C14655] Navigating and Retrieving Information in Immersive Model-Based Design Reviews: An Exploratory Study | arXiv (Cornell University) | 2026 | doi:10.48550/arxiv.2608.20128
+    WHY UNSURE: immersive navigation of connected engineering models
+    FULLTEXT: fulltext/txt/R2-C14655.txt
+[R2b-C04262] The Personal Interaction Panel – a Two‐Handed Interface for Augmented Reality | Computer Graphics Forum | 1997 | doi:10.1111/1467-8659.16.3conferenceissue.35
+    WHY UNSURE: AR two-handed tangible panel interface; not vis-specific
+    FULLTEXT: fulltext/txt/R2b-C04262.txt
+[R2b-C10326] Augmenting the thermal flux experiment: A mixed reality approach with the HoloLens | The Physics Teacher | 2017 | doi:10.1119/1.4999739
+    WHY UNSURE: Thermal experiment MR; data abstraction unclear
+    FULLTEXT: fulltext/txt/R2b-C10326.txt
+[R2b-C12736] Identifying Usability Issues of Software Analytics Applications in Immersive Augmented Reality | IEEE Working Conference on Software Visualization (VISSOFT) | 2020 | doi:10.1109/vissoft51673.2020.00015
+    WHY UNSURE: Software analytics in immersive AR; check graph vis
+    FULLTEXT: fulltext/txt/R2b-C12736.txt
+[R2b-C14040] Designing a Topic-Based Literature Exploration Tool in AR - An exploratory study for neuroscience | IEEE International Symposium on Mixed and Augmented Reality  | 2022 | doi:10.1109/ismar-adjunct57072.2022.00099
+    WHY UNSURE: AR literature topic relation explorer; check graph vis
+    FULLTEXT: fulltext/txt/R2b-C14040.txt
+[R2b-C14842] GeoGraphViz: Geographically constrained 3D force‐directed graph for knowledge graph visualization | Transactions in GIS | 2023 | doi:10.1111/tgis.13053
+    WHY UNSURE: Geo-constrained 3D graph over map; possibly layered
+    FULLTEXT: fulltext/txt/R2b-C14842.txt
+[R2b-C14847] GPU-based, interactive exploration of large spatiotemporal climate networks | Chaos An Interdisciplinary Journal of Nonlinear Science | 2023 | doi:10.1063/5.0131933
+    WHY UNSURE: Large geo climate networks, multiple types; check layers
+    FULLTEXT: fulltext/txt/R2b-C14847.txt
+[R2b-C15014] Playing with Data: An Augmented Reality Approach to Interact with Visualizations of Industrial Process Tomography | Lecture notes in computer science | 2023 | doi:10.1007/978-3-031-42283-6_7
+    WHY UNSURE: AR interaction with tomography visualizations; check anchoring
+    FULLTEXT: fulltext/txt/R2b-C15014.txt
+[R2b-C15274] 3DStoryline: immersive visual storytelling | Journal of Visualization | 2024 | doi:10.1007/s12650-025-01058-5
+    WHY UNSURE: Immersive VR storyline (dynamic relations) visualization
+    FULLTEXT: fulltext/txt/R2b-C15274.txt
+[R2b-C15433] Collecting Information Needs for Egocentric Visualizations while Running | arXiv (Cornell University) | 2024 | doi:10.48550/arxiv.2409.06426
+    WHY UNSURE: Egocentric visualization while running; check AR situated
+    FULLTEXT: fulltext/txt/R2b-C15433.txt
+[R2b-C15809] Situated Visualization in Motion for Swimming | arXiv (Cornell University) | 2024 | doi:10.48550/arxiv.2409.07695
+    WHY UNSURE: Embedded vis in swimming video; AR unclear
+    FULLTEXT: fulltext/txt/R2b-C15809.txt
+[R3-C07431] Anchored Map: Graph Drawing Technique to Support Network Mining | IEICE Transactions on Information and Systems | 2008 | doi:10.1093/ietisy/e91-d.11.2599
+    WHY UNSURE: anchored map bipartite/network mining; two-mode/I5?
+    FULLTEXT: fulltext/txt/R3-C07431.txt
+[R3-C08827] Geometric Simultaneous Embeddings of a Graph and a Matching | Journal of Graph Algorithms and Applications | 2011 | doi:10.7155/jgaa.00218
+    WHY UNSURE: geometric simultaneous embedding theory; prior unsure
+    FULLTEXT: fulltext/txt/R3-C08827.txt
+[R3-C09811] Advancements on SEFE and Partitioned Book Embedding problems | Theor. Comput. Sci. | 2013 | doi:10.1016/j.tcs.2014.11.016
+    WHY UNSURE: SEFE of k graphs = multiplex drawing theory; check I1/I5
+    FULLTEXT: fulltext/txt/R3-C09811.txt
+[R3-C16221] ARviz: An Augmented Reality-Enabled Visualization Platform for ROS Applications | IEEE Robotics & Automation Magazine | 2021 | doi:10.1109/mra.2021.3135760
+    WHY UNSURE: ARviz ROS platform; robot data mostly spatial, some abstract
+    FULLTEXT: fulltext/txt/R3-C16221.txt
+[R3-C17009] An Empirical Evaluation of Asymmetric Synchronous Collaboration Combining Immersive and Non-Immersive Interfaces Within the Context of Immersive Analytics | Frontiers in Virtual Reality | 2022 | doi:10.3389/frvir.2021.743445
+    WHY UNSURE: Asymmetric immersive analytics collaboration; data type unclear
+    FULLTEXT: fulltext/txt/R3-C17009.txt
+[R3-C18613] Who Did What When? Discovering Complex Historical Interrelations in Immersive Virtual Reality | Proceedings - International Symposium on Mixed and Augmented | 2023 | doi:10.1109/ismar59233.2023.00027
+    WHY UNSURE: VR historical interrelations; check whether links/network drawn
+    FULLTEXT: fulltext/txt/R3-C18613.txt

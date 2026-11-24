@@ -1,0 +1,180 @@
+C05464|exclude|E3|
+C05465|exclude|E1|
+C05467|exclude|E5|
+C05471|exclude|E4|
+C05472|include|I1|Multi-modal (multi-type) social network visual mining
+C05475|exclude|E3|
+C05476|exclude|E4|
+C05477|exclude|E2|
+C05478|background|B|Survey of aligned (multi-network) biological network vis
+C05479|exclude|E2|
+C05483|exclude|E2|
+C05484|exclude|E3|
+C05485|exclude|E7|
+C05497|exclude|E5|
+C05505|exclude|E3|
+C05506|exclude|E3|
+C05509|exclude|E3|
+C05510|exclude|E3|
+C05511|exclude|E2|
+C05513|exclude|E3|
+C05515|exclude|E4|
+C05520|exclude|E3|
+C05521|exclude|E3|
+C05522|exclude|E3|
+C05524|exclude|E3|
+C05531|exclude|E4|
+C05535|exclude|E2|
+C05537|background|B|Review of physical data artifacts (physicalization)
+C05544|exclude|E3|
+C05545|exclude|E5|
+C05546|exclude|E3|
+C05550|unsure||Temporal diagram analysis in 3D configurable space; possible slices
+C05552|exclude|E2|
+C05555|include|I4|Flow visualization in AR controlled by real context
+C05556|exclude|E2|
+C05560|exclude|E2|
+C05564|exclude|E2|
+C05565|exclude|E2|
+C05566|exclude|E3|
+C05568|exclude|E3|
+C05581|exclude|E3|
+C05582|exclude|E5|
+C05584|exclude|E5|
+C05585|exclude|E3|
+C05588|exclude|E4|
+C05591|exclude|E1|
+C05593|exclude|E1|
+C05596|exclude|E3|
+C05600|exclude|E3|
+C05603|include|I4|Handheld AR of underground infrastructure, physically registered
+C05611|exclude|E3|
+C05612|exclude|E3|
+C05613|exclude|E3|
+C05614|include|I4|AR integrated with GIS for in-situ landscape vis
+C05615|exclude|E3|
+C05616|exclude|E4|
+C05618|exclude|E2|
+C05619|include|I5|Coordinated node-link + matrix representations; verify McGee
+C05620|exclude|E1|
+C05624|exclude|E7|
+C05630|exclude|E2|
+C05631|exclude|E2|
+C05632|exclude|E2|
+C05642|exclude|E1|
+C05645|exclude|E2|
+C05646|exclude|E3|
+C05647|exclude|E3|
+C05648|exclude|E1|
+C05649|exclude|E1|
+C05654|exclude|E3|
+C05663|exclude|E5|
+C05665|exclude|E3|
+C05669|exclude|E4|
+C05671|unsure||Wearable outdoor AR visualisations thesis; check publication/E5
+C05675|unsure||Mobile AR see-through vision of occluded objects
+C05680|exclude|E1|
+C05683|exclude|E2|
+C05688|exclude|E2|
+C05690|exclude|E2|
+C05696|exclude|E2|
+C05706|exclude|E4|
+C05707|exclude|E1|
+C05713|exclude|E4|
+C05714|unsure||AR/VR supervision of robot vehicles thesis; no abstract
+C05718|exclude|E4|
+C05722|exclude|E7|
+C05726|unsure||User study of mobile AR see-through vision
+C05733|include|I4|AR redlining of underground utility networks in situ
+C05739|exclude|E2|
+C05747|exclude|E3|
+C05748|exclude|E3|
+C05750|exclude|E2|
+C05751|unsure||Regulatory + metabolic networks integrated; possible two-layer
+C05755|exclude|E1|
+C05757|exclude|E2|
+C05759|include|I5|X-graphs of Y-graphs hybrid NL/matrix model; verify McGee
+C05760|exclude|E3|
+C05766|exclude|E5|
+C05769|exclude|E3|
+C05771|exclude|E3|
+C05772|exclude|E3|
+C05775|unsure||Multiple-aspects social network tool; possibly multi-relational
+C05779|exclude|E2|
+C05784|exclude|E3|
+C05785|exclude|E3|
+C05791|exclude|E3|
+C05792|exclude|E3|
+C05793|background|B|Outdoor AR annotation taxonomy/survey; no abstract
+C05795|exclude|E2|
+C05796|exclude|E2|
+C05799|exclude|E1|
+C05806|exclude|E3|
+C05809|exclude|E3|
+C05810|exclude|E3|
+C05812|exclude|E3|
+C05815|exclude|E1|
+C05817|exclude|E3|
+C05818|exclude|E1|
+C05819|exclude|E1|
+C05821|include|I4|AR visualization of virtual-real spatial relationships
+C05828|exclude|E2|
+C05834|exclude|E2|
+C05841|exclude|E2|
+C05843|exclude|E3|
+C05849|exclude|E5|
+C05851|exclude|E2|
+C05852|exclude|E2|
+C05854|include|I4|Explosion diagrams integrated into real scene in AR
+C05855|exclude|E3|
+C05856|exclude|E3|
+C05859|exclude|E2|
+C05860|exclude|E4|
+C05861|exclude|E3|
+C05863|exclude|E3|
+C05872|exclude|E3|
+C05873|exclude|E3|
+C05874|exclude|E3|
+C05875|exclude|E3|
+C05878|exclude|E5|
+C05880|exclude|E3|
+C05881|include|I4|AR x-ray vision with spatial depth cues
+C05885|exclude|E4|
+C05887|include|I4|Situated visualization interaction/presentation (thesis)
+C05888|exclude|E3|
+C05889|include|I4|Sensor data visualization in outdoor AR
+C05890|exclude|E4|
+C05893|exclude|E3|
+C05895|unsure||2.5D pathways in parallel planes; possible layered/multilayer
+C05900|exclude|E1|
+C05904|unsure||Matched drawability of graph pairs/triples (multiplex drawing theory)
+C05906|exclude|E3|
+C05907|unsure||3D tiered biological network layouts; possible layers
+C05908|exclude|E2|
+C05912|unsure||MultiPlane 3D multi-plane network framework; possible layered
+C05915|exclude|E2|
+C05918|exclude|E3|
+C05925|exclude|E2|
+C05927|exclude|E3|
+C05941|exclude|E3|
+C05942|exclude|E3|
+C05953|exclude|E3|
+C05955|exclude|E2|
+C05960|exclude|E2|
+C05961|exclude|E3|
+C05962|exclude|E3|
+C05963|exclude|E1|
+C05969|exclude|E2|
+C05972|exclude|E2|
+C05974|exclude|E2|
+C05975|exclude|E2|
+C05976|exclude|E2|
+C05977|exclude|E2|
+C05982|exclude|E3|
+C05985|exclude|E2|
+C05989|exclude|E3|
+C05995|unsure||Medical AR virtual mirror interaction; check physical anchoring
+C05999|exclude|E3|
+C06006|exclude|E3|
+C06007|exclude|E3|
+C06008|include|I1|Aligned biological networks of species (multi-network) vis

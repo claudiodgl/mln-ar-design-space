@@ -1,0 +1,150 @@
+R2-C06513|exclude|E3|
+R2-C06514|exclude|E6|truncated duplicate of C06678
+R2-C06516|unsure|U|tangible tabletop with stream-linked tokens; check if graph/physical
+R2-C06517|unsure|U|bio network tool; Medusa supports multi-edge types
+R2-C06520|exclude|E3|
+R2-C06522|exclude|E2|
+R2-C06526|exclude|E3|
+R2-C06527|exclude|E2|
+R2-C06531|exclude|E3|
+R2-C06534|exclude|E1|
+R2-C06538|exclude|E4|
+R2-C06539|exclude|E4|
+R2-C06540|exclude|E1|
+R2-C06541|exclude|E6|conference version superseded by C07352
+R2-C06542|exclude|E3|
+R2-C06543|exclude|E5|
+R2-C06548|include|I5|OntoTrix hybrid node-link/matrix representation
+R2-C06549|exclude|E3|
+R2-C06556|include|I1|parallel edge splatting: time slices juxtaposed side by side
+R2-C06563|exclude|E3|
+R2-C06579|include|I1|RDF multi-relational graph as 3D adjacency matrix
+R2-C06585|exclude|E1|
+R2-C06586|exclude|E2|
+R2-C06589|exclude|E2|
+R2-C06591|exclude|E1|
+R2-C06594|exclude|E3|
+R2-C06596|exclude|E2|
+R2-C06597|unsure|U|social AR sensor visualization; no abstract, maybe situated
+R2-C06599|exclude|E1|
+R2-C06600|exclude|E3|
+R2-C06602|unsure|U|SolarMap multi-relational faceted corpora; check graph representation
+R2-C06610|exclude|E1|
+R2-C06611|exclude|E1|
+R2-C06612|exclude|E1|
+R2-C06615|exclude|E4|
+R2-C06621|exclude|E2|
+R2-C06623|exclude|E3|
+R2-C06629|unsure|U|AR data visualisation design in presentations; check spatial context
+R2-C06630|exclude|E1|
+R2-C06632|exclude|E1|
+R2-C06637|unsure|U|time spring layout places time slices along axis
+R2-C06639|exclude|E3|
+R2-C06641|exclude|E1|
+R2-C06646|exclude|E4|
+R2-C06651|exclude|E2|
+R2-C06653|exclude|E1|
+R2-C06656|exclude|E2|
+R2-C06659|exclude|E3|
+R2-C06660|exclude|E4|
+R2-C06661|exclude|E4|
+R2-C06662|exclude|E2|
+R2-C06666|exclude|E3|
+R2-C06668|exclude|E3|
+R2-C06669|exclude|E3|
+R2-C06671|exclude|E3|
+R2-C06672|include|I4|outdoor AR corrosion sensor data in real-world context
+R2-C06673|exclude|E7|
+R2-C06674|include|I2|EVANS AR visualization of wireless network connectivity in space
+R2-C06675|exclude|E3|
+R2-C06676|exclude|E7|
+R2-C06677|exclude|E6|preprint of C06678
+R2-C06678|unsure|U|longitudinal network vis; check for juxtaposed snapshots
+R2-C06679|exclude|E3|
+R2-C06680|exclude|E2|
+R2-C06681|background|B|book chapter surveying AR visualization techniques
+R2-C06684|exclude|E3|
+R2-C06685|exclude|E2|
+R2-C06686|exclude|E3|
+R2-C06688|unsure|U|EdgeMaps: explicit+implicit relation types together
+R2-C06689|unsure|U|AR prototype for pipeline sensor data; no abstract
+R2-C06690|exclude|E4|
+R2-C06691|exclude|E4|
+R2-C06692|include|I1|multiple edge types shown in small multiples
+R2-C06694|exclude|E2|
+R2-C06695|exclude|E2|
+R2-C06713|exclude|E1|
+R2-C06714|exclude|E1|
+R2-C06715|exclude|E1|
+R2-C06716|unsure|U|3D temporal blog-user activity vis; maybe stacked slices
+R2-C06719|exclude|E2|
+R2-C06720|exclude|E2|
+R2-C06724|exclude|E1|
+R2-C06725|exclude|E2|
+R2-C06730|exclude|E4|
+R2-C06737|exclude|E3|
+R2-C06738|exclude|E3|
+R2-C06739|exclude|E3|
+R2-C06740|unsure|U|VR visual mining of association rules; maybe graph-based
+R2-C06741|exclude|E3|
+R2-C06743|unsure|U|cross-database comparison of metabolic networks; maybe layered
+R2-C06745|exclude|E2|
+R2-C06747|exclude|E3|
+R2-C06749|exclude|E7|
+R2-C06752|exclude|E2|
+R2-C06754|exclude|E2|
+R2-C06755|unsure|U|graph comparison node-link vs matrix, combined views
+R2-C06759|exclude|E1|
+R2-C06764|exclude|E3|
+R2-C06768|include|I1|Arena3D stacked 3D layers for biological networks over time
+R2-C06770|exclude|E1|
+R2-C06773|exclude|E3|
+R2-C06774|exclude|E1|
+R2-C06781|exclude|E2|
+R2-C06789|exclude|E2|
+R2-C06793|exclude|E3|
+R2-C06796|exclude|E3|
+R2-C06798|include|I4|GIS data visualized in AR (situated); no abstract
+R2-C06799|exclude|E3|
+R2-C06805|exclude|E3|
+R2-C06810|exclude|E1|
+R2-C06812|exclude|E2|
+R2-C06817|exclude|E1|
+R2-C06826|exclude|E2|
+R2-C06839|exclude|E3|
+R2-C06844|exclude|E2|
+R2-C06848|exclude|E1|
+R2-C06851|exclude|E3|
+R2-C06854|exclude|E3|
+R2-C06856|include|I4|overview techniques for outdoor AR site data
+R2-C06857|exclude|E1|
+R2-C06858|exclude|E1|
+R2-C06863|exclude|E3|
+R2-C06864|exclude|E3|
+R2-C06865|exclude|E3|
+R2-C06873|exclude|E1|
+R2-C06878|exclude|E2|
+R2-C06880|exclude|E7|
+R2-C06881|exclude|E3|
+R2-C06882|exclude|E3|
+R2-C06883|include|I4|spatial AR projection onto car body for inspection
+R2-C06885|exclude|E2|
+R2-C06894|include|I4|on-site AR visualization of 4D time-oriented data
+R2-C06899|exclude|E7|
+R2-C06900|exclude|E3|
+R2-C06901|exclude|E2|
+R2-C06902|exclude|E2|
+R2-C06903|exclude|E3|
+R2-C06906|exclude|E2|
+R2-C06907|exclude|E2|
+R2-C06918|exclude|E4|
+R2-C06921|exclude|E4|
+R2-C06925|exclude|E1|
+R2-C06926|exclude|E1|
+R2-C06927|unsure|U|mobile AR environmental monitoring; no abstract, likely situated
+R2-C06928|exclude|E1|
+R2-C06930|exclude|E1|
+R2-C06931|exclude|E3|
+R2-C06932|exclude|E2|
+R2-C06933|exclude|E2|
+R2-C06939|exclude|E3|

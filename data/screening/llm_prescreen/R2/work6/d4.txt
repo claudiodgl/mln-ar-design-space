@@ -1,0 +1,125 @@
+R2-C11752|exclude|E2|
+R2-C11754|exclude|E2|
+R2-C11756|exclude|E2|
+R2-C11757|background|B|Chapter reviewing tools (incl. vis) for multilayer networks
+R2-C11758|exclude|E1|
+R2-C11759|exclude|E1|
+R2-C11763|unsure||DatAR AR literature relations; likely AR node-link of concepts
+R2-C11764|exclude|E2|
+R2-C11765|exclude|E2|
+R2-C11769|exclude|E1|
+R2-C11771|exclude|E1|
+R2-C11774|exclude|E1|
+R2-C11775|exclude|E2|
+R2-C11780|exclude|E2|
+R2-C11786|unsure||AR city digital twin control tower; check spatial anchoring
+R2-C11790|exclude|E2|
+R2-C11791|exclude|E3|
+R2-C11795|exclude|E2|
+R2-C11797|exclude|E1|
+R2-C11798|exclude|E2|
+R2-C11799|exclude|E3|
+R2-C11800|exclude|E3|
+R2-C11801|exclude|E3|
+R2-C11803|exclude|E1|
+R2-C11804|exclude|E3|
+R2-C11806|exclude|E2|
+R2-C11808|exclude|E5|
+R2-C11811|exclude|E3|
+R2-C11814|exclude|E2|
+R2-C11823|exclude|E4|
+R2-C11826|exclude|E2|
+R2-C11828|exclude|E1|
+R2-C11830|exclude|E2|
+R2-C11833|exclude|E4|
+R2-C11835|exclude|E1|
+R2-C11837|exclude|E1|
+R2-C11842|exclude|E2|
+R2-C11844|exclude|E3|
+R2-C11845|exclude|E7|
+R2-C11846|exclude|E1|
+R2-C11847|exclude|E4|
+R2-C11856|exclude|E2|
+R2-C11857|exclude|E3|
+R2-C11859|include|I4|AR labeling of out-of-view physical objects, situated search
+R2-C11861|exclude|E1|
+R2-C11864|exclude|E1|
+R2-C11865|exclude|E2|
+R2-C11868|exclude|E1|
+R2-C11871|exclude|E3|
+R2-C11876|exclude|E1|
+R2-C11878|exclude|E2|
+R2-C11880|include|I4|MR toolkit for in-situ vis of spatial interaction data
+R2-C11884|include|I4|Mobile AR indoor map geo-visualization in context
+R2-C11885|exclude|E5|
+R2-C11889|unsure||MR coordinated multiple views; no abstract, may be AR
+R2-C11891|include|I4|Multi-touch querying on physicalizations in immersive AR
+R2-C11892|exclude|E1|
+R2-C11893|exclude|E1|
+R2-C11894|exclude|E1|
+R2-C11895|exclude|E1|
+R2-C11896|exclude|E1|
+R2-C11899|exclude|E1|
+R2-C11900|exclude|E1|
+R2-C11902|exclude|E1|
+R2-C11903|include|I1|muxViz multilayer network vis package (software citation)
+R2-C11904|include|I1|Multilayered graph (bipartite + trees) visual exploration
+R2-C11905|unsure||Multi-view brain network comparison; multiple networks as layers?
+R2-C11906|exclude|E2|
+R2-C11908|exclude|E1|
+R2-C11911|exclude|E2|
+R2-C11916|exclude|E4|
+R2-C11918|exclude|E1|
+R2-C11922|exclude|E2|
+R2-C11925|exclude|E5|
+R2-C11926|exclude|E5|
+R2-C11929|exclude|E3|
+R2-C11933|exclude|E2|
+R2-C11935|exclude|E2|
+R2-C11939|exclude|E3|
+R2-C11946|exclude|E2|
+R2-C11947|include|I4|AR depth cues for buried network objects under ground
+R2-C11948|exclude|E7|
+R2-C11955|exclude|E2|
+R2-C11958|exclude|E3|
+R2-C11959|exclude|E2|
+R2-C11960|exclude|E3|
+R2-C11963|include|I4|AR reconstruction of printed charts in real world
+R2-C11964|exclude|E5|
+R2-C11975|exclude|E1|
+R2-C11978|background|B|Systematic review of AR sailing data visualization
+R2-C11983|exclude|E2|
+R2-C11985|exclude|E2|
+R2-C11989|exclude|E3|
+R2-C11990|exclude|E1|
+R2-C11991|include|I1|Simultaneous matrix orderings for collections of graphs
+R2-C11993|exclude|E3|
+R2-C12002|exclude|E4|
+R2-C12003|exclude|E3|
+R2-C12005|exclude|E2|
+R2-C12007|exclude|E1|
+R2-C12008|background|B|Position/design space: superpowers inspiring vis
+R2-C12011|exclude|E2|
+R2-C12025|exclude|E2|
+R2-C12028|exclude|E1|
+R2-C12032|exclude|E1|
+R2-C12033|exclude|E1|
+R2-C12035|exclude|E2|
+R2-C12037|exclude|E1|
+R2-C12044|exclude|E3|
+R2-C12046|exclude|E2|
+R2-C12048|exclude|E3|
+R2-C12050|exclude|E2|
+R2-C12052|exclude|E4|
+R2-C12059|include|I4|In-situ authoring of AR visualizations with mobile devices
+R2-C12065|exclude|E3|
+R2-C12066|exclude|E7|
+R2-C12068|exclude|E1|
+R2-C12072|exclude|E2|
+R2-C12074|exclude|E1|
+R2-C12075|exclude|E1|
+R2-C12076|exclude|E2|
+R2-C12077|exclude|E2|
+R2-C12081|unsure||3D force graph library with VR/AR modes; software repo
+R2-C12082|exclude|E6|
+R2-C12083|exclude|E2|

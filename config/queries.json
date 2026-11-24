@@ -1,0 +1,351 @@
+{
+ "_comment": "Concept blocks (OR-ed terms) and queries (AND-ed groups of blocks). Rendered per source by scripts/querybuild.py. Every executed version is recorded in raw/run_log.jsonl and summarised in query_log.md; when a block or query changes, bump the version of every affected query.",
+ "blocks": {
+  "NET": [
+   "network",
+   "networks",
+   "graph",
+   "graphs"
+  ],
+  "MLNP": [
+   "multilayer network",
+   "multilayer networks",
+   "multi-layer network",
+   "multi-layer networks",
+   "multilayered network",
+   "multilayered networks",
+   "multilayer graph",
+   "multilayer graphs",
+   "multi-layer graph",
+   "multiplex network",
+   "multiplex networks",
+   "multiplex graph",
+   "multi-relational network",
+   "multi-relational graph",
+   "multirelational network"
+  ],
+  "DYN": [
+   "dynamic network",
+   "dynamic networks",
+   "dynamic graph",
+   "dynamic graphs",
+   "temporal network",
+   "temporal networks",
+   "temporal graph",
+   "temporal graphs",
+   "time-varying network",
+   "evolving network"
+  ],
+  "IMM": [
+   "augmented reality",
+   "mixed reality",
+   "virtual reality",
+   "extended reality",
+   "immersive",
+   "head-mounted",
+   "HoloLens"
+  ],
+  "AR": [
+   "augmented reality",
+   "mixed reality",
+   "HoloLens"
+  ],
+  "PHYSX": [
+   "physicalization",
+   "physicalisation",
+   "physical visualization",
+   "physical visualisation"
+  ],
+  "TANG": [
+   "tangible",
+   "3D printed",
+   "3D printing"
+  ],
+  "THREED": [
+   "3D",
+   "three-dimensional",
+   "2.5D",
+   "stereoscopic"
+  ],
+  "NETVIS": [
+   "network visualization",
+   "network visualisation",
+   "graph visualization",
+   "graph visualisation",
+   "network analysis",
+   "graph analysis",
+   "node-link",
+   "graph drawing",
+   "network data",
+   "graph data",
+   "network exploration",
+   "graph exploration"
+  ],
+  "VIS": [
+   "visualization",
+   "visualisation",
+   "visual analytics",
+   "visual analysis",
+   "visualizing",
+   "visualising"
+  ],
+  "DS": [
+   "design space",
+   "design spaces"
+  ],
+  "MLN": [
+   "multilayer",
+   "multi-layer",
+   "multilayered",
+   "multi-layered",
+   "multiplex",
+   "multi-relational",
+   "multirelational"
+  ],
+  "IMMS": [
+   "VR",
+   "AR",
+   "XR",
+   "MR"
+  ],
+  "MAT": [
+   "matrix",
+   "matrices",
+   "adjacency matrix",
+   "hybrid representation",
+   "hybrid visualization",
+   "hybrid visualisation",
+   "node-link"
+  ],
+  "TOUCH": [
+   "tangible",
+   "touch",
+   "physical object",
+   "physical objects",
+   "physical referent",
+   "physical referents",
+   "handheld"
+  ]
+ },
+ "queries": [
+  {
+   "id": "Q1",
+   "version": "v4",
+   "label": "MLN visualization",
+   "groups": [
+    [
+     "MLNP"
+    ],
+    [
+     "VIS"
+    ]
+   ],
+   "dblp_groups": [
+    [
+     "MLN"
+    ],
+    [
+     "NET"
+    ]
+   ],
+   "_changelog": " | version bumped for DBLP title-only groups and EGDL word-AND rendering (OpenAlex/S2/arXiv strings unchanged) | v4: removed \"network of networks\" and \"interdependent networks\" from MLNP (stop-word noise in EGDL: 656 hits; complex-systems terms not used for visualization)"
+  },
+  {
+   "id": "Q2",
+   "version": "v3",
+   "label": "Immersive network visualization",
+   "groups": [
+    [
+     "IMM"
+    ],
+    [
+     "NETVIS"
+    ]
+   ],
+   "dblp_groups": [
+    [
+     "IMM",
+     "IMMS"
+    ],
+    [
+     "NET"
+    ]
+   ],
+   "_changelog": " | version bumped for DBLP title-only groups and EGDL word-AND rendering (OpenAlex/S2/arXiv strings unchanged)"
+  },
+  {
+   "id": "Q3",
+   "version": "v4",
+   "label": "Network physicalization",
+   "groups": [
+    [
+     "PHYSX"
+    ],
+    [
+     "NET"
+    ]
+   ],
+   "openalex_field": "title_and_abstract.search.exact",
+   "_note": "v2 with stemmed OpenAlex search returned 393,434 hits because physicalization is stemmed to physic*; v3 uses the unstemmed field in OpenAlex only",
+   "dblp_groups": [
+    [
+     "PHYSX"
+    ],
+    [
+     "NET"
+    ]
+   ],
+   "_changelog": " | version bumped for DBLP title-only groups and EGDL word-AND rendering (OpenAlex/S2/arXiv strings unchanged) | Semantic Scholar excluded for Q3: its bulk search stems physicalization -> physic* even inside quotes (319,095 hits) | arXiv excluded for Q3: arXiv search stems physicalization as well (32,941 hits)",
+   "sources": [
+    "openalex",
+    "egdl",
+    "dblp",
+    "ieee",
+    "acm"
+   ]
+  },
+  {
+   "id": "Q3b",
+   "version": "v3",
+   "label": "Tangible network visualization",
+   "groups": [
+    [
+     "TANG"
+    ],
+    [
+     "NETVIS"
+    ]
+   ],
+   "dblp_groups": [
+    [
+     "TANG"
+    ],
+    [
+     "NET"
+    ]
+   ],
+   "_changelog": " | version bumped for DBLP title-only groups and EGDL word-AND rendering (OpenAlex/S2/arXiv strings unchanged) | RETIRED after v3: 0 benchmark works not already found by Q3; random sample of 12 OpenAlex hits contained no relevant work (stemmed search matched unrelated social-network/ANN papers); kept in log",
+   "sources": [],
+   "retired": true
+  },
+  {
+   "id": "Q4",
+   "version": "v2",
+   "label": "Dynamic networks in 3D/immersive/physical form",
+   "groups": [
+    [
+     "DYN"
+    ],
+    [
+     "THREED",
+     "IMM",
+     "PHYSX",
+     "TANG"
+    ],
+    [
+     "VIS"
+    ]
+   ],
+   "dblp_groups": [
+    [
+     "DYN"
+    ],
+    [
+     "THREED",
+     "IMM",
+     "IMMS",
+     "PHYSX",
+     "TANG"
+    ]
+   ],
+   "_changelog": " | version bumped for DBLP title-only groups and EGDL word-AND rendering (OpenAlex/S2/arXiv strings unchanged)"
+  },
+  {
+   "id": "Q5",
+   "version": "v2",
+   "label": "Design spaces for AR/MR visualization",
+   "groups": [
+    [
+     "AR"
+    ],
+    [
+     "DS"
+    ],
+    [
+     "VIS"
+    ]
+   ],
+   "dblp_groups": [
+    [
+     "AR",
+     "IMMS"
+    ],
+    [
+     "DS"
+    ]
+   ],
+   "_changelog": " | version bumped for DBLP title-only groups and EGDL word-AND rendering (OpenAlex/S2/arXiv strings unchanged)"
+  },
+  {
+   "id": "Q6",
+   "version": "v2",
+   "label": "Matrix/hybrid representations of multilayer or dynamic networks",
+   "groups": [
+    [
+     "MLNP",
+     "DYN"
+    ],
+    [
+     "MAT"
+    ],
+    [
+     "VIS"
+    ]
+   ],
+   "dblp_groups": [
+    [
+     "MLN",
+     "DYN"
+    ],
+    [
+     "MAT"
+    ]
+   ],
+   "_changelog": " | v2: MLNP change as Q1 v4"
+  },
+  {
+   "id": "Q7",
+   "version": "v2",
+   "label": "Tangible/touch/physical-object interaction for AR visualization (any data)",
+   "groups": [
+    [
+     "AR"
+    ],
+    [
+     "TOUCH"
+    ],
+    [
+     "VIS"
+    ]
+   ],
+   "dblp_groups": [
+    [
+     "AR"
+    ],
+    [
+     "TOUCH"
+    ]
+   ],
+   "sources": [
+    "dblp",
+    "egdl",
+    "ieee",
+    "acm"
+   ],
+   "venue_restricted": true,
+   "_changelog": " | v2: restricted to visualization/HCI/XR venues (DBLP venue list; EGDL; ACM/IEEE with publication filter) because the unrestricted OpenAlex run (v1) returned 966 hits, mostly AR applications outside visualization (random sample of 12)"
+  }
+ ],
+ "_dblp_note": "DBLP is searched on titles only, restricted to visualization/HCI/VR venues; the VIS group is therefore dropped and single-word stems are used (dblp_groups).",
+ "_egdl_note": "EGDL (DSpace/Solr) phrase queries on dc.description.abstract returned almost nothing (2 hits for \"multilayer network\" vs 25 for multilayer AND network), so multi-word terms are rendered as AND of their words within the same field."
+}

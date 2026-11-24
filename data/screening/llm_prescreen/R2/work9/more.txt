@@ -1,0 +1,102 @@
+387 [R2b-C14719] DatAR: Comparing Relationships between Brain Regions and Diseases: 
+   euroscientists and nine visualization experts who
+
+347 [R2b-C14040] Designing a Topic-Based Literature Exploration Tool in AR - An expl
+   lves rather than individual articles, can provide
+
+392 [R2b-C14842] GeoGraphViz: Geographically constrained 3D force‐directed graph for
+   covering hidden knowledge discovering, and better
+
+508 [R2b-C16608] Visualizing Communities in Dynamic Multivariate Networks | SIBGRAPI
+   mplex systems with multiple attributes: the Dynami
+
+511 [R2b-C16642] 3DBrainMiner: An open-source platform for modelling and visualizing
+   tworks, have demonstrated improved performance ove
+
+454 [R2b-C15746] PhosNetVis: A web-based tool for fast kinase-substrate enrichment a
+   ubstrate interactions (KSIs) are not optimized to
+
+242 [R2b-C11539] Using OmicsNet for Network Integration and 3D Visualization | Curre
+   lti-omics integration and systems biology. This ar
+
+107 [R2b-C06591] NAViGaTOR: Network Analysis, Visualization and Graphing Toronto | B
+   OR supports community-developed data formats (PSI-
+
+322 [R2b-C13556] Multi-Window Web Browser with History Tree Visualization for Virtua
+   em. We then found that our system reduces the brow
+
+432 [R2b-C15478] Designing a System-Centered View to Microservices Using Service Dep
+   of the system as a whole. Without a system-centric
+
+446 [R2b-C15650] Is the 3D model the way to go when presenting microservice architec
+   The advancement in the areas of virtual and augmen
+
+393 [R2b-C14847] GPU-based, interactive exploration of large spatiotemporal climate 
+   ion edges and the manifold types of such networks.
+
+58 [R2b-C04483] Arbor 3D: an interactive environment for examining phylogenetic and
+   view an entire data set in a single screen. Interr
+
+230 [R2b-C11291] IslandViz: A Tool for Visualizing Modular Software Systems in Virtu
+   irst overview about the complexity of an OSGi-base
+
+302 [R2b-C13057] Towards Collaborative and Dynamic Software Visualization in VR | VI
+   h as call traces of microservice based systems. Us
+
+303 [R2b-C13066] Towards visualization of evolution of component-based software arch
+   or now, the history of an architecture is not take
+
+413 [R2b-C15274] 3DStoryline: immersive visual storytelling | Journal of Visualizati
+   s, often struggle to effectively represent complex
+
+535 [R2b-C17100] The Choreography of Augmented Reality Timelines: Studying the Relat
+   f how historical and personal timelines could mani
+
+509 [R2b-C16623] Walking Through Time: A Hybrid Immersive System for Spatial and Exp
+   sketching, annotation, and sculpting of timeline s
+
+262 [R2b-C11958] Holographic Reconstruction of Axonal Pathways in the Human Brain | 
+   raphic visualization platforms provide a new mediu
+
+279 [R2b-C12486] Augmented reality for the virtual dissection of white matter pathwa
+   n courses and in vivo tractography. METHODS: Fifte
+
+175 [R2b-C09397] PathwayMatrix: visualizing binary relationships between proteins in
+   ations between proteins in the pathway via the use
+
+140 [R2b-C08427] Visualizing Fuzzy Overlapping Communities in Networks | IEEE Transa
+   time, i.e., communities can overlap. Analyzing fuz
+
+445 [R2b-C15648] IoT-driven augmented reality and virtual reality systems in neurolo
+   
+
+444 [R2b-C15635] Interaction avec une Maquette Phygitale : Techniques de Sélection M
+   lisent un casque de réalité augmentée, les utilisa
+
+---UNMATCHED
+51 [R2b-C04168] Visualizing the global topology of the MBone | IEEE Symposium on Information Visualizat :: We present a case study of visualizing the global topology of the Internet MBone. The MBone is the Internet's multicast backbone. Multicast is the mos
+57 [R2b-C04435] Ten myths of multimodal interaction | Communications of the ACM | 1999 :: The ability to develop future multimodal systems depends on knowledge of the natural integration patterns that typify people's combined use of differe
+66 [R2b-C05059] Software visualization in software maintenance, reverse engineering, and re‐engineering :: Software visualization is concerned with the static visualization as well as the animation of software artifacts, such as source code, executable prog
+111 [R2b-C06924] Off-screen visualization techniques for class diagrams | ACM Symposium on Software Visu :: Visual representations of node-link diagrams are very important for the software development process. In many situations large diagrams - probably con
+132 [R2b-C08166] Integrative Analysis of Complex Cancer Genomics and Clinical Profiles Using the cBioPor :: The cBioPortal enables integration, visualization, and analysis of multidimensional cancer genomic and clinical data. The cBioPortal for Cancer Genomi
+158 [R2b-C08993] Visualizing Time-Dependent Variables of Water Distribution Systems | IEEE Pacific Visua :: Providing sustainable urban water distribution systems is a complex process involving decision makers and authorities as well as the public opinion. I
+173 [R2b-C09325] LayMan: A Visual Interactive Tool to Support Failure Analysis in Embedded Systems |  |  :: In embedded systems domain, Component Fault Tree (CFT) is one of the most common techniques used by experts to model failure scenarios, which depict a
+184 [R2b-C09788] Enabling interactive scientific data visualization and analysis with see-through hmds a :: Validation and exploration of the data generated by large-scale scientific simulations rely on sophisticated visualization and analysis tasks. With th
+195 [R2b-C10337] Big Data Visualizations in Organizational Science | Organizational Research Methods | 2 :: Visualizations in organizational research have primarily been used in the context of traditional survey data, where individual data points (e.g., resp
+297 [R2b-C12931] Research on Intelligent Water Environment Data Monitoring and Visual Analysis based on  :: Intelligent water environment data monitoring and visual analysis based on IoT is studied in this paper. When carrying out the environmental pollution
+335 [R2b-C13891] Adapting visualizations and interfaces to the user | it - Information Technology | 2022 :: Abstract Adaptive visualization and interfaces pervade our everyday tasks to improve interaction from the point of view of user performance and experi
+345 [R2b-C14017] CYBERNETIC SECURITY OF ALTERNATIVE OFFLINE NAVIGATION FROM THE STANDPOINT OF SPLINE TEC :: The issues of cybernetic security are considered in the aspect of effective proposals of alternatives to the satellite system in order to be able to p
+363 [R2b-C14349] Scalable Collaborative Software Visualization as a Service: Short Industry and Experien :: Software visualizations are used by software developers, for instance, for program comprehension. In this context, a less researched aspect is the col
+366 [R2b-C14382] Student Research Abstract: Microservices-based Systems Visualization | ACM Symposium on :: The evolution of decentralized microservice-based systems is challenging. These challenges are classified into static and dynamic categories. Regardin
+420 [R2b-C15368] Area-adaptive Drawing of Rooted Trees | IEEE Pacific Visualization Conference (PacificV :: When visually representing a rooted tree, a hierarchical drawing, a type of monotone drawing, is often used. In a layout where nodes with the same lev
+434 [R2b-C15490] Digital visualization in graduate transport phenomena | Computer Applications in Engine :: The use of contour flood plots and color digital movies is investigated for teaching fluid mechanics, heat transfer, and mass transfer at the first‐ye
+451 [R2b-C15719] Navigating Data Streams Using Advanced Data Analysis And Visualization Techniques | Adv :: Big data has not only exacerbated but in some cases created un-imaginable challenges for enterprises in terms of getting a grip of the tidal wave of d
+473 [R2b-C16081] Brand Localization versus Globalization: A Comparative Analysis of Adaptation Strategie :: This study examines the strategic tension between brand localization and globalization in contemporary international marketing. As firms expand beyond
+476 [R2b-C16115] Contribution of Data Visualization to Decision-Making: A Classification of Data Visuali :: Data visualization is a critical tool for supporting decision-making across various domains. However, its effectiveness in addressing various decision
+477 [R2b-C16162] Editorial: Contribution of artificial intelligence-based tools to the study of Parkinso :: Parkinson’s disease is the second most frequent neurodegenerative disorder, affecting about 1% of adults over 60 worldwide. Other movement disorders l
+494 [R2b-C16354] ME4PD: A Multi-Modal and Dynamically Extensible System for Problem Frame Construction | :: In software development, requirements analysis is critical to project success. The Problem Framework (PF) is a mainstream requirements analysis method
+501 [R2b-C16534] The Joy of Co-Painting: Creative Human-AI Collaboration for Traceable Image-Generation  :: Image-generative models have gained popularity over the last years with their ability to create realistic artwork. Realizing complex artworks with spe
+517 [R2b-C16714] Beyond dashboards: Promoting urban data visualization for citizens | International Conf :: Despite the abundance of publicly available urban data, most of it remains inaccessible to the average citizen due to technical complexity and lack of
+518 [R2b-C16738] Channels and Substrates: Distributed Cognition as an Interaction Model for Ubiquitous A :: Traditional HCI interaction models assume a single monolithic interface and a stable sensorimotor loop. These models fit poorly with cross-device (XVA
+519 [R2b-C16747] ClusterChirp: Scalable Interactive Exploration of Omics Data with Natural Language-Guid :: High-dimensional omics datasets are routinely visualized as heatmaps, where color intensities reveal co-expression patterns and correlations. However,
+536 [R2b-C17124] Towards Live Refactoring of Microservices Architectures | Portuguese National Funding A :: Na engenharia de software contemporânea, a orquestração arquitetural é reconhecida como sendo tão crítica quanto a implementação de sistemas.Impulsion

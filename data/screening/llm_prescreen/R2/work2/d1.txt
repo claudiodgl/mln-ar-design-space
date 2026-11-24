@@ -1,0 +1,185 @@
+C04807|exclude|E3|
+C04810|exclude|E3|
+C04811|unsure||3D graph vis system; check stereo/layered support
+C04819|exclude|E2|
+C04820|exclude|E2|
+C04823|exclude|E3|
+C04827|exclude|E3|
+C04829|exclude|E2|
+C04831|exclude|E1|
+C04833|exclude|E2|
+C04836|exclude|E2|
+C04837|unsure||AR display for UAV missions; possibly situated data vis
+C04838|exclude|E3|
+C04839|exclude|E2|
+C04846|exclude|E3|
+C04848|include|I4|Outdoor AR of GIS data registered on vineyard
+C04850|exclude|E3|
+C04855|exclude|E1|
+C04858|unsure||Collaborative MR archaeology dig vis; check AR anchoring
+C04859|exclude|E1|
+C04862|exclude|E3|
+C04867|unsure||Hybrid AR 2D/3D gestural interaction; check spatial context
+C04871|exclude|E3|
+C04872|unsure||2.5D drawing of AS graph; check layered planes
+C04874|exclude|E4|
+C04878|exclude|E3|
+C04880|include|I5|Hybrid node-link/treemap; verify McGee survey citation
+C04887|exclude|E2|
+C04889|exclude|E2|
+C04893|unsure||Hybrid treemap/graph representation; possible I5
+C04894|exclude|E3|
+C04901|exclude|E3|
+C04903|exclude|E1|
+C04904|exclude|E1|
+C04911|exclude|E1|
+C04918|exclude|E3|
+C04919|exclude|E3|
+C04920|exclude|E5|
+C04923|exclude|E2|
+C04925|exclude|E1|
+C04930|exclude|E2|
+C04938|exclude|E2|
+C04939|include|I4|AR on physical paper maps; physical anchoring
+C04943|exclude|E3|
+C04946|exclude|E3|
+C04949|exclude|E3|
+C04956|exclude|E1|
+C04957|exclude|E3|
+C04960|exclude|E2|
+C04961|unsure||Outdoor MR see-through with surveillance cameras; spatial context
+C04962|exclude|E2|
+C04972|exclude|E5|
+C04974|exclude|E2|
+C04977|unsure||AR video annotations; possible physical anchoring
+C04987|unsure||Simultaneous embedding of multiple graphs on shared vertices
+C04989|exclude|E3|
+C04993|exclude|E2|
+C04994|exclude|E2|
+C05002|exclude|E3|
+C05004|include|I4|Tangible molecular models with AR overlay
+C05005|unsure||Tangible tabletop remote collaboration; vis role unclear
+C05006|exclude|E2|
+C05009|exclude|E4|
+C05011|exclude|E4|
+C05013|exclude|E1|
+C05017|exclude|E3|
+C05018|exclude|E1|
+C05028|exclude|E1|
+C05032|exclude|E3|
+C05039|exclude|E2|
+C05042|exclude|E3|
+C05044|include|I4|Outdoor AR of construction simulation registered on site
+C05045|exclude|E3|
+C05046|exclude|E2|
+C05049|exclude|E2|
+C05050|exclude|E3|
+C05057|exclude|E2|
+C05058|unsure||AR infovis environment with markers; check tangible input
+C05061|include|I1|Dynamic graphs as 2.5D stacked time slices
+C05065|exclude|E3|
+C05066|include|I4|Handheld AR situated sensor-network data
+C05076|exclude|E4|
+C05080|exclude|E3|
+C05083|exclude|E3|
+C05084|exclude|E1|
+C05088|exclude|E2|
+C05091|exclude|E1|
+C05097|unsure||Clustered graphs drawn on 3D planes; possible layered
+C05101|exclude|E2|
+C05103|exclude|E3|
+C05115|exclude|E3|
+C05119|unsure||ONDEX integrated multi-relational biological graph vis
+C05121|exclude|E3|
+C05123|unsure||Directed graphs layered in parallel 3D planes
+C05126|exclude|E4|
+C05132|unsure||Outdoor AR + tabletop collaboration; situational info vis
+C05133|exclude|E2|
+C05136|exclude|E1|
+C05143|exclude|E3|
+C05145|exclude|E3|
+C05152|exclude|E2|
+C05154|exclude|E3|
+C05155|include|I5|Dual node-link/matrix representation; verify McGee citation
+C05157|exclude|E4|
+C05159|exclude|E4|
+C05162|exclude|E1|
+C05165|exclude|E5|
+C05168|exclude|E3|
+C05170|unsure||AR infovis prototype; check tangible markers (dup of C05241?)
+C05171|unsure||MultiPlane 3D multi-plane graph drawing; possible layered
+C05173|unsure||Content-actor (two-type) network vis; possibly multi-relational
+C05175|exclude|E3|
+C05176|exclude|E2|
+C05178|exclude|E1|
+C05181|exclude|E1|
+C05184|exclude|E3|
+C05188|exclude|E5|
+C05189|exclude|E5|
+C05190|exclude|E5|
+C05196|exclude|E3|
+C05204|unsure||Semantic (multi-relational) graph analytics vis; no abstract
+C05217|background|B|Task taxonomy for graph visualization
+C05223|exclude|E1|
+C05224|exclude|E2|
+C05229|exclude|E1|
+C05230|exclude|E2|
+C05235|exclude|E3|
+C05236|exclude|E3|
+C05238|exclude|E3|
+C05239|exclude|E3|
+C05241|unsure||AR infovis prototype; check tangible markers (dup of C05170?)
+C05244|exclude|E3|
+C05248|exclude|E3|
+C05249|unsure||Centrality comparison via stacked 3D planes; possible layers
+C05250|include|I1|Time-varying graphs as stacked 2.5D slices
+C05253|exclude|E3|
+C05254|exclude|E2|
+C05256|exclude|E3|
+C05261|exclude|E2|
+C05270|exclude|E3|
+C05271|exclude|E5|
+C05273|exclude|E6|
+C05275|unsure||2.5D drawing, vertices in parallel planes; possible layered
+C05278|exclude|E3|
+C05282|exclude|E3|
+C05288|exclude|E3|
+C05293|exclude|E5|
+C05294|exclude|E2|
+C05297|exclude|E1|
+C05303|exclude|E1|
+C05306|exclude|E3|
+C05307|exclude|E3|
+C05308|unsure||Coordinated multiple views in AR; check anchoring/tangible
+C05317|exclude|E3|
+C05319|exclude|E3|
+C05323|exclude|E3|
+C05329|exclude|E2|
+C05336|exclude|E3|
+C05341|exclude|E2|
+C05352|exclude|E1|
+C05353|exclude|E2|
+C05356|exclude|E3|
+C05361|exclude|E5|
+C05363|exclude|E1|
+C05364|exclude|E3|
+C05365|include|I4|Focus+context visualization for AR on physical scene
+C05369|exclude|E3|
+C05373|exclude|E1|
+C05374|exclude|E3|
+C05381|include|I5|Hybrid matrix/node-link (MatLink); verify McGee citation
+C05383|exclude|E3|
+C05385|unsure||Tangible tabletop with projection; data vis role unclear
+C05387|exclude|E3|
+C05397|unsure||Navigation of 2.5D layered graph layouts
+C05407|exclude|E4|
+C05409|exclude|E3|
+C05412|include|I5|Links overlaid on adjacency matrix (hybrid); verify McGee
+C05422|exclude|E2|
+C05427|exclude|E2|
+C05433|exclude|E2|
+C05434|exclude|E2|
+C05442|exclude|E3|
+C05443|exclude|E2|
+C05453|exclude|E2|
+C05456|exclude|E2|

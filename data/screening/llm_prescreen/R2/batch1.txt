@@ -1,0 +1,1090 @@
+[R2-C02632] 1 EntourageViz : A Visualization Tool for Facebook Friends ’ Social Network ! |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02633] 11th International Symposium on Graph Drawing (GD'03) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02634] 12th International Symposium on Graph Drawing, NYC, USA]] |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02637] 2 Related Work Augmented Reality and Gis: on the Possibilities and Limits of Markerless Ar |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02638] 2 Visualizing Bipartite Graphs |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02640] 2012 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). 167–176 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02641] 2015 IEEE Pacific Visualization Symposium (PacificVis), IEEE, 63--67 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02645] 2022. TimeTables: Embodied Exploration of Immersive Spatio-Temporal Data | 2022 IEEE Conference on Virtual Reality and 3D User Interfac | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02649] (2023) Spatio - temporal variation in plant–pollinator interactions: 385 a multilayer network approach | Oikos | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02653] (2024, April 24). Pajek. Available online: http://vlado.fmf.uni-lj.si/pub/networks/pajek/. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02657] 2025. SpreadLine: Visualizing Egocentric Dynamic Influence | IEEE Transactions on Visualization and Computer Graphics | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02661] 8th Symposium on Graph Drawing, 211--221 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02666] a dynamic sketching system for real-time authoring of embedded and responsive visualizations in AR, contextualized in the larger design space of dynamic graphics authoring approaches |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02669] A Multi-Layout Design for Immersive Visualization of Network Data • 13 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02671] A survey of urban visual analytics: domain problem, visualization, computation, and system |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02682] Alison Fernandez Blanco. 2026. Evaluating the use of Augmented Reality for Dependency Graph Analysis: A Controlled Experiment - Data results. (1 2026). 10.6084/m9.figshare.31143073.v1 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02687] An Author-Centric Approach to Software Project Visualization |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02689] Analysis of socio-technical systems: from data to complex networks models | Institutional Research Information System University of Turi | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02693] AndrewsK. HeideggerH.:Information slices: Visualising and exploring large hierarchies using cascading semicircular discs (late breaking hot topic paper). InProceedings of the IEEE Symposium on Information Visualization (INFOVIS'98)(Research Triangle Park NC 1998) pp.9–12. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02694] Anthonisse JM. The rush in a directed graph. Technical Report BN 9/71, Stichting Mathematisch Centrum, Amsterdam, October. 1971. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02695] AR Urban Design HitLabNZ. Retrieved February 20 2023 from https://www.youtube.com/watch?v=5_zE7bahRD0 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02698] Augmented-reality visualizations guided by cognition: Perceptual heuristics for combining visible and obscured information |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02700] Author Manuscript, Published in "sigchi Conference on Human Factors in Computing Systems Topology-aware Navigation in Large Networks |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02705] Battista, G., Eades, P., Tamassia, R., and Tollis, I. (1999). Graph Drawing, Prentice Hall. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02706] “Being the graph |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02719] Boutin François, Network multi-scaling filtering, clustering and visualisation techniques from a focus, Université Montpellier II - Sciences et Techniques du Languedoc, 2005 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02720] BPM Australia PTY Limited. 2021. Smart Globe Explorer AR. https://oregonshop.com.au/smart-globe-explorer-ar/  BPM Australia PTY Limited. 2021. Smart Globe Explorer AR. https://oregonshop.com.au/smart-globe-explorer-ar/ |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02724] BurchM. DiehlS.:Trees in a treemap. InProceedings of 13th Conference on Visualization and Data Analysis (VDA 2006)(San Jose California 2006). |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02726] Cade Metz. The Inside Story of Googlefis Bizarre Plunge Into VR. (????). http://www.wired.com/2015/06/inside-story-googles-unlikely-leap-cardboard-vr/  Cade Metz. The Inside Story of Googlefis Bizarre Plunge Into VR. (????). http://www.wired.com/2015/06/inside-story-googles-unlikely-leap-cardboard-vr/ |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02739] CiteVis: Visualizing citations among infovis conference papers.https://sites.cc.gatech.edu/gvu/ii/citevis/infovis-citation-data.txt. Online Accessed: 2023‐11‐22. 6 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02751] CoVis : Visualizing Character Class Collocation in Ancient Chinese Literature |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02754] Cuenca Erick, Sallaberry Arnaud, Wang Florence Ying, Poncelet Pascal, Visualizing Hierarchical Time Series with a Focus+Context Approach, in: IEEE Information Visualization Conference (Info Vis), IEEE, 2017 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02756] Cybulski, J., Keller, D.S.S., Calladine, A., Owens, J.A., Cybulski, K., 2014. Immersive and Collaborative Analytics, http://visanalytics.org/info/projects/immersive-and-collaborative-decision-making-environments/. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02761] Danube Danube, Poster Poster, Evolution temporelle de communautés représentatives : mesures et visualisation, in: BSC, 2017 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02762] Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02767] De DomenicoM. Solè‐RibaltaA. CozzoE. KiveläM. MorenoY. PorterM.A. GòmezS. ArenasA.:Mathematical formulation of multi‐layer networks.arXiv preprint arXiv:1307.4977 physics.soc‐ph(2013). 1 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02768] De Toni, A.F., Marcovig, M., Nonino, F.: Lâ’organizzazione informale nella prospettiva dell’âanalisi dei network. Economia & Manag. 4, 93–114 (2007) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02770] Deep learning for 3D fault detection within virtual reality visualization seismic volumes |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02773] DGT-AR-Artifact |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02774] Did you find the interaction tasks easy to perform with the tangible cubes and the associated actions? |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02775] Display : Display visualizations make use of separate display media, such as a workstation, interactive tabletop, or touchscreen |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02778] Düring, M (2013) HNR Bibliography. Historical Network Research. Retrieved September 1, 2018 from http://historicalnetworkresearch.org/bibliography. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02780] DwyerT.:Two and a Half Dimensional Visualisation of Relational Networks.PhD thesis The University of Sydney 2005. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02783] Eades, P. (1984). A Heuristic for Graph Drawing, Congressus Numerantium. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02787] Efficient Community Recreation in Multilayer Networks Using Boolean Operations. In Int. Conf. on Computational Science |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02788] Egocentric vr: online immersive network exploration.https://vis.csh.ac.at/egocentricvr/. Online; accessed 30-August-2021. 10 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02792] EnMRgy: Energy network analysis in mixed reality |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02794] Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Navigation and Exploration of Interconnected Pathways |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02795] Eurographics/ Ieee-vgtc Symposium on Visualization 2008 Timeradartrees: Visualizing Dynamic Compound Digraphs |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02797] Eurographics/ Ieee-vgtc Symposium on Visualization 2010 Image-based Edge Bundles: Simplified Visualization of Large Graphs |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02798] Evaluation of two interaction techniques for visualization of dynamic graphs 15 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02802] Exploring Pen and Paper Interaction for Task Management in AR |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02803] Exploring the Design of Animated Transitions between Abstract and Concrete Visualizations in Immersive Environments |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02805] F. Sinclair, The vr museum of modern art, 2018, (https://store.steampowered.com/app/515020/). |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02807] Feel the story in your hands: Tangibles for exploring collaborative scientific storytelling |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02808] FGSM Explainer: An Interactive Visualization for Understanding Adversarial Attack |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02809] Fiarchuk, J., 2016. What is AR? http://mobileedar.weebly.com/what-is-ar.html. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02813] Figure 9: Supplementary Figure 9: Multilayer analysis of HIV-1 genetic-interaction network. See the text of Supplementary Note 4 for details about each panel | Figure 9: Supplementary Figure 9: Multilayer analysis of HIV | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02819] Foundry, 2017. VR? AR? MR? Sorry, Im confused. https://www.foundry.com/industries/virtual-reality/vr-mr-ar-confused. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02820] framework. Multilayer networks have already yielded fascinating insights and are experiencing burgeoning popularity [13 | example | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02822] FrishmanY. TalA.:Online dynamic graph drawing. InProceedings of Nineth Joint Eurographics/IEEE‐VGTC Symposium on Visualization (EuroVis'2007) Norrköping Sweden (2007) Eurographics Association. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02825] Fujimura K, Toda H, Inoue T, Hiroshima N, Kataoka R, Sugizaki M (2006) Blogranger—a multi-faceted blog search engine. In: Proceedings of WWW, Weblogging Ecosystem |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02826] Fujimura K., Toda H., Inoue T., Hiroshima N., Kataoka R., Sugizaki M., Blogranger—a multi-faceted blog search engine, in: Proc. WWW, Weblogging Ecosystem, 2006 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02829] G-Mixup: Graph data augmentation for graph classification |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02830] Gajer, P., Goodrich, M.T., and Kobourov, S.G. (2000, January 20–23). A Fast MultiDimensional Algorithm for Drawing Large Graphs?. Proceedings of the 8th International Symposium Graph Drawing, Colonial Williamsburg, VA, USA. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02831] Ganser, E., North, S.: An open graph visualization system and its applications to software engineering. Software Practice and Experience 30(11) (1993) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02837] Geospatial Visual Analytics Workshop in conjunction with the 13th AGILE International Conference on Geographic Information Science 2, 3. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02842] Google, Google earth vr, 2018, (https://www.oculus.com/experiences/rift/1513995308673845/). |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02845] Graph Drawing |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02846] Graph Drawing |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02848] Grinstein G. Workshop on information exploration shootout project and benchmark data sets: evaluating how visualization does in analyzing real-world data analysis problems. IEEE Visualization 97 Conference 1997 (Los Alamitos, USA, 1997), IEEE Computer Science Press: New York, 1997; 511–513. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02855] Hartling, P., Bierbaum, A., Cruz-Neira, C. 2002Tweek: merging 2D and 3D interaction in immersive environments. 6th World Multiconference on Systemics, Cybernetics, and InformaticsOrlando, FL , pp. 1–5 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02859] He is a software developer. a research assistant with ETS explore VR and AR |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02865] How effective do you think tangible cube interactions are | visualizing and exploring complex datasets | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02876] I found the exploration with the immersive devices motivating Same answer options as 1 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02878] IEEE-802.11 2016. IEEE Standard for Information technology—Telecommunications and information exchange between systems Local and metropolitan area networks—Specific requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications. Standard. Institute of Electical and Electronics Engineers. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02879] IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS 1 A Taxonomy of 3D Occlusion Management for |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02880] Ieee Transactions on Visualization and Computer Graphics 1 Coherent Time-varying Graph Drawing with Multifocus+context Interaction |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02881] Ieee Transactions on Visualization and Computer Graphics 1 Scalable Multivariate Volume Visualization and Analysis Based on Dimension Projection and Parallel Coordinates |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02882] Ieee Transactions on Visualization and Computer Graphics Exploration of the Brain's White Matter Pathways with Dynamic Queries |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02884] Ieee Transactions on Visualization and Computer Graphics Visualization Task Performance with 2d, 3d, and Combination Displays |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02889] IMPLANTAR: Dental Implant Planning using Tablets and Mobile Augmented Reality |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02891] Improving instruction conveyance in human-to-human collaboration tasks using Augmented Reality |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02893] In the last two decades, the analysis of complex systems has beneﬁted signiﬁcantly from the modeling interactions and relationships using networks [21] | This | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02899] Interactive Poster : Context-Preserving Dynamic Graph Visualization |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02903] Investigating individual differences influencing the understanding of statistical concepts in immersive data | visualisations, Authors’ version from 2020 – unpublished wor | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02904] Investigating the novelty effect in virtual reality on stem learning. Ph. D. Dissertation |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02909] J. Davis S. R. Marschner M. Garr M. Levoy in Proceedings of the 1st International Symposium on 3D Data Processing Visualization and Transmission (IEEE 2002) pp. 428–441. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02910] J. Leskovec, Snap: network datasets, social circles, 2012, (https://snap.stanford.edu/data/egonets-Gplus.html). |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02918] Journal of Graph Algorithms and Applications a 2.5d Hierarchical Drawing of Directed Graphs |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02919] Journal of Graph Algorithms and Applications an Incremental Layout Method for Visualizing Online Dynamic Graphs |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02920] Journal of Graph Algorithms and Applications Graph Drawing by High-dimensional Embedding |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02921] Journal of Graph Algorithms and Applications Interactive Visualization of Streaming Text Data with Dynamic Maps |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02922] Journal of Graph Algorithms and Applications Lower Bounds for the Number of Bends in Three-dimensional Orthogonal Graph Drawings |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02923] Journal of Graph Algorithms and Applications Ongrax: a Web-based System for the Collaborative Visual Analysis of Graphs |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02924] Journal of Graph Algorithms and Applications Three-dimensional 1-bend Graph Drawings |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02932] Ken Kawamoto. 2019. AR Sensor. Version 1.1.3 January 2019 url: https://play.google.com/store/apps/details?id=com.ken.arsensor. https://play.google.com/store/apps/details?id=com.ken.arsensor |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02937] Kivelä, M. Multilayer networks library for Python; 2017. Available from: http://www.mkivela.com/pymnet/. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02938] Kivelä, M.: Pymnet: free library for analysing multilayer networks. http://people.maths.ox.ac.uk/kivela/mln_library/ |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02940] Korea Seoul, Post Seoul, Layer Hierarchization in Multiplex Networks for Word Cloud Visualization, in: IEEE PacificVis, 2017 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02950] lightweight and affordable headset. The Mixed Reality Toolkit is used to develop applications for the Hololens which is available for Unity3D |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02958] M. Kivelä A. Arenas M. Barthelemy J. P. Gleeson Y. Moreno and M. A. Porter. 2013. Multilayer Networks. CoRR abs/1309.7233 (2013). |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02960] Markus Tatzgern. 2015. Situated Visualization in Augmented Reality. (2015).  Markus Tatzgern. 2015. Situated Visualization in Augmented Reality. (2015). |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02961] Marlon Lückert. 2020. CovidAR - Data Visualization in Augmented Reality. https://devpost.com/software/covidar-data-visualization-in-augmented-reality  Marlon Lückert. 2020. CovidAR - Data Visualization in Augmented Reality. https://devpost.com/software/covidar-data-visualization-in-augmented-reality |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02962] MartinoM. GrishchenkoA. DehmamyN. StrobeltH. BarabásiA.-L.:Wondernet 3D network layouts 2024. URL:http://netwonder.net/. 2 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02970] McCrickard DS, Kehoe CM (1997) Visualizing search results using sqwid. In: Sixth International World Wide Web Conference, ACM Press, pp 51–60 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02974] Metabolic Pathway Visualization Using Gene-Expression Data |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02978] Microsoft HoloLens.https://www.microsoft.com/en/hololens. 4 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02980] Microsoft Research (2020, January 25). Spatial Mapping. Available online: https://docs.microsoft.com/en-us/windows/mixed-reality/spatial-mapping. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02983] MNET-VR (Multilayer Network Exploration Tool in virtual reality) | leonardmaxim | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02984] MobilizAR Technologies Pvt Ltd. 2021. Orboot Earth – Interactive AR Globe. https://www.playshifu.com/orboot/earth  MobilizAR Technologies Pvt Ltd. 2021. Orboot Earth – Interactive AR Globe. https://www.playshifu.com/orboot/earth |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02988] MRTK. (2024) Retrieved February 20 2023 from https://github.com/microsoft/MixedRealityToolkit-Unity. Accessed 03/11/2024. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02989] Multilayer network clustering via network embedding |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02990] Multilayer Networks in Landscape Ecology: A Case Study to assess changes in aquatic habitat connectivity for �ying and non-ying benthic macroinvertebrates in a Danube �oodplain |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03001] Network Analysis of Virginia’s Mineralogical Systems |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03002] Network input ﬁles referred in this manuscript can be found here | Current Protocols in Bioinformatics | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03003] Network Workbench. http://nwb.slis.indiana.edu/ |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03004] NEXO: Adaptive Visualization for Comparative Exploration of Knowledge Graphs with Natural Language Interaction |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03008] Novel approaches to network visualization and analytics use sophisticated metrics that enable rich interactive network views and node grouping and filtering. A survey of graph layout and simplification methods |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03013] On the Necessity of Augmented Reality Technology in Surface Warfare Operations |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03016] Online Submission ID: vis-1157 Comparing 3D Vector Field Visualization Methods: A User Study |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03018] Open Scene Graph. http://www.openscenegraph.org. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03020] Operator impressions of 3 D visualizations for cybersecurity analysts | Proceedings of the 18 th European Conference on Cyber Warfar | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03024] P. Riehmann, M. Hanfler, B. Froehlich, Interactive sankey diagrams, in IEEE Symposium on Information Visualization (IEEE Computer Society, 2005), pp. 233–240, |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03026] Peter Eades. 1984. A heuristic for graph drawing. Congressus numerantium 42 11 (1984) 149–160. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03029] Physical Manipulations refer to the set of actions that involve moving, orienting and handling the tangible cubes themselves. These are further divided into secondary categories | considering the multiplicity of cubes involved, including Si | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03030] Pierre Dragicevic and Yvonne Jansen. 2018. List of physical visualizations. http://dataphys.org/list/ |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03031] Pierre Dragicevic and Yvonne Jansen. 2018. List of physical visualizations. http://dataphys.org/list/. http://dataphys.org/list/ |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03033] Pirch, S. et al., The VRNetzer platform enables interactive network analysis in virtual reality, Zenodo, https://doi.org/10.5281/zenodo.4597735 (2021). |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03037] PretoriusA. Van WijkJ.:Visual analysis of mul‐tivariate state transition graphs. InProceedings of IEEE Symposium on Information Visualization (InfoVis 2006) IEEE CS Press (2006). |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03045] Proceedings of the 11th International Symposium on Graph Drawing (Perugia, Italy, September 2003). GD'03. Springer-Verlag |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03047] Proceedings of the 14th International Conference on Graph Drawing. GD'06. Springer-Verlag, Berlin/Heidelberg, Germany, 184--195 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03048] Proceedings of the 2006 Asia-Pacific Symposium on Information Visualisation-Volume 60 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03049] Proceedings of the 2nd IEEE/ACM International Symposium on Mixed and Augmented Reality, IEEE Computer Society, 84 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03050] Proceedings of the 2nd IEEE/ACM International Symposium on Mixed and Augmented Reality, ISMAR '03 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03052] Proceedings of the Conference on Visualization (VIS '01) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03056] PTC Inc. 2017b. Vuforia Chalk AR. (2017). https://chalk.vuforia.com/  PTC Inc. 2017b. Vuforia Chalk AR. (2017). https://chalk.vuforia.com/ |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03062] Random Node (RN): Each vertex is included with probability p . This scheme is the simplest and yields networks that maintain the degree distribution of the original network relatively well |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03063] Reconfig: Neighbor, Stack, Assemble → Combine . Users can combine tangible cubes through three distinct operations: neighboring , stacking , and assembling | When individual cubes 17 | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03067] represent the most common types of ecological multilayer networks |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03073] Rotate the network by pressing the left mouse button and moving the mouse |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03080] S. K. Tang Y. Sekikawa D. Leithinger S. Follmer and H. Ishii. 2013. Tangible Cityscape. Retrieved from https://tangible.media.mit.edu/project/tangible-cityscape. 11/3/2024. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03081] Schaeffer, B., Goudeseene, C.: Syzygy: native PC cluster VR. In: The Proceedings of Virtual Reality (VR 2003), Los Angeles, CA, USA (2003) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03086] Seán Clarke Antonio Voce Pablo Gutiérrez and Frank Hulley-Jones. 2020. How coronavirus spread across the globe – visualised. https://www.theguardian.com/world/ng-interactive/2020/apr/09/how-coronavirus-spread-across-the-globe-visualised  Seán Clarke Antonio Voce Pablo Gutiérrez and Frank Hulley-Jones. 2020. How coronavirus spread across the globe – visualised. https://www.theguardian.com/world/ng-interactive/2020/apr/09/how-coronavirus-spread-across-the-globe-visualised |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03091] Shabbeer, A., Ozcaglar, C., Gonzalez, M., Bennett, KP.: Optimal embedding of heterogeneous graph data with edge crossing constraints. In: Presented at NIPS Workshop on Challenges of Data Visualization, p. 1 (2010) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03097] Siek, J.G., Lee, L.Q., Lumsdaine, A.: Boost Graph Library: The User Guide and Reference Manual. Pearson Education (2001) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03099] Simpson, M., Zhao, J., Klippel, A.: Take a walk: evaluating movement types for data visualization in immersive virtual reality. In: Workshop on Immersive Analytics. IEEE, Vis (2017) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03101] Singh, A., Santra, A., Chakravarthy, S.: Scalable substructure discovery algorithm for homogeneous multilayer networks. In: 2024 IEEE International Conference on Big Data (BigData). IEEE (2024) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03103] SkyscrapAR: An augmented reality visualization for software evolution |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03106] SNACSocial Networks and Archival Context. http://socialarchive.iath.virginia.edu. Accessed 17 Aug 2020. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03115] Stephan Diehl and Carsten G örg. Graphs, they are changing. In GD ’02: Revised Papers fromthe 10th International Symposium on Graph Drawing, 23-30, London, UK, 2002. Springer-Verlag. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03116] Strategies for visualizing points-of-interest of 3d virtual environments on mobile devices |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03123] TangibleNet: Synchronous Network Data Storytelling through Tangible Interactions | Proceedings of the ACM International Conference on Interacti | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03126] Terry, C. (2024) bipartiteD3: Interactive Bipartite Graphs. R package version 0.3.2, <https://cran.r-project.org/package=bipartiteD3>. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03133] The muxViz framework is a free and open-source package for the analysis and the visualization of multilayer networks. It is released under GNU General Public License v3 | The muxViz framework is a free and open-source package for t | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03137] The public goods game on multiplex networks. | University of Surrey Open Research repository | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03146] Thomas, J., and Cook, K. (2005). Visual Representations and Interactions Technologies. Illuminating the Path: A Research and Development Agenda for Visual Analytics, IEEE Press. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03149] [ to attempt to understand how interdependencies (e.g., [37, 38]), multilayer structures (e.g., [39, 40]), dynamics (e.g., [41, 42]), and control (e.g., [43] | can improve | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03154] Trends, and Outliers: How Immersive Technologies Can Facilitate the Collaborative Analysis of Multidimensional Data |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03174] Uplift: A tangible and [41] Com-Authorized licensed use limited to the terms of the applicable |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03178] Valve, Steam vr home, 2018, (https://steamcommunity.com/steamvr). |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03185] Virtual Reality (VR) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03186] VisTorch: Authoring Physical Visualization Dashboards using Handheld Projectors |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03187] Visual Analysis of Hierarchical Data Using 2.5D Drawing with Minimum Occlusion |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03188] Visual Analytics Science and Technology (VAST) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03189] Visual Representations and Interaction Technologies |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03190] visualizing various types of bipartite multilayer networks, including temporal 68 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03192] Volume visualization data: The MRI volume data (Fig. 8(b)) comprises multiple slices and facilitates interactive cutting plane exploration to focus on specific regions of the anatomical structures |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03193] VR-TestCoverage: Test coverage visualization and immersion in virtual reality |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03198] Walton JPRB, Now you see it-interactive visualisation of large datasets, in: WIT Transactions on Information and Communication Technologies, vol. 3, 1970 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03199] Ware, C. (2004). Information visualization (2nd ed.). San Francisco, CA: Morgan Kauffman. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03201] Wattenberg Martin, Baby Names, Visualization, and Social Data Analysis, in: Proceedings of the Symposium on Information Visualization (InfoVis), p. 1-7, IEEE, 2005 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03205] Welcome 1 or When Immersion Meets Intelligent Networks (follow up Project 2002-2004 -updated Research Plan) 2.1 Abstract of the Research Plan |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03206] Were you comfortable with the way the visualization is presented, both embodied on the individual cubes and together in the designated visualization area? |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03208] What are the differences among virtual, augmented and mixed reality? | recode | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03228] Xreal light ar glasses | www | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03229] Xreal light ar glasses.https://www.xreal.com/light/. 4 |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03231] YoungZone Culture Shanghai Co Ltd. 2021. AR Globe. http://www.neobear.com/en/product/ar_globe  YoungZone Culture Shanghai Co Ltd. 2021. AR Globe. http://www.neobear.com/en/product/ar_globe |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03232] Zhong, L., Zhang, Q., Yang, D., Chen, G., Yu, S.: Analysing motifs in multilayer networks. arXiv preprint arXiv:1903.01722 (2019) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03267] Asymmetric Visual Hierarchy Comparison with Nested Icicle Plots | Joint Proc 4th Int Workshop Euler Diagrams 1st Int Workshop  | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03269] CAVE2: a hybrid reality environment for immersive simulation and information analysis | Proc SPIE 8649 The Engineering Reality of Virtual Reality 20 | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03270] Evaluating Performance in Fish Tank Virtual Reality | ACM Transactions on Information Systerms | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03271] Exploring the Benefits of Immersion in Abstract Information Visualization | Proc Immersive Projection Technology | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03272] Flow visualization using illustrative line styles | Proceedings of ICT Open ASCI - IPA - SIKS tracks | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03273] Graph visualization interaction techniques |  | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03274] GraphAEL: Graph Animations with Evolving Layouts | Lecture notes in computer science | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03276] Interactive Sankey diagrams | Proc IEEE Symp Inf Vis | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03277] Interactive volume rendering for immersive virtual environments | Proceedings of IEEE VIS International Workshop on 3DVis | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03279] Optimal leaf ordering for two and a half dimensional phylogenetic tree visualisation | Proc Australasian Symp Inf Vis | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03282] Poster: A visual survey of tree visualization | Proc IEEE Conf Inf Vis Posters | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03286] The State of the Art in Visualizing Group Structures in Graphs | Eurographics Conference on Visualization | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03288] TouchMe: An Augmented Reality Based Remote Robot Manipulation | Proceedings of ICAT 2011 | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03292] Visual Analysis of Large Graphs | Eurographics | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03293] Visualizing multivariate network on the surface of a sphere | APVis ' 06 Proceedings of the 2006 Asia-Pacific Symposium on | 0
+    ABS: [abstract omitted; see the DOI]
+[R2-C03302] Applied Security Visualization |  | 1903
+    ABS: [abstract omitted; see the DOI]
+[R2-C03319] Three-dimensional Graphs. | Science | 1947
+    ABS: [abstract omitted; see the DOI]
+[R2-C03350] On Random Graph |  | 1959
+    ABS: [abstract omitted; see the DOI]
+[R2-C03351] On random graphs. I. | Publ Math Debrecen | 1959
+    ABS: [abstract omitted; see the DOI]
+[R2-C03354] ON THE EVOLUTION OF RANDOM GRAPHS |  | 1960
+    ABS: [abstract omitted; see the DOI]
+[R2-C03363] How to Draw a Graph | Proc. Lond. Math. Soc. | 1963
+    ABS: [abstract omitted; see the DOI]
+[R2-C03375] Toward a Theory of Instruction |  | 1966
+    ABS: [abstract omitted; see the DOI]
+[R2-C03398] The rush in a directed graph | Centrum Wiskunde & Informatica (CWI), the national research  | 1971
+    ABS: [abstract omitted; see the DOI]
+[R2-C03422] Centrality in social networks conceptual clarification | Social Networks | 1978
+    ABS: [abstract omitted; see the DOI]
+[R2-C03461] Graph and semigroup homomorphisms on networks of relations | Social Networks | 1983
+    ABS: [abstract omitted; see the DOI]
+[R2-C03470] A Heuristic for Graph Drawing | Congressus Numerantium | 1984
+    ABS: [abstract omitted; see the DOI]
+[R2-C03471] An algorithm for drawing general undirected graphs | Information Processing Letters | 1984
+    ABS: [abstract omitted; see the DOI]
+[R2-C03484] Random Graphs |  | 1985
+    ABS: [abstract omitted; see the DOI]
+[R2-C03485] Random Graphs |  | 1985
+    ABS: [abstract omitted; see the DOI]
+[R2-C03501] The Evolution of Random Graphs | Regional conference series in mathematics | 1986
+    ABS: [abstract omitted; see the DOI]
+[R2-C03503] Three-Dimensional Circuit Layouts | SIAM J. Comput. | 1986
+    ABS: [abstract omitted; see the DOI]
+[R2-C03508] Cognitive social structures | Social Networks | 1987
+    ABS: [abstract omitted; see the DOI]
+[R2-C03526] Automatic graph drawing and readability of diagrams | IEEE Transactions on Systems Man and Cybernetics | 1988
+    ABS: [abstract omitted; see the DOI]
+[R2-C03536] Graph graphics: Theory and practice | Computers & Mathematics with Applications | 1988
+    ABS: [abstract omitted; see the DOI]
+[R2-C03551] Hypergraphs: Combinatorics of Finite Sets |  | 1989
+    ABS: [abstract omitted; see the DOI]
+[R2-C03558] Visualizing Abstract Objects and Relations | WORLD SCIENTIFIC eBooks | 1989
+    ABS: [abstract omitted; see the DOI]
+[R2-C03571] How to draw a directed graph | Journal of Information Processing | 1990
+    ABS: [abstract omitted; see the DOI]
+[R2-C03604] Proceedings of the 1st Int Conference on Computational Graphics and Visualization Techniques, Compugraphics '91 |  | 1991
+    ABS: [abstract omitted; see the DOI]
+[R2-C03605] Proceedings of the 1st International Conference on Computational Graphics and Visualization Techniques |  | 1991
+    ABS: [abstract omitted; see the DOI]
+[R2-C03609] The DigitalDesk calculator: tangible manipulation on a desk top display | ACM Symposium on User Interface Software and Technology (UIS | 1991
+    ABS: [abstract omitted; see the DOI]
+[R2-C03614] Thomas M. J. Fruchterman and Edward M. Reingold. Graph drawing by force-directedplacement. Software - Practice and Experience, 21(11):1129-1164, 1991. | Reingold. Graph drawing by force-directedplacement. Software | 1991
+    ABS: [abstract omitted; see the DOI]
+[R2-C03616] Visualization of structural information: automatic drawing of compound digraphs | IEEE Transactions on Systems Man and Cybernetics | 1991
+    ABS: [abstract omitted; see the DOI]
+[R2-C03617] A framework for dynamic graph drawing | Annual Symposium on Computational Geometry (SoCG) | 1992
+    ABS: [abstract omitted; see the DOI]
+[R2-C03634] Merging virtual objects with the real world: seeing ultrasound imagery within the patient | ACM SIGGRAPH Conference (SIGGRAPH) | 1992
+    ABS: [abstract omitted; see the DOI]
+[R2-C03643] Virtual reality in medicine | Annual International Conference of the IEEE Engineering in M | 1992
+    ABS: [abstract omitted; see the DOI]
+[R2-C03656] Fish tank virtual reality | CHI Conference on Human Factors in Computing Systems | 1993
+    ABS: [abstract omitted; see the DOI]
+[R2-C03666] Navigating large networks with hierarchies | Visualization | 1993
+    ABS: [abstract omitted; see the DOI]
+[R2-C03667] Onion graphs: aesthetics and layout | IEEE Symposium on Visual Languages and Human-Centric Computi | 1993
+    ABS: [abstract omitted; see the DOI]
+[R2-C03670] Random Walks on Graphs: A Survey |  | 1993
+    ABS: [abstract omitted; see the DOI]
+[R2-C03673] Scientists in wonderland: A report on visualization applications in the CAVE virtual reality environment |  | 1993
+    ABS: [abstract omitted; see the DOI]
+[R2-C03682] The Information Cube: Using Transparency in 3D Information Visualization |  | 1993
+    ABS: [abstract omitted; see the DOI]
+[R2-C03690] Virtual reality in scientific visualization | Communications of the ACM | 1993
+    ABS: [abstract omitted; see the DOI]
+[R2-C03691] Visualization in linear programming using parallel coordinates | Pattern Recognition | 1993
+    ABS: [abstract omitted; see the DOI]
+[R2-C03697] 30 Years of Multidimensional Multivariate Visualization | Scientific Visualization | 1994
+    ABS: [abstract omitted; see the DOI]
+[R2-C03699] A Fast Adaptive Layout Algorithm for Undirected Graphs | Repository KITopen (Karlsruhe Institute of Technology) | 1994
+    ABS: [abstract omitted; see the DOI]
+[R2-C03701] Algorithms for drawing graphs: an annotated bibliography | Computational Geometry | 1994
+    ABS: [abstract omitted; see the DOI]
+[R2-C03706] Drawing graphs in two layers | Theoretical Computer Science | 1994
+    ABS: [abstract omitted; see the DOI]
+[R2-C03731] Representing nodes and arcs in 3D networks | Proceedings of 1994 IEEE Symposium on Visual Languages | 1994
+    ABS: [abstract omitted; see the DOI]
+[R2-C03733] Taxonomy of mixed reality visual displays | IEEE Trans on Information and Systems (Special Issue on Netw | 1994
+    ABS: [abstract omitted; see the DOI]
+[R2-C03744] 3-dimensional pliable surfaces: for the effective presentation of visual information | ACM Symposium on User Interface Software and Technology (UIS | 1995
+    ABS: [abstract omitted; see the DOI]
+[R2-C03745] 3D Displays of Internet Traffic |  | 1995
+    ABS: [abstract omitted; see the DOI]
+[R2-C03751] Graph Drawing by the Magnetic Spring Model | Journal of Visual Languages & Computing | 1995
+    ABS: [abstract omitted; see the DOI]
+[R2-C03756] Layout and structuring object oriented software in three dimensions | Conference of the Centre for Advanced Studies on Collaborati | 1995
+    ABS: [abstract omitted; see the DOI]
+[R2-C03762] Narcissus: Visualizing Information | Proc. of Information Visualization | 1995
+    ABS: [abstract omitted; see the DOI]
+[R2-C03771] The Emergence of Abstract Representations in Dyad Problem Solving | Journal of the Learning Sciences | 1995
+    ABS: [abstract omitted; see the DOI]
+[R2-C03772] The magnifying glass approach to augmented reality systems | ICAT/VRST'95 | 1995
+    ABS: [abstract omitted; see the DOI]
+[R2-C03776] Validating graph drawing aesthetics | Lecture notes in computer science | 1995
+    ABS: [abstract omitted; see the DOI]
+[R2-C03778] Virtual reality on a WIM |  | 1995
+    ABS: [abstract omitted; see the DOI]
+[R2-C03780] Visualizing network data | IEEE Transactions on Visualization and Computer Graphics | 1995
+    ABS: [abstract omitted; see the DOI]
+[R2-C03782] 3D geographic network displays | ACM SIGMOD Record | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03786] Aesthetics-based Graph Layout for Human Consumption | Software Practice and Experience | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03790] An experimental comparison of force-directed and randomized graph drawing algorithms | Lecture notes in computer science | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03791] Aperture based selection for immersive virtual environments | ACM Symposium on User Interface Software and Technology (UIS | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03795] Convex drawings of graphs in two and three dimensions (preliminary version) | Annual Symposium on Computational Geometry (SoCG) | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03803] Fast interactive 3-D graph visualization | Lecture notes in computer science | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03804] Graph drawing |  | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03807] Layout of compound directed graphs | Publications of the UdS (Saarland University) | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03808] Multi-perspective collaborative design in persistent networked virtual environments | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03814] Proceedings of the Symposium on Graph Drawing | Graph Drawing | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03820] Seeing groups in graph layouts | Connections | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03826] Technologies for augmented reality systems: realizing ultrasound-guided needle biopsies | ACM SIGGRAPH Conference (SIGGRAPH) | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03827] The effect of graph layout on inference from social network data | Lecture notes in computer science | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03828] The eyes have it: a task by data type taxonomy for information visualizations | IEEE Symposium on Visual Languages and Human-Centric Computi | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03830] The Hyperbolic Browser: A Focus + Context Technique for Visualizing Large Hierarchies | Journal of Visual Languages and Computing | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03834] The Virtual Reality Modeling Language Specification Version 2.0 |  | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03835] The Virtual Reality Modeling Language Version 1.0 Specification |  | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03836] The Visual Design and Control of Trellis Display | Journal of Computational and Graphical Statistics | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03838] ThreeDimensionalInformationVisualization | TechnicalReport | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03853] A bayesian paradigm for dynamic graph layout | Lecture notes in computer science | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03855] A Framework for Physically-Based Information Visualization | Eurographics | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03858] A Survey of Augmented Reality | PRESENCE Virtual and Augmented Reality | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03859] A survey of augmented reality" Presence: Teleoperators and virtual environments |  | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03861] An architecture for monitoring, visualization, and control of gigabit networks | IEEE Network | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03862] An empirical evaluation of graspable user interfaces: towards specialized, space-multiplexed input | CHI Conference on Human Factors in Computing Systems | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03863] An experimental comparison of four graph drawing algorithms | Computational Geometry | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03864] An experimental study of the basis for graph drawing algorithms | ACM Journal of Experimental Algorithmics | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03871] Circular layout in the Graph Layout toolkit | Lecture notes in computer science | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03876] Drawing graphs to convey proximity | ACM Transactions on Computer-Human Interaction | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03877] Effective visualization of hierarchical graphs with the cityscape metaphor | Workshop on New Paradigms in Information Visualization and M | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03878] Extending distortion viewing from 2D to 3D | IEEE Computer Graphics and Applications | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03881] Finding the best viewpoints for three-dimensional graph drawings | Lecture notes in computer science | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03883] Graph drawing |  | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03884] Graph Drawing | Lecture notes in computer science | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03886] H3: laying out large directed graphs in 3D hyperbolic space | INFOVIS '97 Proceedings of the 1997 IEEE Symposium on Inform | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03889] How the eye measures reality and virtual reality | Behavior Research Methods, Instruments, & Computers | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03891] Information exploration shootout project and benchmark data sets (panel): evaluating how visualization does in analyzing real-world data analysis problems |  | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03894] Layout for Visualizing Large Software Structures in 3D | University of New Hampshire Scholars Repository (University  | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03899] Multilevel visualization of clustered graphs | Lecture notes in computer science | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03903] On integrating visualization techniques for effective software exploration | Proceedings of IEEE Symposium on Information Visualization | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03906] Proceedings of IEEE 1997 Annual International Symposium on Virtual Reality |  | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03907] Proceedings of the 5th International Symposium on Graph Drawing |  | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03913] Straight-line drawing algorithms for hierarchical graphs and clustered graphs | Lecture notes in computer science | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03917] The Interaction Specification Workspace: Specifying and Designing the Interaction Issues of Virtual Reality Training Environments From Within | Eurographics | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03918] The Java 3D API Specification |  | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03922] Three-dimensional graph drawing | Algorithmica | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03925] Virtual assembly using virtual reality techniques | Computer-Aided Design | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03926] Virtual Data Visualizer | IEEE Transactions on Visualization and Computer Graphics | 1997
+    ABS: [abstract omitted; see the DOI]
+[R2-C03942] Augmented reality: linking real and virtual worlds: a new paradigm for interacting with computers | Working Conference on Advanced Visual Interfaces (AVI) | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03947] Collaborative visualization in augmented reality | IEEE Computer Graphics and Applications | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03948] Collective dynamics of ‘small-world’ networks | Nature | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03957] Exploring large graphs in 3D hyperbolic space | IEEE Computer Graphics and Applications | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03962] Graph Drawing | Lecture notes in computer science | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03963] Graph drawing : 6th International Symposium, GD'98, Montréal, Canada, August 13-15, 1998 : proceedings | Springer eBooks | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03964] Graph Drawing: Algorithms for the Visualization of Graphs | Iris (Roma Tre University) | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03965] Graph Drawing: Algorithms for the Visualization of Graphs (1st ed.) |  | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03969] Interactive orthogonal graph drawing | IEEE Transactions on Computers | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03974] Pajek - Program for Large Network Analysis | Connections | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03979] Shared space: An augmented reality approach for computer supported collaborative work | Virtual Reality | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03980] Speech interaction in virtual reality | IEEE International Conference on Acoustics Speech and Signal | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03982] ?Studierstube?: An environment for collaboration in augmented reality | Virtual Reality | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03985] The effects of graph layout | Australian Conference on Computer-Human Interaction (OzCHI) | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03988] Three dimensional software modelling | ACM/IEEE International Conference on Software Engineering: C | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03995] Using the BSP cost model to optimise parallel neural network training | Future Generation Computer Systems | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C03997] Visualization of Large Nested Graphs in 3D: Navigation and Interaction | J. Vis. Lang. Comput. | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C04008] An Algorithm for Drawing Compound Graphs | Lecture notes in computer science | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04020] Collaborative Mixed Reality | Springer eBooks | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04021] Communicating centrality in policy network drawings | IEEE Transactions on Visualization and Computer Graphics | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04025] Designing interactive paper: lessons from three augmented reality projects | A K Peters/CRC Press eBooks | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04028] Embodied cognition as grounding for situatedness and context in mathematics education | Educational Studies in Mathematics | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04032] Explorations into the Visualization of Policy Networks | Journal of Theoretical Politics | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04034] Exploring Multi-Dimensional Remote Sensing Data with a Virtual Reality System | Springer eBooks | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04037] Friendship Networks Through Time: An Actor-Oriented Dynamic Statistical Network Model | Computational and Mathematical Organization Theory | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04042] Late Breaking Hot Topics Proc. of {EEE Symposium on Information Visualization |  | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04048] Navigation in huge information hierarchies application to network management |  | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04054] Proceedings 1999 IEEE Symposium on Information Visualization (InfoVis'99) | IEEE Symposium on Information Visualization | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04057] Proceedings of the 7th International Symposium on Graph Drawing |  | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04065] Shneiderman: readings in information visualization: using vision to think |  | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04085] Virtual reality as a tool for verification of assembly and maintenance processes | Computers & Graphics | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04087] Visualising Software - A Key Research Area | Proc of Intl Conference on Software Maintenance | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04088] Visualising software in cyberspace | Durham e-Theses (Durham University) | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04090] Visualization in teleimmersive environments | Computer | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04091] Visualizing large-scale telecommunication networks and services | Visualization | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04092] Visualizing large-scale telecommunication networks and services (case study) | Visualization | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04093] Visualizing Software - A Key Research Area | International Conference on Software Maintenance | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04094] Visualizing software release histories: the use of color and third dimension | IEEE International Conference on Software Maintenance (ICSM) | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04099] XGobi vs the C2: Results of an experiment comparing data visualization in a 3-D immersive virtual reality environment with a 2-D workstation display | Computational Statistics | 1999
+    ABS: [abstract omitted; see the DOI]
+[R2-C04105] A Fast Multi-Dimensional Algorithm for Drawing Large Graphs? |  | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04108] An efficient algorithm for searching implicit AND/OR graphs with cycles | Artificial Intelligence | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04110] An evaluation of space-filling information visualizations for depicting hierarchical structures | International Journal of Human-Computer Studies | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04111] An open graph visualization system and its applications to software engineering | Software Practice and Experience | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04113] Automated Drawing of Metabolic Pathways |  | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04116] Construct3D: A Virtual Reality Application for Mathematics and Geometry Education | Education and Information Technologies | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04120] Design of Interactivity in Virtual Reality Applications with Emphasis on Educational Software Using Formal Interaction Specification | Education and Information Technologies | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04129] Freeman L (2000) Visualizing social networks. J Soc Struct 1:151–161 | J Soc Struct | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04131] Graph clustering by flow simulation |  | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04132] Graph Stimulation by Flow Clustering |  | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04136] High Performance Visualization of Time-Varying Volume Data over a Wide-Area Network | International Conference on Software Composition | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04139] Immersive VR for scientific visualization: a progress report | IEEE Computer Graphics and Applications | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04140] Information Management - Topic Maps Visualization | HAL | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04142] Information visualization: perception for design by Colin Ware | SOEN | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04146] Interactive visualization of large graphs and networks |  | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04147] Lessons learned from employing multiple perspectives in a collaborative virtual environment for visualizing scientific data | Collaborative Virtual Environments | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04153] Navigating Clustered Graphs Using Force-Directed Methods | Journal of Graph Algorithms and Applications | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04154] Network visualization with Nam, the VINT network animator | Computer | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04158] Planning and Simulation of Neurosurgery in a Virtual Reality Environment | Neurosurgery | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04160] Proc. of IEEE Virtual Reality 2000 Cofererence |  | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04162] Proceedings of the International Conference on Information Visualization (IV |  | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04167] Refinement of Three-Dimensional Orthogonal Graph Drawings | Lecture notes in computer science | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04171] SequenceWorld: a genetics database in virtual reality | IEEE Conference on Information Visualization (IV) | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04180] The Java 3d API Specification with Cdrom | Addison-Wesley Longman Publishing Co., Inc. eBooks | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04185] Three-dimensional orthogonal graph drawing algorithms | Discrete Applied Mathematics | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04193] Visualization of Vector Field by Virtual Reality | Progress of Theoretical Physics Supplement | 2000
+    ABS: [abstract omitted; see the DOI]
+[R2-C04204] A graph layout algorithm for drawing metabolic pathways | Bioinformatics | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04206] A Multi-dimensional Approach to Force-Directed Layouts of Large Graphs | Comput. Geom. | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04207] A Multi-Modal Natural Language Interface to an Information Visualization Environment | International Journal of Speech Technology | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04209] A multi-scale algorithm for drawing graphs nicely | Discrete Applied Mathematics | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04210] A Multilevel Algorithm for Force-Directed Graph Drawing | Lecture notes in computer science | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04211] A multiple-focus graph browsing technique using heat models and force-directed layout | International Conference on Information Visualisation (IV) | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04219] An immersive system for editing and playing music on network-connected computers | International Conference on Information Visualisation (IV) | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04221] Animated exploration of dynamic graphs with radial layout | IEEE Symposium on Information Visualization | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04223] Assessment of VR Technology and its Applications to Engineering Problems | ASME J. Comput. Inf. Sci. Eng. | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04232] Drawing graphs: methods and models | Lecture notes in computer science | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04234] Dynamic Graph Drawing | Lecture notes in computer science | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04236] Exploratory Network Visualization : Simultaneous Display of Actor Status and Connections | Journal of Social Structure | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04237] Exploring complex networks | Nature | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04239] FreeDrawer: a free-form sketching system on the responsive workbench | ACM Symposium on Virtual Reality Software and Technology (VR | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04241] Graph drawing aesthetics and the comprehension of UML class diagrams: an empirical study | Enlighten: Publications (University of Glasgow) | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04242] Graph Drawing and Its Applications | Lecture notes in computer science | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04243] Graph Drawing in Motion II | Lecture notes in computer science | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04246] Graphviz— Open Source Graph Drawing Tools | Lecture notes in computer science | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04247] GraphXML — An XML-Based Graph Description Format | Lecture notes in computer science | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04253] Interaction modes for augmented reality visualization | Proceedings of the Asia-Pacific Symposium on Information Vis | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04257] Lower Bounds for the Number of Bends in Three-Dimensional Orthogonal Graph Drawings | Lecture notes in computer science | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04271] Preserving the Mental Map using Foresighted Layout | Eurographics | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04275] Proc. Graph Drawing |  | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04276] Proceedings IEEE Virtual Reality 2001 | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04280] Proceedings Visualization, 2001. VIS '01. |  | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04282] Recent advances in augmented reality | IEEE Comput. Graph. Appl. | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04290] sna: Tools for Social Network Analysis |  | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04300] The MagicBook: a transitional AR interface | Computers & Graphics | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04301] The Marey Graph Animation Tool Demo | Lecture notes in computer science | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04302] The MetVR case study: meteorological visualization in an immersive virtual environment | Visualization | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04305] Three dimensional UML using force directed layout |  | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04313] Using Virtual Reality Data Mining for Network Management. | International Conference on Enterprise Information Systems | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04322] yFiles: Visualization and Automatic Layout of Graphs | Lecture notes in computer science | 2001
+    ABS: [abstract omitted; see the DOI]
+[R2-C04329] A survey of graph layout problems | ACM Comput. Surv. | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04331] A User Study in Similarity Measures for Graph Drawing | Journal of Graph Algorithms and Applications | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04336] An Immersive Programming System: Ougi | International Conference on Artificial Reality and Telexiste | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04344] Augmented reality guidance for needle biopsies: An initial randomized, controlled trial in phantoms††A preliminary version of this paper was presented at the Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2001 conference in Utrecht. The Netherlands (Rosenthal et al., 2001) | Medical Image Analysis | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04347] Case study: 3D displays of Internet traffic | Visualization | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04352] Cognitive Measurements of Graph Aesthetics | Information Visualization | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04354] Collaborative augmented reality: exploring dynamical systems | Visualization | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04357] Control of Cardiac Development by an Evolutionarily Conserved Transcriptional Network | Dev Biol | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04358] Creating metabolic and regulatory network models using fuzzy cognitive maps | Joint IFSA World Congress and NAFIPS International Conferenc | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04371] Empirical Evaluation of Aesthetics-based Graph Layout | Empirical Software Engineering | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04374] Experiments with Face-To-Face Collaborative AR Interfaces | Virtual Reality | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04375] Explorations in the Use of Augmented Reality for Geographic Visualization | PRESENCE Virtual and Augmented Reality | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04386] Graph Drawing and Applications for Software and Knowledge Engineers | Graph drawing and applications for software and knowledge en | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04387] Graph Drawing by High-Dimensional Embedding | Lecture notes in computer science | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04388] Graph Drawing in Motion | Journal of Graph Algorithms and Applications | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04389] Graphs, They Are Changing | Proceedings of Graph Drawing | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04395] High quality visualization of biochemical pathways in BioPath. | PubMed | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04398] Immersive and Interactive Exploration of Billion-Atom Systems | PRESENCE Virtual and Augmented Reality | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04399] Inexact Multisubgraph Matching Using Graph Eigenspace and Clustering Models | Lecture notes in computer science | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04406] Intrusion and misuse detection in large-scale systems | IEEE Computer Graphics and Applications | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04414] Mapping information onto 3D virtual worlds | IEEE Conference on Information Visualization (IV) | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04416] Metrics for Graph Drawing Aesthetics | Journal of Visual Languages & Computing | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04418] Mobile and Collaborative Augmented Reality: A Scenario Based Design Approach | Lecture notes in computer science | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04421] Multidimensional data visualization | Behavior Research Methods, Instruments, & Computers | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04425] Network motifs in the transcriptional regulation network of Escherichia coli | Nature genetics | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04426] Non-bayesian Graph Matching without Explicit Compatibility Calculations | Lecture notes in computer science | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04427] Notational Support for the Design of Augmented Reality Systems | Lecture notes in computer science | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04434] P atika : an integrated visual environment for collaborative construction and analysis of cellular pathways | Bioinformatics | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04435] Pajek - Analysis and Visualization of Large Networks | Lecture notes in computer science | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04436] Path-Width and Three-Dimensional Straight-Line Grid Drawings of Graphs | Lecture notes in computer science | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04442] Proc. Graph Drawing |  | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04443] Proceedings of IEEE Virtual Reality Conference (VR |  | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04453] Studying Complex Discursive Systems.. Centering Resonance Analysis of Communication | Human Communication Research | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04454] Supporting document and data views of source code | ACM Symposium on Document Engineering (DocEng) | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04467] Toolkit support for tangible interaction Quals Proposal Papier-Mâché : Toolkit support for tangible interaction |  | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04468] Towards intuitive exploration tools for data visualization in VR | ACM Symposium on Virtual Reality Software and Technology (VR | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04469] Tweek: Merging 2D and 3D Interaction in Immersive Environments. 6th World Multiconference on Systemics, Cybernetics, and Informatics |  | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04470] UCINET for Windows: software for social network analysis |  | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04472] Understanding Virtual Reality | Interface Application and Design | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04473] Understanding Virtual Reality—Interface, Application, and Design | PRESENCE Virtual and Augmented Reality | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04476] Virtual but visible software | IEEE Conference on Information Visualization (IV) | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04478] Visualising a fund manager flow graph with columns and worms | International Conference on Information Visualisation (IV) | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04479] Visualising software in virtual reality | IEEE International Conference on Program Comprehension (ICPC | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04480] Visualization for genome function analysis using immersive projection technology | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04481] Visualization in detection of intrusions and misuse in large scale networks | IEEE Conference on Information Visualization (IV) | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04482] Visualizing metabolic pathways: comparative genomics and expression analysis | Proceedings of the IEEE | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04493] A fast layout algorithm for protein interaction networks | Bioinformatics | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04498] A Scalable Method for Visualising Changes in Portfolio Data | InVis.au | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04501] A system for graph-based visualization of the evolution of software | ACM Symposium on Software Visualization (SoftVis) | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04502] A tangible interface for IP network simulation | CHI Conference Extended Abstracts on Human Factors in Comput | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04504] ACE: a fast multiscale eigenvectors computation for drawing huge graphs | IEEE Symposium on Information Visualization | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04507] Analysis and Visualization of Social Networks | Mathematics and visualization | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04514] Cluster and calendar based visualization of time series data | IEEE Symposium on Information Visualization | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04516] Collaborative Augmented Reality for Outdoor Navigation and Information Browsing |  | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04520] Comparison of metabolic pathways using constraint graph drawing | Proceedings of the First Asia-Pacific Bioinformatics Confere | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04522] Comprehension with[in] virtual environment visualisations | IEEE International Conference on Program Comprehension (ICPC | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04523] Computational Biology and Genome Informatics | WORLD SCIENTIFIC eBooks | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04528] Creating Metabolic Network Models using Text Mining and Expert Knowledge | WORLD SCIENTIFIC eBooks | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04529] Cybersphere: the fully immersive spherical projection system | Communications of the ACM | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04530] Cytoscape: A Software Environment for Integrated Models of Biomolecular Interaction Networks | Genome Res | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04531] Data Visualization | Springer eBooks | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04538] Diagramming information structures using 3D perceptual primitives | ACM Transactions on Computer-Human Interaction | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04540] Edgelens: an interactive method for managing edge congestion in graphs | IEEE Symposium on Information Visualization | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04541] Enveloping users and computers in a collaborative 3D augmented reality |  | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04547] Exploring the dynamics of international trade by combining the comparative advantages of multivariate statistics and network vizualizations | Journal of Social Structure | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04552] Graph Drawing | Lecture Notes in Computer Science | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04553] Graph Interaction through Dynamics-Based Skeletal Animation |  | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04554] Graphsplatting: visualizing graphs as continuous fields | IEEE Transactions on Visualization and Computer Graphics | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04555] GSCope: a clipped fisheye viewer effective for highly complicated biomolecular network graphs | Bioinformatics | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04561] Human Symmetry Perception and Its Computational Analysis | Psychology Press eBooks | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04562] IEEE Symposium on Information Visualization 2003 (IEEE Cat. No.03TH8714) | IEEE Symposium on Information Visualization | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04564] Information-rich virtual environments: theory, tools, and research agenda | ACM Symposium on Virtual Reality Software and Technology (VR | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04572] MetNet: software to build and model the biogenetic lattice of Arabidopsis | Comparative and Functional Genomics | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04577] Multiscale visualization of small world networks | IEEE Symposium on Information Visualization | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04582] Optimal three-dimensional orthogonal graph drawing in the general position model | Theoret. Comput. Sci. | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04583] Osprey: a network visualization system | Genome biology | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04584] Overlaying Graph Links on Treemaps | HAL | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04593] Proceedings of IEEE Symposium on Information Visualization (InfoVis) |  | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04597] Resolving Multiple Occluded Layers in Augmented Reality | Proceedings - International Symposium on Mixed and Augmented | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04603] statnet : Software Tools for the Statistical Modeling of Network Data | http: //statnetproject.org | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04604] Summary of the NRC workshop on Social Network Modeling and Analysis. |  | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04605] Syzygy: native PC cluster VR | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04607] Tangible Query Interfaces: Physically Constrained Tokens for Manipulating Database Queries | International Conference on Human-Computer Interaction | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04614] The jung (java universal network/graph) framework | Univ Calif Irvine Calif | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04620] Toolkit support for vision-based tangible interfaces |  | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04622] TreeJuxtaposer: scalable tree comparison using Focus+Context with guaranteed visibility | ACM Transactions on Graphics | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04623] Tulip — A Huge Graph Visualization Framework | Mathematics and visualization | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04628] Using augmented reality for visualizing complex graphs in three dimensions the Second IEEE | ACM International Symposium on Mixed and Augmented Reality | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04629] Using deformations for browsing volumetric data | Visualization | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04635] Visual-vestibular conflict induced by virtual reality in humans | Neurosci. Lett. | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04637] Visualizing evolving networks: minimum spanning trees versus pathfinder networks | IEEE Symposium on Information Visualization | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04638] Visualizing Related Metabolic Pathways in Two and a Half Dimensions | Lecture notes in computer science | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04646] 3D User Interfaces: Theory and Practice |  | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04648] A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations | IEEE Symposium on Information Visualization | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04653] A new paradigm for Human-Building Interaction: the use of CFD and Augmented Reality | Automation in Construction | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04654] A taxonomy for and analysis of tangible interfaces | Personal and Ubiquitous Computing | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04655] A Visualization Environment for the Space-Time-Cube | Springer eBooks | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04659] An Energy Model for Visual Graph Clustering | Proceedings of the 11th International Symposium on Graph Dra | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04663] Artifacts and collaborative work in healthcare: methodological, theoretical, and technological implications of the tangible | Journal of Biomedical Informatics | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04667] Bringing Clay and Sand into Digital Design — Continuous Tangible user Interfaces | BT Technology Journal | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04668] Building Virtual and Augmented Reality museum exhibitions | international conference on 3D web technology | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04669] CNplot: visualizing pre-clustered networks | Bioinformatics | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04672] CyberSeer: 3D audio-visual immersion for network security and management | IEEE Symposium on Visualization for Cyber Security (VIZSEC) | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04675] Detecting and mapping thematic changes in transient networks | International Conference on Information Visualisation (IV) | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04676] Difference Metrics for Interactive Orthogonal Graph Drawing Algorithms | WORLD SCIENTIFIC eBooks | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04678] DNA in Virtuo visualization and exploration of 3D genomic structures | International Conference on Computer Graphics, Virtual Reali | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04679] Do You See What I Want You to See? The Effects of Motion and Spatial Layout on Viewers' Perceptions of Graph Structure. | Journal of Social Structure. 5 (2). | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04681] Drawing Large Graphs with a Potential-Field-Based Multilevel Algorithm | Lecture notes in computer science | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04682] Dynamic Graph Drawing of Sequences of Orthogonal and Hierarchical Graphs | Lecture notes in computer science | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04685] Ego network betweenness | Social Networks | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04699] Graph Drawing by Stress Majorization | Lecture notes in computer science | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04700] Graph Drawing in Motion | WORLD SCIENTIFIC eBooks | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04701] Graph interaction through force-based skeletal animation |  | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04706] Home-centric visualization of network traffic for security administration | IEEE Symposium on Visualization for Cyber Security (VIZSEC) | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04708] Immersive design of DNA molecules with a tangible interface | Visualization | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04714] Interactive Tools for Virtual X-Ray Vision in Mobile Augmented Reality | Proceedings - International Symposium on Mixed and Augmented | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04715] Interactive Visualization of Small World Graphs | IEEE Symposium on Information Visualization | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04716] Intersection-Free Morphing of Planar Graphs | Lecture notes in computer science | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04717] Intuitive real-time network monitoring using visually orthogonal 3D metaphors |  | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04719] Layout of Graphs with Bounded Tree-Width | SIAM Journal on Computing | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04724] Managing attack graph complexity through visual hierarchical aggregation | IEEE Symposium on Visualization for Cyber Security (VIZSEC) | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04731] Minimising the Number of Bends and Volume in 3-Dimensional Orthogonal Graph Drawings with a Diagonal Vertex Layout | Algorithmica | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04735] Network biology: understanding the cell's functional organization | Nature Reviews Genetics | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04738] On tangible user interfaces, humans and spatiality | Personal and Ubiquitous Computing | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04740] Organization, development and function of complex brain networks | Trends in cognitive sciences | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04747] Proc. Graph Drawing |  | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04751] Proceedings of the Immersive Projection Technology Workshop. |  | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04752] Protein interaction networks from yeast to human | Curr Opin Struct Biol | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04753] ProViz: protein interaction visualization and exploration | Bioinformatics | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04756] Réalité mixte et travail collaboratif : IRVO, un modèle de l'interaction homme-machine. (Mixed reality and collaborative work: IRVO, a human-computer interaction model) |  | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04759] Searching for intellectual turning points: Progressive knowledge domain visualization | Proceedings of the National Academy of Sciences | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04763] Simultaneous embedding and visualization of graphs |  | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04764] Simultaneous Graph Drawing: Layout Algorithms and Visualization Schemes | Lecture notes in computer science | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04766] Skeletal animation for the exploration of graphs | InVis.au | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04767] Snap2Diverse: coordinating information visualizations and virtual environments | Proceedings of SPIE, the International Society for Optical E | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04768] Social Network Visualization: Can We Go Beyond the Graph? | Workshop on Social Networks for Design and Analysis: Using N | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04770] Stacks, Queues and Tracks: Layouts of Graph Subdivisions | Discrete Mathematics & Theoretical Computer Science | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04774] Tangible user interface input: tools and techniques |  | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04777] The Biomolecular Interaction Network Database and related tools 2005 update | Nucleic Acids Research | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04779] The Development of Social Network Analysis: A Study in the Sociology of Science | Administrative Science Quarterly | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04780] The dynamics of personal networks at the time of entry into adult life | Social Networks | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04787] Three-Dimensional 1-Bend Graph Drawings | Journal of Graph Algorithms and Applications | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04789] Toolkit design for interactive structured graphics | IEEE Transactions on Software Engineering | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04791] Topological Fisheye Views for Visualizing Large Graphs | IEEE Transactions on Visualization and Computer Graphics | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04793] Track Layouts of Graphs | Discrete Mathematics & Theoretical Computer Science | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04801] VisANT: an online visualization and analysis tool for biological interaction data | BMC Bioinformatics | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04802] Visual Understanding of Metabolic Pathways Across Organisms Using Layout in Two and a Half Dimensions | Berichte aus der medizinischen Informatik und Bioinformatik/ | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04803] Visualising Changes in Fund Manager Holdings in Two and a Half-Dimensions | Information Visualization | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04804] Visualising very large phylogenetic trees in three dimensional hyperbolic space | BMC Bioinformatics | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04805] Visualisation of Large and Complex Networks Using PolyPlane | Lecture notes in computer science | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04806] Visualization of semantic metadata and ontologies | IEEE Conference on Information Visualization (IV) | 2004
+    ABS: [abstract omitted; see the DOI]

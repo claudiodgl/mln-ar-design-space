@@ -1,0 +1,537 @@
+cid,decision,code,note
+C02681,exclude,E1,
+C02682,exclude,E2,
+C02683,background,B,design space of composite views; juxtapose/superimpose patterns
+C02684,exclude,E5,
+C02685,unsure,,interactive graph comparison; may count as multi-graph vis
+C02686,exclude,E1,
+C02687,exclude,E6,draft version of Orion (C02688)
+C02688,include,I1,Orion heterogeneous multi-relational network modeling and vis
+C02689,exclude,E5,
+C02690,exclude,E2,
+C02691,exclude,E2,
+C02692,include,I5,TreeMatrix hybrid matrix/node-link compound graph representation
+C02693,exclude,E3,
+C02694,unsure,,hive plots; possible MLN building block (I5)
+C02695,unsure,,multi-omics integration; may visualize multilayer networks
+C02696,exclude,E2,
+C02697,background,B,task typology framework for design space
+C02698,background,B,temporal network task taxonomy
+C02699,exclude,E1,
+C02700,include,I4,AR compact annotations anchored to physical objects
+C02701,exclude,E1,
+C02702,unsure,,heterogeneous semantic graph exploration; possibly multi-relational
+C02703,background,B,chapter on heterogeneous multilevel networks (multivariate vis book)
+C02704,exclude,E3,
+C02705,background,B,multivariate network visualization introduction chapter
+C02706,background,B,foundational multilayer network formalism review
+C02707,background,B,multivariate network visualization book
+C02708,background,B,multivariate networks life sciences chapter
+C02709,unsure,,integrative bioinformatics network vis; may cover multiple networks
+C02710,exclude,E2,
+C02711,exclude,E2,
+C02712,exclude,E1,
+C02713,exclude,E2,
+C02714,include,I2,display fidelity study for 3D graphs (immersive)
+C02715,exclude,E4,
+C02716,exclude,E3,
+C02717,unsure,,VisNEST brain connectivity analysis; possibly immersive
+C02718,exclude,E2,
+C02719,include,I1,multimodal social network visual analytics
+C02720,exclude,E2,
+C02721,include,I1,weighted graph comparison of multiple connectivity networks
+C02722,exclude,E5,
+C02723,exclude,E5,
+C02724,exclude,E5,
+C02725,exclude,E5,
+C02726,exclude,E5,
+C02727,unsure,,3D network spatialization; may be immersive
+C02728,exclude,E5,
+C02729,exclude,E2,
+C02730,exclude,E1,
+C02731,include,I2,stereoscopic 3D graph visualization evaluation
+C02732,include,I2,BrainX3 immersive brain network exploration
+C02733,unsure,,software co-evolution; possibly immersive 3D graph
+C02734,unsure,,multi-projection collaborative vis; data type unclear
+C02735,exclude,E1,
+C02736,unsure,,multiplex entanglement; may include visualization
+C02737,exclude,E1,
+C02738,include,I4,AR drone navigation using spatial context
+C02739,exclude,E3,
+C02740,exclude,E3,
+C02741,exclude,E2,
+C02742,include,I1,OnionGraph heterogeneous network visualization
+C02743,exclude,E5,
+C02744,exclude,E2,
+C02745,exclude,E2,
+C02746,exclude,E2,
+C02747,exclude,E1,
+C02748,exclude,E2,
+C02749,include,I4,AR poster: solar data visualized on building facades
+C02750,exclude,E5,
+C02751,exclude,E5,
+C02752,exclude,E1,
+C02753,include,I4,collaborative AR navigation with 3D-printed physical terrain
+C02754,exclude,E1,
+C02755,include,I2,immersive 3D connectome network with sonification
+C02756,include,I4,spatial AR for 3D data visualization
+C02757,background,B,tasks for multivariate network analysis
+C02758,exclude,E2,
+C02759,background,B,position on stereoscopic 3D for infovis
+C02760,background,B,multilayer network structure review (definitions)
+C02761,include,I2,VR embodied exploration of large networks
+C02762,background,B,visualization design framework book
+C02763,include,I1,social networks with multiple edge sets
+C02764,exclude,E4,
+C02765,exclude,E5,
+C02766,exclude,E5,
+C02767,exclude,E5,
+C02768,background,B,survey of multi-faceted graph visualization
+C02769,background,B,temporal graph task taxonomy
+C02770,include,I2,immersive 3D graph visualization multi-projection
+C02771,exclude,E2,
+C02772,include,I2,BrainX3 VR network navigation with sonification
+C02773,include,I2,VR connectome topology exploration
+C02774,include,I2,BrainX3 VR connectome exploration
+C02775,exclude,E5,
+C02776,exclude,E3,
+C02777,exclude,E2,
+C02778,background,B,immersive analytics position
+C02779,exclude,E5,
+C02780,exclude,E2,
+C02781,exclude,E3,
+C02782,exclude,E1,
+C02783,exclude,E1,
+C02784,background,B,data physicalization research agenda
+C02785,exclude,E3,
+C02786,include,I1,Refinery heterogeneous network exploration
+C02787,unsure,,matrix reordering library; possible I5 building block
+C02788,exclude,E1,
+C02789,exclude,E1,
+C02790,exclude,E1,
+C02791,exclude,E5,
+C02792,include,I2,software graphs in VR and AR
+C02793,exclude,E5,
+C02794,exclude,E2,
+C02795,exclude,E1,
+C02796,include,I2,stereoscopic depth encoding compound graph levels
+C02797,exclude,E1,
+C02798,exclude,E2,
+C02799,exclude,E2,
+C02800,background,B,embedded/situated data representation framework
+C02801,exclude,E3,
+C02802,exclude,E2,
+C02803,unsure,,immersive visualization of spiking neural network connectivity
+C02804,include,I4,AR volume blending with real-world objects
+C02805,include,I2,VR exploration of biological pathway networks
+C02806,exclude,E2,
+C02807,background,B,multilayer social networks book
+C02808,include,I1,NodeTrix-Multiplex multiplex network visualization
+C02809,include,I4,AR visualization of machine states in situ
+C02810,exclude,E5,
+C02811,exclude,E5,
+C02812,exclude,E5,
+C02813,exclude,E1,
+C02814,exclude,E2,
+C02815,include,I1,multi-layered chord layout for ego networks
+C02816,exclude,E1,
+C02817,exclude,E2,
+C02818,exclude,E1,
+C02819,background,B,survey of group structure visualization in graphs
+C02820,exclude,E3,
+C02821,exclude,E5,
+C02822,background,B,pathway network visualization task taxonomy
+C02823,exclude,E2,
+C02824,exclude,E2,
+C02825,exclude,E2,
+C02826,include,I1,degree-of-interest exploration of multilayer networks
+C02827,unsure,,attribute-based edge specification; may yield multiple edge types
+C02828,unsure,,spatially-aware mobiles + wall for graphs; spatial interaction
+C02829,unsure,,multi-type entity graphs; possibly heterogeneous network vis
+C02830,exclude,E3,
+C02831,include,I2,iCAVE immersive 3D biomolecular networks
+C02832,exclude,E2,
+C02833,unsure,,immersive analytics neuroscience; possibly connectome networks
+C02834,include,I2,VR visualization of software component graphs
+C02835,exclude,E1,
+C02836,exclude,E1,
+C02837,exclude,E1,
+C02838,exclude,E2,
+C02839,include,I2,HoloBee AR arcs between hives in situ (poster)
+C02840,exclude,E5,
+C02841,exclude,E5,
+C02842,exclude,E5,
+C02843,exclude,E1,
+C02844,exclude,E2,
+C02845,exclude,E5,
+C02846,exclude,E5,
+C02847,exclude,E5,
+C02848,exclude,E2,
+C02849,background,B,collaborative immersive analytics chapter
+C02850,exclude,E2,
+C02851,exclude,E2,
+C02852,background,B,immersive/situated analytics for built environments chapter
+C02853,background,B,survey of empirical graph visualization studies
+C02854,exclude,E3,
+C02855,include,I2,GraphVR VR graph exploration
+C02856,background,B,Immersive Analytics book
+C02857,background,B,immersive analytics introduction chapter
+C02858,background,B,immersive analytics chapter
+C02859,include,I4,AR in-situ factory layout planning
+C02860,background,B,immersive data storytelling chapter
+C02861,unsure,,VR geo-temporal narratives; entity relationships may form network
+C02862,exclude,E2,
+C02863,background,B,interaction for immersive analytics chapter
+C02864,background,B,design framework for immersive analytics
+C02865,include,I4,AR thermal flux overlaid on physical objects
+C02866,include,I4,MR guidance anchored to patient head
+C02867,background,B,multisensory immersive analytics chapter
+C02868,include,I2,NeuroCave immersive connectome visualization
+C02869,exclude,E3,
+C02870,include,I2,immersive origin-destination flow maps
+C02871,unsure,,network wrangling; may create heterogeneous multi-type networks
+C02872,exclude,E5,
+C02873,exclude,E3,
+C02874,background,B,situated analytics chapter
+C02875,exclude,E2,
+C02876,include,I2,VR interfaces for 3D graphs
+C02877,include,I2,VR protein-protein interaction networks
+C02878,unsure,,VR software architecture island metaphor; dependencies graph?
+C02879,exclude,E5,
+C02880,exclude,E5,
+C02881,exclude,E2,
+C02882,exclude,E2,
+C02883,include,I4,AR over physical sticky notes
+C02884,unsure,,VR brain data challenges; may cover connectivity networks
+C02885,include,I4,see-through HMDs combined with wall display
+C02886,exclude,E2,
+C02887,exclude,E2,
+C02888,exclude,E2,
+C02889,exclude,E4,
+C02890,exclude,E2,
+C02891,exclude,E2,
+C02892,unsure,,AR HMD extending CAVE2; spatial context use unclear
+C02893,exclude,E2,
+C02894,exclude,E5,
+C02895,exclude,E2,
+C02896,exclude,E2,
+C02897,exclude,E2,
+C02898,include,I4,location-based AR in-situ agricultural visualization
+C02899,include,I4,MARVisT glyph authoring in mobile AR
+C02900,unsure,,multi-perspective embedding of multiple distance/graph relations
+C02901,exclude,E5,
+C02902,exclude,E2,
+C02903,background,B,survey of immersive analytics
+C02904,exclude,E2,
+C02905,background,B,STAR multivariate network visualization
+C02906,include,I2,VR vs 2D software architecture graphs
+C02907,include,I2,software architecture graphs in VR and AR
+C02908,exclude,E2,
+C02909,unsure,,VR enterprise architecture models (layered graphs?)
+C02910,unsure,,VR/MR cyber operations; network data vis unclear
+C02911,include,I4,mobile AR text vis anchored to natural objects
+C02912,exclude,E3,
+C02913,exclude,E2,
+C02914,unsure,,AR software visualization; relationship graph unclear
+C02915,exclude,E5,
+C02916,exclude,E3,
+C02917,exclude,E3,
+C02918,exclude,E1,
+C02919,exclude,E2,
+C02920,exclude,E2,
+C02921,exclude,E2,
+C02922,exclude,E1,
+C02923,exclude,E2,
+C02924,exclude,E5,
+C02925,exclude,E5,
+C02926,exclude,E1,
+C02927,include,I1,interdependent power-water network visualization
+C02928,exclude,E5,
+C02929,exclude,E2,
+C02930,exclude,E1,
+C02931,exclude,E1,
+C02932,exclude,E1,
+C02933,exclude,E3,
+C02934,exclude,E1,
+C02935,exclude,E1,
+C02936,unsure,,heterogeneous research-community networks tool; vis unclear
+C02937,exclude,E5,
+C02938,exclude,E5,
+C02939,exclude,E2,
+C02940,include,I1,interdependent transit-power network visualization
+C02941,exclude,E2,
+C02942,exclude,E2,
+C02943,exclude,E2,
+C02944,exclude,E3,
+C02945,background,B,STAR empirical evaluation of graph visualization
+C02946,exclude,E2,
+C02947,exclude,E2,
+C02948,include,I4,situated visualization toolkit on HoloLens
+C02949,unsure,,AR extension to desktop 3D analysis; AR-specific value unclear
+C02950,unsure,,AR software comprehension; relationship graph likely
+C02951,include,I4,AR for sailing situated in physical environment
+C02952,exclude,E3,
+C02953,exclude,E2,
+C02954,include,I1,matrix encodings for networks with multiple edge types
+C02955,exclude,E3,
+C02956,exclude,E5,
+C02957,exclude,E3,
+C02958,exclude,E5,
+C02959,unsure,,AR volume vis with tracked handheld display; AR value unclear
+C02960,exclude,E2,
+C02961,exclude,E2,
+C02962,unsure,,VR node-link of neural network architecture
+C02963,exclude,E2,
+C02964,exclude,E2,
+C02965,background,B,immersive vis methods by type-by-task taxonomy
+C02966,exclude,E3,
+C02967,exclude,E2,
+C02968,include,I2,first-person VR graph exploration
+C02969,exclude,E2,
+C02970,background,B,grand challenges in immersive analytics
+C02971,background,B,survey immersive abstract 3D visualization
+C02972,exclude,E2,
+C02973,include,I4,real-world background effects on AR visualization perception
+C02974,include,I4,MARVIS AR views anchored around mobile devices
+C02975,exclude,E2,
+C02976,exclude,E2,
+C02977,include,I4,AR situated patient monitoring
+C02978,exclude,E2,
+C02979,exclude,E1,
+C02980,exclude,E2,
+C02981,exclude,E2,
+C02982,background,B,reality-virtuality continuum taxonomy revisited
+C02983,unsure,,cross-device AR design space framework; visualization unclear
+C02984,exclude,E2,
+C02985,include,I4,spatially-aware tablet touch input with AR HMD
+C02986,exclude,E2,
+C02987,exclude,E1,
+C02988,exclude,E2,
+C02989,exclude,E1,
+C02990,include,I2,immersive VR genome graph exploration
+C02991,background,B,STAR spatial interfaces for 3D visualization
+C02992,exclude,E1,
+C02993,background,B,position on value of immersive visualization
+C02994,background,B,survey hypergraph visualization
+C02995,include,I4,situated AR visualization for basketball training
+C02996,exclude,E3,
+C02997,exclude,E5,
+C02998,exclude,E2,
+C02999,exclude,E4,
+C03000,background,B,geospatial network vis survey and design space
+C03001,exclude,E3,
+C03002,exclude,E2,
+C03003,exclude,E2,
+C03004,background,B,survey of situated visualization
+C03005,exclude,E2,
+C03006,exclude,E1,
+C03007,background,B,survey of cross-virtuality analytics
+C03008,exclude,E1,
+C03009,exclude,E1,
+C03010,unsure,,charts overlaid on presenter video with hand interaction
+C03011,exclude,E1,
+C03012,exclude,E1,
+C03013,unsure,,claims multilayer graph visualizations; dubious preprint
+C03014,exclude,E1,
+C03015,include,I4,view layout for situated multiple-view immersive analytics
+C03016,exclude,E2,
+C03017,background,B,immersive analytics overview
+C03018,exclude,E2,
+C03019,exclude,E3,
+C03020,exclude,E2,
+C03021,exclude,E1,
+C03022,exclude,E5,
+C03023,include,I2,microservice dependency graphs in AR
+C03024,exclude,E5,
+C03025,exclude,E3,
+C03026,exclude,E3,
+C03027,unsure,,many geo-networks compared across levels; multilayer-like
+C03028,exclude,E3,
+C03029,exclude,E5,
+C03030,include,I4,RagRug situated analytics toolkit with physical model
+C03031,exclude,E5,
+C03032,include,I4,smartphone plus AR using surrounding space
+C03033,exclude,E2,
+C03034,exclude,E1,
+C03035,exclude,E2,
+C03036,exclude,E2,
+C03037,exclude,E2,
+C03038,exclude,E3,
+C03039,exclude,E2,
+C03040,exclude,E2,
+C03041,exclude,E2,
+C03042,exclude,E5,
+C03043,exclude,E1,
+C03044,exclude,E2,
+C03045,background,B,roadmap of network vis surveys and taxonomies
+C03046,exclude,E7,
+C03047,exclude,E2,
+C03048,unsure,,bipartite multivariate dynamic networks; two-mode layers?
+C03049,exclude,E1,
+C03050,include,I2,AR vs 2D microservice graph visualization
+C03051,include,I4,situated visualization memory and physical context
+C03052,include,I4,design space for view management in immersive space
+C03053,exclude,E2,
+C03054,exclude,E2,
+C03055,exclude,E1,
+C03056,exclude,E2,
+C03057,exclude,E1,
+C03058,unsure,,mixed reality knowledge graph visualization
+C03059,unsure,,network vis grammar; may support multilayer networks
+C03060,exclude,E3,
+C03061,exclude,E5,
+C03062,exclude,E3,
+C03063,exclude,E1,
+C03064,include,I2,SONIA VR brain network exploration
+C03065,exclude,E1,
+C03066,exclude,E2,
+C03067,exclude,E1,
+C03068,exclude,E3,
+C03069,exclude,E1,
+C03070,exclude,E1,
+C03071,exclude,E2,
+C03072,unsure,,immersive course exploration; possibly knowledge graph
+C03073,exclude,E1,
+C03074,exclude,E2,
+C03075,exclude,E7,
+C03076,unsure,,multi-omics on pathway networks; possibly layered
+C03077,exclude,E3,
+C03078,exclude,E5,
+C03079,exclude,E5,
+C03080,exclude,E5,
+C03081,exclude,E2,
+C03082,exclude,E1,
+C03083,exclude,E2,
+C03084,background,B,SLR user evaluation in immersive analytics
+C03085,include,I2,AR graph shortest-path learning game
+C03086,include,I2,AIDEN VR RDF knowledge graph exploration
+C03087,unsure,,metaverse systems biology; possibly immersive network vis
+C03088,exclude,E3,
+C03089,background,B,survey biological network visualization (heterogeneous data)
+C03090,exclude,E2,
+C03091,exclude,E2,
+C03092,exclude,E2,
+C03093,exclude,E2,
+C03094,include,I1,coupled road-power networks visual analytics
+C03095,exclude,E1,
+C03096,exclude,E2,
+C03097,exclude,E1,
+C03098,include,I1,dynamic graph comics juxtaposing time slices as panels
+C03099,exclude,E3,
+C03100,unsure,,multi-layer network exploration of product changes; no abstract
+C03101,exclude,E2,
+C03102,exclude,E2,
+C03103,exclude,E6,
+C03104,exclude,E2,
+C03105,exclude,E3,
+C03106,exclude,E1,
+C03107,unsure,,multiview AR material data; AR anchoring unclear
+C03108,unsure,,path visualization on adjacency matrices; possible I5
+C03109,exclude,E1,
+C03110,exclude,E1,
+C03111,exclude,E1,
+C03112,exclude,E1,
+C03113,exclude,E3,
+C03114,exclude,E2,
+C03115,exclude,E3,
+C03116,exclude,E3,
+C03117,exclude,E5,
+C03118,exclude,E5,
+C03119,exclude,E2,
+C03120,exclude,E2,
+C03121,exclude,E2,
+C03122,background,B,STAR graph visualization in non-Euclidean spaces
+C03123,unsure,,immersive spatial hypertext (node-link structure) position
+C03124,exclude,E5,
+C03125,exclude,E1,
+C03126,unsure,,two-layer geo-map plus social network visual analytics
+C03127,exclude,E2,
+C03128,exclude,E2,
+C03129,background,B,survey compound graph group structure visualization
+C03130,exclude,E1,
+C03131,exclude,E2,
+C03132,include,I4,AR embedded X-ray visualization in physical space
+C03133,exclude,E3,
+C03134,include,I4,DashSpace collaborative AR ubiquitous analytics
+C03135,exclude,E2,
+C03136,exclude,E2,
+C03137,exclude,E2,
+C03138,exclude,E2,
+C03139,exclude,E2,
+C03140,exclude,E2,
+C03141,exclude,E2,
+C03142,exclude,E3,
+C03143,exclude,E3,
+C03144,exclude,E3,
+C03145,exclude,E2,
+C03146,exclude,E3,
+C03147,exclude,E2,
+C03148,exclude,E2,
+C03149,exclude,E2,
+C03150,exclude,E2,
+C03151,background,B,scoping immersive data-driven storytelling
+C03152,exclude,E5,
+C03153,include,I2,crossing perception in stereoscopic 3D graphs
+C03154,exclude,E5,
+C03155,exclude,E2,
+C03156,exclude,E2,
+C03157,exclude,E3,
+C03158,exclude,E3,
+C03159,exclude,E3,
+C03160,exclude,E2,
+C03161,exclude,E2,
+C03162,exclude,E2,
+C03163,exclude,E1,
+C03164,exclude,E2,
+C03165,exclude,E2,
+C03166,exclude,E4,
+C03167,exclude,E2,
+C03168,exclude,E2,
+C03169,include,I4,design space for embedded urban data visualizations
+C03170,exclude,E2,
+C03171,unsure,,immersive contextual urban heat table; AR/tangible unclear
+C03172,unsure,,gesture-aware AR video overlay for data presentations
+C03173,exclude,E1,
+C03174,exclude,E2,
+C03175,exclude,E2,
+C03176,background,B,scoping survey of AR-extended physical displays
+C03177,exclude,E1,
+C03178,exclude,E2,
+C03179,exclude,E2,
+C03180,include,I1,Arena3D multilayer networks in 3D layers
+C03181,exclude,E1,
+C03182,exclude,E1,
+C03183,exclude,E2,
+C03184,exclude,E1,
+C03185,include,I4,MR link representations between views using spatial affordances
+C03186,unsure,,immersive knowledge graph vis position paper
+C03187,background,B,challenges for theory-grounded XR visualization
+C03188,exclude,E2,
+C03189,exclude,E3,
+C03190,exclude,E2,
+C03191,exclude,E2,
+C03192,exclude,E5,
+C03193,exclude,E3,
+C03194,background,B,understanding design spaces in visualization
+C03195,background,B,human factors in immersive analytics
+C03196,unsure,,immersive AR authoring; physical anchoring unclear
+C03197,exclude,E2,
+C03198,exclude,E2,
+C03199,exclude,E7,
+C03200,exclude,E2,
+C03201,exclude,E2,
+C03202,include,I2,crossing perception factors in stereoscopic 3D graphs
+C03203,include,I4,AR incidental contextual visualizations
+C03204,background,B,survey XR interaction for scientific data
+C03205,include,I4,situated visualization responsive to viewing distance
+C03206,include,I2,immersive analytics of workflow graphs
+C03207,exclude,E2,
+C03208,exclude,E1,
+C03209,exclude,E2,
+C03210,exclude,E2,
+C03211,exclude,E2,
+C03212,background,B,survey information diffusion network visualization
+C03213,exclude,E2,
+C03214,exclude,E2,
+C03215,exclude,E4,
+C03216,exclude,E2,

@@ -1,0 +1,43 @@
+{
+ "note": "prisma_counts.json (state after snowballing round 5) + IEEE Xplore search; prisma_counts.json itself is unchanged",
+ "ieee_records_identified": 384,
+ "ieee_unique_works": 295,
+ "ieee_works_already_in_corpus": 256,
+ "ieee_new_candidates": 39,
+ "ieee_new_kept_by_keyword_rule": 39,
+ "ieee_new_excluded_E0": 0,
+ "ieee_hits_per_query": {
+  "Q1_v4": 36,
+  "Q2_v3": 157,
+  "Q3_v4": 3,
+  "Q4_v2": 26,
+  "Q5_v2": 18,
+  "Q6_v2": 58,
+  "Q7_v2": 86
+ },
+ "records_identified_total": 66558,
+ "records_identified_database_search": 4491,
+ "records_identified_snowballing": 62067,
+ "unique_after_dedup": 21111,
+ "unique_from_search_increase": 39,
+ "benchmark_size": 28,
+ "benchmark_retrieved_by_ieee": [
+  "B01",
+  "B06",
+  "B07",
+  "B08",
+  "B12",
+  "B15",
+  "B16",
+  "B17",
+  "B18",
+  "B25"
+ ],
+ "benchmark_recall_searches_without_ieee": "26/28",
+ "benchmark_recall_searches_with_ieee": "26/28",
+ "benchmark_only_via_ieee": [],
+ "benchmark_missed_by_all_searches": [
+  "B09",
+  "B31"
+ ]
+}

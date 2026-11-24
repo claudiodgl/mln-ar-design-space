@@ -1,0 +1,126 @@
+[C03186] Bridging the Gap in Immersive Analytics: Visualizing Unstructured Data in the Era of Generative AI | AHFE international | 2026 | doi:10.54941/ahfe1007650
+    WHY UNSURE: immersive knowledge graph vis position paper
+    FULLTEXT: fulltext/txt/C03186.txt
+[C03196] “I Feel Like Iron Man”: Authoring, Exploring, and Presenting Data Visualizations in Immersive AR | IEEE Transactions on Visualization and Computer Graphics | 2026 | doi:10.1109/tvcg.2026.3672314
+    WHY UNSURE: immersive AR authoring; physical anchoring unclear
+    FULLTEXT: fulltext/txt/C03196.txt
+[R2-C04088] Visualising software in cyberspace | Durham e-Theses (Durham University) | 1999 | doi:
+    WHY UNSURE: thesis on 3D/VR software graph vis; check
+    FULLTEXT: fulltext/txt/R2-C04088.txt
+[R2-C04872] Drawing the AS Graph in 2.5 Dimensions | Lecture notes in computer science | 2005 | doi:10.1007/978-3-540-31843-9_6
+    WHY UNSURE: 2.5D drawing of AS graph; check layered planes
+    FULLTEXT: fulltext/txt/R2-C04872.txt
+[R2-C05119] Graph-based analysis and visualization of experimental results with ONDEX | Bioinformatics | 2006 | doi:10.1093/bioinformatics/btl081
+    WHY UNSURE: ONDEX integrated multi-relational biological graph vis
+    FULLTEXT: fulltext/txt/R2-C05119.txt
+[R2-C05895] J2.5dPathway: A 2.5D Visualization Tool to Display Selected Nodes in Biological Pathways, in Parallel Planes | Genomics & Informatics | 2009 | doi:10.5808/gi.2009.7.3.171
+    WHY UNSURE: 2.5D pathways in parallel planes; possible layered/multilayer
+    FULLTEXT: fulltext/txt/R2-C05895.txt
+[R2-C06295] User interface design for military AR applications | Virtual Reality | 2010 | doi:10.1007/s10055-010-0179-1
+    WHY UNSURE: Military AR UI design; check situated data vis
+    FULLTEXT: fulltext/txt/R2-C06295.txt
+[R2-C06405] Creating views on integrated multidomain data | Bioinformatics | 2011 | doi:10.1093/bioinformatics/btr282
+    WHY UNSURE: Integrated multidomain biological data views; possibly multi-network
+    FULLTEXT: fulltext/txt/R2-C06405.txt
+[R2-C06516] Materializing the query with facet-streams: a hybrid surface for collaborative search on tabletops | CHI Conference on Human Factors in Computing Systems | 2011 | doi:10.1145/1978942.1979390
+    WHY UNSURE: tangible tabletop with stream-linked tokens; check if graph/physical
+    FULLTEXT: fulltext/txt/R2-C06516.txt
+[R2-C07910] Support of Temporal Change Observation Using Augmented Reality for Learning | Lecture notes in computer science | 2014 | doi:10.1007/978-3-319-07464-1_14
+    WHY UNSURE: AR for observing temporal change in learning; no abstract
+    FULLTEXT: fulltext/txt/R2-C07910.txt
+[R2-C08192] Exploring legibility of augmented reality X-ray | Multimedia Tools and Applications | 2015 | doi:10.1007/s11042-015-2954-1
+    WHY UNSURE: AR X-ray legibility; check if data vis (I4)
+    FULLTEXT: fulltext/txt/R2-C08192.txt
+[R2-C08585] Augmented Reality with Hololens: Experiential Architectures Embedded in the Real World | Authorea | 2016 | doi:10.22541/au.148821660.05483993
+    WHY UNSURE: HoloLens experiences incl. in-situ data vis; check content
+    FULLTEXT: fulltext/txt/R2-C08585.txt
+[R2-C09078] 3D-Stereoscopic Immersive Analytics Projects at Monash University and University of Konstanz | Electronic Imaging | 2017 | doi:10.2352/issn.2470-1173.2017.5.sda-109
+    WHY UNSURE: CAVE2/stereo immersive analytics projects; may include networks
+    FULLTEXT: fulltext/txt/R2-C09078.txt
+[R2-C09345] Interactive graph query language for multidimensional data in Collaboration Spotting visual analytics framework | arXiv (Cornell University) | 2017 | doi:10.48550/arxiv.1712.04202
+    WHY UNSURE: decomposes networks into facets; possible multilayer vis
+    FULLTEXT: fulltext/txt/R2-C09345.txt
+[R2-C09416] multinet: Analysis and Mining of Multilayer Social Networks |  | 2017 | doi:10.32614/cran.package.multinet
+    WHY UNSURE: multilayer analysis R library; may include multilayer plotting
+    FULLTEXT: fulltext/txt/R2-C09416.txt
+[R2-C09597] Use of Random Dot Patterns in Achieving X-Ray Vision for Near-Field Applications of Stereoscopic Video-Based Augmented Reality Displays | PRESENCE: Teleoperators and Virtual Environments | 2017 | doi:10.1162/pres_a_00286
+    WHY UNSURE: AR x-ray vision of occluded physical objects; I4 borderline
+    FULLTEXT: fulltext/txt/R2-C09597.txt
+[R2-C09752] Augmenting geovisual analytics of social media data with heterogeneous information network mining—Cognitive plausibility assessment | PLoS ONE | 2018 | doi:10.1371/journal.pone.0206906
+    WHY UNSURE: heterogeneous information network in geovisual analytics; multi-relational?
+    FULLTEXT: fulltext/txt/R2-C09752.txt
+[R2-C09840] Dynamic Composite Data Physicalization Using Wheeled Micro-Robots | IEEE Transactions on Visualization and Computer Graphics | 2018 | doi:10.1109/tvcg.2018.2865159
+    WHY UNSURE: physicalization design space (micro-robots); check networks or B
+    FULLTEXT: fulltext/txt/R2-C09840.txt
+[R2-C09892] From Virtual Reality to Immersive Analytics in Bioinformatics | Berichte aus der medizinischen Informatik und Bioinformatik/ | 2018 | doi:10.1515/jib-2018-0043
+    WHY UNSURE: immersive bioinformatics incl. pathways; may include immersive networks
+    FULLTEXT: fulltext/txt/R2-C09892.txt
+[R2-C09973] Large Graph Exploration via Subgraph Discovery and Decomposition | arXiv (Cornell University) | 2018 | doi:10.48550/arxiv.1808.04414
+    WHY UNSURE: 3D layered edge-decomposition of large graphs; check layer representation
+    FULLTEXT: fulltext/txt/R2-C09973.txt
+[R2-C10149] Towards Commodity, Web-Based Augmented Reality Applications for Research and Education in Chemistry and Structural Biology | arXiv (Cornell University) | 2018 | doi:10.48550/arxiv.1806.08332
+    WHY UNSURE: web AR with physical markers for molecular models; I4 borderline
+    FULLTEXT: fulltext/txt/R2-C10149.txt
+[R2-C10214] Visualising Geographically-Embedded Origin-Destination Flows: in 2D and immersive environments | arXiv (Cornell University) | 2018 | doi:10.26180/5c087e9980d8a
+    WHY UNSURE: immersive OD flow maps (geo network); thesis; check I2/duplicates
+    FULLTEXT: fulltext/txt/R2-C10214.txt
+[R2-C10378] ChordLink: A New Hybrid Visualization Model | Lecture notes in computer science | 2019 | doi:10.1007/978-3-030-35802-0_22
+    WHY UNSURE: ChordLink hybrid chord/node-link (NodeTrix-like); check I5
+    FULLTEXT: fulltext/txt/R2-C10378.txt
+[R2-C10437] Designing for Mobile and Immersive Visual Analytics in the Field | IEEE Transactions on Visualization and Computer Graphics | 2019 | doi:10.1109/tvcg.2019.2934282
+    WHY UNSURE: mobile/immersive field VA integrating data in situ; I4 candidate
+    FULLTEXT: fulltext/txt/R2-C10437.txt
+[R2-C10481] Evaluating the Navigation in Software Visualization in Augmented Reality with Speech Processing | elib (German Aerospace Center) | 2019 | doi:
+    WHY UNSURE: software architecture vis in AR; check physical anchoring
+    FULLTEXT: fulltext/txt/R2-C10481.txt
+[R2-C10606] Leveraging Body Interactions to Support Immersive Analytics | Monash University Research Portal (Monash University) | 2019 | doi:
+    WHY UNSURE: body as physical support for immersive analytics; check AR/tangible
+    FULLTEXT: fulltext/txt/R2-C10606.txt
+[R2-C10686] PerfVis: Pervasive Visualization in Immersive Augmented Reality for Performance Awareness | ACM/SPEC International Conference on Performance Engineering | 2019 | doi:10.1145/3302541.3313104
+    WHY UNSURE: Pervasive AR city vis in workspace; check spatial anchoring
+    FULLTEXT: fulltext/txt/R2-C10686.txt
+[R2-C10733] Sketching and Ideation Activities for Situated Visualization Design | Designing Interactive Systems Conference | 2019 | doi:10.1145/3322276.3322326
+    WHY UNSURE: Situated vis design workshops; physical referents, not AR tech
+    FULLTEXT: fulltext/txt/R2-C10733.txt
+[R2-C10776] TempoCave: Visualizing Dynamic Connectome Datasets to Support Cognitive Behavioral Therapy | Visualization | 2019 | doi:10.1109/visual.2019.8933544
+    WHY UNSURE: Dynamic connectome vis; possibly immersive/VR, check
+    FULLTEXT: fulltext/txt/R2-C10776.txt
+[R2-C11044] Combining Network Visualization and Data Mining for Tax Risk Assessment | IEEE Access | 2020 | doi:10.1109/access.2020.2967974
+    WHY UNSURE: Network of several relationship kinds among taxpayers
+    FULLTEXT: fulltext/txt/R2-C11044.txt
+[R2-C11224] IMMERSIVE VISUALISATIONS IN DESIGN: USING AUGMENTED REALITY (AR) FOR INFORMATION PRESENTATION | Proceedings of the Design Society DESIGN Conference | 2020 | doi:10.1017/dsd.2020.33
+    WHY UNSURE: AR information presentation in design reviews; check vis technique
+    FULLTEXT: fulltext/txt/R2-C11224.txt
+[R2-C11239] Interactive Multi-User 3D Visual Analytics in Augmented Reality | Electronic Imaging | 2020 | doi:10.2352/issn.2470-1173.2020.13.ervr-363
+    WHY UNSURE: Multi-user 3D visual analytics in AR; check spatial anchoring
+    FULLTEXT: fulltext/txt/R2-C11239.txt
+[R2-C11260] Living with Rules: An AR Approach | IEEE International Symposium on Mixed and Augmented Reality  | 2020 | doi:10.1109/ismar-adjunct51615.2020.00063
+    WHY UNSURE: Outdoor AR helmet visualizing social-distancing rules in space
+    FULLTEXT: fulltext/txt/R2-C11260.txt
+[R2-C11457] The Effectiveness of Interactive Visualization Techniques for Time Navigation of Dynamic Graphs on Large Displays | IEEE Transactions on Visualization and Computer Graphics | 2020 | doi:10.1109/tvcg.2020.3030446
+    WHY UNSURE: Dynamic graph time navigation; small multiples of timeslices?
+    FULLTEXT: fulltext/txt/R2-C11457.txt
+[R2-C11763] Exploring Relations in Neuroscientific Literature using Augmented Reality: A Design Study | Designing Interactive Systems Conference | 2021 | doi:10.1145/3461778.3462053
+    WHY UNSURE: DatAR AR literature relations; likely AR node-link of concepts
+    FULLTEXT: fulltext/txt/R2-C11763.txt
+[R2-C12106] Visualisation of Long in Time Dynamic Networks on Large Touch Displays | Cronfa (Swansea University) | 2021 | doi:10.23889/suthesis.58974
+    WHY UNSURE: thesis: long dynamic networks on touch displays; check time-slice layers
+    FULLTEXT: fulltext/txt/R2-C12106.txt
+[R2-C12120] Watch that seam! Designing hybrid presentations with data visualisation in augmented reality | Strathprints: The University of Strathclyde institutional re | 2021 | doi:10.57698/v15i2.01
+    WHY UNSURE: AR data vis in presentations; check AR-specific spatial anchoring
+    FULLTEXT: fulltext/txt/R2-C12120.txt
+[R2-C12274] Cytoscape stringApp 2.0: Analysis and Visualization of Heterogeneous Biological Networks | J. Proteome Res. | 2022 | doi:10.1021/acs.jproteome.2c00651
+    WHY UNSURE: heterogeneous (multi-type) biological networks in Cytoscape
+    FULLTEXT: fulltext/txt/R2-C12274.txt
+[R2-C12297] DGSVis: Visual Analysis of Hierarchical Snapshots in Dynamic Graph | arXiv (Cornell University) | 2022 | doi:10.48550/arxiv.2205.13220
+    WHY UNSURE: dynamic graph snapshots; check juxtaposed slices
+    FULLTEXT: fulltext/txt/R2-C12297.txt
+[R2-C12454] MOBS - Multi-Omics Brush for Subgraph Visualisation | Eurographics Conference on Visualization | 2022 | doi:10.2312/evp.20221116
+    WHY UNSURE: multi-omics subgraph brushing; possibly multilayer; no abstract
+    FULLTEXT: fulltext/txt/R2-C12454.txt
+[R2-C12546] RoboHapalytics: A Robot Assisted Haptic Controller for Immersive Analytics | IEEE Transactions on Visualization and Computer Graphics | 2022 | doi:10.1109/tvcg.2022.3209433
+    WHY UNSURE: robotic haptic tangible proxy for immersive analytics
+    FULLTEXT: fulltext/txt/R2-C12546.txt
+[R2-C12702] A Comparative Study of Safety Zone Visualisations for Virtual and Physical Robot Arms Using Augmented Reality | Computers | 2023 | doi:10.3390/computers12040075
+    WHY UNSURE: AR safety zones anchored to robot arm; data vis?
+    FULLTEXT: fulltext/txt/R2-C12702.txt

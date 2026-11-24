@@ -1,0 +1,40 @@
+cid,decision,code,note
+IEEE-C00001,exclude,E2,AR animated agents framework; no abstract data
+IEEE-C00002,exclude,E2,UI specification language for AR assembly/maintenance UIs
+IEEE-C00003,exclude,E2,geometry acquisition of physical objects
+IEEE-C00004,exclude,E5,"poster; collaborative map annotation, no abstract data"
+IEEE-C00005,exclude,E2,projector-based tangible UI (magic lens / virtual book); no abstract data
+IEEE-C00006,exclude,E2,hybrid tabletop + HWD for modeling and urban models (physical scenes)
+IEEE-C00007,exclude,E2,curvature field on physical objects (A1 clarification: field on real object)
+IEEE-C00008,exclude,E5,front matter (committees)
+IEEE-C00009,exclude,E2,mobile AR exergame
+IEEE-C00010,exclude,E5,front matter (title page)
+IEEE-C00011,exclude,E2,AR procedure guidance overlays (A1)
+IEEE-C00012,exclude,E2,projection of Earth texture on a sphere; no abstract data
+IEEE-C00013,exclude,E2,MR driving simulation with tangible toy car
+IEEE-C00014,exclude,E2,AR anatomy magic mirror (medical overlay)
+IEEE-C00015,exclude,E2,pseudo-haptic softness perception in spatial AR
+IEEE-C00016,exclude,E2,workshop; energy/temperature transfer in tangible house model = thermal field on real object (A1 clarification)
+IEEE-C00017,exclude,E2,virtual-physical product prototyping
+IEEE-C00018,exclude,E2,AR electricity analogies on tangible circuit blocks; physical simulation not abstract-data vis
+IEEE-C00019,exclude,E2,AR story authoring
+IEEE-C00020,exclude,E2,outdoor AR registration method
+IEEE-C00021,exclude,E2,air-flow field overlay on A/C unit (A1 clarification: flow field)
+IEEE-C00022,exclude,E2,MR object substitution grasping study
+IEEE-C00023,exclude,E2,AR HMD + phone multitask workspaces; no data visualization
+IEEE-C00024,exclude,E2,selection techniques for AR-extended desktop; no data visualization
+IEEE-C00025,exclude,E2,volume rendering on HoloLens (volumes = spatial scientific data)
+IEEE-C00026,exclude,E5,book chapter overview of AR/VR + IoT in manufacturing
+IEEE-C00027,exclude,E2,handheld AR reachability in industrial cells
+IEEE-C00028,unsure,I4?,CG&A 2023: mobile AR on 3D-printed physicalizations of historical sites; I4 only if the overlaid content counts as abstract data (A1) - check full text
+IEEE-C00029,exclude,E2,notation for describing cross-reality experiences; not an AR visualization of data
+IEEE-C00030,exclude,E2,AR anatomy education (3D anatomy models)
+IEEE-C00031,unsure,I4?,"handheld AR showing food-resource quantities (land, livestock, water) as 3D objects in the scanned kitchen = abstract data + spatial context? check full text"
+IEEE-C00032,unsure,I4?,"AR HMD + tablet for geospatial model building/comparison; check whether it uses an AR-specific value (anchoring, tangible/touch, spatial context)"
+IEEE-C00033,exclude,E2,MR drone path planning with virtual obstacles
+IEEE-C00034,unsure,I4?,head-worn AR fusing live data streams for firefighting command; mostly geospatial/navigation (A1 E2) but includes real-time data visualization - check full text
+IEEE-C00035,exclude,E2,AR geological 3D structures (spatial scientific data)
+IEEE-C00036,include,I2,"AR app with three-dimensional spatially anchored network topology view of industrial (PROFINET) networks; AR network visualization with physical anchoring - relevant to Table 2 / S4 | No DOI (VDE proceedings): AUTOMATION 2026, Baden-Baden, 17-18 June 2026, VDE Verlag, ISBN 978-3-8007-6738-0, pp. 263-272; IEEE Xplore doc 11707537 https://ieeexplore.ieee.org/document/11707537/ (paywalled, not OA)"
+IEEE-C00037,unsure,I4?,tangible AR markers + emotion data points in a 3D coordinate system; abstract data with tangible input on physical referent? check full text
+IEEE-C00038,exclude,E2,"MR qubit visualization manipulated with controllers; no AR-specific value (no anchoring, tangible referent or spatial context)"
+IEEE-C00039,exclude,E2,"geospatially anchored atmospheric particle fields (A1 clarification: fields -> E2); borderline: in-situ sensor data, author may re-check"

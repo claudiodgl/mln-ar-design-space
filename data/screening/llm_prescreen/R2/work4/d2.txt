@@ -1,0 +1,135 @@
+140|E3|
+141|E3|
+142|E2|
+143|I4|mobile AR of multi-temporal real-time geo-data in situ
+144|I4|AR situated analytics model and interaction
+145|E1|
+146|E2|
+147|E3|
+148|E3|
+149|I1|2.5D visualization of double-layer networks
+150|I1|double-layered view for multimodal (multi-type) network
+151|E4|
+152|E2|
+153|E4|
+154|E2|
+155|E2|
+156|E3|
+157|E2|
+158|E2|
+159|E3|
+160|E3|
+161|E3|
+162|E4|
+163|E4|
+164|E3|
+165|E2|
+166|E3|
+167|E2|
+168|E2|
+169|E3|
+170|E3|
+171|E2|
+172|E3|
+173|E1|
+174|U|on-patient AR medical vis; physical anchoring (I4?)
+175|E1|
+176|E1|
+177|I2|mixed-reality tool for large network exploration (no abstract)
+178|U|AR X-ray view app; check if data vis (I4)
+179|I1|multiforce layout for multiplex networks
+180|E3|
+181|E3|
+182|E2|
+183|E1|
+184|E3|
+185|E1|
+186|E3|
+187|E2|
+188|E3|
+189|E7|
+190|E3|
+191|E1|
+192|E1|
+193|U|AR terrain model for teaching; check anchoring/data vis
+194|U|mobile AR solar radiation data; check in-situ anchoring
+195|E5|
+196|U|HoloLens experiences incl. in-situ data vis; check content
+197|E1|
+198|U|AR information positioning by saliency; check if I4
+199|E2|
+200|E1|
+201|I4|situated analytics blended physical/information space UI
+202|E4|
+203|I5|NodeTrix hybrid representation for brain network comparison
+204|E3|
+205|E2|
+206|E3|
+207|E1|
+208|U|AR for network operations; computer-network topology vis?
+209|E2|
+210|U|mixed reality vis of reef data; check if AR
+211|E1|
+212|E3|
+213|E1|
+214|E1|
+215|I5|NodeTrix hybrid node-link/matrix construction
+216|E2|
+217|E3|
+218|E1|
+219|E3|
+220|E3|
+221|E3|
+222|E2|
+223|E2|
+224|E3|
+225|E4|
+226|E3|
+227|E4|
+228|E4|
+229|E5|
+230|U|dynamic network states in synchronized views; juxtaposed layers?
+231|E1|
+232|E4|
+233|E3|
+234|E2|
+235|E2|
+236|E2|
+237|E1|
+238|E1|
+239|E3|
+240|E2|
+241|E1|
+242|E2|
+243|E1|
+244|E2|
+245|I2|graph-based data visualization in VR user study
+246|E3|
+247|E3|
+248|E1|
+249|E4|
+250|E1|
+251|E3|
+252|I4|AR info vis merging data with real scene
+253|E2|
+254|E2|
+255|I2|immersive 3D biomolecular network visualization (iCAVE)
+256|E3|
+257|E5|
+258|E2|
+259|E1|
+260|U|spatial AR interaction (no abstract); check if I4
+261|E2|
+262|E7|
+263|E3|
+264|E3|
+265|E3|
+266|E2|
+267|E3|
+268|E2|
+269|E3|
+270|E3|
+271|E1|
+272|E2|
+273|E3|
+274|E1|

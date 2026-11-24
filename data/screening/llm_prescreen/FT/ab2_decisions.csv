@@ -1,0 +1,158 @@
+cid,decision,code,evidence,note
+C02605,needs_fulltext,,We present a new method for visualizing such compound graphs,likely include I5 (hierarchy+adjacency hybrid; verify McGee snowball provenance)
+C02611,needs_fulltext,,"nodes and links could represent different concepts and relations, respectively",likely include I1 (heterogeneous multi-relational social network)
+C02620,background,B,We provide a comprehensive review of the relative advantages and disadvantages of existing systems,review of biological network visualization tools
+C02628,needs_fulltext,,,"undecidable; author-names-only record, cannot identify"
+C02634,needs_fulltext,,we undertook a graph comprehension study using a very high resolution stereoscopic display,"undecidable; stereo display, I2 only if counted as immersive, else E3"
+C02639,needs_fulltext,,We introduce GraphTrail,"undecidable; retrieved abstract is GraphTrail (CHI 2012), not ManyNets - check record identity"
+C02647,needs_fulltext,,,undecidable; no abstract; one-to-many matched graphs may be interlinked two-layer (possible I1)
+C02652,needs_fulltext,,"using three-dimensional (3D) network layouts, displayed through 2D and 3D viewing methods",undecidable; 3D viewing method may be stereo/immersive (possible I2)
+C02655,needs_fulltext,,a path-searching task in which we control two independent variables: the stereoscopic depth and the viewpoint density,"undecidable; autostereo display, unclear if graph stimuli"
+C02663,needs_fulltext,,"we introduce hive plots (http://www.hiveplot.com) for generating informative, quantitative and comparable network layouts",likely include I5 (verify McGee snowball provenance)
+C02666,needs_fulltext,,,"undecidable; fragmentary record, probably duplicate of C02668"
+C02668,needs_fulltext,,,"undecidable; no abstract; large high-res display, I2 unclear"
+C02670,needs_fulltext,,Our technique utilizes stereoscopic depth to highlight regions of interest in a 2D graph by projecting these parts onto a plane closer to the viewpoint,"undecidable; depth planes on stereo display, I2 only if counted as immersive"
+C02671,background,B,The most recent surveys of graph visualization and navigation techniques cover techniques that had been introduced until 2000,STAR on large-graph visualization incl. time-varying graphs
+C02672,needs_fulltext,,,undecidable; no abstract; 3D stereoscopic display comparison
+C02674,needs_fulltext,,,"undecidable; book chapter, no abstract"
+C02678,needs_fulltext,,a 3D real-time visualization system to graphically represent the massive connectivity of neuronal network models in the eXperience Induction Machine (XIM),likely include I2 (neuronal network in mixed-reality immersive space)
+C02685,needs_fulltext,,Interactive graph matching is based on a multi-layered interaction model and on a visual reification of graph matching functions,likely include I1 (two interlinked graphs with matching edges)
+C02694,exclude,E3,We apply hive plots to message-passing communication networks,single-layer hive-plot application on desktop; not itself a McGee building-block paper
+C02695,needs_fulltext,,3Omics generates inter-omic correlation networks to visualize relationships in data,likely include I1 (inter-omic networks across transcript/protein/metabolite layers)
+C02702,needs_fulltext,,Large scale semantic graphs such as social networks and knowledge graphs,"undecidable; heterogeneous semantic graph, unclear if relation types shown as layers"
+C02709,needs_fulltext,,,"undecidable; book chapter, no abstract"
+C02717,needs_fulltext,,integration of macroscopic data at the level of brain regions with microscopic simulation results,"undecidable; multi-scale brain data, immersion unclear"
+C02727,needs_fulltext,,,"undecidable; no abstract; 3D spatialization, immersion unclear"
+C02733,needs_fulltext,,displays source and test file changes over time (co-evolution),undecidable; display medium and graph form unclear
+C02734,needs_fulltext,,"using a Multi-projection system, allowing the exploration of large datasets","undecidable; data type unclear, not AR"
+C02736,needs_fulltext,,,undecidable; no abstract; multiplex entanglement may be analysis-only (E1) or visualized (I1)
+C02787,needs_fulltext,,Reorder.js is a novel JavaScript library,undecidable; reordering algorithm library (possible E1 or I5)
+C02827,needs_fulltext,,creating these networks from raw data remains a challenging task,undecidable; may yield multiple edge types; single-layer otherwise
+C02828,exclude,E3,we distribute typical visualization views of classic node‐link and matrix representations between displays,"single-layer graph on wall + mobiles; no VR/AR/MR, not physical"
+C02829,needs_fulltext,,We present a novel DOI for graphs with multiple types of entities,likely include I1 (multi-type entity/relation graph)
+C02833,needs_fulltext,,,"undecidable; no abstract; immersive analytics, connectome unclear"
+C02859,needs_fulltext,,calculation and visualization of critical paths in the layout,likely include I4 (in-situ AR immersive analytics on shop floor)
+C02861,needs_fulltext,,view explicit and implicit relationships between entities,likely include I2 (entity relationships in VR)
+C02878,needs_fulltext,,,"undecidable; no abstract; VR software architecture, dependency graph unclear"
+C02884,needs_fulltext,,"combinations of brain data representation, as for example network layouts, anatomical mapping or time series",likely include I2 (VR brain network layouts)
+C02892,exclude,E2,"in a visual search task in a stereoscopic CAVE2, the addition of the HoloLens to expand the field of regard",AR display extension; no network or abstract-data visualization
+C02909,needs_fulltext,,,likely include I2 (VR ArchiMate/BPMN graph models; title only)
+C02910,needs_fulltext,,stereoscopically perceivable 3D data visualizations,undecidable; network data visualization unclear
+C02914,needs_fulltext,,leverages augmented reality to visualize a software application as a virtually tangible entity,"undecidable; AR software vis, graph representation unclear"
+C02949,exclude,E2,help particle physicists to explore and understand 3D data,spatial scientific (particle physics) 3D data = physical data per A1 clarification
+C02950,needs_fulltext,,"For the 3D medium, we utilize an AR-based approach for 3D visualizations of a software system (XRaSE)","undecidable; AR software vis, graph representation unclear (possible I2)"
+C02959,exclude,E2,visualizing volume data is limited in existing AR systems,volume data = physical/scientific field data per A1
+C02977,needs_fulltext,,this paper evaluates the application of Augmented Reality (AR) for patient monitoring,undecidable; possible in-situ sensor values (I4) but vis form unclear
+C02983,exclude,E1,facilitate the design space exploration of cross-device Augmented Reality (AR) interfaces,"AR interface prototyping framework, not about data visualization"
+C03027,needs_fulltext,,many directed geospatial networks (geo-networks) that represent spreading processes,"likely include I1 (many geo-networks over shared locations, multilevel comparison)"
+C03048,needs_fulltext,,exploring bipartite multivariate dynamic social networks,"undecidable; bipartite/dynamic, layers unclear"
+C03058,needs_fulltext,,,likely include I2 (mixed-reality knowledge graph visualization; title only)
+C03076,needs_fulltext,,integrating the different omics types in multiple linked views,undecidable; omics may be node attributes rather than layers
+C03100,needs_fulltext,,,likely include I1 (multi-layer network exploration; title only)
+C03123,needs_fulltext,,exploring the integration of immersive technologies into spatial hypertext systems,"undecidable; workshop position paper, possibly B or E5"
+C03126,needs_fulltext,,This method prioritizes an overall geographical map with focal-contextual dynamics within the network,"undecidable; 'two-layer' may mean map+graph views, not multilayer network"
+R2-C02637,needs_fulltext,,,undecidable; fragmentary reference
+R2-C02645,needs_fulltext,,,"undecidable; immersive spatio-temporal data (VR?), not network"
+R2-C02706,needs_fulltext,,,undecidable; title fragment only
+R2-C02780,needs_fulltext,,,likely include I1 (2.5D relational networks) unless thesis content published elsewhere (E5)
+R2-C02792,needs_fulltext,,,likely include I2 (energy network in mixed reality; title only)
+R2-C02802,exclude,E1,Exploring Pen and Paper Interaction for Task Management in AR,"task-management interaction, not visualization (title only)"
+R2-C02807,needs_fulltext,,,"undecidable; tangibles for storytelling, data/network unclear"
+R2-C02918,needs_fulltext,,,undecidable; likely duplicate of R2-C05275 (2.5D hierarchical drawing)
+R2-C02960,needs_fulltext,,,likely include I4 (situated visualization in AR) unless thesis content published elsewhere (E5)
+R2-C03004,needs_fulltext,,,"undecidable; comparative knowledge-graph exploration, possible I1"
+R2-C03020,needs_fulltext,,,"undecidable; 3D cyber vis, network/immersion unclear"
+R2-C03091,exclude,E5,"Presented at NIPS Workshop on Challenges of Data Visualization, p. 1 (2010)",one-page workshop abstract
+R2-C03772,needs_fulltext,,,"undecidable; early AR magnifying-glass, data vis unclear"
+R2-C03899,needs_fulltext,,,"undecidable; clustered-graph levels on stacked 3D planes, possible I5"
+R2-C03947,needs_fulltext,,"The authors discuss Studierstube, a low-cost augmented reality system",undecidable; data type unclear
+R2-C03982,needs_fulltext,,,"undecidable; Studierstube environment, data vis unclear"
+R2-C04253,needs_fulltext,,we describe a novel use of augmented reality for information visualization,likely include I4 (AR information visualization; AR-specific value to verify)
+R2-C04300,needs_fulltext,,,"undecidable; MagicBook transitional AR, data vis unclear"
+R2-C04313,needs_fulltext,,,"undecidable; VR network management, graph vis unclear"
+R2-C04476,needs_fulltext,,creating graphical abstractions of Java source code,"undecidable; VR software vis, graph form unclear"
+R2-C04478,needs_fulltext,,visualising time dependent flow in a network of objects connected by abstract relationships (a graph) by representing time in the third dimension,"undecidable; time as 3rd dimension, unclear if discrete slices drawn as layers"
+R2-C04479,needs_fulltext,,visualising software systems using 3D graphics and VR technology,"undecidable; VR software vis, graph form unclear"
+R2-C04520,needs_fulltext,,to compare pathways between di#erent species,likely include I1 (cross-species pathway comparison; possibly 2.5D stacked)
+R2-C04522,needs_fulltext,,use virtual environments as a base for these three-dimensional visualisations,"undecidable; VR software vis, graph form unclear"
+R2-C04541,needs_fulltext,,Users share a 3D virtual space and manipulate virtual objects that represent information to be discussed,"undecidable; hybrid AR UI, data vis unclear"
+R2-C04584,needs_fulltext,,displays the tree structure as a Treemap and the remaining edges as curved links overlaid on the Treemap,likely include I5 (hybrid treemap/node-link; verify McGee snowball provenance)
+R2-C04648,needs_fulltext,,assessing the readability of two representations of graphs: matrix-based representations and node-link diagrams,likely include I5 (node-link vs matrix; verify McGee snowball provenance)
+R2-C04672,needs_fulltext,,"they need better ways to abstract network events and better, more informative ways to render them","undecidable; immersive network security, graph vis unclear"
+R2-C04763,needs_fulltext,,"Often, we have a series of related graphs that we would like to compare",likely include I1 (simultaneous drawing of multiple graphs on shared vertices)
+R2-C04805,needs_fulltext,,,"undecidable; PolyPlane subgraphs on 3D planes, layer semantics unclear"
+R2-C04811,needs_fulltext,,,"undecidable; 3D graph system, stereo/layer support unclear"
+R2-C04837,needs_fulltext,,,"undecidable; AR UAV missions, data vis unclear"
+R2-C04858,exclude,E2,"textured, laser range-scanned 3D models of objects and the site itself",MR rendering of physical excavation site/objects
+R2-C04867,needs_fulltext,,support the seamless transition of data between co-located 2D and 3D contexts,"undecidable; hybrid AR interaction, data type unclear"
+R2-C04893,needs_fulltext,,aggregated parts of the software system are represented as treemaps,likely include I5 (hybrid treemap/graph; verify McGee snowball provenance)
+R2-C04961,exclude,E2,"the handy device can display live status of invisible areas hidden by some structures such as buildings, walls, etc.",see-through (x-ray) vision of physical scene
+R2-C04977,needs_fulltext,,,"undecidable; AR video annotations, no abstract"
+R2-C04987,needs_fulltext,,,likely include I1 (simultaneous embedding of multiple graphs; title only)
+R2-C05005,needs_fulltext,,,"undecidable; tangible tabletop collaboration, vis role unclear"
+R2-C05058,needs_fulltext,,"the user can manipulate (put, delete, arrange and configure) graphics in the real world",likely include I4 (AR abstract-data vis with physical manipulation)
+R2-C05097,needs_fulltext,,,"undecidable; clustered graphs on 3D planes, possible I5"
+R2-C05123,needs_fulltext,,,"undecidable; directed graph levels on 3D planes, possible I5"
+R2-C05132,exclude,E2,improved communication of situational and navigational information between outdoor users,AR collaboration on physical props/navigation; no abstract-data vis
+R2-C05170,needs_fulltext,,manipulated through these cards,"likely include I4 (AR infovis with tangible marker cards); identical abstract to R2-C05241, check E6"
+R2-C05171,needs_fulltext,,,"undecidable; MultiPlane 3D planes, layer semantics unclear"
+R2-C05173,needs_fulltext,,an abstract content-actor network data model,"undecidable; two-type network, multi-relational display unclear"
+R2-C05204,needs_fulltext,,,undecidable; no abstract
+R2-C05241,needs_fulltext,,manipulated through these cards,"likely include I4 (AR infovis with tangible marker cards); identical abstract to R2-C05170, check E6"
+R2-C05249,needs_fulltext,,for each centrality measure the graph is copied and drawn in a separate 2D plane,"likely include I1 (graph copies stacked as planes; layers are measures, verify)"
+R2-C05275,needs_fulltext,,layers of vertices drawn in parallel planes,"undecidable; hierarchy levels on planes, possible I5"
+R2-C05308,needs_fulltext,,A modified version of ARToolKit has been used to create the augmented environment,likely include I4 (coordinated multiple views in marker-based AR)
+R2-C05385,needs_fulltext,,The positions of these physical objects represent and control parameters inside a software application,"undecidable; tangible tabletop, network vis unclear"
+R2-C05397,needs_fulltext,,navigating graphs drawn in 2.5 dimensions,"undecidable; 2.5D trees/clustered graphs, possible I5"
+R2-C05550,needs_fulltext,,"extends GeoTime's X, Y, T coordinate workspace","undecidable; diagram + time axis, slices-as-layers unclear"
+R2-C05671,exclude,E2,developing a WOAR version of a commercial road stakeout application,AR surveying/guidance application
+R2-C05675,exclude,E2,"provides users with see-through vision, allowing visualization of occluded objects",x-ray vision of physical scene
+R2-C05714,needs_fulltext,,,"undecidable; thesis, AR/VR robot supervision, no abstract"
+R2-C05726,exclude,E2,"provides users with see-through vision, allowing visualization of occluded objects",x-ray vision of physical scene
+R2-C05751,needs_fulltext,,integrated visualization of genome expression and network dynamics in both regulatory networks and metabolic pathways,likely include I1 (regulatory + metabolic network levels)
+R2-C05775,needs_fulltext,,,"undecidable; multiple-aspects social network tool, possible I1"
+R2-C05904,needs_fulltext,,,likely include I1 (matched drawing of graph pairs/triples on shared vertices; title only)
+R2-C05907,needs_fulltext,,MetNetGE is an interactive pathway navigation tool based on Google Earth,"undecidable; 3D tiered layouts, layer semantics unclear"
+R2-C05912,needs_fulltext,,the framework divides a graph into a set of smaller subgraphs,"undecidable; MultiPlane subgraph planes, layer semantics unclear"
+R2-C05995,exclude,E2,all desired views on volumetric medical imaging data registered with the operation site,medical AR of volumetric data
+R2-C06062,needs_fulltext,,,undecidable; no abstract
+R2-C06070,exclude,E2,working directly with 3D skull model with visual support and tangible manipulate,AR rendering of anatomy (physical objects)
+R2-C06079,needs_fulltext,,provide online real-time animal information such as the current location,"undecidable; AR info display, vis form unclear"
+R2-C06090,needs_fulltext,,"between multiple pathways in a simple, yet effective way",likely include I1 (multiple interlinked pathway views)
+R2-C06091,needs_fulltext,,an abstract compartmented cell environment,"undecidable; metabolic networks in 3D compartments, layers unclear"
+R2-C06103,needs_fulltext,,These data involve multiple social relations which are community-driven and dynamic in nature,likely include I1 (dynamic multi-relational network; verify layered representation)
+R2-C06181,needs_fulltext,,MetNetGE is an interactive visualization tool based on the Google Earth platform,undecidable; related to R2-C05907 (check E6)
+R2-C06266,needs_fulltext,,we introduce tangible views as spatially aware lightweight displays,likely include I3 (tangible views; verify network examples)
+R2-C06428,exclude,E4,animation of the network and use of static snapshots of the network at different points in time,animation vs static snapshots = E4 under A1
+R2-C06488,needs_fulltext,,we introduce the concept of in situ visualization,"undecidable; dynamic network, slice-as-layer unclear"
+R2-C06506,needs_fulltext,,,"undecidable; immersive abstract data vis, networks unclear"
+R2-C06517,needs_fulltext,,it supports weighted and unweighted multi-edged directed and undirected graphs,likely include I1 (multi-edge types)
+R2-C06597,needs_fulltext,,,likely include I4 (AR sensor visualization; title only)
+R2-C06602,needs_fulltext,,visually exploring topics in multi-relational data,undecidable; graph representation unclear
+R2-C06629,needs_fulltext,,exploring the design process of two data visualisation prototypes in HoloLens,likely include I4 (AR data vis in presentations); title/abstract mismatch - check record
+R2-C06637,needs_fulltext,,Comparisons are provided against the common layout procedures for a graph with 20 time slices,"undecidable; layout across slices, possibly E4"
+R2-C06678,needs_fulltext,,,undecidable; no abstract
+R2-C06688,needs_fulltext,,EdgeMaps visualize both explicit and implicit relations,likely include I1 (two relation types)
+R2-C06689,needs_fulltext,,,"undecidable; AR pipeline sensor data, possible I4 or E2"
+R2-C06716,needs_fulltext,,,undecidable; no abstract
+R2-C06740,needs_fulltext,,This thesis is at the intersection of two active esearch areas,"undecidable; thesis (possible E5), graph form unclear"
+R2-C06743,needs_fulltext,,,"undecidable; no abstract; cross-database network comparison, possible I1"
+R2-C06755,needs_fulltext,,"whether it is best, for comparison purposes, to combine multiple graphs into single views or to juxtapose single graph representations","undecidable; graph comparison thesis, possible I1 or E5"
+R2-C06798,needs_fulltext,,,"undecidable; GIS AR, possibly E2 (ghosting)"
+R2-C06927,needs_fulltext,,,"undecidable; AR environmental monitoring, possible I4 (sensor charts) or E2 (fields)"
+R2-C07009,needs_fulltext,,"mixes augmented paper and digital pen, vision-based tracking and augmented rear and front projection","undecidable; augmented paper, data vis unclear"
+R2-C07050,needs_fulltext,,"Therefore, a combined view showing the results of both methods is desired",likely include I1 (combined pathway + ontology/hierarchy graphs)
+R2-C07120,needs_fulltext,,the user is immersed in a mixed reality environment,undecidable; data type unclear
+R2-C07182,needs_fulltext,,,undecidable; no abstract
+R2-C07217,needs_fulltext,,provides contextual information lost due to the artificial partitioning of the biological network,likely include I1 (cross-talk across multiple pathways)
+R2-C07352,needs_fulltext,,"look at multiple networks from different perspectives, at different levels of abstraction, and with different edge semantics",likely include I1 (multiple edge semantics; verify simultaneous display)
+R2-C07423,needs_fulltext,,using the depth cue in stereoscopic devices,"undecidable; stereo depth layers, I2 only if counted as immersive"
+R2-C07440,needs_fulltext,,,"undecidable; stereo depth layers, I2 only if counted as immersive"
+R2-C07483,needs_fulltext,,,likely include I1 (multi-dimensional social networks; title only)
+R2-C07504,needs_fulltext,,Our new visualization approach supports the investigation of both relation types in one diagram,likely include I1 (vertex-vertex and edge-edge relation types)
+R2-C07510,needs_fulltext,,"showing not only the usual SNA metrics, but the types of social tie forged between actors","likely include I1 (tie types); short work-in-progress paper, check E5"
+R2-C07517,exclude,E2,the computational creation of animated data visualization used to communicate urban analysis and design in a video,"video compositing, not AR; no network data"
+R2-C07639,needs_fulltext,,present a hybrid data representation that combines the advantages of two representations,"undecidable; NodeTrix application, possible I5"
+R2-C07681,needs_fulltext,,stereoscopic depth is used to encode the structural relationships in compound graphs,"undecidable; stereo display, I2 only if counted as immersive"
+R2-C07731,needs_fulltext,,3D software visualizations in immersive environments,"undecidable; immersive software vis, graph form unclear"
+R2-C07809,needs_fulltext,,,undecidable; no abstract; possible 3D layer splitting

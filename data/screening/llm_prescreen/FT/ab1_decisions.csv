@@ -1,0 +1,158 @@
+cid,decision,code,evidence,note
+C00002,needs_fulltext,,,likely include I2 (title: network data in WebVR; no abstract)
+C00004,needs_fulltext,,,"undecidable (no abstract; temporal network datasets/criteria, possibly B or E4)"
+C00005,needs_fulltext,,,"undecidable (citation fragment, no abstract)"
+C00013,needs_fulltext,,,undecidable (IA thesis; possibly B or E5 if content published elsewhere; duplicate of C01623)
+C00018,needs_fulltext,,,"undecidable (no abstract; I2 if network topology, E2 if signal-strength field)"
+C00020,needs_fulltext,,,undecidable (no abstract; possible I2 if network graph in MR)
+C00060,needs_fulltext,,,"likely include I4 (AR design space, augmenting paper flight strips)"
+C00061,needs_fulltext,,,undecidable (VR presentation of ATM network performance data; graph unclear)
+C00066,needs_fulltext,,,"undecidable (VR net management tool with node/link icons, contribution is statistical tool; possible E1)"
+C00069,needs_fulltext,,,likely include I2 (CyberNet VR 3D network management visualisation)
+C00080,needs_fulltext,,,undecidable (no abstract)
+C00109,needs_fulltext,,,undecidable (thesis; VR ventilation network with sensor airflow; I2 vs E2/E5)
+C00110,needs_fulltext,,,likely include I2 (immersive abstract 3D VRML metabolic network visualization)
+C00111,exclude,E2,"User holds a transparent cup upside down and can pick up, move or delete a virtual object by using it.","AR manipulation of virtual city models (physical objects), demo; no abstract data"
+C00120,needs_fulltext,,,"likely include I2 (VRML 3D metabolic network graphs; check immersion; related to C00110/C00127, check E6)"
+C00127,needs_fulltext,,,likely include I2 (VRML metabolic network visualizer; no abstract; check E6 vs C00120)
+C00146,needs_fulltext,,,undecidable (thesis on AR for fleet network operations; network visualization unclear)
+C00203,needs_fulltext,,,likely include I4 (tangible flexible magic lens in AR for dense data; check data type)
+C00205,needs_fulltext,,,undecidable (no abstract)
+C00234,needs_fulltext,,,"undecidable (truncated title, no abstract)"
+C00253,needs_fulltext,,,undecidable (3D interpolated tubes over time; layers vs E4 unclear)
+C00259,exclude,E1,a network architecture technology to overlay IP networks over an optical backbone network to improve flexibility and resiliency,"network operation/management, no visualization contribution"
+C00302,needs_fulltext,,,likely include I2 (VR infovis via multi-touch/tangible; title suggests network; no abstract)
+C00317,needs_fulltext,,,"undecidable (no abstract; 3D layouts may be desktop only, E3)"
+C00348,exclude,E2,we have combined the simulation of radio waves with an interactive exploration and modification of the propagation environment in a virtual reality prototype application,radio propagation field in VR; no graph
+C00352,needs_fulltext,,,likely include I2 (immersive virtual worlds for network traffic visualization)
+C00382,needs_fulltext,,,undecidable (no abstract)
+C00393,needs_fulltext,,,undecidable (no abstract)
+C00402,needs_fulltext,,,undecidable (no abstract)
+C00429,needs_fulltext,,,undecidable (no abstract)
+C00434,needs_fulltext,,,"likely include I1 (3D parallel visualization of networks, multilevel layout; check whether layers are drawn)"
+C00449,exclude,E4,allows a graph to be visualized as a sequence of three kinds of tiles: diff tiles,"tiles = small multiples/animation/diff maps, no layered time slices (A1)"
+C00454,needs_fulltext,,,undecidable (radial space-filling encoding of dynamic compound digraph; layering unclear)
+C00469,needs_fulltext,,,undecidable (radial layered matrix; check whether annuli are time-slice layers)
+C00471,needs_fulltext,,,undecidable (network analysis; visualization/VR role unclear)
+C00473,needs_fulltext,,,undecidable (no abstract)
+C00508,needs_fulltext,,,"likely include I4 (projection AR on multi-touch tabletop, layered map information)"
+C00516,needs_fulltext,,,"undecidable (multi-layered actor/document networks in nodegoat; project report, possible I1 or E5)"
+C00522,needs_fulltext,,,likely include I2 (power network rendering in VR platform with layered grid structure; possible I1)
+C00533,needs_fulltext,,,undecidable (no abstract; transparent layering may count as layers (I1) or flip-book (E4))
+C00536,needs_fulltext,,,undecidable (no abstract)
+C00556,needs_fulltext,,,undecidable (no abstract)
+C00559,exclude,E1,the PathMaker is a game in which a path in the real world is constructed with tangible markers,AR game and tangible programming; no data visualization (also extended abstract)
+C00560,needs_fulltext,,,"undecidable (no abstract; comorbidity network with profile overlay, possible I1)"
+C00565,needs_fulltext,,,"undecidable (no abstract; multiplex network, visualization unclear)"
+C00577,needs_fulltext,,,likely include I1 (multi-layer Twitter network community detection used as visualization tool)
+C00581,background,B,"Survey on Visualizing Dynamic, Weighted, and Directed Graphs in the Context of Data-Driven Journalism",title only; dynamic graph vis survey
+C00584,exclude,E2,there is uncertainty about the position of the underground utilities network that ultimately poses a risk during the work on site,"AR/VR of physical underground utilities (x-ray-like), not abstract data"
+C00603,needs_fulltext,,,likely include I2 (mobile AR visualization of network topology)
+C00607,needs_fulltext,,,likely include I3 (pen-and-paper Net-Map and wennmaker tangible tools drawing multiplex networks)
+C00625,needs_fulltext,,,likely include I1 (multilayer network notation to visualise enterprise architecture; vis may be secondary)
+C00631,needs_fulltext,,,"undecidable (density-field dynamic graph sequence; likely juxtaposed (E4), check)"
+C00635,needs_fulltext,,,"undecidable (no abstract; multiplex relations, possible I1)"
+C00640,needs_fulltext,,,"undecidable (no abstract; gesture control for time-evolving graphs, possible I2)"
+C00651,needs_fulltext,,,"undecidable (matrix of graph-pair comparisons in sequence; not clearly layers, possible E4)"
+C00657,needs_fulltext,,,"undecidable (multilayer graph VA requirements; self-described extended abstract, check length for E5; possible I1)"
+C00665,needs_fulltext,,,"undecidable (thesis; 2D/3D utility network fieldwork vis, likely physical utilities E2)"
+C00673,needs_fulltext,,,"undecidable (no abstract; MR cyber situation awareness, possible I2)"
+C00679,needs_fulltext,,,"undecidable (no abstract; cube of multiple ontology alignments, possible I1)"
+C00680,exclude,E2,We present an Augmented Reality (AR) network cabling tutor that provides visual annotations for improving learning in psychomotor tasks.,AR task guidance overlay (A1)
+C00703,needs_fulltext,,,"undecidable (no abstract; HoloLens 3D cybersecurity vis, possible I2)"
+C00715,needs_fulltext,,,likely include I1 (multilayer framework for pathway data with visualization; check vis component)
+C00744,needs_fulltext,,,undecidable (VR/AR data visualization for design exploration; contribution unclear)
+C00786,exclude,E2,"We present a technique to combine physical, 3D-printed models of buildings with spatially registered historical photographic documents","AR texturing of physical building models with photos; physical scene, not abstract data"
+C00810,exclude,E4,"we interactively coordinate node-link diagrams, Sankey diagrams, time series, and animations",dynamic graph without time slices drawn as layers
+C00838,needs_fulltext,,,undecidable (immersive multi-omics on display wall/VR; network content unclear)
+C00851,needs_fulltext,,,undecidable (no abstract; AR manufacturing with stochastic network analysis)
+C00857,needs_fulltext,,,undecidable (3D spatio-temporal-network framework in ArcScene; layering/immersion unclear)
+C00864,exclude,E2,"integrating SHM sensor networks, data, and metadata into a virtual reality environment by combining spherical imaging and informational modeling","VR of physical sensor deployment/structure; no graph, not AR"
+C00868,needs_fulltext,,,undecidable (CNN visualization in VR; I2 only if network drawn as graph)
+C00881,needs_fulltext,,,likely include I1 (multilayer historical network analysis and visualization)
+C00925,needs_fulltext,,,undecidable (no abstract; multilayer layer definition)
+C00941,needs_fulltext,,,"likely include I4 (AR visualization of VR students' gaze, situated in classroom)"
+C00946,needs_fulltext,,,likely include I2 (HoloLens AR visualization of streamed network traffic; I4 if non-graph)
+C00947,needs_fulltext,,,"undecidable (no abstract; polymedia network metadata monitoring, possible I3)"
+C00978,needs_fulltext,,,undecidable (CNN visualization in VR; I2 only if network drawn as graph)
+C00980,needs_fulltext,,,"undecidable (no abstract; volume-based dynamic graph, possibly stacked time slices I1)"
+C01044,needs_fulltext,,,"undecidable (review of AR with knowledge graphs/deep learning; visualization relevance unclear, possible B)"
+C01051,needs_fulltext,,,undecidable (no abstract; multi-focus comparison of dynamic graph slices)
+C01058,needs_fulltext,,,undecidable (dynamic call graph properties with time-aligned views; possible E4)
+C01086,needs_fulltext,,,"undecidable (multilayer document network method; visualization secondary, possible I1 or E1)"
+C01088,needs_fulltext,,,undecidable (multilayer pathway R package; visualization unclear)
+C01132,needs_fulltext,,,likely include I2 (IslandViz VR visualization of software architecture dependencies and evolution)
+C01133,exclude,E4,"Graphs for individual, two, and all timesteps are visualized in static, diff, and aggregated views.",layers are intersection levels of one graph (desktop); time not drawn as layers
+C01134,needs_fulltext,,,"undecidable (historical network evolution, agent perspectives via graphs and matrices; possible I1)"
+C01138,needs_fulltext,,,undecidable (no abstract; temporal contact network vis study)
+C01181,needs_fulltext,,,"undecidable (linked node-link + matrix views for dynamic graphs; possible I5, time slices unclear)"
+C01192,needs_fulltext,,,"undecidable (study of superimposition/juxtaposition/animation; likely E4, check superimposition)"
+C01248,needs_fulltext,,,undecidable (immersive archival interface with semantic relations; graph vis and E5 unclear)
+C01290,exclude,E3,visualize the features of the sub-networks as hierarchically arranged icons,single-layer desktop network vis; 'multi-layer' refers to overview levels
+C01295,needs_fulltext,,,likely include I1 (no abstract; title: 3D graph for multilayer network analytics)
+C01355,needs_fulltext,,,likely include I1 (Three.js multi-layer network topology visualization system; vague)
+C01370,needs_fulltext,,,"undecidable (no abstract; hybrid reality overview+detail immersive vis, possible I4)"
+C01399,needs_fulltext,,,undecidable (no abstract)
+C01409,needs_fulltext,,,undecidable (no abstract)
+C01422,needs_fulltext,,,"undecidable (no abstract; neural network vis in VR, I2 only if drawn as graph)"
+C01450,needs_fulltext,,,"undecidable (perspective on network layouts; likely talk abstract E5, possible VR)"
+C01454,needs_fulltext,,,likely include I4 (mobile AR visualizations of recommendation scores; AR design space)
+C01458,needs_fulltext,,,likely include I2 (no abstract; Virtual Data Explorer VR network vis)
+C01470,needs_fulltext,,,likely include I2 (immersive VR visualization of neuronal network data)
+C01551,needs_fulltext,,,"undecidable (DeepVisionVR CNN in VR; likely feature maps, not graph)"
+C01553,needs_fulltext,,,undecidable (knowledge graph integrated in VR/MR heritage system; graph vis unclear)
+C01571,needs_fulltext,,,"undecidable (dynamic network snapshot comparison; desktop, likely E4)"
+C01623,needs_fulltext,,,undecidable (IA thesis; duplicate of C00013; possibly B or E5)
+C01642,needs_fulltext,,,"undecidable (no abstract; visibility graph analysis in VR, likely spatial field not graph)"
+C01657,needs_fulltext,,,"likely include I4 (MR augmentation of multi-touch table with geospatial vis; demo, check E5)"
+C01663,needs_fulltext,,,likely include I1 (visualize flow structures across multilayer spatial networks)
+C01673,needs_fulltext,,,likely include I4 (AR HMD + touchscreens with node-link visual query language; possible I2)
+C01679,needs_fulltext,,,likely include I4 (in-situ sensor data shown as charts on HoloLens; A1 clarification)
+C01705,needs_fulltext,,,likely include I2 (collaborative AR environment for participatory system (causal) models)
+C01706,exclude,E2,cannot determine the specific actual location of underground cable networks in GIS information,AR overlay of physical underground cables for inspection
+C01710,needs_fulltext,,,undecidable (heterogeneous multi-source causal network VA; possible I1)
+C01736,exclude,E1,This study structures spatial information and dependent interactions into an experience graph and proposes a spatial adaptive replay method,"graph is an internal data structure for MR replay, not visualized"
+C01757,needs_fulltext,,,undecidable (multimodal genealogical graph with geospatial views; possible I1)
+C01783,needs_fulltext,,,likely include I4 (physical installation + handheld AR cultural data visualizations)
+C01790,exclude,E5,This thesis’ goal is to design and evaluate meaningful AR concepts,MobileHCI Adjunct doctoral-consortium summary
+C01806,needs_fulltext,,,"undecidable (temporal network as coupled layers; abstract only algorithmic, title claims visualization model)"
+C01815,needs_fulltext,,,undecidable (metaverse VR financial risk with complex network analysis; vis unclear)
+C01822,needs_fulltext,,,undecidable (tangible AR exploration of cultural relics with design space; I4 vs E2 (physical object rendering))
+C01848,needs_fulltext,,,likely include I2 (immersive animated bus network travel-time vis; check immersion)
+C01862,needs_fulltext,,,undecidable (no abstract; home network security vis)
+C01894,needs_fulltext,,,likely include I2 (ad-hoc network visualized and manipulated in MR)
+C01916,needs_fulltext,,,likely include I4 (handheld AR tablet overlaying visualizations on wall display)
+C01920,needs_fulltext,,,undecidable (VR exploration of ontology-based heritage data; graph vis unclear)
+C01949,needs_fulltext,,,likely include I1 (multi-layer graph model with evolutionary visualization)
+C01964,needs_fulltext,,,"undecidable (no abstract; AR digital twin of water distribution network, I2 vs E2)"
+C02022,needs_fulltext,,,likely include I2 (VR simulation of network architecture and attack vectors)
+C02024,exclude,E7,Tato bakalářská práce se zaměřuje na využití moderních technologií,Czech bachelor thesis
+C02056,exclude,E5,This Code Ocean capsule delivers a fully interactive,"code capsule, not a primary research publication"
+C02060,needs_fulltext,,,undecidable (multilayer pathway R package; visualization contribution unclear)
+C02116,needs_fulltext,,,"undecidable (signal coherence multilayer graph architecture; visualization role unclear, possible E1)"
+C02171,background,B,"Additionally, we focus on immersive visualization for networks, due to its growing importance in recent years",systematic survey of network vis incl. immersive
+C02177,needs_fulltext,,,undecidable (software vis dissertation; possible E5)
+C02180,needs_fulltext,,,"likely include I2 (VR rendition of complex network for HMDs; demo, check E5)"
+C02182,exclude,E2,a trilinear back-projection method for volumetric voxels,AR cross-sections of physical objects/volumes (A1)
+C02203,needs_fulltext,,,undecidable (no abstract)
+C02212,needs_fulltext,,,undecidable (no abstract)
+C02282,exclude,E2,Exploring Augmented Reality Visualizations for Communicating Robot Intent in Robotic Ultrasound,title only; medical/robot guidance overlay (A1)
+C02283,needs_fulltext,,,undecidable (MD correlation maps as dynamic networks; time-slice representation unclear)
+C02299,needs_fulltext,,,undecidable (spatio-temporal brain graph toolkit with web dashboard; vis unclear)
+C02358,needs_fulltext,,,undecidable (in-situ AR storytelling of historical events; abstract data vs physical scene unclear)
+C02379,exclude,E5,Cite this dataset: DOI: 10.5281/zenodo.21363227,"Zenodo dataset/platform record, not a primary research contribution"
+C02414,exclude,E5,"An interactive, single-page dashboard about the leadership network of the Philippine Nurses Association of New York (PNANY)","Zenodo dashboard artefact, not a research contribution"
+C02464,needs_fulltext,,,undecidable (compilation thesis on IA sensemaking; possible E5 or B)
+C02511,needs_fulltext,,,undecidable (multigraph with topic/channel relations; possible I1 if edge types drawn as layers)
+C02526,exclude,E1,we consider the case where the signals or the messages or both are continuously variable,Shannon information theory; no visualization
+C02527,exclude,E1,"adult friendship dyads are examined for multiplexity in three affiliations: kin, neighbor, and coworker",sociology of multiplexity; no visualization
+C02528,needs_fulltext,,,undecidable (empty metadata)
+C02531,needs_fulltext,,,"undecidable (no abstract; metabolic network vis review, possible B)"
+C02541,needs_fulltext,,,undecidable (fragmentary record)
+C02546,needs_fulltext,,,"undecidable (no abstract; one-to-many matched graphs, possible I1)"
+C02571,needs_fulltext,,,likely include I2 (3D virtual world for network management)
+C02573,needs_fulltext,,,likely include I2 (head-coupled stereo 'fish-tank VR' graph perception)
+C02585,needs_fulltext,,,likely include I2 (immersive VR software visualization; check graph structure)
+C02589,needs_fulltext,,,likely include I5 (multilevel call matrices; check McGee surveys)
+C02600,needs_fulltext,,,likely include I5 (node-link vs matrix readability; check McGee surveys)
+C02602,needs_fulltext,,,likely include I2 (stereo/kinetic 3D graph perception; check whether display counts as immersive)

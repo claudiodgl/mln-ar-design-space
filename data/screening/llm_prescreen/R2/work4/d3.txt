@@ -1,0 +1,135 @@
+275|E1|
+276|B|survey of matrix reordering for network matrices (building block)
+277|I4|in-field AR visual analytics of bee behaviour
+278|E4|
+279|E2|
+280|U|multi-edge (multi-relational) graph vis for software; no abstract
+281|E3|
+282|I1|multigraph (shared nodes, multiple edge sets) visualization
+283|E1|
+284|E3|
+285|E1|
+286|E1|
+287|E3|
+288|E3|
+289|E2|
+290|U|time-to-space mapping of dynamic network; layered slices?
+291|E1|
+292|E3|
+293|E1|
+294|E3|
+295|E3|
+296|E1|
+297|E1|
+298|E2|
+299|E5|
+300|I4|AR immersive analytics spatial perception and data localization
+301|E4|
+302|E3|
+303|E5|
+304|E1|
+305|E3|
+306|E1|
+307|E1|
+308|E3|
+309|E2|
+310|E2|
+311|E2|
+312|I4|mobile AR PoI visualization, aggregation in camera context
+313|E3|
+314|E1|
+315|E2|
+316|B|position paper on contributions in immersive visualization
+317|E7|
+318|E5|
+319|E2|
+320|E2|
+321|E2|
+322|E2|
+323|I4|situated analytics placement of abstract data (no abstract)
+324|E1|
+325|E1|
+326|E2|
+327|E2|
+328|E2|
+329|E3|
+330|E3|
+331|E2|
+332|E2|
+333|U|stereoscopic 3D graph vis; check immersive (I2)
+334|E2|
+335|E1|
+336|E3|
+337|E4|
+338|U|graph comics: juxtaposed time-slice panels; check I1
+339|I4|AR labeling of real objects, temporal coherence study
+340|E4|
+341|U|dynamic graph wall with multiple metaphors; juxtaposed slices?
+342|E2|
+343|E5|
+344|E1|
+345|E3|
+346|E4|
+347|U|multiscale multi-level temporal contact networks; check layering
+348|E1|
+349|E2|
+350|E3|
+351|E2|
+352|E5|
+353|I1|overview incl. matrix cube / stacked dynamic network slices
+354|E1|
+355|E2|
+356|E3|
+357|E3|
+358|E3|
+359|E1|
+360|E3|
+361|I4|situated visualization of GIS data in spatial context
+362|E3|
+363|E4|
+364|E3|
+365|E4|
+366|E3|
+367|E3|
+368|E3|
+369|E7|
+370|E2|
+371|E3|
+372|E3|
+373|E3|
+374|E3|
+375|E4|
+376|E3|
+377|E2|
+378|E3|
+379|E3|
+380|E2|
+381|E4|
+382|E2|
+383|E2|
+384|E2|
+385|E3|
+386|E5|
+387|E2|
+388|E2|
+389|E5|
+390|U|CAVE2/stereo immersive analytics projects; may include networks
+391|E1|
+392|E1|
+393|E3|
+394|E3|
+395|E4|
+396|E1|
+397|E2|
+398|E2|
+399|E3|
+400|E3|
+401|B|review of AR in engineering analysis/simulation data
+402|E2|
+403|E2|
+404|E2|
+405|E1|
+406|I5|triangular NodeTrix hybrid representation
+407|E2|
+408|E3|
+409|E3|

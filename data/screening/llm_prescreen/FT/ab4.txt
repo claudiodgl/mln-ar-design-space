@@ -1,0 +1,462 @@
+[R2-C13490] Evaluating the effects of colour blending on optical-see-through displays for ubiquitous visualizations | Graphics Interface | 2024 | doi:10.1145/3670947.3670982
+    WHY UNSURE: OST AR vis colour vs environment background (I4?)
+    ABS: [abstract omitted; see the DOI]
+[R2-C13506] Exploring the Potential of Augmented Reality (AR) and Large Screen Interaction in Map Assistance | International Conference on Image, Vision and Computing (ICI | 2024 | doi:10.1109/icivc61627.2024.10837568
+    WHY UNSURE: mobile AR + large display on public maps (I4?)
+    ABS: [abstract omitted; see the DOI]
+[R2-C13552] Immersive Airfoil Student Laboratory: Augmented Reality Application with Real-Time Measurement Data Access | Lecture notes in networks and systems | 2024 | doi:10.1007/978-3-031-70771-1_14
+    WHY UNSURE: AR lab with real-time measurement data; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C13610] Metaverse-Based Approach in Urban Planning: Enhancing Wastewater Infrastructure Planning Using Augmented Reality | Springer series on cultural computing | 2024 | doi:10.1007/978-3-031-57746-8_16
+    WHY UNSURE: AR wastewater infrastructure planning; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C13655] Patient 3D Data Visualisation with AR-based Interactive Technology for Brain MRI | IEEE International Conference on Multimedia Information Proc | 2024 | doi:10.1109/mipr62202.2024.00118
+    WHY UNSURE: AR brain MRI in-situ guidance; anchoring unclear
+    ABS: [abstract omitted; see the DOI]
+[R2-C13701] Screen‐space Streamline Seeding Method for Visualizing Unsteady Flow in Augmented Reality | Computer Animation and Virtual Worlds | 2024 | doi:10.1002/cav.2250
+    WHY UNSURE: AR flow streamlines; anchoring unclear
+    ABS: [abstract omitted; see the DOI]
+[R2-C13711] SMARTable: Synchronize Mobile Devices and Augmented Reality for Table Visualization | International Conference on Artificial Intelligence, Big Dat | 2024 | doi:10.1145/3690407.3690577
+    WHY UNSURE: mobile device + AR table vis hybrid
+    ABS: [abstract omitted; see the DOI]
+[R2-C13724] STEP: Sequence of time-aligned edge plots | Information Visualization | 2024 | doi:10.1177/14738716241265111
+    WHY UNSURE: STEP: graph sequence as juxtaposed edge plots (I1?)
+    ABS: [abstract omitted; see the DOI]
+[R2-C13734] Superpowers in the Metaverse: Augmented Reality Enabled X-Ray Vision in Immersive Environments | Springer series on cultural computing | 2024 | doi:10.1007/978-3-031-57746-8_15
+    WHY UNSURE: AR X-ray vision; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C13753] The Knowledge Graph as a Data Sculpture: Visualising Arts and Humanities Data with Maps, Graphs, and Sets over Time | Digital humanities research | 2024 | doi:10.14361/9783839469187-007
+    WHY UNSURE: KG maps/graphs/sets over time; data sculpture metaphor
+    ABS: [abstract omitted; see the DOI]
+[R2-C13775] Towards Understanding Group Collaboration Patterns Around Mobile Augmented-Reality Interfaces for Geospatial Science Data Visualizations | CHI Conference Extended Abstracts on Human Factors in Comput | 2024 | doi:10.1145/3613905.3650739
+    WHY UNSURE: mobile AR geospatial vis collaboration
+    ABS: [abstract omitted; see the DOI]
+[R2-C13847] A Hybrid User Interface Combining AR, Desktop, and Mobile Interfaces for Enhanced Industrial Robot Programming | Proceedings - IEEE International Conference on Robotics and  | 2025 | doi:10.1109/icra55743.2025.11128291
+    WHY UNSURE: AR robot programming vis in robot frame
+    ABS: [abstract omitted; see the DOI]
+[R2-C13869] A user study on air conditioner’s airflow visualization in mobile AR | Journal of Visualization | 2025 | doi:10.1007/s12650-025-01078-1
+    WHY UNSURE: mobile AR airflow vis on AC; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C13891] An Interface Design Method Based on Situation Awareness and Immersive Analytics for Augmented and Mixed Reality Decision Support Systems in Construction | Applied Sciences | 2025 | doi:10.3390/app15147820
+    WHY UNSURE: AR/MR situated interface design method construction
+    ABS: [abstract omitted; see the DOI]
+[R2-C13900] Animated Transitions for Abstract and Concrete Immersive Visualizations: A Design Space and Experiment | ACM Symposium on Virtual Reality Software and Technology (VR | 2025 | doi:10.1145/3756884.3765974
+    WHY UNSURE: Immersive transitions design space; AR value unclear
+    ABS: [abstract omitted; see the DOI]
+[R2-C13914] Assessing the Scalability of Immersive WiFi Visualizations | ACM Transactions on Sensor Networks | 2025 | doi:10.1145/3783985
+    WHY UNSURE: immersive WiFi vis in environmental context
+    ABS: [abstract omitted; see the DOI]
+[R2-C13930] Beyond the Graph: AR-Driven Data Visualization | Advances in computational intelligence and robotics book ser | 2025 | doi:10.4018/979-8-3373-1414-3.ch012
+    WHY UNSURE: book chapter AR data visualization
+    ABS: [abstract omitted; see the DOI]
+[R2-C13932] Bridging Immersive Analytics and Affect: Audiovisual XR Sceneries of Financial Transactions | International Symposium on Visual Information Communication  | 2025 | doi:10.1145/3769534.3769599
+    WHY UNSURE: XR financial transactions; possibly network
+    ABS: [abstract omitted; see the DOI]
+[R2-C13992] DM-Vis: A Graph-Based Data Reconnaissance System for Multi-domain Urban Data | Lecture notes in computer science | 2025 | doi:10.1007/978-3-031-81806-6_28
+    WHY UNSURE: graph-based multi-domain urban data; maybe multilayer
+    ABS: [abstract omitted; see the DOI]
+[R2-C14002] Empowering Facility Managers: Multimodal Location-Based Visualization for Smart Sanitizer Dispensers Management | VISIGRAPP | 2025 | doi:10.5220/0013105200003912
+    WHY UNSURE: location-based multimodal vis; AR unclear
+    ABS: [abstract omitted; see the DOI]
+[R2-C14029] Exploring Model-Based Systems Architecting Digital Threads in Virtual Reality | IFIP advances in information and communication technology | 2025 | doi:10.1007/978-3-031-93319-6_5
+    WHY UNSURE: VR digital threads (graphs?); no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C14049] From Diagrams to Experience: Data Visceralisation of Ecosystem State-and-Transition Models in Virtual Reality | Designing Interactive Systems Conference | 2025 | doi:10.1145/3715336.3735774
+    WHY UNSURE: VR visceralisation of box-and-arrow state-transition models
+    ABS: [abstract omitted; see the DOI]
+[R2-C14085] HybridFilm: A Mixed-Reality History Tool Enabling Interoperability Between Screen Space and Immersive Environments | Applied Sciences | 2025 | doi:10.3390/app15158489
+    WHY UNSURE: MR history tool around physical screen
+    ABS: [abstract omitted; see the DOI]
+[R2-C14095] Immersive Analytics as a Support Medium for Data-Driven Monitoring in Hydropower | IEEE Transactions on Visualization and Computer Graphics | 2025 | doi:10.1109/tvcg.2025.3549157
+    WHY UNSURE: IA hydropower; AR/situated unclear
+    ABS: [abstract omitted; see the DOI]
+[R2-C14131] Investigating the Effects of Limited Field of View and Resolution in Optical See-Through Augmented Reality in the Context of Immersive Analytics | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2025 | doi:10.1109/vrw66409.2025.00266
+    WHY UNSURE: OST AR display limits in immersive analytics
+    ABS: [abstract omitted; see the DOI]
+[R2-C14165] Mixed Reality Hologram Slicer (mxdR-HS): A Markerless Tangible User Interface for Interactive Holographic Medical Volume Visualization | Lecture notes in computer science | 2025 | doi:10.1007/978-3-031-82024-3_16
+    WHY UNSURE: tangible UI MR medical volume; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C14186] Network-Based Diseasome Construction From Multi-Omics Data and RadTrix Visualization | IEEE Transactions on Computational Biology and Bioinformatic | 2025 | doi:10.1109/tcbbio.2025.3599771
+    WHY UNSURE: RadTrix hybrid for bipartite diseasome (I5?)
+    ABS: [abstract omitted; see the DOI]
+[R2-C14340] Validation through Replication of Augmented Reality as a Visualization Technique for Scholarly Publications in Astronomy | Visualization | 2025 | doi:10.1109/vis60296.2025.00070
+    WHY UNSURE: AR figures for astronomy publications
+    ABS: [abstract omitted; see the DOI]
+[R2-C14367] VR-ANN: Visualization of Artificial Neural Network Models in Virtual Reality | OPUS (Aalen University) | 2025 | doi:
+    WHY UNSURE: VR node-link vis of ANN structure (I2?)
+    ABS: [abstract omitted; see the DOI]
+[R2-C14431] Augmented Reality for Immersive Analytics in Manufacturing: Designing and Evaluating the ARINIA Prototype | Lecture notes in computer science | 2026 | doi:10.1007/978-3-032-33497-8_42
+    WHY UNSURE: AR immersive analytics manufacturing; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C14433] Augmented, Tangible and Spatial Interaction for Hybrid Physical-Digital Information Exploration | Communications in computer and information science | 2026 | doi:10.1007/978-3-032-38039-5_43
+    WHY UNSURE: augmented tangible spatial interaction; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C14615] Kandinsky: Visual Analytics of the Avant‐Garde | Computer Graphics Forum | 2026 | doi:10.1111/cgf.70654
+    WHY UNSURE: artists/exhibitions networks; possibly multilayer
+    ABS: [abstract omitted; see the DOI]
+[R2-C14661] NeuroLens: A Holistic Visual Analytics System for Exploring Brain Networks Across Scales | IEEE Transactions on Visualization and Computer Graphics | 2026 | doi:10.1109/tvcg.2026.3701404
+    WHY UNSURE: brain networks across scales; multilevel?
+    ABS: [abstract omitted; see the DOI]
+[R2-C14696] Runtime Profiling in Augmented Reality | Information Technology Scientific Research Conference (IIT.S | 2026 | doi:10.1109/iit.src67760.2026.11628971
+    WHY UNSURE: AR software structure + runtime profiling
+    ABS: [abstract omitted; see the DOI]
+[R2-C14724] StarPicker: A Technique for Selecting Dense Small Targets in AR-Based Data Visualization Environments | IEEE Transactions on Visualization and Computer Graphics | 2026 | doi:10.1109/tvcg.2026.3696802
+    WHY UNSURE: AR dense-target selection in data vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C14748] The Effects of Viewing Conditions on the Interpretability of Colour-Coded Visualizations in Optical-See-Through Augmented Reality | Proceedings of the ACM on Human-Computer Interaction | 2026 | doi:10.1145/3859322
+    WHY UNSURE: OST AR colour vis vs environment background (I4?)
+    ABS: [abstract omitted; see the DOI]
+[R2-C14805] Walking Through the Catalog: Designing Immersive Access to CIDOC-CRM Cultural-Heritage Collections | ACM/IEEE Joint Conference on Digital Libraries | 2026 | doi:10.1145/3805696.3846482
+    WHY UNSURE: XR client for CIDOC-CRM linked-data graph (I2?)
+    ABS: [abstract omitted; see the DOI]
+[R2b-C02687] 2022) Proxemic maps for immersive visualization | Cartogr Geogr Inf Sci |  | doi:
+    WHY UNSURE: Proxemic maps in immersive vis; check AR/spatial context
+    ABS: [abstract omitted; see the DOI]
+[R2b-C02695] 2023) Level-of-Detail AR | Proc. IEEE VR |  | doi:
+    WHY UNSURE: Level-of-detail AR; no abstract, check AR viz technique
+    ABS: [abstract omitted; see the DOI]
+[R2b-C02712] 2024. Invisible Mesh: Effects of X-Ray Vision Metaphors on Depth Perception in Optical-See-Through Augmented Reality | IEEE VR |  | doi:
+    WHY UNSURE: X-ray vision AR metaphors for occluded objects; check
+    ABS: [abstract omitted; see the DOI]
+[R2b-C02830] Concrete vs abstract visualisation: The real world as a canvas for data visualisation |  |  | doi:
+    WHY UNSURE: Real world as canvas; likely situated-vis position paper
+    ABS: [abstract omitted; see the DOI]
+[R2b-C02991] Immersive analytics for geology: Field sketch-based visualization to assist geological structure analysis during fieldwork |  |  | doi:
+    WHY UNSURE: Field sketch-based immersive geology analytics; check AR anchoring
+    ABS: [abstract omitted; see the DOI]
+[R2b-C03112] Mobile Devices & Augmented Reality for Data Analysis analytics (BDVA 2015) : Hobart, Australia, 22-25 September | 2015 |  | doi:
+    WHY UNSURE: Mobile devices and AR for data analysis; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2b-C03235] S.K. Tadeja, K. Kutt, Y. Lu, P. Seshadri, G.J. Nalepa, P.O. Kristensson, Jarvis for Aeroengine Analytics: A Speech Enhanced Virtual Reality Demonstrator Based on Mining Knowledge Databases, (2021). https://arxiv.org/abs/2107.13403. |  |  | doi:
+    WHY UNSURE: VR knowledge-database demonstrator; check graph visualization
+    ABS: [abstract omitted; see the DOI]
+[R2b-C05849] Augmented Reality Visualization Interface for Biometric Wireless Sensor Networks | Lecture notes in computer science | 2007 | doi:10.1007/978-3-540-73007-1_130
+    WHY UNSURE: AR interface for wireless sensor networks; check network vis
+    ABS: [abstract omitted; see the DOI]
+[R2b-C06065] Visualization and interaction of pervasive services using context-aware augmented reality | Expert Systems with Applications | 2007 | doi:10.1016/j.eswa.2007.08.092
+    WHY UNSURE: No abstract; pervasive services vis unclear
+    ABS: [abstract omitted; see the DOI]
+[R2b-C09073] An effective visualization technique for depth perception in augmented reality‐based surgical navigation | The International Journal of Medical Robotics and Computer A | 2015 | doi:10.1002/rcs.1657
+    WHY UNSURE: AR surgical navigation depth visualization; medical anchoring
+    ABS: [abstract omitted; see the DOI]
+[R2b-C09091] Auditory and Visio-Temporal Distance Coding for 3-Dimensional Perception in Medical Augmented Reality | Proceedings - International Symposium on Mixed and Augmented | 2015 | doi:10.1109/ismar.2015.16
+    WHY UNSURE: Medical AR distance coding visualization; check
+    ABS: [abstract omitted; see the DOI]
+[R2b-C09397] PathwayMatrix: visualizing binary relationships between proteins in biological pathways | BMC Proceedings | 2015 | doi:10.1186/1753-6561-9-s6-s3
+    WHY UNSURE: Matrix of diverse protein relation types; possibly multi-relational
+    ABS: [abstract omitted; see the DOI]
+[R2b-C09788] Enabling interactive scientific data visualization and analysis with see-through hmds and a large tiled display |  | 2016 | doi:10.1109/immersive.2016.7932374
+    WHY UNSURE: See-through HMDs plus tiled display; check AR technique
+    ABS: [abstract omitted; see the DOI]
+[R2b-C09824] Gaze-directed Immersive Visualization of Scientific Ensembles |  | 2016 | doi:10.1145/3009939.3009952
+    WHY UNSURE: Gaze-directed AR/MR HMD immersive visualization; check
+    ABS: [abstract omitted; see the DOI]
+[R2b-C10319] Augmented Reality-assisted Intelligent Window for Cyber-Physical Machine Tools | Journal of Manufacturing Systems | 2017 | doi:10.1016/j.jmsy.2017.04.008
+    WHY UNSURE: AR window showing machine data; check physical anchoring
+    ABS: [abstract omitted; see the DOI]
+[R2b-C10320] Augmented Reality Based Bee Drift Analysis: A User Study | Big Data Visual and Immersive Analytics | 2017 | doi:10.1109/bdva.2017.8114581
+    WHY UNSURE: HoloLens bee drift analytics on 3D terrain; check anchoring
+    ABS: [abstract omitted; see the DOI]
+[R2b-C10744] Searching and exploring software repositories in virtual reality | ACM Symposium on Virtual Reality Software and Technology (VR | 2017 | doi:10.1145/3139131.3141209
+    WHY UNSURE: Software repositories in VR; check graph structure
+    ABS: [abstract omitted; see the DOI]
+[R2b-C10903] What if Factories Looked Like Forests? Redesigning the Manufacturing Industry 4.0 Workplaces with an Augmented Reality Inspired Nature Metaphor |  | 2017 | doi:
+    WHY UNSURE: AR nature metaphor for factory data; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2b-C11291] IslandViz: A Tool for Visualizing Modular Software Systems in Virtual Reality | IEEE Working Conference on Software Visualization (VISSOFT) | 2018 | doi:10.1109/vissoft.2018.00020
+    WHY UNSURE: VR software module islands; check dependency graph
+    ABS: [abstract omitted; see the DOI]
+[R2b-C11539] Using OmicsNet for Network Integration and 3D Visualization | Current Protocols in Bioinformatics | 2018 | doi:10.1002/cpbi.69
+    WHY UNSURE: OmicsNet 3D multi-omics network; possibly layered layout
+    ABS: [abstract omitted; see the DOI]
+[R2b-C11740] Augmented Reality in Physics Education: Motion Understanding Using an Augmented Airtable | Lecture notes in computer science | 2019 | doi:10.1007/978-3-030-31908-3_8
+    WHY UNSURE: AR augmented airtable motion physics; check situated vis
+    ABS: [abstract omitted; see the DOI]
+[R2b-C12054] Metaphors for Software Visualization Systems Based on Virtual Reality | International Conference on Augmented and Virtual Reality | 2019 | doi:10.1007/978-3-030-25965-5_6
+    WHY UNSURE: Software vis metaphors in VR; check graph metaphors
+    ABS: [abstract omitted; see the DOI]
+[R2b-C12140] ReallifeEngine: A Mixed Reality-Based Visual Programming System for SmartHomes | Eurographics | 2019 | doi:10.2312/egve.20191287
+    WHY UNSURE: MR visual programming anchored to IoT devices; node graph
+    ABS: [abstract omitted; see the DOI]
+[R2b-C12486] Augmented reality for the virtual dissection of white matter pathways | Acta Neurochir. | 2020 | doi:10.1007/s00701-020-04545-w
+    WHY UNSURE: AR white matter pathway dissection; check anchoring
+    ABS: [abstract omitted; see the DOI]
+[R2b-C12628] Effects of augmented reality on learning and cognitive load in university physics laboratory courses | Computers in Human Behavior | 2020 | doi:10.1016/j.chb.2020.106316
+    WHY UNSURE: AR heat conduction lab visualization; situated data on rods
+    ABS: [abstract omitted; see the DOI]
+[R2b-C12811] Metrics for Evaluating Cyber Security Data Visualizations in Virtual Reality | PRESENCE Virtual and Augmented Reality | 2020 | doi:10.1162/pres_a_00363
+    WHY UNSURE: Cyber security vis in VR; may include network graphs
+    ABS: [abstract omitted; see the DOI]
+[R2b-C13019] TGView3D: A System for 3-Dimensional Visualization of Theory Graphs | Lecture notes in computer science | 2020 | doi:10.1007/978-3-030-53518-6_20
+    WHY UNSURE: TGView3D theory graphs in 3D, reportedly VR
+    ABS: [abstract omitted; see the DOI]
+[R2b-C13057] Towards Collaborative and Dynamic Software Visualization in VR | VISIGRAPP | 2020 | doi:10.5220/0008945201490156
+    WHY UNSURE: Software city plus call traces in VR; check graph
+    ABS: [abstract omitted; see the DOI]
+[R2b-C13066] Towards visualization of evolution of component-based software architectures in VR | International Conference on Art, Science, and Engineering of | 2020 | doi:10.1145/3397537.3398473
+    WHY UNSURE: Software architecture evolution in VR; check dependencies
+    ABS: [abstract omitted; see the DOI]
+[R2b-C13930] Augmented Reality In-Field Observation Creation and Visualization in Underperforming Areas | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2022 | doi:10.1109/vrw55335.2022.00277
+    WHY UNSURE: Navigation/annotation; yield data vis unclear
+    ABS: [abstract omitted; see the DOI]
+[R2b-C14098] Exploring How Visualization Design and Situatedness Evoke Compassion in the Wild | Comput Graph Forum | 2022 | doi:10.1111/cgf.14553
+    WHY UNSURE: Situatedness of data representations; check AR/physical
+    ABS: [abstract omitted; see the DOI]
+[R2b-C14624] ARrow: A Real-Time AR Rowing Coach | Eurographics Conference on Visualization | 2023 | doi:10.2312/evs.20231046
+    WHY UNSURE: No abstract; rowing coach, data vis unclear
+    ABS: [abstract omitted; see the DOI]
+[R2b-C14914] Iterative Design of an Immersive Analytics Environment Based on Frame of Reference | Lecture notes in computer science | 2023 | doi:10.1007/978-3-031-35634-6_7
+    WHY UNSURE: Immersive analytics frame of reference design; check AR
+    ABS: [abstract omitted; see the DOI]
+[R2b-C14975] NCARVis: No-Code Visualization Creation System based on Free-hand | IEEE Pacific Visualization Symposium | 2023 | doi:10.1109/pacificvis56936.2023.00007
+    WHY UNSURE: Free-hand no-code AR vis creation; check
+    ABS: [abstract omitted; see the DOI]
+[R2b-C15295] A Novel AR Recoloring Technique to Enhance Operator Performance on Inspection Tasks in Industry 4.0 Environments | IEEE Transactions on Visualization and Computer Graphics | 2024 | doi:10.1109/tvcg.2024.3410537
+    WHY UNSURE: AR recoloring using real-world context; check vis technique
+    ABS: [abstract omitted; see the DOI]
+[R2b-C15451] Context-Aware Recoloring Approach for AR-Assisted Maintenance Applications | Lecture notes in mechanical engineering | 2024 | doi:10.1007/978-3-031-58094-9_52
+    WHY UNSURE: Context-aware AR recoloring for maintenance; check
+    ABS: [abstract omitted; see the DOI]
+[R2b-C15478] Designing a System-Centered View to Microservices Using Service Dependency Graphs: Elaborating on 2D and 3D visualization | International Conference on Electrical, Computer, Communicat | 2024 | doi:10.1109/iceccme62383.2024.10797014
+    WHY UNSURE: Microservice dependency graph 2D vs 3D; check immersion
+    ABS: [abstract omitted; see the DOI]
+[R2b-C15534] Evolution and Anti-patterns Visualized: MicroProspect in Microservice Architecture | Lecture notes in computer science | 2024 | doi:10.1007/978-3-031-66326-0_19
+    WHY UNSURE: Microservice evolution visualization; check 3D/AR graph
+    ABS: [abstract omitted; see the DOI]
+[R2b-C15605] "I'm not alone in that battle": Designing Mobile AR for Mental Health Communication and Community Connectedness | Designing Interactive Systems Conference | 2024 | doi:10.1145/3643834.3661626
+    WHY UNSURE: Mobile AR health data visualizations; check anchoring
+    ABS: [abstract omitted; see the DOI]
+[R2b-C15650] Is the 3D model the way to go when presenting microservice architecture? | IEEE/ACM International Conference on Automated Software Engi | 2024 | doi:10.1145/3691621.3694954
+    WHY UNSURE: Microservice architecture 3D/VR/AR graph model
+    ABS: [abstract omitted; see the DOI]
+[R2b-C15675] Manipulating VR - Native User Interfaces for Software Visualization Customization | IEEE Working Conference on Software Visualization (VISSOFT) | 2024 | doi:10.1109/vissoft64034.2024.00022
+    WHY UNSURE: VR software visualization customization; check graph
+    ABS: [abstract omitted; see the DOI]
+[R2b-C15746] PhosNetVis: A web-based tool for fast kinase-substrate enrichment analysis and interactive 2D/3D network visualizations of phosphoproteomics data | Patterns | 2024 | doi:10.1016/j.patter.2024.101148
+    WHY UNSURE: 2D/3D kinase network vis; check VR export
+    ABS: [abstract omitted; see the DOI]
+[R2b-C15808] Situated Instructions and Guidance For Self-training and Self-coaching in Sports | International Conference on Human-Computer Interaction with  | 2024 | doi:10.1145/3640471.3686644
+    WHY UNSURE: Situated sports guidance AR/VR; check
+    ABS: [abstract omitted; see the DOI]
+[R2b-C15887] Train Me: Exploring Mobile Sports Capture and Replay for Immersive Sports Coaching | International Conference on Human-Computer Interaction with  | 2024 | doi:10.1145/3640471.3680239
+    WHY UNSURE: Mobile AR sports capture replay; check situated vis
+    ABS: [abstract omitted; see the DOI]
+[R2b-C15951] Whatever could be, could be: Visualizing Future Movement Predictions | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2024 | doi:10.1109/vr58804.2024.00036
+    WHY UNSURE: MR visualizations of future movement predictions; check
+    ABS: [abstract omitted; see the DOI]
+[R2b-C16023] An intuitive and semi-automated transfer function design for interactive region of interest-based direct volume rendering in mixed reality head mounted devices | Virtual Reality | 2025 | doi:10.1007/s10055-025-01121-4
+    WHY UNSURE: MR in-situ direct volume rendering; check anchoring
+    ABS: [abstract omitted; see the DOI]
+[R2b-C16324] Investigating the Effects of Augmented Reality on Message Credibility When Visualizing Environmental Impacts | IEEE Transactions on Visualization and Computer Graphics | 2025 | doi:10.1109/tvcg.2025.3634786
+    WHY UNSURE: AR vs desktop environmental visualizations; check situatedness
+    ABS: [abstract omitted; see the DOI]
+[R2b-C16464] SAVAT: A Tool for Visualizing the Impact of Changes in Microservices | Lecture notes in computer science | 2025 | doi:10.1007/978-3-032-04403-7_1
+    WHY UNSURE: Microservice change-impact visualization; check 3D/AR graph
+    ABS: [abstract omitted; see the DOI]
+[R2b-C16608] Visualizing Communities in Dynamic Multivariate Networks | SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRA | 2025 | doi:10.1109/sibgrapi67909.2025.11223378
+    WHY UNSURE: Dynamic multivariate network communities; check time-slice layers
+    ABS: [abstract omitted; see the DOI]
+[R2b-C16623] Walking Through Time: A Hybrid Immersive System for Spatial and Expressive Timeline Authoring | Visualization | 2025 | doi:10.1109/vis60296.2025.00076
+    WHY UNSURE: AR room-scale timeline authoring; spatial context
+    ABS: [abstract omitted; see the DOI]
+[R2b-C16693] AR Data Ribbon: Break the Frame and Unroll Data in the Air | International Conference on Advanced Visual Interfaces (AVI) | 2026 | doi:10.1145/3811427.3811497
+    WHY UNSURE: AR data ribbon beyond frame; demo paper
+    ABS: [abstract omitted; see the DOI]
+[R2b-C16766] Creating More Efficient Authoring Tools for Extended Reality App Development: Visualizing Complex Graphs and Automating Dependency Creation in a No-Code Authoring System for Manufacturing Disassembly | DSpace@MIT (Massachusetts Institute of Technology) | 2026 | doi:
+    WHY UNSURE: XR authoring tool visualizing complex dependency graphs
+    ABS: [abstract omitted; see the DOI]
+[R3-C02739] 2023. AR-RViz: Augmented Reality Robot Visualization | : |  | doi:
+    WHY UNSURE: AR robot data visualization; abstract vs spatial robot data unclear
+    ABS: [abstract omitted; see the DOI]
+[R3-C02755] 2023. Mixed Reality Learning Visualizations Using Knowledge Graphs | Advances in Web-BasedLearning–ICWL2023 ,HaoranXie |  | doi:
+    WHY UNSURE: knowledge graphs visualized in MR; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R3-C02765] 2023. Who Did What When? Discovering Complex Historical Interrelations in Immersive Virtual Reality | 2023 IEEE International Symposium on Mixed and Augmented Rea |  | doi:
+    WHY UNSURE: immersive VR historical interrelations; possibly network vis
+    ABS: [abstract omitted; see the DOI]
+[R3-C02809] A condition-based approach to robot visualisations that allows users to defne when they appear |  |  | doi:
+    WHY UNSURE: AR robot visualisations; garbled title, no abstract
+    ABS: [abstract omitted; see the DOI]
+[R3-C02818] , a novel immersive authoring tool to create in-situ robot visualisation using real data directly from a robot |  |  | doi:
+    WHY UNSURE: garbled fragment; immersive in-situ robot vis authoring
+    ABS: [abstract omitted; see the DOI]
+[R3-C03004] David Snowdon Steve Benford Chris Greenhalgh Rob Ingram Chris Brown Dave Lloyd Lennart Fahln and Mrten Stenius. 1997. A 3D Collaborative Virtual Environment for Web Browsing. In Virtual Reality WorldWide’97.  David Snowdon Steve Benford Chris Greenhalgh Rob Ingram Chris Brown Dave Lloyd Lennart Fahln and Mrten Stenius. 1997. A 3D Collaborative Virtual Environment for Web Browsing. In Virtual Reality WorldWide’97. |  |  | doi:
+    WHY UNSURE: 1997 3D collaborative VE for web browsing; web graph in VR?
+    ABS: [abstract omitted; see the DOI]
+[R3-C03190] Immersive network monitoring |  |  | doi:
+    WHY UNSURE: immersive network monitoring; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R3-C03215] is followed by visualizing the communities using V-NeuroStack. We then have the application 537 evaluated by domain experts whose feedback is used to improve the application |  |  | doi:
+    WHY UNSURE: garbled fragment naming V-NeuroStack (VR brain network stacks?)
+    ABS: [abstract omitted; see the DOI]
+[R3-C03252] Journal of Graph Algorithms and Applications Testing Simultaneous Planarity When the Common Graph Is 2-connected |  |  | doi:
+    WHY UNSURE: simultaneous planarity theory; multiplex drawing (prior unsure)
+    ABS: [abstract omitted; see the DOI]
+[R3-C03635] Tatzgern M (2015) Situated visualization in augmented reality (Doctoral dissertation, PhD thesis Graz University of Technology), Graz, Austria |  |  | doi:
+    WHY UNSURE: Tatzgern situated AR thesis; check if published elsewhere
+    ABS: [abstract omitted; see the DOI]
+[R3-C03640] The Choreography of Augmented Reality Timelines |  |  | doi:
+    WHY UNSURE: AR timelines; unclear whether data visualization
+    ABS: [abstract omitted; see the DOI]
+[R3-C03729] Visualizing the Invisible: A Generative AR System for Intuitive Multi-Modal Sensor Data | computer vision and pattern recognition |  | doi:
+    WHY UNSURE: generative AR multimodal sensor data; fields or charts?
+    ABS: [abstract omitted; see the DOI]
+[R3-C03917] Visual Analysis of Bipartite Biological Networks | Proceedings of the Eurographics Workshop on Visual Computing | 0 | doi:10.2312/vcbm/vcbm08/135-142
+    WHY UNSURE: bipartite biological networks; two-mode, MLN relevance?
+    ABS: [abstract omitted; see the DOI]
+[R3-C05746] Simultaneous Embedding of a Planar Graph and Its Dual on the Grid | Theory of Computing Systems | 2002 | doi:10.1007/3-540-36136-7_50
+    WHY UNSURE: simultaneous embedding theory (graph and dual); prior unsure
+    ABS: [abstract omitted; see the DOI]
+[R3-C05964] On Simultaneous Planar Graph Embeddings | Lecture notes in computer science | 2003 | doi:10.1007/978-3-540-45078-8_22
+    WHY UNSURE: simultaneous planar embeddings theory; prior unsure
+    ABS: [abstract omitted; see the DOI]
+[R3-C06294] Two-and-a-half-dimensional Visualisation of Relational Networks | Faculty of Science University of Sydney | 2004 | doi:
+    WHY UNSURE: Dwyer thesis 2.5D relational networks; prior unsure
+    ABS: [abstract omitted; see the DOI]
+[R3-C06738] Augmented reality visualisation for player | Proceedings - IEEE International Conference on Robotics and  | 2006 | doi:10.1109/robot.2006.1642308
+    WHY UNSURE: AR robot debugging vis; robot data abstract or spatial?
+    ABS: [abstract omitted; see the DOI]
+[R3-C07057] Anchored Maps: Visualization Techniques for Drawing Bipartite Graphs | Springer eBooks | 2007 | doi:10.1007/978-3-540-73107-8_12
+    WHY UNSURE: anchored maps for bipartite graphs; two-mode/I5?
+    ABS: [abstract omitted; see the DOI]
+[R3-C07280] Simultaneous Geometric Graph Embeddings | Springer eBooks | 2007 | doi:10.1007/978-3-540-77537-9_28
+    WHY UNSURE: simultaneous geometric embeddings theory; prior unsure
+    ABS: [abstract omitted; see the DOI]
+[R3-C07351] Visualisation and analysis of the internet movie database | International Asia-Pacific Symposium on Visualization | 2007 | doi:10.1109/apvis.2007.329304
+    WHY UNSURE: IMDB temporal multivariate networks; time representation unclear
+    ABS: [abstract omitted; see the DOI]
+[R3-C07396] A layout algorithm for undirected compound graphs | Information Sciences | 2008 | doi:10.1016/j.ins.2008.11.017
+    WHY UNSURE: compound graph layout; possible I5 building block
+    ABS: [abstract omitted; see the DOI]
+[R3-C07462] Characterizations of restricted pairs of planar graphs allowing simultaneous embedding with fixed edges | Computational Geometry | 2008 | doi:10.1016/j.comgeo.2011.02.002
+    WHY UNSURE: simultaneous embedding with fixed edges theory; prior unsure
+    ABS: [abstract omitted; see the DOI]
+[R3-C07644] Progress towards Site Visits by Situated Visualization | Proceedings of ACM CHI 2008 Workshop Urban Mixed Reality | 2008 | doi:
+    WHY UNSURE: situated AR site-visit visualization (workshop); data type?
+    ABS: [abstract omitted; see the DOI]
+[R3-C07651] Readable Representations for Large-Scale Bipartite Graphs | Lecture notes in computer science | 2008 | doi:10.1007/978-3-540-85565-1_103
+    WHY UNSURE: readable large bipartite graphs; two-mode, MLN relevance?
+    ABS: [abstract omitted; see the DOI]
+[R3-C07738] uMegane: Visualization system of sensor data using AR technology | IEICE Tech Rep | 2008 | doi:
+    WHY UNSURE: AR sensor data visualization; no abstract (prior similar I4)
+    ABS: [abstract omitted; see the DOI]
+[R3-C08097] Sphere Anchored Map: A Visualization Technique for Bipartite Graphs in 3D | Proceedings of 13th International Conference on HumanCompute | 2009 | doi:10.1007/978-3-642-02577-8_89
+    WHY UNSURE: 3D sphere anchored map for bipartite graphs; I5?
+    ABS: [abstract omitted; see the DOI]
+[R3-C08181] Visualizing Temporal Dynamics at the Genomic and Metabolic Level | International Conference on Information Visualisation (IV) | 2009 | doi:10.1109/iv.2009.41
+    WHY UNSURE: regulatory + metabolic networks linked; possible two-layer
+    ABS: [abstract omitted; see the DOI]
+[R3-C08320] Drawing Clustered Bipartite Graphs in Multi-circular Style | International Conference on Information Visualisation (IV) | 2010 | doi:10.1109/iv.2010.13
+    WHY UNSURE: clustered bipartite multi-circular drawing; two-mode/I5?
+    ABS: [abstract omitted; see the DOI]
+[R3-C08372] HYDROSYS – A mixed reality platform for on-site visualization of environmental data | Lecture notes in computer science | 2010 | doi:10.1007/978-3-642-19173-2_13
+    WHY UNSURE: HYDROSYS on-site MR environmental data; sensor charts or fields?
+    ABS: [abstract omitted; see the DOI]
+[R3-C08441] Optimal Embedding of Heterogeneous Graph Data with Edge Crossing Constraints † |  | 2010 | doi:
+    WHY UNSURE: heterogeneous graph embedding; possibly multi-relational
+    ABS: [abstract omitted; see the DOI]
+[R3-C08582] Visual Exploration across Biomedical Databases | IEEE Transactions on Computational Biology and Bioinformatic | 2010 | doi:10.1109/tcbb.2010.1
+    WHY UNSURE: heterogeneous entity-relation graph across databases; multi-relational?
+    ABS: [abstract omitted; see the DOI]
+[R3-C08753] Design and Implementation of Sensor Network Device Control System with AR Technology | Advanced engineering forum | 2011 | doi:10.4028/www.scientific.net/aef.2-3.131
+    WHY UNSURE: AR display of sensor network nodes in situ
+    ABS: [abstract omitted; see the DOI]
+[R3-C09306] Collaborative visualization of engineering processes using tabletop augmented reality | Advances in Engineering Software | 2012 | doi:10.1016/j.advengsoft.2012.09.001
+    WHY UNSURE: Tabletop AR of engineering processes; may be abstract data
+    ABS: [abstract omitted; see the DOI]
+[R3-C09341] Development of Software for Automatic Creation of Embossed Graphs | Lecture notes in computer science | 2012 | doi:10.1007/978-3-642-31522-0_25
+    WHY UNSURE: Embossed (tactile) graphs; check if node-link (I3) or charts
+    ABS: [abstract omitted; see the DOI]
+[R3-C10216] Survey on time-varying network visualization | Journal of System Simulation | 2013 | doi:
+    WHY UNSURE: Dynamic network vis survey (B?); possibly Chinese-language (E7)
+    ABS: [abstract omitted; see the DOI]
+[R3-C10415] A Fraud Detection Visualization System Utilizing Radial Drawings and Heat-maps | Proc Int Conf Inf Vis Theory Appl | 2014 | doi:10.5220/0004735501530160
+    WHY UNSURE: "Multilayer radial drawing" for fraud; check multi-relational layers
+    ABS: [abstract omitted; see the DOI]
+[R3-C10529] Connections, Changes, and Cubes: Unfolding Dynamic Networks with Matrix Cubes |  | 2014 | doi:
+    WHY UNSURE: Matrix cubes (I1) but likely Bach PhD thesis (E5)
+    ABS: [abstract omitted; see the DOI]
+[R3-C11627] Situated visualization in augmented reality | PhD diss Ph D thesis | 2015 | doi:
+    WHY UNSURE: PhD thesis on AR situated vis; E5 if published elsewhere
+    ABS: [abstract omitted; see the DOI]
+[R3-C12653] Augmented and virtual reality based monitoring and safety system: A prototype IoT platform | Journal of Network and Computer Applications | 2017 | doi:10.1016/j.jnca.2017.03.022
+    WHY UNSURE: AR/VR IoT monitoring; may show sensor data in situ
+    ABS: [abstract omitted; see the DOI]
+[R3-C13115] Pulse and vital sign measurement in mixed reality using a HoloLens | ACM Symposium on Virtual Reality Software and Technology (VR | 2017 | doi:10.1145/3139131.3139134
+    WHY UNSURE: MR vital-sign visualization on people; medical (E2) vs in-situ data
+    ABS: [abstract omitted; see the DOI]
+[R3-C13312] Virtually Adapted Reality and Algorithm Visualization for Autonomous Robots | Lecture notes in computer science | 2017 | doi:10.1007/978-3-319-68792-6_38
+    WHY UNSURE: AR algorithm visualization for robots; abstract data? no abstract
+    ABS: [abstract omitted; see the DOI]
+[R3-C13862] MA-RADAR -A Mixed-Reality Interface for Collaborative Decision Making | International Conference on Automated Planning and Schedulin | 2018 | doi:
+    WHY UNSURE: MR interface for collaborative planning decisions; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R3-C14010] Simulaneous worlds: Using physical models to contextualize and compose visualisations | Posters of IEEE VIS | 2018 | doi:
+    WHY UNSURE: VIS poster: physical models contextualizing visualizations; maybe AR
+    ABS: [abstract omitted; see the DOI]
+[R3-C14483] DamAR : Augmented reality in dam safety control | Int. J. Hydropower Dams | 2019 | doi:
+    WHY UNSURE: DamAR, no abstract; likely in-situ dam sensor data (cf. C15503)
+    ABS: [abstract omitted; see the DOI]
+[R3-C14680] Immersive Analytics Through HoloSENAI MOTOR Mixed Reality App | Advances in intelligent systems and computing | 2019 | doi:10.1007/978-3-030-22868-2_89
+    WHY UNSURE: MR immersive analytics app; no abstract, data type unclear
+    ABS: [abstract omitted; see the DOI]
+[R3-C15049] Using Visualization of Convolutional Neural Networks in Virtual Reality for Machine Learning Newcomers | IEEE International Conference on Artificial Intelligence and | 2019 | doi:10.1109/aivr46125.2019.00031
+    WHY UNSURE: VR visualization of CNN layered structure; network vis?
+    ABS: [abstract omitted; see the DOI]
+[R3-C15068] Virtual Reality Visualization Model (VRVM) of the Tricarboxylic Acid (TCA) Cycle of Carbohydrate Metabolism for Medical Biochemistry Education | Journal of Science Education and Technology | 2019 | doi:10.1007/s10956-019-09790-y
+    WHY UNSURE: VR model of TCA metabolic cycle; maybe immersive pathway network
+    ABS: [abstract omitted; see the DOI]
+[R3-C15499] Exploring the Need and Design for Situated Video Analytics | Symposium on Spatial User Interaction | 2020 | doi:10.1145/3385959.3418458
+    WHY UNSURE: Situated AR video analytics; video-derived abstract data?
+    ABS: [abstract omitted; see the DOI]
+[R3-C15665] Minard Revisited – Exploring Augmented Reality in Information Design | Springer series in design and innovation | 2020 | doi:10.1007/978-3-030-61671-7_8
+    WHY UNSURE: AR information design (Minard); no abstract
+    ABS: [abstract omitted; see the DOI]
+[R3-C16191] An AR Debugging Tool for Robotics Programmers | In 4th International Workshop on Virtual, Augmented, and Mix | 2021 | doi:
+    WHY UNSURE: AR robot debugging; program-state data in situ? no abstract
+    ABS: [abstract omitted; see the DOI]
+[R3-C16478] ICDWiz: Visualizing ICD-11 Using 3D Force-Directed Graph | Communications in computer and information science | 2021 | doi:10.1007/978-981-16-1685-3_27
+    WHY UNSURE: 3D force-directed graph of ICD-11; check if immersive
+    ABS: [abstract omitted; see the DOI]
+[R3-C16485] Immersive Authoring of Condition-based AR Robot Visualisations | Manufacturing | 2021 | doi:
+    WHY UNSURE: Immersive authoring of AR robot condition visualisations
+    ABS: [abstract omitted; see the DOI]
+[R3-C16658] PriView– Exploring Visualisations to Support Users’ Privacy Awareness | CHI Conference on Human Factors in Computing Systems | 2021 | doi:10.1145/3411764.3445067
+    WHY UNSURE: Situated visualization of privacy-invasive devices; AR?
+    ABS: [abstract omitted; see the DOI]
+[R3-C17047] Augmented reality with algorithm animation and their effect on students’ emotions | Multimedia Tools and Applications | 2022 | doi:10.1007/s11042-022-13679-1
+    WHY UNSURE: AR algorithm animations; abstract data, AR value unclear
+    ABS: [abstract omitted; see the DOI]
+[R3-C17226] Explanation visualization for augmented reality shopping decision support systems |  | 2022 | doi:
+    WHY UNSURE: AR shopping explanation visualization; no abstract, maybe thesis
+    ABS: [abstract omitted; see the DOI]
+[R3-C17546] SensorViz: Visualizing Sensor Data Across Different Stages of Prototyping Interactive Objects | Designing Interactive Systems Conference | 2022 | doi:10.1145/3532106.3533481
+    WHY UNSURE: SensorViz: AR sensor visualization; sensor values vs spatial ranges
+    ABS: [abstract omitted; see the DOI]
+[R3-C17936] CO2LLAB: Creating an Eco-Conscious Community through Habit Tracking and Augmented Reality Visualisation | CHI Conference Extended Abstracts on Human Factors in Comput | 2023 | doi:10.1145/3544549.3583834
+    WHY UNSURE: AR visualization of CO2 habit data; AR value unclear
+    ABS: [abstract omitted; see the DOI]
+[R3-C18401] Seeing Clearly: A Situated Air Quality Visualization with AR Egocentric Viewpoint Extension |  | 2023 | doi:
+    WHY UNSURE: Situated AR air quality; field (E2) vs in-situ glyphs (I4)
+    ABS: [abstract omitted; see the DOI]
+[R3-C18567] Virtual reality for improving cyber situational awareness in security operations centers | Computers & Security | 2023 | doi:10.1016/j.cose.2023.103368
+    WHY UNSURE: VR cyber situational awareness; may include network views
+    ABS: [abstract omitted; see the DOI]
+[R3-C18727] Analysis of the impact of energy consumption data visualization using augmented reality on energy consumption and indoor environment quality | Building and Environment | 2024 | doi:10.1016/j.buildenv.2024.111177
+    WHY UNSURE: AR energy-consumption data visualization; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R3-C19087] Memory Recall for Data Visualizations in Mixed Reality, Virtual Reality, 3D and 2D | IEEE Transactions on Visualization and Computer Graphics | 2024 | doi:10.1109/tvcg.2023.3336588
+    WHY UNSURE: Recall of data vis in MR vs VR/2D; AR value?
+    ABS: [abstract omitted; see the DOI]
+[R4-C03658] Takimoto, T., Namatame, N., Nakazawa, J., Takashio, K. and Tokuda, H. (2010) Extate: Visualizing Wireless Networks by Using AR Technology. The 4th International Workshop on Ubiquitous Virtual Reality, Helsinki, 17 May 2010. |  |  | doi:
+    WHY UNSURE: AR visualization of wireless networks; no abstract, workshop - check full text for graph view
+    ABS: [abstract omitted; see the DOI]
+[R4-C10667] A Mobile AR Assistant for Campus Area Network Management | ... International Conference on Complex, Intelligent and Sof | 2014 | doi:10.1109/cisis.2014.93
+    WHY UNSURE: mobile AR assistant for VLAN network management - check whether a network/topology view is shown
+    ABS: [abstract omitted; see the DOI]
+[R4-C10700] An AR-based VLAN visualizer | IEEE International Conference on Consumer Electronics - Taiw | 2014 | doi:10.1109/icce-tw.2014.6904013
+    WHY UNSURE: AR VLAN visualizer anchored to physical switch - check whether a network view is shown
+    ABS: [abstract omitted; see the DOI]
+[R4-C15455] Visualising the Invisible: Augmented Reality and Virtual Reality as Persuasive Technologies for Energy Feedback | IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanc | 2019 | doi:10.1109/smartworld-uic-atc-scalcom-iop-sci.2019.00225
+    WHY UNSURE: AR energy feedback - check whether consumption shown as situated charts/glyphs
+    ABS: [abstract omitted; see the DOI]

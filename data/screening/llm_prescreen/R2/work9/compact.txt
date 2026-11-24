@@ -1,0 +1,539 @@
+1 [R2b-C02678] 2020. Mixed Reality Toolkit. Microsoft. 2020. Mixed Reality Toolkit. Microsoft. |  | 
+2 [R2b-C02682] 2022. Effects of view layout on situated analytics for multiple-view representa-tionsinimmersivevisualization | IEEETransactionsonVisualizationandComputer Graphics | 
+3 [R2b-C02683] (2022) Graphia: A platform for the graph-based visualisation and analysis of high dimensional data | PLOS Comput. Biol. | 
+4 [R2b-C02685] 2022. Layerable Apps: Comparing Concurrent and Exclusive Display of Augmented Reality Applications | 2022 IEEE International Symposium on Mixed and Augmented Rea | 
+5 [R2b-C02687] 2022) Proxemic maps for immersive visualization | Cartogr Geogr Inf Sci | 
+6 [R2b-C02688] 2022. Stare: Augmented realitydata visualization forexplainable decision supportin smart environments | IEEE Access | 
+7 [R2b-C02692] 2023. Context-dependent memory recall in HMD-based immersive virtual environments | Plos one | 
+8 [R2b-C02693] 2023. Gamification of the Graph Theory Course. | Finding the Shortest Path by a Greedy Algorithm | 
+9 [R2b-C02695] 2023) Level-of-Detail AR | Proc. IEEE VR | 
+10 [R2b-C02697] 2023) Mini-VLAT: a short and effective measure of visualization | literacy | 
+11 [R2b-C02698] 2023) Proxsituated visualization: an extended model of situated visualization using proxies for physical refer-ents | Proc. ACM CHI | 
+12 [R2b-C02702] 2023.Unravelingthedesignspaceofimmersive analytics:Asystematicreview | Small | 
+13 [R2b-C02704] 2024. A Mixed Reality ApplicationforMulti-FloorBuildingEvacuationDrillsusingReal-TimePathfind-ingandDynamic3DModeling | .semanticscholar.org/CorpusID | 
+14 [R2b-C02712] 2024. Invisible Mesh: Effects of X-Ray Vision Metaphors on Depth Perception in Optical-See-Through Augmented Reality | IEEE VR | 
+15 [R2b-C02714] 2025. Augmented Reality In-the-Wild: Usage Patterns and Experiences of Working with AR Laptops in Real-World Settings | IEEE Transactions on Visualization and Computer Graphics | 
+16 [R2b-C02715] 2025. Collaboration in Immersive and Non-ImmersiveVirtualEnvironments | ImmersedinMedia:TelepresenceTheory Measurement & Technology | 
+17 [R2b-C02746] Alexandre Bergel. 2016. Agile Visualization. LULU Press. http://AgileVisualization.com |  | 
+18 [R2b-C02752] : An AI Based AR Indoor Navigation Solution |  | 
+19 [R2b-C02764] AR Engine shifts the graph suddenly. 3. The fixed location for the services |  | 
+20 [R2b-C02800] (C) Immediate Situated, homogeneous referents | related to this category includes | 
+21 [R2b-C02830] Concrete vs abstract visualisation: The real world as a canvas for data visualisation |  | 
+22 [R2b-C02872] E. (Eetu) Laukka, Comparing hand tracking and controller-based interactions for a virtual reality learning application, University of Oulu, Oulu, Finland, 2021. http://jultika.oulu.fi/Record/nbnfioulu-202104177565 (accessed June 8, 2023). |  | 
+23 [R2b-C02886] Envisioning Situated Visualizations of Environmental Footprints in an Urban Environment |  | 
+24 [R2b-C02893] Evaluating Visualization Decision-Making with Cognitive Models |  | 
+25 [R2b-C02925] G. Manfredi Nicola Felice Capece R. P. Di and Ugo Erra. 2024. A Mixed Reality Application for Multi-Floor Building Evacuation Drills using Real-Time Pathfinding and Dynamic 3D Modeling. https://api.semanticscholar.org/CorpusID:273970950 |  | 
+26 [R2b-C02948] H2 Solving tasks on visualizations with higher complexity perform worse |  | 
+27 [R2b-C02986] Ieee Transactions on Visualization and Computer Graphics Visizer: a Visualization Resizing Framework |  | 
+28 [R2b-C02991] Immersive analytics for geology: Field sketch-based visualization to assist geological structure analysis during fieldwork |  | 
+29 [R2b-C03014] Isenberg, P., Heimerl, F., Koch, S., Isenberg, T., Xu, P., Stolper, C., Sedlmair, M., Chen, J., M¨oller, T., Stasko, J.: Visualization publication dataset. Dataset: http://vispubdata.org/ (2015). URL http://vispubdata.org/. Published Jun. 2015 |  | 
+30 [R2b-C03031] Journal of Graph Algorithms and Applications a Split&push Approach to 3d Orthogonal Drawing |  | 
+31 [R2b-C03032] Journal of Graph Algorithms and Applications a User Study in Similarity Measures for Graph Drawing |  | 
+32 [R2b-C03034] Journal of Graph Algorithms and Applications Computing Communities in Large Networks Using Random Walks |  | 
+33 [R2b-C03112] Mobile Devices & Augmented Reality for Data Analysis analytics (BDVA 2015) : Hobart, Australia, 22-25 September | 2015 | 
+34 [R2b-C03114] MobileVis: Examples of Data Visualization Usage on Mobile Devices |  | 
+35 [R2b-C03120] Move a lot around the graph |  | 
+36 [R2b-C03131] Navigation: the visualization should be easily navigable and enable traversing multiple levels of abstraction |  | 
+37 [R2b-C03145] Nreal Ltd.2020. Nreal Light AR Glasses. https://www.nreal.ai/ Accessed: 2020-09-01. |  | 
+38 [R2b-C03166] Pacific Symposium on Biocomputing 14:27-38 (2009) IDENTIFICATION OF DISCRIMINATING BIOMARKERS FOR HUMAN DISEASE USING INTEGRATIVE NETWORK BIOLOGY |  | 
+39 [R2b-C03208] R4 Support users to detect and present temporal changes of dynamic graphs with appropriate annotations (C3) |  | 
+40 [R2b-C03215] Recognizing Images in an AR Experience |  | 
+41 [R2b-C03235] S.K. Tadeja, K. Kutt, Y. Lu, P. Seshadri, G.J. Nalepa, P.O. Kristensson, Jarvis for Aeroengine Analytics: A Speech Enhanced Virtual Reality Demonstrator Based on Mining Knowledge Databases, (2021). https://arxiv.org/abs/2107.13403. |  | 
+42 [R2b-C03244] Sector Analytics in Immersive Environments | Proceedings of the Twelfth ACM International Conference on F | 
+43 [R2b-C03284] T1 Storytelling Automation: To combat the complexity of dynamic graphs with many relationships spanning a long period of time | DG Comics automates the clustering of | 
+44 [R2b-C03308] Thetuvix. [n.d.]. Hologram stability - Mixed Reality. https://docs.microsoft.com/en-us/windows/mixed-reality/hologram-stability#:~:text=HoloLens has hardware that adjusts location and holograms feel stable. |  | 
+45 [R2b-C03705] Centered graphs and the structure of ego networks | Mathematical Social Sciences | 1982
+46 [R2b-C03720] Crossing Number is NP-Complete | SIAM Journal on Algebraic and Discrete Methods | 1983
+47 [R2b-C04098] A presentation model for mobile information visualization | Computers & Graphics | 1996
+48 [R2b-C04108] Aspects of network visualization | IEEE Computer Graphics and Applications | 1996
+49 [R2b-C04127] Multimodal virtual reality: Input‐output devices, system integration, and human factors | International Journal of Human-Computer Interaction | 1996
+50 [R2b-C04134] Proc. Graph Drawing, GD, no. 1190 |  | 1996
+51 [R2b-C04168] Visualizing the global topology of the MBone | IEEE Symposium on Information Visualization | 1996
+52 [R2b-C04193] An interactive constraint-based system for drawing graphs | ACM Symposium on User Interface Software and Technology (UIS | 1997
+53 [R2b-C04220] Health and safety issues associated with virtual reality: a review of current literature | Advisory Group on Computer Graphics | 1997
+54 [R2b-C04256] The effect of spatial arrangement on judgments and errors in interpreting graphs | Social Networks | 1997
+55 [R2b-C04262] The Personal Interaction Panel – a Two‐Handed Interface for Augmented Reality | Computer Graphics Forum | 1997
+56 [R2b-C04314] Gradient-based learning applied to document recognition | Proceedings of the IEEE | 1998
+57 [R2b-C04435] Ten myths of multimodal interaction | Communications of the ACM | 1999
+58 [R2b-C04483] Arbor 3D: an interactive environment for examining phylogenetic and taxonomic trees in multiple dimensions | Bioinformatics | 2000
+59 [R2b-C04578] Visualization of power system data | Hawaii International Conference on System Sciences (HICSS) | 2000
+60 [R2b-C04614] An open software architecture for virtual reality interaction | ACM Symposium on Virtual Reality Software and Technology (VR | 2001
+61 [R2b-C04725] Visualization Metaphors | Programming and Computer Software | 2001
+62 [R2b-C04874] Speed of comprehension of visualized ordered sets. | Journal of Experimental Psychology Applied | 2002
+63 [R2b-C04987] Exploring a Cognitive Basis for Learning Spatial Relationships with Augmented Reality | Technol Instr Cogn Learn | 2003
+64 [R2b-C05031] On Graph Kernels: Hardness Results and Efficient Alternatives | Lecture notes in computer science | 2003
+65 [R2b-C05042] Photorealistic rendering for augmented reality using environment illumination | IEEE and ACM International Symposium on Augmented Reality | 2003
+66 [R2b-C05059] Software visualization in software maintenance, reverse engineering, and re‐engineering: a research survey | Journal of Software Maintenance and Evolution Research and P | 2003
+67 [R2b-C05098] Virtual Reality Technology | Presence - Teleoperators and Virtual Environments | 2003
+68 [R2b-C05140] Coordinated graph and scatter-plot views for the visual exploration of microarray time-series data | IEEE Symposium on Information Visualization | 2004
+69 [R2b-C05174] Graphviz and Dynagraph — Static and Dynamic Graph Drawing Tools | Mathematics and visualization | 2004
+70 [R2b-C05177] Herding sheep: live system for distributed augmented reality | Proceedings - International Symposium on Mixed and Augmented | 2004
+71 [R2b-C05208] Mobile augmented reality | Tele-geoinformatics LocationBased Computing and Services | 2004
+72 [R2b-C05209] Mobile Augmented Reality |  | 2004
+73 [R2b-C05282] Virtual reality applications in manufacturing process simulation | Journal of materials processing technology | 2004
+74 [R2b-C05315] A network-based analysis of systemic inflammation in humans | Nature | 2005
+75 [R2b-C05371] Efficient and high quality force-directed graph drawing | Math J | 2005
+76 [R2b-C05425] In IEEE Symposium on Information Visualization |  | 2005
+77 [R2b-C05555] VisANT: data-integrating visual framework for biological networks and modules | Nucleic Acids Res | 2005
+78 [R2b-C05653] High-Performance Dynamic Graphics Streaming for Scalable Adaptive Graphics Environment | ACM/IEEE Conference on Supercomputing (SC) | 2006
+79 [R2b-C05668] Interaction Techniques for Exploring Historic Sites through Situated Media | Symposium on 3D User Interfaces (3DUI) | 2006
+80 [R2b-C05689] Measuring the Discernability of Virtual Objects in Conventional and Stylised Augmented Reality | Eurographics Symposium on Virtual Environments | 2006
+81 [R2b-C05755] Supporting Free Throw Situations of Basketball Players with Augmented Reality | International Journal of Computer Science in Sport | 2006
+82 [R2b-C05771] The Perceptual Scalability of Visualization | IEEE Transactions on Visualization and Computer Graphics | 2006
+83 [R2b-C05778] Time-space transformations of geographic space for exploring, analyzing and visualizing transportation systems | Journal of Transport Geography | 2006
+84 [R2b-C05844] Ar visualization interface for biometric wireless sensor networks | Conference on Artificial Neural Networks (Proceedings of IWA | 2007
+85 [R2b-C05847] Augmented Reality Aided Assembly Design and Planning | CIRP Annals-Manufacturing Technology | 2007
+86 [R2b-C05849] Augmented Reality Visualization Interface for Biometric Wireless Sensor Networks | Lecture notes in computer science | 2007
+87 [R2b-C05868] Contextual Anatomic Mimesis Hybrid In-Situ Visualization Method for Improving Multi-Sensory Depth Perception in Medical Augmented Reality | Proceedings - International Symposium on Mixed and Augmented | 2007
+88 [R2b-C05885] Drug—target network | Nat Biotechnol | 2007
+89 [R2b-C05893] Energy Models for Graph Clustering | JGAA | 2007
+90 [R2b-C05934] Interactive visual clustering | ACM International Conference on Intelligent User Interfaces  | 2007
+91 [R2b-C05966] Multi-Level Graph Layout on the GPU | IEEE Trans Visual Comput Graphics | 2007
+92 [R2b-C05998] Realizing embodied interaction for visual analytics through large displays | Computers & Graphics | 2007
+93 [R2b-C06009] Siftables: towards sensor network user interfaces | International Conference on Tangible, Embedded, and Embodied | 2007
+94 [R2b-C06011] Smart Carpet: A Textile-based Large-area Sensor Network. Advanced Information Networking and.. 26, 1 (01 |  | 2007
+95 [R2b-C06058] Visual analytics of spatial interaction patterns for pandemic decision support | International Journal of Geographical Information Systems | 2007
+96 [R2b-C06065] Visualization and interaction of pervasive services using context-aware augmented reality | Expert Systems with Applications | 2007
+97 [R2b-C06107] A Survey Paper on Software Architecture Visualization | Tech Rep | 2008
+98 [R2b-C06115] Affordances and Limitations of Immersive Participatory Augmented Reality Simulations for Teaching and Learning | Journal of Science Education and Technology | 2008
+99 [R2b-C06176] Do visualizations improve synchronous remote collaboration? | CHI Conference on Human Factors in Computing Systems | 2008
+100 [R2b-C06195] Exploring Biological Networks with Cytoscape Software | Curr Protoc Bioinformatics | 2008
+101 [R2b-C06277] Objective and subjective assessment of stereoscopically separated labels in augmented reality | Computers & Graphics | 2008
+102 [R2b-C06319] Spatial Cognition: Embodied and Situated |  | 2008
+103 [R2b-C06432] A survey of graph edit distance | Pattern Analysis and Applications | 2009
+104 [R2b-C06505] Dynamic modularity in protein interaction networks predicts breast cancer outcome | Nat Biotechnol | 2009
+105 [R2b-C06517] Exploring tangible and direct touch interfaces for manipulating 2D and 3D information on a digital table | ACM International Conference on Interactive Tabletops and Su | 2009
+106 [R2b-C06524] Flow Mapping and Multivariate Visualization of Large Spatial Interaction Data | IEEE Transactions on Visualization and Computer Graphics | 2009
+107 [R2b-C06591] NAViGaTOR: Network Analysis, Visualization and Graphing Toronto | Bioinformatics | 2009
+108 [R2b-C06866] Hugin: a framework for awareness and coordination in mixed-presence collaborative information visualization | ACM International Conference on Interactive Tabletops and Su | 2010
+109 [R2b-C06872] InAir: sharing indoor air quality measurements and visualizations | CHI Conference on Human Factors in Computing Systems | 2010
+110 [R2b-C06923] Of-screen Visualization Techniques for Class Diagrams. In Proceedings of the 5th International Symposium on Software Visualization (Salt Lake City, Utah, USA) (SOFTVIS ’10) |  | 2010
+111 [R2b-C06924] Off-screen visualization techniques for class diagrams | ACM Symposium on Software Visualization (SoftVis) | 2010
+112 [R2b-C07006] The virtual chocolate factory: Building a real world mixed-reality system for industrial collaboration and control | IEEE International Conference on Multimedia and Expo (ICME) | 2010
+113 [R2b-C07193] Evaluating Partially Drawn Links for Directed Graph Edges | Lecture notes in computer science | 2011
+114 [R2b-C07287] Mobile Augmented Reality Based on the Semantic Web Applied to Ambient Assisted Living | Lecture notes in computer science | 2011
+115 [R2b-C07292] Monitoring large IP spaces with ClockView | IEEE Symposium on Visualization for Cyber Security (VIZSEC) | 2011
+116 [R2b-C07372] Sketching up the world: in situ authoring for mobile Augmented Reality | Personal and Ubiquitous Computing | 2011
+117 [R2b-C07409] The louvain method for community detection in large networks | Journal of Statistical Mechanics: Theory and | 2011
+118 [R2b-C07548] An Empirical Study on Using Visual Embellishments in Visualization | IEEE Transactions on Visualization and Computer Graphics | 2012
+119 [R2b-C07587] Challenges and approaches for the visualization of movement trajectories in 3d geovirtual environments | Proc GIScience Workshop on GeoVisual Analytics&#x2013;Time t | 2012
+120 [R2b-C07597] Collaborative Factory Planning in Virtual Reality | Procedia CIRP | 2012
+121 [R2b-C07611] Current status, opportunities and challenges of augmented reality in education | Computers & Education | 2012
+122 [R2b-C07622] Designing for the Situated and Public Visualization of Urban Data | Journal of Urban Technology | 2012
+123 [R2b-C07686] Heterogeneous Networks While Supporting Exploration History (CHI '12) |  | 2012
+124 [R2b-C07727] iVisClustering: An Interactive Visual Document Clustering via Topic Modeling | Computer Graphics Forum | 2012
+125 [R2b-C07763] Network Medicine Strikes a Blow against Breast Cancer | Cell | 2012
+126 [R2b-C07928] Visualization of intelligent assembling process by augmented reality tools application | In: Logistics and Industrial Informatics (LINDI), 2012 4th I | 2012
+127 [R2b-C07963] A Deeper Understanding of Sequence in Narrative Visualization | IEEE Transactions on Visualization and Computer Graphics | 2013
+128 [R2b-C08017] Augmented Reality Text Style Readability with See-Through Head-Mounted Displays in Industrial Context | PRESENCE Virtual and Augmented Reality | 2013
+129 [R2b-C08024] Basic Perception in Head-Worn Augmented Reality Displays |  | 2013
+130 [R2b-C08035] Collaborative data analysis with smart tangible devices | Proceedings of SPIE, the International Society for Optical E | 2013
+131 [R2b-C08082] Edge Compression Techniques for Visualization of Dense Directed Graphs | IEEE Transactions on Visualization and Computer Graphics | 2013
+132 [R2b-C08166] Integrative Analysis of Complex Cancer Genomics and Clinical Profiles Using the cBioPortal | Sci Signal | 2013
+133 [R2b-C08176] Interpretation of Genomic Variants Using a Unified Biological Network Approach | PLoS Comput Biol | 2013
+134 [R2b-C08205] Motif simplification: improving network visualization readability with fan, connector, and clique glyphs | CHI Conference on Human Factors in Computing Systems | 2013
+135 [R2b-C08211] Multiplex PageRank | PLoS ONE | 2013
+136 [R2b-C08295] Software evolution visualization: A systematic mapping study | Information and Software Technology | 2013
+137 [R2b-C08314] Stub Bundling and Confluent Spirals for Geographic Networks | Graph Drawing | 2013
+138 [R2b-C08324] Text Readability in Head-Worn Displays: Color and Style Optimization in Video versus Optical See-Through Devices | IEEE Transactions on Visualization and Computer Graphics | 2013
+139 [R2b-C08417] Visualization of off-screen data on tablets using context-providing bar graphs and scatter plots | Proceedings of SPIE, the International Society for Optical E | 2013
+140 [R2b-C08427] Visualizing Fuzzy Overlapping Communities in Networks | IEEE Transactions on Visualization and Computer Graphics | 2013
+141 [R2b-C08445] What Makes a Visualization Memorable? | IEEE Transactions on Visualization and Computer Graphics | 2013
+142 [R2b-C08498] A survey of plasticity in 3D user interfaces | IEEE Workshop on Software Engineering and Architectures for  | 2014
+143 [R2b-C08502] A systematic review of software architecture visualization techniques | Journal of Systems and Software | 2014
+144 [R2b-C08535] Augmented Reality Learning Experiences: Survey of Prototype Design and Evaluation | IEEE Transactions on Learning Technologies | 2014
+145 [R2b-C08545] BiNA: A Visual Analytics Tool for Biological Network Data | PLoS One | 2014
+146 [R2b-C08559] CluE: An Algorithm for Expanding Clustered Graphs | IEEE Pacific Visualization Symposium | 2014
+147 [R2b-C08587] Data Visualisation Trends in Mobile Augmented Reality Applications | International Symposium on Visual Information Communication  | 2014
+148 [R2b-C08608] Do 3d visualizations fail? an empirical discussion on 2d and 3d representations of the spatio-temporal data | Proceedings of Euro-Graphics | 2014
+149 [R2b-C08636] Evolutionary Meta Layout of Graphs | Lecture notes in computer science | 2014
+150 [R2b-C08721] Interactive 3D visualization of structural changes in the brain of a person with corticobasal syndrome | Frontiers in Neuroinformatics | 2014
+151 [R2b-C08761] MobileVis: Examples of Data Visualization Usage on Mobile Devices. http://mobilev.is/. Last checked 2019-12-18 |  | 2014
+152 [R2b-C08774] Munin: A Peer-to-Peer Middleware for Ubiquitous Analytics and Visualization Spaces | IEEE Transactions on Visualization and Computer Graphics | 2014
+153 [R2b-C08781] Next-Generation Augmented Reality Browsers: Rich, Seamless, and Adaptive | Proceedings of the IEEE | 2014
+154 [R2b-C08805] Physical Skills and Digital Gaming: The Relationship between Basketball and an Augmented Reality Adaption | Springer eBooks | 2014
+155 [R2b-C08888] Supervised Force Directed Algorithm for the Generation of Flow Maps | Digital Library (University of West Bohemia) | 2014
+156 [R2b-C08943] Towards Big Data Visualization for Augmented Reality | IEEE Conference on Business Informatics | 2014
+157 [R2b-C08989] Visualizing Mobility of Public Transportation System | IEEE Transactions on Visualization and Computer Graphics | 2014
+158 [R2b-C08993] Visualizing Time-Dependent Variables of Water Distribution Systems | IEEE Pacific Visualization Symposium | 2014
+159 [R2b-C09046] A Psychophysical Investigation of Size as a Physical Variable | IEEE Transactions on Visualization and Computer Graphics | 2015
+160 [R2b-C09072] An Approach to Ballet Dance Training through MS Kinect and Visualization in a CAVE Virtual Reality Environment | ACM Transactions on Intelligent Systems and Technology | 2015
+161 [R2b-C09073] An effective visualization technique for depth perception in augmented reality‐based surgical navigation | The International Journal of Medical Robotics and Computer A | 2015
+162 [R2b-C09091] Auditory and Visio-Temporal Distance Coding for 3-Dimensional Perception in Medical Augmented Reality | Proceedings - International Symposium on Mixed and Augmented | 2015
+163 [R2b-C09092] Augmented Reality Visualization for Sailboats (ARVS) | Proc - 2015 Int Conf Cyberworlds CW 2015 | 2015
+164 [R2b-C09099] Bandage: interactive visualization of de novo genome assemblies | Bioinformatics | 2015
+165 [R2b-C09110] Blueprints Visual Scripting for Unreal Engine | CERN Document Server (European Organization for Nuclear Rese | 2015
+166 [R2b-C09113] BrainBrowser: distributed, web-based neurological data visualization | Frontiers in Neuroinformatics | 2015
+167 [R2b-C09120] Building Responsive Data Visualization for the Web | Wiley eBooks | 2015
+168 [R2b-C09133] Collaboration in Immersive and Non-immersive Virtual Environments | Springer eBooks | 2015
+169 [R2b-C09155] CyREST: Turbocharging Cytoscape Access for External Tools via a RESTful API | F1000Research | 2015
+170 [R2b-C09167] Design and Preliminary Evaluation of Free-Hand Travel Techniques for Wearable Immersive Virtual Reality Systems with Egocentric Sensing | Lecture notes in computer science | 2015
+171 [R2b-C09171] Detection of Composite Communities in Multiplex Biological Networks | Scientific Reports | 2015
+172 [R2b-C09211] Exploration et analyse immersives de données moléculaires guidées par la tâche et la modélisation sémantique des contenus | theses.fr (ABES) | 2015
+173 [R2b-C09325] LayMan: A Visual Interactive Tool to Support Failure Analysis in Embedded Systems |  | 2015
+174 [R2b-C09396] Past, Present, and Future of 3D Software Visualization - A Systematic Literature Analysis | International Joint Conference on Computer Vision, Imaging a | 2015
+175 [R2b-C09397] PathwayMatrix: visualizing binary relationships between proteins in biological pathways | BMC Proceedings | 2015
+176 [R2b-C09431] Representing Uncertainty in Graph Edges: An Evaluation of Paired Visual Variables | IEEE Transactions on Visualization and Computer Graphics | 2015
+177 [R2b-C09447] Shape-Based Quality Metrics for Large Graph Visualization | Journal of Graph Algorithms and Applications | 2015
+178 [R2b-C09484] Texture-based edge bundling: A web-based approach for interactively visualizing large graphs | IEEE International Conference on Big Data (BigData) | 2015
+179 [R2b-C09489] The intrinsic geometry of the human brain connectome | Brain Informatics | 2015
+180 [R2b-C09509] TimeSpan: Using Visualization to Explore Temporal Multi-dimensional Data of Stroke Patients | IEEE Transactions on Visualization and Computer Graphics | 2015
+181 [R2b-C09569] Visualizing Big Data with augmented and virtual reality: challenges and research agenda | Journal Of Big Data | 2015
+182 [R2b-C09622] A review of Augmented Reality and its application in context aware library system | IEEE International Conference on ICT in Business Industry &  | 2016
+183 [R2b-C09643] Advantages and challenges associated with augmented reality for education: A systematic review of the literature | Educational Research Review | 2016
+184 [R2b-C09788] Enabling interactive scientific data visualization and analysis with see-through hmds and a large tiled display |  | 2016
+185 [R2b-C09824] Gaze-directed Immersive Visualization of Scientific Ensembles |  | 2016
+186 [R2b-C09856] Immersive Analytics: A new multidisciplinary initiative to explore future interaction technologies for data analytics | NII Shonan Meeting Report | 2016
+187 [R2b-C09857] Immersive Analytics: A new multidisciplinary initiative to explore future interaction technologies for data analytics (NII Shonan Meeting 2016-2) | NII Shonan Meet. Rep. | 2016
+188 [R2b-C09858] Immersive Analytics (Dagstuhl Seminar 16231) | Dagstuhl Reports | 2016
+189 [R2b-C10173] Visual Exploration of Changes in Passenger Flows and Tweets on Mega-City Metro Network | IEEE Transactions on Big Data | 2016
+190 [R2b-C10192] Visualizing Large-scale and High-dimensional Data | International World Wide Web Conference (WWW) | 2016
+191 [R2b-C10271] A systematic review of the application of interactive virtual reality to sport | Virtual Reality | 2017
+192 [R2b-C10319] Augmented Reality-assisted Intelligent Window for Cyber-Physical Machine Tools | Journal of Manufacturing Systems | 2017
+193 [R2b-C10320] Augmented Reality Based Bee Drift Analysis: A User Study | Big Data Visual and Immersive Analytics | 2017
+194 [R2b-C10326] Augmenting the thermal flux experiment: A mixed reality approach with the HoloLens | The Physics Teacher | 2017
+195 [R2b-C10337] Big Data Visualizations in Organizational Science | Organizational Research Methods | 2017
+196 [R2b-C10474] Force-directed layout of origin-destination flow maps | International Journal of Geographical Information Systems | 2017
+197 [R2b-C10524] Identification of communities in urban mobility networks using multi-layer graphs of network traffic | Transportation Research Part C Emerging Technologies | 2017
+198 [R2b-C10527] IEEE VIS 2017 Workshop on Immersive Analytics |  | 2017
+199 [R2b-C10549] Informing regional water-energy-food nexus with system analysis and interactive visualization – A case study in the Great Ruaha River of Tanzania | Agricultural Water Management | 2017
+200 [R2b-C10575] Journey to the centre of the cell: Virtual reality immersion into scientific data | Traffic | 2017
+201 [R2b-C10612] Mobile Augmented Reality Survey: From Where We Are to Where We Go | IEEE Access | 2017
+202 [R2b-C10647] Network Equilibrium of Coupled Transportation and Power Distribution Systems | IEEE Transactions on Smart Grid | 2017
+203 [R2b-C10736] Sampling of Temporal Networks: Methods and Biases | Physical review. E | 2017
+204 [R2b-C10744] Searching and exploring software repositories in virtual reality | ACM Symposium on Virtual Reality Software and Technology (VR | 2017
+205 [R2b-C10774] Supporting data for “iCAVE: an open source tool for visualizing biomolecular networks in 3D, stereoscopic 3D and immersive 3D.” | Giga-Science Database | 2017
+206 [R2b-C10852] Utilizing Augmented Reality and Wearables in Industrial Applications | Advances in intelligent systems and computing | 2017
+207 [R2b-C10885] Visualizing models driven by real-time, sensor-based data : a new way to experience the inner workings of ecosystems |  | 2017
+208 [R2b-C10897] Web-based Immersive Analytics in Handheld Augmented Reality | Poster IEEE VIS | 2017
+209 [R2b-C10898] WebAR: A Web-Augmented Reality-Based Authoring Tool with Experience API Support for Educational Applications | Lecture notes in computer science | 2017
+210 [R2b-C10903] What if Factories Looked Like Forests? Redesigning the Manufacturing Industry 4.0 Workplaces with an Augmented Reality Inspired Nature Metaphor |  | 2017
+211 [R2b-C10909] Workflow for Visualization of Neuroimaging Data with an Augmented Reality Device | J. Digit. Imaging | 2017
+212 [R2b-C10933] 7. situated analytics | Immersive Analytics | 2018
+213 [R2b-C10936] A comparative evaluation of the effectiveness of virtual reality, 3D visualization and 2D visual interactive simulation: an exploratory meta-analysis | Simulation | 2018
+214 [R2b-C10938] A Controlled Experiment on Spatial Orientation in VR-Based Software Cities | IEEE Working Conference on Software Visualization (VISSOFT) | 2018
+215 [R2b-C10950] A multi-scale VR navigation method for VR globes | Int. J. Digit. Earth | 2018
+216 [R2b-C10952] A New Era for Web AR with Mobile Edge Computing | IEEE Internet Computing | 2018
+217 [R2b-C10962] A spatial one-to-many flow layout algorithm using triangulation, approximate Steiner trees, and path smoothing | Cartography and Geographic Information Science | 2018
+218 [R2b-C10996] An augmented-reality system prototype for guiding transcranial Doppler ultrasound examination | Multimedia Tools Appl. | 2018
+219 [R2b-C11005] An Information-Theoretic Approach to the Cost-benefit Analysis of Visualization in Virtual Environments | IEEE Transactions on Visualization and Computer Graphics | 2018
+220 [R2b-C11028] Augmented and Virtual Reality for Underground Facilities Management | Journal of Computing and Information Science in Engineering | 2018
+221 [R2b-C11097] Cost-benefit analysis of visualization in virtual environments |  | 2018
+222 [R2b-C11101] Cyber Physical Systems for Industry 4.0: Towards Real Time Virtual Reality in Smart Manufacturing | Lecture notes in computer science | 2018
+223 [R2b-C11115] Demonstrating vistiles: visual data exploration using mobile devices | International Conference on Advanced Visual Interfaces (AVI) | 2018
+224 [R2b-C11118] Describing and Visualizing a Water–Energy–Food Nexus System | Water | 2018
+225 [R2b-C11119] Design and Development of FoodGo: A Mobile Application using Situated Analytics to Augment Product Information | Procedia Computer Science | 2018
+226 [R2b-C11121] Design considerations for combining augmented reality with intelligent tutors | Computers & Graphics | 2018
+227 [R2b-C11130] Detecting the urban traffic network structure dynamics through the growth and analysis of multi-layer networks | Physica A Statistical Mechanics and its Applications | 2018
+228 [R2b-C11250] Immersive Analytics. Number 11190 in Lecture Notes in Computer Science |  | 2018
+229 [R2b-C11268] Indoor Augmented Reality Using Deep Learning for Industry 4.0 Smart Factories | IEEE Annual International Computer Software and Applications | 2018
+230 [R2b-C11291] IslandViz: A Tool for Visualizing Modular Software Systems in Virtual Reality | IEEE Working Conference on Software Visualization (VISSOFT) | 2018
+231 [R2b-C11324] Mixed Reality Applications in Industry: Challenges and Research Areas | Lecture notes in business information processing | 2018
+232 [R2b-C11329] Mobile Infovis and Dataviz Pattern: Best of Data and Information Visualisations for Mobile Devices | mobileinfovis.com/ | 2018
+233 [R2b-C11365] NiwViw: Immersive Analytics Authoring Tool | ACM International Conference on Interactive Surfaces and Spa | 2018
+234 [R2b-C11384] Perception of Symmetries in Drawings of Graphs | Lecture notes in computer science | 2018
+235 [R2b-C11413] Responsive Visualisation |  | 2018
+236 [R2b-C11414] Responsive Visualisation. Proceedings of MobileVis 2018 Workshop at CHI 2018 (April |  | 2018
+237 [R2b-C11461] syGlass: Interactive Exploration of Multidimensional Images Using Virtual Reality Head-mounted Displays | arXiv preprint | 2018
+238 [R2b-C11463] Symposium on AI, Games and Virtual Reality |  | 2018
+239 [R2b-C11480] The Applicability and Benefits of Virtual Reality for the Cognitive Sciences | Annual Meeting of the Cognitive Science Society | 2018
+240 [R2b-C11487] The Good, the Bad, and the Biased: Five Ways Visualizations Can Mislead (and How to Fix Them) | Interactions 25, | 2018
+241 [R2b-C11507] Towards immersive 3D visualisations of game AI algorithms | Falmouth University Research Repository (FURR) (Falmouth Uni | 2018
+242 [R2b-C11539] Using OmicsNet for Network Integration and 3D Visualization | Current Protocols in Bioinformatics | 2018
+243 [R2b-C11540] Using Service Dependency Graph to Analyze and Test Microservices | IEEE Annual International Computer Software and Applications | 2018
+244 [R2b-C11578] Visualization based on Virtual Reality |  | 2018
+245 [R2b-C11625] 2D, 3D or speech? A case study on which user interface is preferable for what kind of object interaction in immersive virtual reality | Computers & Graphics | 2019
+246 [R2b-C11630] 3D reconstruction method of forest landscape based on virtual reality | Multimedia Tools and Applications | 2019
+247 [R2b-C11670] A Systematic Review of the Convergence of Augmented Reality, Intelligent Virtual Agents, and the Internet of Things | Transactions on computational science and computational inte | 2019
+248 [R2b-C11733] Assembly of long, error-prone reads using repeat graphs | Nature Biotechnology | 2019
+249 [R2b-C11740] Augmented Reality in Physics Education: Motion Understanding Using an Augmented Airtable | Lecture notes in computer science | 2019
+250 [R2b-C11770] CHI Workshop on Immersive Analytics |  | 2019
+251 [R2b-C11827] Defamiliarization, Representation Granularity, and User Experience: A Qualitative Study with Two Situated Visualizations | IEEE Pacific Visualization Symposium | 2019
+252 [R2b-C11834] Design2Inform: Information visualisation | White Rose Research Online (University of Leeds, The Univers | 2019
+253 [R2b-C11835] Design2inform: information visualisation. Monograph, The University of Leeds, London, UK |  | 2019
+254 [R2b-C11843] Determining Design Requirements for AR Physics Education Applications | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2019
+255 [R2b-C11849] Die Pflegebrille – Möglichkeiten und Barrieren der Nutzung von Augmented-Reality-Technologie in der ambulanten Intensivpflege | Springer eBooks | 2019
+256 [R2b-C11860] Distributed Holistic Framework for Smart City Infrastructures: Tale of Interdependent Electrified Transportation Network and Power Grid | IEEE Access | 2019
+257 [R2b-C11872] Edinburgh Research Explorer Geographic Network Visualization Techniques:A Work-In-Progress Taxonomy |  | 2019
+258 [R2b-C11906] Fast and accurate genomic analyses using genome graphs | Nature Genetics | 2019
+259 [R2b-C11930] Geographic Network Visualization Techniques:A Work-In-Progress Taxonomy | Edinburgh Research Explorer (University of Edinburgh) | 2019
+260 [R2b-C11932] Geospatial Information Visualization and Extended Reality Displays | Springer eBooks | 2019
+261 [R2b-C11940] Goodbye reference, hello genome graphs | Nature Biotechnology | 2019
+262 [R2b-C11958] Holographic Reconstruction of Axonal Pathways in the Human Brain | Neuron | 2019
+263 [R2b-C12002] Interacting with Maps in Virtual and Augmented Reality | Abstracts of the ICA | 2019
+264 [R2b-C12054] Metaphors for Software Visualization Systems Based on Virtual Reality | International Conference on Augmented and Virtual Reality | 2019
+265 [R2b-C12060] Mixed Reality Anatomy Using Microsoft HoloLens and Cadaveric Dissection: A Comparative Effectiveness Study | Medical Science Educator | 2019
+266 [R2b-C12071] MoMI-G: modular multi-scale integrated genome graph browser | BMC Bioinformatics | 2019
+267 [R2b-C12140] ReallifeEngine: A Mixed Reality-Based Visual Programming System for SmartHomes | Eurographics | 2019
+268 [R2b-C12204] StreamFlowVR: A Tool for Learning Methodologies and Measurement Instruments for River Flow Through Virtual Reality | Lecture notes in computer science | 2019
+269 [R2b-C12286] Urban Structure Accessibility Modeling and Visualization for Joint Spatiotemporal Constraints | IEEE Transactions on Intelligent Transportation Systems | 2019
+270 [R2b-C12302] Virtual Reality and Augmented Reality: 16th EuroVR International Conference, EuroVR 2019, Tallinn, Estonia, October 23–25, 2019, Proceedings | EuroVR International Conference | 2019
+271 [R2b-C12306] Virtual Reality in der Fabrikplanung : Analyse des aktuellen Fabrikplanungsprozesses sowie Entwicklung und Integration eines Prozesses zur VR-Visualisierung von Planungsergebnissen | reposiTUm (TU Wien) | 2019
+272 [R2b-C12324] Visualising Lifelogging Data in Spatio-Temporal Virtual Reality Environments |  | 2019
+273 [R2b-C12329] Visualization of Biomedical Networks | Encyclopedia of Bioinformatics and Computational Biology | 2019
+274 [R2b-C12331] Visualization of Real-Time Heterogeneous Smart City Data Using Virtual Reality | IEEE International Smart Cities Conference (ISC2) | 2019
+275 [R2b-C12339] VizTract: Visualization of Complex Social Networks for Easy User Perception | Big Data and Cognitive Computing | 2019
+276 [R2b-C12347] VRIA - A Framework for Immersive Analytics on the Web | CHI Conference Extended Abstracts on Human Factors in Comput | 2019
+277 [R2b-C12471] Argo Lite: Open-Source Interactive Graph Exploration and Visualization in Browsers | CIKM 2020 | 2020
+278 [R2b-C12480] Augmented and virtual reality for physics: Experience of Kazakhstan secondary educational institutions | Computer Applications in Engineering Education | 2020
+279 [R2b-C12486] Augmented reality for the virtual dissection of white matter pathways | Acta Neurochir. | 2020
+280 [R2b-C12506] Beyond planar graphs |  | 2020
+281 [R2b-C12540] Combining Software Engineering and Design Thinking Practices in the Ideation Process of Augmented Digital Experiences | Interacting with Computers | 2020
+282 [R2b-C12628] Effects of augmented reality on learning and cognitive load in university physics laboratory courses | Computers in Human Behavior | 2020
+283 [R2b-C12687] FlowMatic: An Immersive Authoring Tool for Creating Interactive Scenes in Virtual Reality | ACM Symposium on User Interface Software and Technology (UIS | 2020
+284 [R2b-C12688] Forecast unit shipments of augmented (ar) and virtual reality (vr) headsets from 2019 to 2023 (in millions) |  | 2020
+285 [R2b-C12703] Graph Drawing via Gradient Descent, $$(GD)^2$$ | Lecture notes in computer science | 2020
+286 [R2b-C12736] Identifying Usability Issues of Software Analytics Applications in Immersive Augmented Reality | IEEE Working Conference on Software Visualization (VISSOFT) | 2020
+287 [R2b-C12743] Immersive Language Exploration with Object Recognition and Augmented Reality | International Conference on Language Resources and Evaluatio | 2020
+288 [R2b-C12755] Influence of Shape, Density, and Edge Crossings on the Perception of Graph Differences: An Investigation Under Time Constraints | Lecture notes in computer science | 2020
+289 [R2b-C12781] Landmark-based mixed-reality perceptual alignment of medical imaging data and accuracy validation in living subjects | Proceedings - International Symposium on Mixed and Augmented | 2020
+290 [R2b-C12797] Magnetic Resonance Imaging Visualization in Fully Immersive Virtual Reality | International Conference of the Immersive Learning Research  | 2020
+291 [R2b-C12802] Marriage Mobility Visualization for Genealogical Data |  | 2020
+292 [R2b-C12811] Metrics for Evaluating Cyber Security Data Visualizations in Virtual Reality | PRESENCE Virtual and Augmented Reality | 2020
+293 [R2b-C12816] Modern Scientific Visualizations on the Web | Informatics | 2020
+294 [R2b-C12861] Nreal Light AR Glasses |  | 2020
+295 [R2b-C12876] Optimal Coordinated Operation of Interdependent Power and Water Distribution Systems | IEEE Transactions on Smart Grid | 2020
+296 [R2b-C12910] Proceedings of the IEEE Conference on Virtual Reality(VR ’20) |  | 2020
+297 [R2b-C12931] Research on Intelligent Water Environment Data Monitoring and Visual Analysis based on IoT | International Conference on Intelligent Sustainable Systems  | 2020
+298 [R2b-C12966] Situational Awareness-based Augmented Reality Instructional (ARI) Module for Building Evacuation | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2020
+299 [R2b-C13018] Testing Statistical Charts: What Makes a Good Graph? | Annual Review of Statistics and Its Application | 2020
+300 [R2b-C13019] TGView3D: A System for 3-Dimensional Visualization of Theory Graphs | Lecture notes in computer science | 2020
+301 [R2b-C13045] The Use of AR Elements in the Teaching of Mathematics at a Technical University | Global Smart Industry Conference (GloSIC) | 2020
+302 [R2b-C13057] Towards Collaborative and Dynamic Software Visualization in VR | VISIGRAPP | 2020
+303 [R2b-C13066] Towards visualization of evolution of component-based software architectures in VR | International Conference on Art, Science, and Engineering of | 2020
+304 [R2b-C13083] Unveiling the technological trends of augmented reality: A patent analysis | Computers in Industry | 2020
+305 [R2b-C13101] Virtual Reality Technologies as a Tool for Development of Physics Learning Educational Complex | Lecture notes in computer science | 2020
+306 [R2b-C13115] Visual Analytics for Understanding Spatial Distributions and Spatial Variation | Springer eBooks | 2020
+307 [R2b-C13154] WikNectVR: A Gesture-Based Approach for Interacting in Virtual Reality Based on WikNect and Gestural Writing | Lecture notes in computer science | 2020
+308 [R2b-C13180] A Comparative Evaluation of Techniques for Locating Out-of-View Targets in Virtual Reality | Graphics Interface | 2021
+309 [R2b-C13235] Agile Visualization | Agile Visualization with Pharo | 2021
+310 [R2b-C13253] An Overview of How VR/AR Applications Assist Specialists in Developing Better Consumer Behavior and Can Revolutionize Our Life | Studies in Rhythm Engineering | 2021
+311 [R2b-C13270] Augmented reality and virtual reality displays: emerging technologies and future perspectives | Light Sci Appl | 2021
+312 [R2b-C13271] Augmented Reality Application for Chemical Engineering Unit Operations | Gaming media and social effects | 2021
+313 [R2b-C13272] Augmented reality for agroforestry system design |  | 2021
+314 [R2b-C13273] Augmented reality for maritime navigation data visualisation: a systematic review, issues and perspectives | Journal of Navigation | 2021
+315 [R2b-C13280] Augmented reality visualization tool for the future of tactical combat casualty care | The Journal of Trauma: Injury, Infection, and Critical Care | 2021
+316 [R2b-C13314] Collaborative Reengineering and Modularization of Software Systems |  | 2021
+317 [R2b-C13335] Continuous-Touch Text Entry for AR Glasses | Lecture notes in computer science | 2021
+318 [R2b-C13447] GRETA: Pervasive and AR Interfaces for Controlling Intelligent Greenhouses | International Conference on Intelligent Environments (IE) | 2021
+319 [R2b-C13516] Knowing Your Student: Targeted Teaching Decision Support Through Asymmetric Mixed Reality Collaborative Learning | IEEE Access | 2021
+320 [R2b-C13547] Mobile Augmented Reality: User Interfaces, Frameworks, and Intelligence | ACM Computing Surveys | 2021
+321 [R2b-C13549] Modeling layout design for multiple-view visualization via Bayesian inference | Journal of Visualization | 2021
+322 [R2b-C13556] Multi-Window Web Browser with History Tree Visualization for Virtual Reality Environment | ACM Symposium on User Interface Software and Technology (UIS | 2021
+323 [R2b-C13572] Narrative scientific data visualization in an immersive environment | Bioinformatics | 2021
+324 [R2b-C13574] NDEx: Accessing Network Models and Streamlining Network Biology Workflows | Curr. Protoc | 2021
+325 [R2b-C13614] Preservation Value in Socio-Ecological Systems | Ecological Modelling | 2021
+326 [R2b-C13647] Research on Multimedia Social Computer Intelligent Interaction System Based on Virtual Reality VR Technology | IEEE International Conference on Data Science and Computer A | 2021
+327 [R2b-C13650] Review of Microsoft HoloLens Applications over the Past Five Years | Applied Sciences | 2021
+328 [R2b-C13664] Serious Game for Medical Imaging in Fully Immersive Virtual Reality | IEEE International Conference on Teaching, Assessment, and L | 2021
+329 [R2b-C13740] ToonNote: Improving Communication in Computational Notebooks Using Interactive Data Comics | CHI Conference on Human Factors in Computing Systems | 2021
+330 [R2b-C13755] Towards Embodied Interaction for Geospatial Energy Sector Analytics in Immersive Environments | ACM International Conference on Future Energy Systems (e-Ene | 2021
+331 [R2b-C13794] Virtual reality vs traditional education: Is there any advantage in human neuroanatomy teaching? | Comput. Electr. Eng. | 2021
+332 [R2b-C13804] Visual Cascade Analytics of Large-Scale Spatiotemporal Data | IEEE Transactions on Visualization and Computer Graphics | 2021
+333 [R2b-C13852] A DirectX-Based DICOM Viewer for Multi-user Surgical Planning in Augmented Reality | Lecture notes in computer science | 2022
+334 [R2b-C13864] A Multi-person Collaborative Workshop RULA Verification Method Based on Augmented Reality | Communications in computer and information science | 2022
+335 [R2b-C13891] Adapting visualizations and interfaces to the user | it - Information Technology | 2022
+336 [R2b-C13896] An Accurate and Efficient Quaternion-Based Visualization Approach to 2D/3D Vector Data for the Mobile Augmented Reality Map | ISPRS International Journal of Geo-Information | 2022
+337 [R2b-C13922] Audiovisual augmentation for coil positioning in transcranial magnetic stimulation | Computer Methods in Biomechanics and Biomedical Engineering  | 2022
+338 [R2b-C13925] Augmented Reality: A GNSS Use Case | Springer eBooks | 2022
+339 [R2b-C13928] Augmented Reality for Scene Text Recognition, Visualization and Reading to Assist Visually Impaired People | Procedia Computer Science | 2022
+340 [R2b-C13930] Augmented Reality In-Field Observation Creation and Visualization in Underperforming Areas | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2022
+341 [R2b-C13935] Augmenting Feature Importance Analysis: How Color and Size Can Affect Context-Aware AR Explanation Visualizations? | Proceedings - International Symposium on Mixed and Augmented | 2022
+342 [R2b-C13970] Challenges and opportunities on AR/VR technologies for manufacturing systems in the context of industry 4.0: A state of the art review | Journal of Manufacturing Systems | 2022
+343 [R2b-C13996] Complementary Textures. A Novel Approach to Object Alignment in Mixed Reality | arXiv (Cornell University) | 2022
+344 [R2b-C14001] ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective | IEEE Transactions on Visualization and Computer Graphics | 2022
+345 [R2b-C14017] CYBERNETIC SECURITY OF ALTERNATIVE OFFLINE NAVIGATION FROM THE STANDPOINT OF SPLINE TECHNOLOGY | Vestnik Gosudarstvennogo universiteta morskogo i rechnogo fl | 2022
+346 [R2b-C14024] Data Visualization Using Augmented Reality for Education: A Systematic Review | International Conference on Business and Industrial Research | 2022
+347 [R2b-C14040] Designing a Topic-Based Literature Exploration Tool in AR - An exploratory study for neuroscience | IEEE International Symposium on Mixed and Augmented Reality  | 2022
+348 [R2b-C14067] Electric vehicle demand estimation and charging station allocation using urban informatics | Transportation Research Part D Transport and Environment | 2022
+349 [R2b-C14081] Evaluating an augmented reality interface for sailing navigation: a comparative study with a immersive virtual reality simulator | Virtual Reality | 2022
+350 [R2b-C14085] Evaluating the Benefits of Explicit and Semi-Automated Clusters for Immersive Sensemaking | Proceedings - International Symposium on Mixed and Augmented | 2022
+351 [R2b-C14098] Exploring How Visualization Design and Situatedness Evoke Compassion in the Wild | Comput Graph Forum | 2022
+352 [R2b-C14104] Extending the Nested Model for User-Centric XAI: A Design Study on GNN-based Drug Repurposing | IEEE Transactions on Visualization and Computer Graphics | 2022
+353 [R2b-C14114] Frameworks Enabling Ubiquitous Mixed Reality Applications Across Dynamically Adaptable Device Configurations | Frontiers in Virtual Reality | 2022
+354 [R2b-C14147] Human-centric production system simulation in mixed reality: An exemplary case of logistic facility design | Journal of Manufacturing Systems | 2022
+355 [R2b-C14166] Immersive Experience of Multidimensional Data using Mixed Reality based Scatterplots | Mensch und Computer (MuC) | 2022
+356 [R2b-C14170] Immersive Visual Analysis of Cello Bow Movements | arXiv (Cornell University) | 2022
+357 [R2b-C14279] On the Use of a Semantic Segmentation Micro-Service in AR Devices for UI Placement | IEEE Games, Entertainment, Media Conference (GEM) | 2022
+358 [R2b-C14298] PMU Tracker: A Visualization Platform for Epicentric Event Propagation Analysis in the Power Grid | IEEE Transactions on Visualization and Computer Graphics | 2022
+359 [R2b-C14325] Re-locations: Augmenting Personal and Shared Workspaces to Support Remote Collaboration in Incongruent Spaces | Proceedings of the ACM on Human-Computer Interaction | 2022
+360 [R2b-C14327] Real-Time Application for Recognition and Visualization of Arabic Words with Vowels based DL and AR | International Wireless Communications and Mobile Computing C | 2022
+361 [R2b-C14338] Resilience Analytics for Interdependent Power and Water Distribution Systems | IEEE Transactions on Power Systems | 2022
+362 [R2b-C14345] Role-Based Sailing Augmented Reality Interface: Three Proposals for Head-Mounted Display | Lecture notes in mechanical engineering | 2022
+363 [R2b-C14349] Scalable Collaborative Software Visualization as a Service: Short Industry and Experience Paper | IEEE International Conference on Cloud Engineering | 2022
+364 [R2b-C14363] SmartGD: A GAN-Based Graph Drawing Framework for Diverse Aesthetic Goals | IEEE Transactions on Visualization and Computer Graphics | 2022
+365 [R2b-C14378] STARE: Semantic Augmented Reality Decision Support in Smart Environments | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2022
+366 [R2b-C14382] Student Research Abstract: Microservices-based Systems Visualization | ACM Symposium on Applied Computing | 2022
+367 [R2b-C14399] Ten simple rules for developing visualization tools in genomics | PLoS Computational Biology | 2022
+368 [R2b-C14405] The Effect of Graph Layout on the Perception of Graph Density: An Empirical Study | Eurographics Conference on Visualization | 2022
+369 [R2b-C14410] The HoloLens in Medicine: A systematic Review and Taxonomy | Medical Image Analysis | 2022
+370 [R2b-C14439] Toward In-Situ Authoring of Situated Visualization with Chorded Keyboards | International Symposium on Visual Information Communication  | 2022
+371 [R2b-C14463] User Preference for Navigation Instructions in Mixed Reality | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2022
+372 [R2b-C14473] VCoach: Enabling Personalized Boxing Training in Virtual Reality | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2022
+373 [R2b-C14496] Visual Exploration of Financial Data with Incremental Domain Knowledge | Computer Graphics Forum | 2022
+374 [R2b-C14509] Visualisation Localisée en Mouvement pour la Natation |  | 2022
+375 [R2b-C14510] Visualization of aspect-oriented programs using city transportation metaphor | Cluster Computing | 2022
+376 [R2b-C14522] VR Cognitive Load Dashboard for Flight Simulator | ACM Symposium on Eye Tracking Research and Applications (ETR | 2022
+377 [R2b-C14559] A Pilot Study Comparing User Interactions Between Augmented and Virtual Reality | Lecture notes in computer science | 2023
+378 [R2b-C14590] AI Coach: A Motor Skill Training System using Motion Discrepancy Detection | Augmented Humans International Conference (AHs) | 2023
+379 [R2b-C14594] An Architecture for Integrating Virtual Reality and a Digital Twin System | Studies in computational intelligence | 2023
+380 [R2b-C14595] An augmented reality for an arabic text reading and visualization assistant for the visually impaired | Multimedia Tools and Applications | 2023
+381 [R2b-C14596] An Educational Approach for Mixed Reality Visualization of Agro-meteorological Parameters | IEEE International Conference on Metrology for eXtended Real | 2023
+382 [R2b-C14624] ARrow: A Real-Time AR Rowing Coach | Eurographics Conference on Visualization | 2023
+383 [R2b-C14641] Autonomous GIS: the next-generation AI-powered GIS | International Journal of Digital Earth | 2023
+384 [R2b-C14661] Cartographic Visualisation within Immersive Virtual Environments | Abstracts of the ICA | 2023
+385 [R2b-C14691] Comparison of a VR Stylus with a Controller | Hand Tracking, and a Mouse for Object Manipulation and Medic | 2023
+386 [R2b-C14708] Dancing in virtual reality as an inclusive platform for social and physical fitness activities: a survey | The Visual Computer | 2023
+387 [R2b-C14719] DatAR: Comparing Relationships between Brain Regions and Diseases: An Immersive AR Tool for Neuroscientists | ACM International Conference on Interactive Media Experience | 2023
+388 [R2b-C14742] Development of Interactive Data Visualization System in Three-Dimensional Immersive Space | International Journal of Advanced Computer Science and Appli | 2023
+389 [R2b-C14743] Different realities: a comparison of augmented and virtual reality for the sensemaking process | Frontiers in Virtual Reality | 2023
+390 [R2b-C14801] Exocentric and Egocentric Views for Biomedical Data Analytics in Virtual Environments—A Usability Study | Journal of Imaging | 2023
+391 [R2b-C14840] Gamification of the Graph Theory Course. Finding the Shortest Path by a Greedy Algorithm | Lecture notes in networks and systems | 2023
+392 [R2b-C14842] GeoGraphViz: Geographically constrained 3D force‐directed graph for knowledge graph visualization | Transactions in GIS | 2023
+393 [R2b-C14847] GPU-based, interactive exploration of large spatiotemporal climate networks | Chaos An Interdisciplinary Journal of Nonlinear Science | 2023
+394 [R2b-C14874] Image-Schematic Metaphors in Software Visualizations | Integrated Spatial Databases | 2023
+395 [R2b-C14882] ImmerView: Adaptive Multi-View Layout for Immersive Situated Visualizations | IEEE International Symposium on Mixed and Augmented Reality  | 2023
+396 [R2b-C14884] Improving indoor wayfinding with AR-enabled egocentric cues: A comparative study | Advanced Engineering Informatics | 2023
+397 [R2b-C14913] Is Industrial Tomography Ready for Augmented Reality? A Need-Finding Study of How Augmented Reality Can Be Adopted by Industrial Tomography Experts | Lecture notes in computer science | 2023
+398 [R2b-C14914] Iterative Design of an Immersive Analytics Environment Based on Frame of Reference | Lecture notes in computer science | 2023
+399 [R2b-C14968] Multi-view visualization layout design method for large displays based on quantitative analysis of situation awareness | International Association of Societies of Design Research Co | 2023
+400 [R2b-C14975] NCARVis: No-Code Visualization Creation System based on Free-hand | IEEE Pacific Visualization Symposium | 2023
+401 [R2b-C14993] On the perception of graph layouts | Journal of Software Evolution and Process | 2023
+402 [R2b-C14996] Opportunities for Visualising Complex Data by Integrating Virtual Reality and Digital Twins | Lecture notes in production engineering | 2023
+403 [R2b-C15014] Playing with Data: An Augmented Reality Approach to Interact with Visualizations of Industrial Process Tomography | Lecture notes in computer science | 2023
+404 [R2b-C15116] Sustainable Solutions by the Use of Immersive Technologies for Repurposing Buildings | Lecture notes in mechanical engineering | 2023
+405 [R2b-C15155] Thermal Perception Using Augmented Reality for Industrial Safety | International Conference on Robotics, Automation and Artific | 2023
+406 [R2b-C15212] Vis-SAGA: Visual Analytics for Situational Awareness of Grid Anomalies | IEEE Symposium on Visualization for Cyber Security (VIZSEC) | 2023
+407 [R2b-C15213] Vis-SAGA: Visual Analytics for Situational Awareness of Grid Anomalies: Preprint | OSTI OAI (U.S. Department of Energy Office of Scientific and | 2023
+408 [R2b-C15221] Visual Exploration and Planning of the Automated Material Handling System for Smart Factory in the Immersive Environment | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2023
+409 [R2b-C15224] : Visualization of AI-Assisted Task Guidance in AR | IEEE Transactions on Visualization and Computer Graphics | 2023
+410 [R2b-C15239] VoxAR: Adaptive Visualization of Volume Rendered Objects in Optical See-Through Augmented Reality | IEEE Transactions on Visualization and Computer Graphics | 2023
+411 [R2b-C15243] WaterExcVA: a system for exploring and visualizing data exception in urban water supply | Journal of Visualization | 2023
+412 [R2b-C15260] Yeni nesil haberleşme sistemleri için geliştirilen kenar ağlarda bilgi işlem yük boşaltma yöntemleri | Istanbul Technical University Academic Open Archive (Istanbu | 2023
+413 [R2b-C15274] 3DStoryline: immersive visual storytelling | Journal of Visualization | 2024
+414 [R2b-C15280] A Comparative Study of Baby Boomers and Gen Z on Virtual Reality Adoption for Travel Intentions: A PLS-MGA and GRNN Model | International Journal of Human-Computer Interaction | 2024
+415 [R2b-C15290] A large display-based approach supporting natural user interaction in virtual reality environment | International Journal of Industrial Ergonomics | 2024
+416 [R2b-C15295] A Novel AR Recoloring Technique to Enhance Operator Performance on Inspection Tasks in Industry 4.0 Environments | IEEE Transactions on Visualization and Computer Graphics | 2024
+417 [R2b-C15296] A Novel Revolutionizing Medical Surgery Procedures Using Mixed Reality | Communications in computer and information science | 2024
+418 [R2b-C15297] A Research Platform for Studying Mixed-Presence Collaboration | IEEE International Symposium on Mixed and Augmented Reality  | 2024
+419 [R2b-C15333] AI-Driven Real-Virtual Responsive User Interface and Technology Requirements for Immersive AR Cultural Content | Journal of Broadcast Engineering | 2024
+420 [R2b-C15368] Area-adaptive Drawing of Rooted Trees | IEEE Pacific Visualization Conference (PacificVis) | 2024
+421 [R2b-C15371] ARpenSki: Augmenting Ski Training with Direct and Indirect Postural Visualization | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2024
+422 [R2b-C15382] Augmented Coach: Volumetric Motion Annotation and Visualization for Immersive Sports Coaching | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2024
+423 [R2b-C15388] Augmented reality for sailing: a comparative study of head stabilized vs boat stabilized visualization data for wind and bearing angle | Virtual Reality | 2024
+424 [R2b-C15390] Augmented reality in team-based search and rescue: Exploring spatial perspectives for enhanced navigation and collaboration | Safety Science | 2024
+425 [R2b-C15392] Augmented Reality Versus Web-Based Shopping: How Does AR Improve User Experience and Online Purchase Intention | Telematics and Informatics Reports | 2024
+426 [R2b-C15395] avaTTAR: Table Tennis Stroke Training with Embodied and Detached Visualization in Augmented Reality | ACM Symposium on User Interface Software and Technology (UIS | 2024
+427 [R2b-C15405] Body-Based Augmented Reality Feedback During Conversations | Proceedings of the ACM on Human-Computer Interaction | 2024
+428 [R2b-C15407] Boosting Motivation in Sports with Data-Driven Visualizations in VR | International Conference on Advanced Visual Interfaces (AVI) | 2024
+429 [R2b-C15433] Collecting Information Needs for Egocentric Visualizations while Running | arXiv (Cornell University) | 2024
+430 [R2b-C15451] Context-Aware Recoloring Approach for AR-Assisted Maintenance Applications | Lecture notes in mechanical engineering | 2024
+431 [R2b-C15474] Demo: Volumetric Motion Annotation and Visualization for Immersive Sports Coaching | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2024
+432 [R2b-C15478] Designing a System-Centered View to Microservices Using Service Dependency Graphs: Elaborating on 2D and 3D visualization | International Conference on Electrical, Computer, Communicat | 2024
+433 [R2b-C15485] Developing a Knowledge Graph for Intelligent Structural Design Course | ICAIE | 2024
+434 [R2b-C15490] Digital visualization in graduate transport phenomena | Computer Applications in Engineering Education | 2024
+435 [R2b-C15534] Evolution and Anti-patterns Visualized: MicroProspect in Microservice Architecture | Lecture notes in computer science | 2024
+436 [R2b-C15549] Exploring the Impact of Augmented Reality in Optimizing Supply Chain Management: A Scientometric Review | SSRN Electronic Journal | 2024
+437 [R2b-C15554] Eyes on the Task: Gaze Analysis of Situated Visualization for Collaborative Tasks | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2024
+438 [R2b-C15555] Facial augmented reality based on hierarchical optimization of similarity aspect graph | Computer Methods and Programs in Biomedicine | 2024
+439 [R2b-C15570] Future of Surgical Mixed Reality: Cutting-Edge or Cutting Too Deep? | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2024
+440 [R2b-C15605] "I'm not alone in that battle": Designing Mobile AR for Mental Health Communication and Community Connectedness | Designing Interactive Systems Conference | 2024
+441 [R2b-C15611] Immersive Situational Analysis Method Based on Generalized Augmented Grid Statistic | Applied Soft Computing | 2024
+442 [R2b-C15614] Impact and Classification of Augmented Reality in Science Experiments in Teaching—A Review | Education Sciences | 2024
+443 [R2b-C15623] Innovative Lifelog Visualization and Exploration in Virtual Reality – A Comparative Study | Lecture notes in computer science | 2024
+444 [R2b-C15635] Interaction avec une Maquette Phygitale : Techniques de Sélection Multi Cible | HAL | 2024
+445 [R2b-C15648] IoT-driven augmented reality and virtual reality systems in neurological sciences | Internet of Things | 2024
+446 [R2b-C15650] Is the 3D model the way to go when presenting microservice architecture? | IEEE/ACM International Conference on Automated Software Engi | 2024
+447 [R2b-C15675] Manipulating VR - Native User Interfaces for Software Visualization Customization | IEEE Working Conference on Software Visualization (VISSOFT) | 2024
+448 [R2b-C15683] MicroKarta: Visualising Microservice Architectures | ACM Joint European Software Engineering Conference and Sympo | 2024
+449 [R2b-C15687] mint: Integrating scientific visualizations into virtual reality | Journal of Visualization | 2024
+450 [R2b-C15694] Mixed Reality Visualization and Interactive Hemodynamic Computation of the Human Brain | IEEE International Conference on Metaverse Computing, Networ | 2024
+451 [R2b-C15719] Navigating Data Streams Using Advanced Data Analysis And Visualization Techniques | Advances in computer science research | 2024
+452 [R2b-C15735] Optimization and Visualization Model of Intelligent Building Space Layout Based on Virtual Reality Technology | Water and irrigation review. | 2024
+453 [R2b-C15743] PD-Insighter: A Visual Analytics System to Monitor Daily Actions for Parkinson's Disease Treatment | CHI Conference on Human Factors in Computing Systems | 2024
+454 [R2b-C15746] PhosNetVis: A web-based tool for fast kinase-substrate enrichment analysis and interactive 2D/3D network visualizations of phosphoproteomics data | Patterns | 2024
+455 [R2b-C15765] Proc. of the IEEE VIS Workshop on First-Person Visualizations for Outdoor Physical Activities |  | 2024
+456 [R2b-C15776] RASSAR: Room Accessibility and Safety Scanning in Augmented Reality | CHI Conference on Human Factors in Computing Systems | 2024
+457 [R2b-C15808] Situated Instructions and Guidance For Self-training and Self-coaching in Sports | International Conference on Human-Computer Interaction with  | 2024
+458 [R2b-C15809] Situated Visualization in Motion for Swimming | arXiv (Cornell University) | 2024
+459 [R2b-C15821] Spatial Interaction Elements in AR-Glasses-Based Touristic Service Scenario Design | Lecture notes in computer science | 2024
+460 [R2b-C15843] Survey of visualization methods for multiscene visual cue information in immersive environments | Journal of Image and Graphics | 2024
+461 [R2b-C15872] The STRING database in 2025: protein networks with directionality of regulation | Nucleic Acids Research | 2024
+462 [R2b-C15887] Train Me: Exploring Mobile Sports Capture and Replay for Immersive Sports Coaching | International Conference on Human-Computer Interaction with  | 2024
+463 [R2b-C15902] Understanding User Needs for Injury Recovery with Augmented Reality | arXiv (Cornell University) | 2024
+464 [R2b-C15910] User Experience Evaluation Methods in Mixed Reality Environments | Lecture notes in computer science | 2024
+465 [R2b-C15915] VAC2: Visual Analysis of Combined Causality in Event Sequences | IEEE Transactions on Visualization and Computer Graphics | 2024
+466 [R2b-C15931] Visual analysis of changes in European air transport during the COVID-19 pandemic from interactive maps | Miscellanea Geographica | 2024
+467 [R2b-C15950] Web-based Interactive 3D Modeling and Visualization of the Human Brain towards Anatomy Education | Revista Mexicana de Ingeniería Biomédica | 2024
+468 [R2b-C15951] Whatever could be, could be: Visualizing Future Movement Predictions | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2024
+469 [R2b-C15999] A Visual Analytic Approach for Discovering Urban Community Based on Line Graph | Journal of Computer-Aided Design & Computer Graphics | 2025
+470 [R2b-C16023] An intuitive and semi-automated transfer function design for interactive region of interest-based direct volume rendering in mixed reality head mounted devices | Virtual Reality | 2025
+471 [R2b-C16047] AROM: Rambling Along Data in Augmented Reality to Explore Large Order of Magnitude Values | 2025 IEEE Seventh Workshop on Visualization for Communicatio | 2025
+472 [R2b-C16067] Authoring Tool for Animating Augmented-Reality 3D Models for Ship Maintenance Based on a Neutral Format | Journal of the Computational Structural Engineering Institut | 2025
+473 [R2b-C16081] Brand Localization versus Globalization: A Comparative Analysis of Adaptation Strategies in Diverse Markets | Business, management and economics | 2025
+474 [R2b-C16087] CaFe-TeleVision: A Coarse-to-Fine Teleoperation System With Immersive Situated Visualization for Enhanced Ergonomics | IEEE Robotics and Automation Letters | 2025
+475 [R2b-C16090] CalliSense: An Interactive Educational Tool for Process-based Learning in Chinese Calligraphy | CHI Conference on Human Factors in Computing Systems | 2025
+476 [R2b-C16115] Contribution of Data Visualization to Decision-Making: A Classification of Data Visualization Research Based on the Characteristics of Decision Problems | IEEE Pacific Visualization Conference (PacificVis) | 2025
+477 [R2b-C16162] Editorial: Contribution of artificial intelligence-based tools to the study of Parkinson's disease and other movement disorders | Frontiers in Aging Neuroscience | 2025
+478 [R2b-C16163] EFEKTIVITAS PENGGUNAAN TEKNOLOGI AUGMENTED REALITY (AR) DAN VIRTUAL REALITY (VR) DALAM PEMBELAJARAN ANATOMI: TINJAUAN LITERATUR | Nusantara Hasana Journal | 2025
+479 [R2b-C16176] Enhancing Learning Through Social Assistive Robotics and Augmented Reality: An Interactive Educational System Design and Evaluation | Lecture notes in networks and systems | 2025
+480 [R2b-C16179] Enhancing Production Efficiency Through Genetic Algorithm-Assisted Visualization in Industrial Metaverse: Factory Layout Planning Scenario | Lecture notes in mechanical engineering | 2025
+481 [R2b-C16180] Enhancing User Performance and Human Factors through Visual Guidance in AR Assembly Tasks | CHI Conference Extended Abstracts on Human Factors in Comput | 2025
+482 [R2b-C16187] Evaluating the Comprehension of the Stackage ecosystem: A Comparison between VR and 2D Visualizations | SSRN Electronic Journal | 2025
+483 [R2b-C16206] Exploring Multiview UI Layouts and Placement Strategies for Collaborative Sensemaking in Virtual Reality | arXiv (Cornell University) | 2025
+484 [R2b-C16207] Exploring Organizational Strategies in Immersive Computational Notebooks | Proceedings - International Symposium on Mixed and Augmented | 2025
+485 [R2b-C16226] Fostering agroecological knowledge through augmented reality-driven experiential learning | Form re - Open Journal per la formazione in rete | 2025
+486 [R2b-C16231] From Insights to Action: Uniting Data and Intellectual Capital for Strategic Success | Business, management and economics | 2025
+487 [R2b-C16236] From Sports Videos to Immersive Training: Augmenting Human Motion to Enrich Basketball Training Experience | ACM Symposium on User Interface Software and Technology | 2025
+488 [R2b-C16252] GroupTrackVis: A Visual Analytics Approach for Online Group Discussion-Based Teaching | IEEE Transactions on Visualization and Computer Graphics | 2025
+489 [R2b-C16260] Holistic quantified-self for context-aware wearable augmented reality | International Journal of Human-Computer Studies | 2025
+490 [R2b-C16291] Immersive Learning in Educational Institutions: Trend of XXI Century | Studies in systems, decision and control | 2025
+491 [R2b-C16320] Investigating Encoding and Perspective for Augmented Reality Motion Guidance | Proceedings - International Symposium on Mixed and Augmented | 2025
+492 [R2b-C16324] Investigating the Effects of Augmented Reality on Message Credibility When Visualizing Environmental Impacts | IEEE Transactions on Visualization and Computer Graphics | 2025
+493 [R2b-C16349] Mapping Drug Interactions and Therapeutic Clusters through Knowledge Graph Visualization | International Conference on Information Visualisation (IV) | 2025
+494 [R2b-C16354] ME4PD: A Multi-Modal and Dynamically Extensible System for Problem Frame Construction | IEEE International Requirements Engineering Conference Works | 2025
+495 [R2b-C16371] Mixture of Cluster-Guided Experts for Retrieval-Augmented Label Placement | IEEE Transactions on Visualization and Computer Graphics | 2025
+496 [R2b-C16452] Research on the Impact of Augmented Reality Display Variables on User Task Performance in Autonomous Driving Task Switching Scenarios | Lecture notes in computer science | 2025
+497 [R2b-C16464] SAVAT: A Tool for Visualizing the Impact of Changes in Microservices | Lecture notes in computer science | 2025
+498 [R2b-C16465] Saving the Polar Bears: A Collaborative VR Storytelling Experience Enhanced by Multi-scale and Multi-view WiM Designs | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2025
+499 [R2b-C16469] Scene image visual layout based on deep encoder–decoder network and visual image attention model | Scientific Reports | 2025
+500 [R2b-C16493] Software Evolution Visualization in Virtual Reality Using the Library Metaphor | Lecture notes in networks and systems | 2025
+501 [R2b-C16534] The Joy of Co-Painting: Creative Human-AI Collaboration for Traceable Image-Generation Workflows | IEEE Pacific Visualization Conference (PacificVis) | 2025
+502 [R2b-C16536] The Junction of Immersive Analytics and Virtual Reconstructions – A Case Study on the Mausoleum of Emperor Maxentius | 2025 IEEE International Conference on Cyber Humanities (IEEE | 2025
+503 [R2b-C16557] Towards user-centered interactive medical image segmentation in VR with an assistive AI agent | Virtual Reality | 2025
+504 [R2b-C16576] Understanding the Impact of Glaucoma Severities Through Virtual Reality Simulations | Mensch und Computer (MuC) | 2025
+505 [R2b-C16577] Understanding Virtual Reality (VR) and Its Applications in Healthcare | Springer eBooks | 2025
+506 [R2b-C16581] Use of machine learning methods and virtual reality to analyze genetic characteristics | AIT | 2025
+507 [R2b-C16584] Using AR-based secondary tasks to enhance user cognitive focus in monitoring tasks within intelligent workplaces | Human-Intelligent Systems Integration | 2025
+508 [R2b-C16608] Visualizing Communities in Dynamic Multivariate Networks | SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRA | 2025
+509 [R2b-C16623] Walking Through Time: A Hybrid Immersive System for Spatial and Expressive Timeline Authoring | Visualization | 2025
+510 [R2b-C16638] 3D bivariate visualizations in immersive virtual reality (IVR): the impact of map literacy and visualization method on user performance | Cartography and Geographic Information Science | 2026
+511 [R2b-C16642] 3DBrainMiner: An open-source platform for modelling and visualizing the brain as graphs | Neurocomputing | 2026
+512 [R2b-C16649] A Multi-Camera Optical Tag Neuronavigation and AR Augmentation Framework for Non-Invasive Brain Stimulation | arXiv (Cornell University) | 2026
+513 [R2b-C16673] Advancing Co-located and Distributed Multi-user Mixed Reality | CHI Conference Extended Abstracts on Human Factors in Comput | 2026
+514 [R2b-C16691] Application of Electric-Field-Optimized Augmented Reality-Guided Neuronavigation in Transcranial Magnetic Stimulation | Journal of Clinical Medicine | 2026
+515 [R2b-C16693] AR Data Ribbon: Break the Frame and Unroll Data in the Air | International Conference on Advanced Visual Interfaces (AVI) | 2026
+516 [R2b-C16697] ARSSO: USER ACCEPTANCE OF AN AI-POWERED AUGMENTED REALITY SMART SPATIAL ORGANIZATION ASSISTANT FOR WORKSPACE ORGANIZATION | International Journal of Innovation and Industrial Revolutio | 2026
+517 [R2b-C16714] Beyond dashboards: Promoting urban data visualization for citizens | International Conference on Distributed Computing in Smart S | 2026
+518 [R2b-C16738] Channels and Substrates: Distributed Cognition as an Interaction Model for Ubiquitous Analytics | arXiv (Cornell University) | 2026
+519 [R2b-C16747] ClusterChirp: Scalable Interactive Exploration of Omics Data with Natural Language-Guided Analysis |  | 2026
+520 [R2b-C16749] Code Black: Desktop-Mediated Co-Design of AR-HMD Microinteractions for Emergency Department Teamwork | ACM Symposium on Spatial User Interaction (SUI) | 2026
+521 [R2b-C16766] Creating More Efficient Authoring Tools for Extended Reality App Development: Visualizing Complex Graphs and Automating Dependency Creation in a No-Code Authoring System for Manufacturing Disassembly | DSpace@MIT (Massachusetts Institute of Technology) | 2026
+522 [R2b-C16828] Enhancing the Design and Installation of Large Aerospace Testing Machines Through Augmented Reality | Lecture notes in mechanical engineering | 2026
+523 [R2b-C16845] Exploring Collaborative Immersive Visualization & Analytics for High-Dimensional Scientific Data through Domain Expert Perspectives | CHI Conference on Human Factors in Computing Systems | 2026
+524 [R2b-C16874] From Speech-to-Spatial: Grounding Utterances on A Live Shared View with Augmented Reality | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2026
+525 [R2b-C16928] In-Situ Immersive Analytics Authoring Through Ergonomic Keyboard Support | International Journal of Human-Computer Interaction | 2026
+526 [R2b-C16958] Machine learning, digital twin, and AR/VR in manufacturing facility layout planning: a review | International Journal on Interactive Design and Manufacturin | 2026
+527 [R2b-C16967] Memento: Towards Proactive Visualization of Everyday Memories with Personal Wearable AR Assistant | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2026
+528 [R2b-C16973] Millimeter-Wave Radar and Mixed Reality Virtual Reality System for Agility Analysis of Table Tennis Players | Computers | 2026
+529 [R2b-C17010] Optical Tag-Based Neuronavigation and Augmentation System for Non-Invasive Brain Stimulation | IEEE Conference on Virtual Reality and 3D User Interfaces Ab | 2026
+530 [R2b-C17022] Publication Trends and Knowledge Structure of Augmented Reality Research in Sports and Basketball: A Scopus-Based Bibliometric Analysis (2010–2026) | International Journal of Advanced Technology and Social Scie | 2026
+531 [R2b-C17035] reVISit-XR: Bringing Extended Reality into Embeddable, Trackable, and Replayable Visualization Studies | arXiv (Cornell University) | 2026
+532 [R2b-C17041] Robustness of networks of hypergraphs | Physical review. E | 2026
+533 [R2b-C17057] Semantic Scene Graphs for Creating a Localization-Ready Internet of Things | IEEE Transactions on Visualization and Computer Graphics | 2026
+534 [R2b-C17058] Session Summary Podcast: Session 122: Immersive and Spatial Visualization | Proceedings of the 2026 CHI Conference on Human Factors in C | 2026
+535 [R2b-C17100] The Choreography of Augmented Reality Timelines: Studying the Relative Position, Chronology, & Situatedness of Event Sequences | Graphics Interface | 2026
+536 [R2b-C17124] Towards Live Refactoring of Microservices Architectures | Portuguese National Funding Agency for Science, Research and | 2026
+537 [R2b-C17162] Visualizing Placement Proposals for Window Arrangement in Mixed Reality: A Comparative User Study | ACM Symposium on Spatial User Interaction (SUI) | 2026
+538 [R2b-C17167] VR-enhanced robotic laparoscopic ultrasound system for minimally invasive liver surgery | Robotics and Autonomous Systems | 2026
+539 [R2b-C17172] Vsens: Incorporating XR into the Process of Collecting Virtual IMU Data | Proceedings of the ACM on Interactive Mobile Wearable and Ub | 2026

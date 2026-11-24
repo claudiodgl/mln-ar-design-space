@@ -1,0 +1,184 @@
+R2-C07182|unsure|unsure|No abstract; AR info-density filtering, data type unclear
+R2-C07273|exclude|E2|Depth judgment for x-ray visualization
+R2-C07372|background|B|Taxonomy of AR presentation space
+R2-C07380|exclude|E2|Off-screen POI awareness cues
+R2-C07424|exclude|E2|Ghosting rendering of real scene
+R2-C07452|exclude|E2|AR x-ray in education
+R2-C07496|exclude|E2|Viewpoint awareness cues for remote guidance
+R2-C07554|exclude|E4|Filmstrip (small multiples) of time slices
+R2-C07559|exclude|E2|See-through vision of physical scene
+R2-C07649|exclude|E2|Crack/strain overlay on specimen; inspection, not abstract vis
+R2-C07650|exclude|E2|AR x-ray for K-12
+R2-C07662|exclude|E2|AR x-ray on Google Glass
+R2-C07683|exclude|E2|Exploration of physical POIs, no abstract data vis
+R2-C07739|exclude|E2|X-ray/ghosting depth cues outdoor
+R2-C07750|exclude|E2|On-patient medical volume overlay
+R2-C07775|exclude|E2|Occluded object visualization
+R2-C07828|exclude|E2|Viewpoint guidance cues
+R2-C07881|unsure|unsure|No abstract; handheld AR slicing, data type unclear
+R2-C07924|include|I4|Tangible SAR proxy showing EEG data, physicalization+AR
+R2-C07940|exclude|E2|Brain anatomy overlay in mirror
+R2-C07988|include|I1|Time-slices stack model (stacked layers)
+R2-C08346|exclude|E4|Small multiples vs animation only
+R2-C08361|exclude|E2|Terrain overlay for field collaboration, no abstract vis
+R2-C08403|include|I4|Situated analytics, abstract data in AR
+R2-C08469|include|I4|Multi-temporal geo-data graphical variables in AR
+R2-C08470|include|I4|Situated analytics model and interaction
+R2-C08598|include|I4|Blended UI controls on physical objects
+R2-C08736|include|I4|Context-based AR infovis highlighting data
+R2-C08798|include|I4|Situated visual analytics of bee data
+R2-C08852|include|I4|Spatial perception in AR immersive analytics
+R2-C08870|exclude|E2|Off-screen POI cues and aggregation
+R2-C08909|include|I4|Situated analytics placement of abstract data
+R2-C08952|exclude|E2|Annotation/label coherence, no abstract data vis
+R2-C08995|include|I1|Dissertation incl. Matrix Cube layered time slices
+R2-C09016|include|I4|Situated visualization of GIS data
+R2-C09136|exclude|E2|Terrain map for route planning/navigation
+R2-C09218|background|B|Mainly a design space (tangible SD coordination)
+R2-C09232|include|I4|Embedded visualization design in AR
+R2-C09301|exclude|E2|Off-screen POI cues
+R2-C09609|include|I4|AR interactivity on static charts
+R2-C09633|exclude|E2|Out-of-view object cues
+R2-C09724|exclude|E2|CFD thermal field overlay, physical phenomenon
+R2-C09745|include|I4|AR immersive analytics above tabletop
+R2-C09759|exclude|E2|Out-of-view object cues
+R2-C09847|include|I4|Tangible mobile devices for AR visualization
+R2-C09890|exclude|E2|Out-of-view object cues
+R2-C09940|include|I4|Situated sensor time-series anomaly vis
+R2-C10152|exclude|E2|Out-of-view guidance cues
+R2-C10358|exclude|E2|Out-of-view cues via minimaps
+R2-C10494|include|I2|AR network topology/data flow of sensor nodes
+R2-C10506|include|I4|Sports statistics embedded in field of view
+R2-C10611|exclude|E2|Locating physical objects, guidance
+R2-C10730|include|I4|Situated visualization information seeking
+R2-C10731|include|I4|Situated visualization for decision making
+R2-C10961|exclude|E2|Gas field overlay, physical phenomenon
+R2-C11004|exclude|E2|Off-screen POI cues with maps
+R2-C11005|include|I4|Situated attribute vis on seats
+R2-C11006|unsure|unsure|No abstract; EMC field vs abstract data unclear
+R2-C11010|exclude|E2|X-ray visualization comparison
+R2-C11057|include|I4|Authoring situated data visualizations
+R2-C11081|unsure|unsure|Immersive small multiples, likely VR; AR value unclear
+R2-C11223|include|I4|Situated AR bar charts in landscape
+R2-C11503|include|I4|Tangible immersive tabletop visual analytics
+R2-C11511|include|I1|3D time stacks of network frames
+R2-C11655|exclude|E2|Subsurface utility rendering
+R2-C11656|exclude|E2|Sailing navigation wind cues
+R2-C11657|include|I4|Situated visualization decision-making (no abstract)
+R2-C11723|exclude|E2|X-ray depth perception
+R2-C11859|exclude|E2|Out-of-view labeling cues for visual search
+R2-C11880|include|I4|In-situ analysis of interaction data
+R2-C11884|exclude|E2|Indoor AR map/navigation
+R2-C11891|include|I4|Touch querying on data physicalizations in AR
+R2-C11904|include|I1|Multilayered graph (bipartite plus trees)
+R2-C11947|exclude|E2|Depth cues for underground objects
+R2-C11963|include|I4|AR reconstruction of printed charts
+R2-C12059|include|I4|In-situ AR vis authoring with touch
+R2-C12140|background|B|Design framework for SAR embedded visualization
+R2-C12191|exclude|E2|Navigation information for ship officers
+R2-C12202|include|I4|AR charts around physical scale models
+R2-C12211|include|I4|In-situ human motion data analysis
+R2-C12256|include|I4|Tangible AR construction of visualizations
+R2-C12327|background|B|Position paper on eye-tracking evaluation
+R2-C12453|exclude|E2|Medical volume slicing
+R2-C12569|include|I4|AR IoT data vis anchored to objects
+R2-C12642|include|I1|3D time stacks of network frames (journal)
+R2-C12644|exclude|E2|Airflow simulation overlay, physical phenomenon
+R2-C12729|include|I4|Tangible proxies binding referents and data
+R2-C12762|exclude|E2|Off-screen POI distance cues
+R2-C12766|exclude|E2|Off-screen POI arrows
+R2-C12792|include|I4|Physicalization combined with AR
+R2-C12848|background|B|Design patterns for situated vis
+R2-C12871|unsure|unsure|Map-to-building links; abstract data unclear
+R2-C12907|background|B|Conceptual situated visualization model
+R2-C12914|exclude|E2|WiFi signal field overlay, physical phenomenon
+R2-C12929|exclude|E2|Radio signal field overlay
+R2-C12954|include|I4|Smartphone touch proxies for MR charts
+R2-C13012|include|I4|Situated vis blended with environment (concept)
+R2-C13029|include|I4|Situated energy/financial data on facades
+R2-C13064|include|I4|Environment-based lenses for movement data
+R2-C13090|background|B|Model/review of proxsituated visualization
+R2-C13091|include|I4|Situated analytics framework MR
+R2-C13127|include|I4|Situated pose-error trajectory analysis
+R2-C13142|include|I4|AR sports data visualization factors
+R2-C13199|unsure|unsure|Cultural narrative game; abstract data unclear
+R2-C13255|include|I4|Placement of outdoor situated data vis
+R2-C13351|include|I4|Solar/energy data on facades (no abstract)
+R2-C13390|include|I4|Brushing and linking physical referents
+R2-C13417|exclude|E2|Radiation field overlay, physical phenomenon
+R2-C13427|exclude|E4|Juxtaposed matrices of graph collection, not layers
+R2-C13456|exclude|E2|Off-screen POI indicator
+R2-C13463|include|I4|Multi-attribute comparison of physical objects
+R2-C13491|exclude|E2|Medical procedure guidance
+R2-C13553|unsure|unsure|XCT volume overlay; secondary data maybe abstract
+R2-C13555|include|I4|In-situ vis of multiuser MR data
+R2-C13580|include|I4|Physical landmarks and AR info panels
+R2-C13586|include|I4|Spatially anchored task overviews
+R2-C13599|include|I4|Hybrid UI for situated analytics
+R2-C13604|include|I4|Interaction for situated vis in public
+R2-C13637|include|I4|Situated air quality data visualization
+R2-C13696|include|I4|Authoring situated robot data visualizations
+R2-C13740|exclude|E2|Embedded internal 3D structures, physical objects
+R2-C13760|include|I4|Proxied vs immediate situated sensor data
+R2-C13811|include|I4|Embedding data vis in AR videos
+R2-C13812|include|I4|Projected situated charts with touch
+R2-C13816|include|I4|Situated brushing and linking highlighting
+R2-C13826|include|I4|AR sensor data presentation
+R2-C13829|include|I4|Co-located AR immersive analytics
+R2-C13900|unsure|unsure|Immersive transitions design space; AR value unclear
+R2-C13916|include|I4|Shape-changing physicalization with AR overlays
+R2-C14005|exclude|E2|Maintenance training labels
+R2-C14044|include|I4|Proxsituated football data in XR
+R2-C14047|include|I4|Situated vis of formula composition
+R2-C14102|unsure|unsure|XCT volume overlay; secondary data maybe abstract
+R2-C14196|exclude|E2|Occlusion reduction for selecting physical referents
+R2-C14225|include|I4|Situated process/status vis of robots
+R2-C14255|background|B|Mainly scoping review, maintenance domain
+R2-C14291|exclude|E2|Cutaway visualization of physical objects
+R2-C14357|exclude|E2|Robot motion path cues, no abstract data
+R2-C14359|exclude|E4|Small multiples in grid charts
+R2-C14413|background|B|Position article on ambient analytics
+R2-C14427|include|I4|Situated analytics obstruction mitigation
+R2-C14467|include|I4|Ground-anchored flow routes between buildings
+R2-C14513|exclude|E2|Facial training feedback guidance
+R2-C14531|include|I4|AR overlay of abstract scientific quantities
+R2-C14550|exclude|E2|Situated historic photos, not abstract data vis
+R2-C14602|exclude|E2|Thermal mesh of physical trees
+R2-C14631|include|I4|Autonomous tangible proxies for data
+R2-C14675|include|I4|AR privacy data anchored to devices
+R2-C14681|exclude|E2|Radio field rendering
+R2-C14706|exclude|E2|Volumetric scientific data, not abstract
+R2-C14708|include|I2|In-situ graph of inter-object relationships
+R2-C14710|include|I4|Situated brushing and linking in AR
+R2-C14720|exclude|E2|Windshield hazard cues
+R2-C14775|exclude|E2|Target selection feedforward cues
+R2-C14795|exclude|E2|AR needle insertion guidance
+R2-C14799|exclude|E2|Radio propagation field overlay
+R2b-C02682|include|I4|View layout for situated analytics
+R2b-C02688|include|I4|STARE AR IoT data vis (duplicate)
+R2b-C02698|background|B|Proxsituated model (duplicate)
+R2b-C02886|include|I4|Situated environmental footprint vis
+R2b-C05668|exclude|E2|Situated historic media, not abstract data vis
+R2b-C05868|exclude|E2|Medical anatomy depth perception
+R2b-C06065|unsure|unsure|No abstract; pervasive services vis unclear
+R2b-C09092|exclude|E2|Sailboat navigation data
+R2b-C10326|unsure|unsure|Thermal experiment MR; data abstraction unclear
+R2b-C11028|exclude|E2|Underground facilities rendering
+R2b-C11119|include|I4|Situated analytics of product data
+R2b-C13930|unsure|unsure|Navigation/annotation; yield data vis unclear
+R2b-C13935|include|I4|AR feature-importance explanation vis
+R2b-C14081|exclude|E2|Sailing navigation interface
+R2b-C14345|exclude|E2|Sailing navigation interface
+R2b-C14596|include|I4|Weather data anchored to real trees
+R2b-C14624|unsure|unsure|No abstract; rowing coach, data vis unclear
+R2b-C14882|include|I4|Adaptive multi-view situated layout
+R2b-C15155|exclude|E2|Hot surface thermal overlay, safety
+R2b-C15239|exclude|E2|Volume rendering in OST AR
+R2b-C15371|exclude|E2|Ski posture guidance
+R2b-C15388|exclude|E2|Sailing wind navigation
+R2b-C15395|exclude|E2|Table tennis stroke guidance
+R2b-C15405|include|I4|Body-anchored data visualization
+R2b-C15809|unsure|unsure|Embedded vis in swimming video; AR unclear
+R2b-C16047|include|I4|Walkable AR vis of magnitudes
+R2b-C16320|exclude|E2|Motion guidance cues
+R2b-C17100|include|I4|Situated AR timelines of events

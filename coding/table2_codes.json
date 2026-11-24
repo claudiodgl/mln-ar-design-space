@@ -1,0 +1,845 @@
+{
+ "source": "Table 2 (tab:coding) of the paper; regenerate with scripts/table2_from_tex.py",
+ "values": [
+  {
+   "value": "Node-link",
+   "group": "Layer Drawing"
+  },
+  {
+   "value": "Matrix",
+   "group": "Layer Drawing"
+  },
+  {
+   "value": "Hybrid",
+   "group": "Layer Drawing"
+  },
+  {
+   "value": "Node Pos.",
+   "group": "Layer Drawing"
+  },
+  {
+   "value": "Node Ord.",
+   "group": "Layer Drawing"
+  },
+  {
+   "value": "Node Group.",
+   "group": "Layer Drawing"
+  },
+  {
+   "value": "Edge Bundl.",
+   "group": "Layer Drawing"
+  },
+  {
+   "value": "Color",
+   "group": "Layer Drawing"
+  },
+  {
+   "value": "Size",
+   "group": "Layer Drawing"
+  },
+  {
+   "value": "Shape",
+   "group": "Layer Drawing"
+  },
+  {
+   "value": "Texture",
+   "group": "Layer Drawing"
+  },
+  {
+   "value": "2D",
+   "group": "Layer Placement"
+  },
+  {
+   "value": "3D",
+   "group": "Layer Placement"
+  },
+  {
+   "value": "Phys. Anchor",
+   "group": "Layer Placement"
+  },
+  {
+   "value": "Floating",
+   "group": "Layer Placement"
+  },
+  {
+   "value": "Juxtaposed",
+   "group": "Layer Placement"
+  },
+  {
+   "value": "Stacked",
+   "group": "Layer Placement"
+  },
+  {
+   "value": "Free",
+   "group": "Layer Placement"
+  },
+  {
+   "value": "Separated",
+   "group": "Layer Relations"
+  },
+  {
+   "value": "Linked",
+   "group": "Layer Relations"
+  },
+  {
+   "value": "Merged",
+   "group": "Layer Relations"
+  },
+  {
+   "value": "Shared Lay.",
+   "group": "Layer Relations"
+  },
+  {
+   "value": "Per-layer Lay.",
+   "group": "Layer Relations"
+  },
+  {
+   "value": "Per-layer Repr.",
+   "group": "Layer Relations"
+  },
+  {
+   "value": "Full",
+   "group": "Layer Relations"
+  },
+  {
+   "value": "Partial",
+   "group": "Layer Relations"
+  },
+  {
+   "value": "Selective",
+   "group": "Layer Relations"
+  },
+  {
+   "value": "Implicit",
+   "group": "Layer Relations"
+  },
+  {
+   "value": "Mid-air",
+   "group": "Interaction"
+  },
+  {
+   "value": "Touch",
+   "group": "Interaction"
+  },
+  {
+   "value": "Tangible",
+   "group": "Interaction"
+  },
+  {
+   "value": "Gaze",
+   "group": "Interaction"
+  },
+  {
+   "value": "Voice",
+   "group": "Interaction"
+  },
+  {
+   "value": "Phys. Elem.",
+   "group": "Interaction"
+  },
+  {
+   "value": "Virt. Elem.",
+   "group": "Interaction"
+  },
+  {
+   "value": "Spatial Ctx.",
+   "group": "Interaction"
+  },
+  {
+   "value": "Arrange",
+   "group": "Interaction"
+  },
+  {
+   "value": "Select",
+   "group": "Interaction"
+  },
+  {
+   "value": "Filter",
+   "group": "Interaction"
+  }
+ ],
+ "works": [
+  {
+   "label": "muxViz",
+   "key": "MuxViz",
+   "platform": "Desktop",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "2D",
+    "Stacked",
+    "Separated",
+    "Linked",
+    "Merged",
+    "Shared Lay.",
+    "Per-layer Lay.",
+    "Implicit"
+   ],
+   "not_applicable": [
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "Arena3Dweb",
+   "key": "Arena3Dweb",
+   "platform": "Desktop",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "Size",
+    "2D",
+    "Stacked",
+    "Free",
+    "Separated",
+    "Linked",
+    "Shared Lay.",
+    "Per-layer Lay.",
+    "Full",
+    "Virt. Elem.",
+    "Arrange",
+    "Select",
+    "Filter"
+   ],
+   "not_applicable": [
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "MultiNets",
+   "key": "MultiNets",
+   "platform": "Desktop",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "Size",
+    "2D",
+    "Merged",
+    "Virt. Elem.",
+    "Filter"
+   ],
+   "not_applicable": [
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "Py3plex",
+   "key": "Py3plex",
+   "platform": "Desktop",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "Size",
+    "2D",
+    "Juxtaposed",
+    "Stacked",
+    "Separated",
+    "Linked",
+    "Merged",
+    "Shared Lay.",
+    "Per-layer Lay.",
+    "Full"
+   ],
+   "not_applicable": [
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "pymnet",
+   "key": "pymnet",
+   "platform": "Desktop",
+   "codes": [
+    "Node-link",
+    "Color",
+    "Size",
+    "2D",
+    "Juxtaposed",
+    "Stacked",
+    "Linked",
+    "Shared Lay.",
+    "Full"
+   ],
+   "not_applicable": [
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "MLN bundling",
+   "key": "7465267",
+   "platform": "Desktop",
+   "codes": [
+    "Node-link",
+    "Edge Bundl.",
+    "Color",
+    "2D",
+    "Merged"
+   ],
+   "not_applicable": [
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "VERTIGo",
+   "key": "9382912",
+   "platform": "Desktop",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "Size",
+    "Shape",
+    "Texture",
+    "2D",
+    "Juxtaposed",
+    "Merged",
+    "Virt. Elem.",
+    "Select",
+    "Filter"
+   ],
+   "not_applicable": [
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "Graphon abstr.",
+   "key": "Graphon",
+   "platform": "Desktop",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Node Group.",
+    "Color",
+    "Size",
+    "2D",
+    "Juxtaposed",
+    "Linked",
+    "Per-layer Lay.",
+    "Implicit",
+    "Virt. Elem.",
+    "Select",
+    "Filter"
+   ],
+   "not_applicable": [
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "NodeTrix",
+   "key": "NodeTrix",
+   "platform": "Desktop",
+   "codes": [
+    "Hybrid",
+    "Node Pos.",
+    "Node Ord.",
+    "Node Group.",
+    "Color",
+    "Size",
+    "2D",
+    "Virt. Elem.",
+    "Select",
+    "Filter"
+   ],
+   "not_applicable": [
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "DynTrix",
+   "key": "DynTrix",
+   "platform": "Desktop",
+   "codes": [
+    "Hybrid",
+    "Node Pos.",
+    "Node Ord.",
+    "Node Group.",
+    "Color",
+    "Size",
+    "2D",
+    "Separated",
+    "Shared Lay.",
+    "Virt. Elem.",
+    "Select"
+   ],
+   "not_applicable": [
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "Matrix Cubes",
+   "key": "matrix_cube",
+   "platform": "Desktop",
+   "codes": [
+    "Matrix",
+    "Node Ord.",
+    "Color",
+    "Size",
+    "2D",
+    "3D",
+    "Juxtaposed",
+    "Stacked",
+    "Separated",
+    "Linked",
+    "Merged",
+    "Shared Lay.",
+    "Implicit",
+    "Virt. Elem.",
+    "Arrange",
+    "Select",
+    "Filter"
+   ],
+   "not_applicable": [
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "Kwon et al.",
+   "key": "7390081",
+   "platform": "VR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Edge Bundl.",
+    "Color",
+    "2D",
+    "3D",
+    "Floating",
+    "Virt. Elem.",
+    "Select"
+   ],
+   "not_applicable": [
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "VRNetzer",
+   "key": "Pirch2021",
+   "platform": "VR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "3D",
+    "Floating",
+    "Tangible",
+    "Virt. Elem.",
+    "Arrange",
+    "Select",
+    "Filter"
+   ],
+   "not_applicable": [
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "GAV-VR",
+   "key": "GAV_VR",
+   "platform": "VR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "Shape",
+    "3D",
+    "Floating",
+    "Juxtaposed",
+    "Separated",
+    "Shared Lay.",
+    "Tangible",
+    "Virt. Elem.",
+    "Arrange",
+    "Select"
+   ],
+   "not_applicable": [
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "Joos et al.",
+   "key": "networks_VR",
+   "platform": "VR",
+   "codes": [
+    "Node-link",
+    "Matrix",
+    "Node Pos.",
+    "Color",
+    "Size",
+    "Shape",
+    "2D",
+    "3D",
+    "Floating",
+    "Merged",
+    "Tangible",
+    "Virt. Elem.",
+    "Arrange"
+   ],
+   "not_applicable": [
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "Feyer et al. '24",
+   "key": "10298000",
+   "platform": "VR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "2D",
+    "3D",
+    "Floating",
+    "Juxtaposed",
+    "Stacked",
+    "Free",
+    "Linked",
+    "Per-layer Lay.",
+    "Full"
+   ],
+   "not_applicable": [
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "Feyer et al. '26",
+   "key": "Feyer2026layers",
+   "platform": "VR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "Size",
+    "2D",
+    "Floating",
+    "Juxtaposed",
+    "Stacked",
+    "Separated",
+    "Shared Lay.",
+    "Tangible"
+   ],
+   "not_applicable": [
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "Lee et al. '26",
+   "key": "Lee2026voice",
+   "platform": "VR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Edge Bundl.",
+    "Color",
+    "Size",
+    "Shape",
+    "3D",
+    "Floating",
+    "Tangible",
+    "Voice",
+    "Virt. Elem.",
+    "Select",
+    "Filter"
+   ],
+   "not_applicable": [
+    "Spatial Ctx."
+   ]
+  },
+  {
+   "label": "Belcher et al.",
+   "key": "Belcher2003",
+   "platform": "AR",
+   "codes": [
+    "Node-link",
+    "Color",
+    "3D",
+    "Phys. Anchor",
+    "Tangible",
+    "Phys. Elem.",
+    "Arrange"
+   ],
+   "not_applicable": []
+  },
+  {
+   "label": "Büschel et al.",
+   "key": "8636208",
+   "platform": "AR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "Shape",
+    "Texture",
+    "3D",
+    "Floating",
+    "Full",
+    "Partial",
+    "Virt. Elem.",
+    "Select"
+   ],
+   "not_applicable": []
+  },
+  {
+   "label": "Personal+Context",
+   "key": "James2020personal",
+   "platform": "AR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Size",
+    "2D",
+    "Phys. Anchor",
+    "Gaze",
+    "Virt. Elem.",
+    "Select"
+   ],
+   "not_applicable": []
+  },
+  {
+   "label": "Lee et al. '22",
+   "key": "Lee2022",
+   "platform": "AR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "2D",
+    "3D",
+    "Phys. Anchor",
+    "Mid-air",
+    "Virt. Elem.",
+    "Select"
+   ],
+   "not_applicable": []
+  },
+  {
+   "label": "Li and Wang",
+   "key": "Li2022painters",
+   "platform": "AR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "3D",
+    "Phys. Anchor",
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Phys. Elem.",
+    "Virt. Elem.",
+    "Spatial Ctx.",
+    "Select",
+    "Filter"
+   ],
+   "not_applicable": []
+  },
+  {
+   "label": "Schwajda et al.",
+   "key": "Schwajda2023",
+   "platform": "AR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "2D",
+    "3D",
+    "Phys. Anchor",
+    "Floating",
+    "Free",
+    "Separated",
+    "Linked",
+    "Per-layer Lay.",
+    "Full",
+    "Tangible",
+    "Virt. Elem.",
+    "Arrange",
+    "Select"
+   ],
+   "not_applicable": []
+  },
+  {
+   "label": "TangibleNet",
+   "key": "Takahira2025tangiblenet",
+   "platform": "AR",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Node Group.",
+    "Color",
+    "Size",
+    "Shape",
+    "2D",
+    "Phys. Anchor",
+    "Mid-air",
+    "Touch",
+    "Tangible",
+    "Phys. Elem.",
+    "Virt. Elem.",
+    "Select",
+    "Filter"
+   ],
+   "not_applicable": []
+  },
+  {
+   "label": "Semantic Reality",
+   "key": "Liu2026semantic",
+   "platform": "AR",
+   "codes": [
+    "Node-link",
+    "Color",
+    "Shape",
+    "Texture",
+    "3D",
+    "Phys. Anchor",
+    "Merged",
+    "Mid-air",
+    "Tangible",
+    "Gaze",
+    "Voice",
+    "Phys. Elem.",
+    "Virt. Elem.",
+    "Select",
+    "Filter"
+   ],
+   "not_applicable": []
+  },
+  {
+   "label": "HoloGraphs",
+   "key": "HoloGraphs",
+   "platform": "Physicalization",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "Color",
+    "Size",
+    "2D",
+    "Phys. Anchor",
+    "Stacked",
+    "Separated",
+    "Linked",
+    "Merged",
+    "Per-layer Lay.",
+    "Implicit",
+    "Tangible",
+    "Phys. Elem.",
+    "Arrange",
+    "Filter"
+   ],
+   "not_applicable": [
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Gaze",
+    "Voice",
+    "Virt. Elem."
+   ]
+  },
+  {
+   "label": "NODKANT",
+   "key": "70140",
+   "platform": "Physicalization",
+   "codes": [
+    "Node-link",
+    "Node Pos.",
+    "2D",
+    "Phys. Anchor",
+    "Tangible",
+    "Phys. Elem."
+   ],
+   "not_applicable": [
+    "Floating",
+    "Mid-air",
+    "Touch",
+    "Gaze",
+    "Voice",
+    "Virt. Elem."
+   ]
+  }
+ ]
+}

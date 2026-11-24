@@ -1,0 +1,8 @@
+cid,decision,code,evidence,note
+C00393,exclude,E4,The first view is an overview that shows how clusters evolve over time,dynamic graph as cluster timeline plus one node-link view per time step
+C00679,include,I1,From dynamic networks to Matrix Cubes and Alignment Cubes.,"several alignments between two ontologies stacked as slices of a cube (Matrix-Cube-like), with 3D view and slice reordering"
+C01458,include,I2,a novel system for immersive visualization (both in Mixed and Virtual Reality) of complex time-varying graphs,VDE; MR and VR node-link network visualization
+C02358,exclude,E2,we use the digital platform as a fixed reference point to develop augmented-reality probes that extend its mapping interfaces from the screen to the physical ground,AR storytelling of historical events and sites; no network or abstract-data AR technique
+C02647,include,I1,there are secondary relationships between the vertices of G1 and those of G2,two interconnected graphs with intra- and inter-graph relations drawn together (two-layer network)
+C02878,include,I2,we present an approach for visualizing OSGi-based software architectures in virtual reality based on an island metaphor,VR; modules as islands with explicit dependency arcs (dependency graph)
+R2-C03899,exclude,E3,we show how to extend two dimensional plane drawings to three dimensional multilevel drawings,"levels of one clustered graph's hierarchy on stacked planes; layers derived from one graph, not relation types or time slices"

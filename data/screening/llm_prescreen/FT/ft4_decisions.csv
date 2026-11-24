@@ -1,0 +1,17 @@
+cid,decision,code,evidence,note
+C01134,include,I1,different perspectives on the evolution of the network can be visualized by placing network diagrams within a multi-perspectival 3D matrix,"time slices x perspectives drawn as a layered time-perspective matrix (Fig. 5), Matrix-Cube-like; humanities preprint"
+C01757,exclude,E3,We employ a multi-view approach to represent temporal and spatial information in a genealogy graph.,single genealogy graph linked with maps; map hierarchy levels are not network layers
+C01783,exclude,E2,users can interact with cultural content through meaningful visualizations and gamified interaction,"gamified cultural-heritage gift; illustrative narrative visuals, no network and no abstract-data AR technique; borderline"
+C01848,exclude,E5,EUROVIS 2024 ... Poster Towards Presenting Travel Times in a Bus Network as Immersive and Adaptive Data Stories,poster
+C01920,include,I2,AIDEN ... is a system designed to interact with knowledge graphs in a 3D immersive virtual reality (VR) environment,VR knowledge-graph exploration and editing for heritage data
+C02511,exclude,E3,"Message-passing communication networks are directed, cyclic multigraphs whose edges represent communication relations such as topics and channels.","single desktop node-link view; relation types are aggregated, not shown as layers"
+C02829,exclude,E3,We present a novel DOI for graphs with multiple types of entities.,"multi-type nodes in one entity graph (heterogeneous, single layer)"
+R2-C05275,exclude,E3,"The vertex set is partitioned both into layers of vertices drawn in parallel planes and into k >= 2 subsets, called walls","2.5D layered drawing of a single digraph; layers are a layout device, not relation types or time slices"
+R2-C09781,exclude,E4,"individual graphs are horizontally stacked by drawing partial edges, leading to stacked edge splatting","time slices juxtaposed as partial-edge bipartite strips, not distinct layers (A1); PDF is the paper's supplementary material"
+R2-C10387,include,I1,Our system visualizes both citation and co-author networks at the same time.,"two interconnected networks (papers, authors) in linked views with corresponding cluster positions"
+R2-C10921,exclude,E5,This framework is expressed by a visual representation that contains a multiplicity of layers,conference abstract (DH 2020) presenting a conceptual diagram
+R2-C11139,exclude,E5,Senior Honors Thesis Hussman School of Journalism and Media University of North Carolina at Chapel Hill,"undergraduate honors thesis, not peer reviewed"
+R2-C12809,include,I4,the tablet can provide additional display fidelity in a region of interest and act as a precise input device,AR+tablet hybrid for geospatial glyph fields (abstract data); touch input on a physical device linked to the AR view
+R2-C13475,include,I4,"Presenting a design concept for embedding temporal data visualizations onto flat surfaces, we explore features that integrate these visualizations within their physical contexts.","mobile AR charts of traffic data embedded onto the street (physical anchoring, spatial context)"
+R2b-C12140,include,I2,makes it easy to understand the correspondence between the real world device and the node in the MR environment,MR node-link graph (visual program) whose nodes are anchored to physical IoT devices
+R2b-C14624,exclude,E2,give situated visual feedback on the rower's body movement and stroke sequence,sports guidance overlay on the body (A1)

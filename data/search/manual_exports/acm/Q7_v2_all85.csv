@@ -1,0 +1,86 @@
+title,doi,year,venue,q7_venue_keep
+Occlusion Reduction Techniques for the Selection of Physical Referents in Augmented Reality: Adaptation and Evaluation of Virtual Reality Techniques,10.1145/3765712.3765719,2025,IHM '25,no
+Exploiting Physical Referent Features as Input for Multidimensional Data Selection in Augmented Reality,10.1145/3648613,2024,TOCHI,yes
+Exploring Augmented Reality for Situated Analytics with Many Movable Physical Referents,10.1145/3611659.3615700,2023,VRST '23,yes
+Mixed Reality Teleoperation with Object-Aware Digital Twins,10.1145/3822517.3849893,2026,VRST '26,yes
+An AR Mirror System for Real-Time Cross-Sectional Visualization of Hand-Held Physical Objects Using Markerless Tracking,10.1145/3822517.3849975,2026,VRST '26,yes
+Locating nearby physical objects in augmented reality,10.1145/3365610.3365620,2019,MUM '19,no
+RotorFlow: Overlaying Simulated Airflow onto a Physical Propeller Using Augmented Reality,10.1145/3830397.3841873,2026,UIST Adjunct '26,yes
+From Physical Objects to Web-Ready 3D Assets: An Affordable AI-Assisted RGB-D Scanning Pipeline,10.1145/3822516.3837793,2026,Web3D '26,no
+Tangible Authoring of Embedded-Object Visualizations in Mixed Reality,10.1145/3678698.3687187,2024,VINCI '24,no
+Adaptive Immersion: Mixed Reality Map Visualization with Gradual Transition,10.1145/3677386.3688874,2024,SUI '24,yes
+EchoVision: A Handheld Mixed Reality Mask for Experiencing Bat Echolocation,10.1145/3675094.3681951,2024,UbiComp '24 Companion,no
+"Becoming Mole with ""FeltSight"": Hyper-sensitizing the Surrounding through Mixed Reality Haptic Proximity Gloves",10.1145/3757369.3767605,2025,SA Art Papers '25,no
+Directional Progress Indicator for Visualizing Off-Screen Point-of-Interest in Handheld Augmented Reality,10.1145/3697355.3697373,2024,BDIOT '24,no
+Touch Beyond Reach: Demonstrating Star-Nosed Mole-Inspired Mixed Reality Haptic Proximity Gloves,10.1145/3772363.3799118,2026,CHI EA '26,yes
+Tangible Globes for Data Visualisation in Augmented Reality,10.1145/3491102.3517715,2022,CHI '22,yes
+"Pull the Trigger, Explore the Past: A Mixed Reality Gamification Case Study in Matchlock Gun Heritage Interpretation",10.1145/3847115,2026,JOCCH,no
+"Nature: Metaphysics + Metaphor (N:M+M): Exploring Persistence, Feedback, and Visualisation in Mixed Reality Performance Arts.",10.1145/3680530.3695439,2024,SA '24 Art Papers,no
+Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed Reality,10.1145/3613904.3642740,2024,CHI '24,yes
+Demonstrating CleAR Sight: Transparent Interaction Panels for Augmented Reality,10.1145/3544549.3583891,2023,CHI EA '23,yes
+Voice-Driven Conversational Mixed Reality for Linear Algebra in Computer Science Education Using an AI Avatar Tutor,,2025,JCSC,no
+AR-some Chemistry Models: Interactable 3D Molecules through Augmented Reality,10.1145/3447527.3474874,2021,MobileHCI '21 Adjunct,no
+Smart Teaching Materials with Real-Time Augmented Reality Support for Introductory Physics Education,10.1145/3544793.3560322,2023,UbiComp/ISWC '22 Adjunct,no
+Visualizing and exploring OSGi-based software architectures in augmented reality,10.1145/3281505.3281564,2018,VRST '18,yes
+Visualizing and Interacting with Hierarchical Menus in Immersive Augmented Reality,10.1145/3359997.3365693,2019,VRCAI '19,no
+An Interaction Design Model for Information Visualization in Immersive Augmented Reality platform,10.1145/3365921.3365939,2020,MoMM2019,no
+Towards rapid digital prototyping for augmented reality applications,10.1145/3194760.3194762,2018,RCoSE '18,no
+Visualizing Occluded Physical Objects in Unfamiliar Outdoor Augmented Reality Environments,10.1109/ISMAR.2007.4538869,2007,ISMAR '07,no
+A Mixed Reality Application for Linked Data in Engineering and Production,10.1145/3340764.3344889,2019,MuC '19,no
+Using Augmented Reality to Support Collaborative Problem Solving in Computer Debugging Practice,10.1145/3328778.3372693,2020,SIGCSE '20,no
+ShARe: Enabling Co-Located Asymmetric Multi-User Interaction for Augmented Reality Head-Mounted Displays,10.1145/3379337.3415843,2020,UIST '20,yes
+Exploring Advance Interactions for Augmented Reality: From Casual Activities to In-Situ 3D Modeling,10.1145/3024969.3025044,2017,TEI '17,yes
+RealitySketch: augmented reality sketching for real-time embedded and responsive visualizations,10.1145/3478511.3491313,2021,SA '21 Real-Time Live,no
+Image-based X-ray visualization techniques for spatial understanding in outdoor augmented reality,10.1145/2686612.2686642,2014,OzCHI '14,no
+Kinect-based augmented reality projection with perspective correction,10.1145/2037715.2037804,2011,SIGGRAPH '11 Posters,no
+Touching the Past: Developing and Evaluating A Heritage kit for Visualizing and Analyzing Historical Artefacts Using Tangible Augmented Reality,10.1145/3430524.3443691,2021,TEI '21,yes
+Handheld augmented reality indoor navigation with activity-based instructions,10.1145/2037373.2037406,2011,MobileHCI '11,no
+On the Shoulder of the Giant: A Multi-Scale Mixed Reality Collaboration with 360 Video Sharing and Tangible Interaction,10.1145/3290605.3300458,2019,CHI '19,yes
+Fast geometry acquisition for mixed reality applications using motion tracking,10.1109/ISMAR.2008.4637355,2008,ISMAR '08,no
+Collaborative Mixed Reality Visualization of an Archaeological Excavation,10.1109/ISMAR.2004.23,2004,ISMAR '04,no
+A novel interface to sensor networks using handheld augmented reality,10.1145/1152215.1152245,2006,MobileHCI '06,no
+Tangible user interaction using augmented reality,,2002,AUIC '02,no
+Building Virtual and Augmented Reality museum exhibitions,10.1145/985040.985060,2004,Web3D '04,no
+Occlusion based interaction methods for tangible augmented reality environments,10.1145/1044588.1044680,2004,VRCAI '04,no
+An evaluation of virtual lenses for object selection in augmented reality,10.1145/1321261.1321297,2007,GRAPHITE '07,no
+Augmented reality as a visualisation tool within information visualisation,,2002,SAICSIT '02,no
+A 3D Flexible and Tangible Magic Lens in Augmented Reality,10.1109/ISMAR.2007.4538825,2007,ISMAR '07,no
+Using Augmented Reality for Visualizing Complex Graphs in Three Dimensions,,2003,ISMAR '03,no
+Shape of Music: AR-based Tangible Programming Tool for Music Visualization,10.1145/3585088.3593872,2023,IDC '23,no
+Composites: A Tangible Interaction Paradigm for Visual Data Analysis in Design Practice,10.1145/3531073.3531091,2022,AVI '22,no
+Robot Arena: An augmented reality platform for game development,10.1145/1486508.1486519,2009,Computers in Entertainment,no
+ARCTIS: augmented reality collaborative tangible interactive simulation,10.1145/1188455.1188775,2006,SC '06,no
+Agents That Talk And Hit Back: Animated Agents in Augmented Reality,10.1109/ISMAR.2004.11,2004,ISMAR '04,no
+"""Ouch, That's Too Much!"": Coordinating Multimodal and Patient-Like Feedback in MR Physiotherapy Training",10.1145/3847401.3857194,2026,OzCHI '26,no
+Pose Estimation-Driven Scene Reconstruction for Applications in Immersive Environments,10.1145/3819836.3819884,2026,CSAIDE '26,no
+"Versatile Immersive Virtual and Augmented Tangible OR - Using VR, AR and Tangibles to Support Surgical Practice",10.1145/3544549.3583895,2023,CHI EA '23,yes
+"Grab the Frog: Comparing Intuitive Use and User Experience of a Smartphone-only, AR-only, and Tangible AR Learning Environment",10.1145/3447526.3472016,2021,MobileHCI '21,no
+MiniGI: Guerilla Mappings in Miniature,10.1145/3610549.3614612,2023,SA '23 XR,no
+Explorative analysis in a preliminary phase of hybrid vehicle design by means of tangible interaction,,2017,WSC '17,no
+On-Body tangible interaction: using the body to support tangible manipulations for immersive visualization,10.1145/3286689.3286692,2018,IHM '18,no
+Remote Expert Evaluation of Tabletop Avatar Gaze Control in Asymmetric Multi-Scale MR-VR Collaboration,10.1145/3822517.3848661,2026,VRST '26,yes
+The MADE-Axis: A Modular Actuated Device to Embody the Axis of a Data Dimension,10.1145/3488546,2021,PACMHCI (ISS),yes
+RealitySketch: Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching,10.1145/3379337.3415892,2020,UIST '20,yes
+RealitySketch: Embedding Responsive Graphics and Visualizations in AR with Dynamic Sketching,10.1145/3379350.3416155,2020,UIST '20 Adjunct,yes
+"Clusters, Trends, and Outliers: How Immersive Technologies Can Facilitate the Collaborative Analysis of Multidimensional Data",10.1145/3173574.3173664,2018,CHI '18,yes
+LanternOperAR: Engaging Yue Opera Culture with Chinese Philosophy in Hybrid Gift through Interactive Experience,10.1145/3723170,2026,JOCCH,no
+"Heatmaps, Shadows, Bubbles, Rays: Comparing Mid-Air Pen Position Visualizations in Handheld AR",10.1145/3313831.3376848,2020,CHI '20,yes
+Tangible Viewports: Getting Out of Flatland in Desktop Environments,10.1145/2839462.2839468,2016,TEI '16,yes
+Intelligent Visual Interface with the Internet of Things,10.1145/3038450.3038452,2017,SmartObject '17,no
+Revisiting 25 years of Healthcare Studies in the SVR History,10.1145/3625008.3625026,2024,SVR '23,no
+Multi-Device Collaboration in Virtual Environments,10.1145/3385378.3385381,2020,ICVARS '20,no
+VIDEM 2020: Workshop on Visual Interface Design Methods,10.1145/3399715.3400863,2020,AVI '20,no
+Handheld Visual Representation of a Castle Chapel Ruin,10.1145/2822899,2015,JOCCH,no
+Creating and Augmenting Keyboards for Extended Reality with the Keyboard Augmentation Toolkit,10.1145/3490495,2022,TOCHI,yes
+ReAR surface: AR-based exchanging system using handheld devices,10.1145/2820926.2820954,2015,SA '15 Posters,no
+"Modeling context in haptic perception, rendering, and visualization",10.1145/1152149.1152153,2006,TOMM,no
+Visualization methods for outdoor see-through vision,10.1145/1152399.1152412,2005,ICAT '05,no
+The mind-window: brain activity visualization using tablet-based AR and EEG for multiple users,10.1145/2735711.2735809,2015,AH '15,no
+ARCord: Visually Augmented Interactive Cords for Mobile Interaction,10.1145/3170427.3188456,2018,CHI EA '18,yes
+Exploring the Effects of Physical Embodiment in a Puzzle-Based Educational Programming Game,10.1145/3059454.3078704,2017,C&C '17,no
+Proceedings of the 2012 ACM workshop on User experience in e-learning and augmented technologies in education,,2012,UXeLATE '12 (proceedings volume),no
+GeoBoids: mobile AR for exergaming,10.1145/2379256.2379284,2012,CHINZ '12,no
+Integrated view-input ar interaction for virtual object manipulation using tablets and smartphones,10.1145/2832932.2832956,2015,ACE '15,no
+VITA: visual interaction tool for archaeology (demo),10.1145/1026776.1026789,2004,ETP '04,no
+Proceedings of the 19th annual ACM symposium on User interface software and technology,,2006,UIST '06 (proceedings volume),yes
+Proceedings of the 20th annual ACM symposium on User interface software and technology,,2007,UIST '07 (proceedings volume),yes

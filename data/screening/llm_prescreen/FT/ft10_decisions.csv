@@ -1,0 +1,8 @@
+cid,decision,code,evidence,note
+R2-C09927,background,B,Embodied interactions and embodied user interfaces lead towards invisible user interfaces and move the visualization and analysis from a computer screen to physical space and place.,position paper on embodied and tangible interaction for MR analytics
+R2-C10662,include,I4,"We first propose a new design space for OBT interactions, and specifically on the forearm.",design space and study of on-body tangible input for manipulating immersive visualizations (space-time cube)
+R2-C12200,exclude,E2,An augmented reality (AR) tool for interactive visualization and exploration of future wind nature analyses for experts is still missing.,wind flow fields in mobile AR (A1 clarification: field data)
+R2-C12339,exclude,E4,illustrates the dynamics as time-to-space mappings of dynamic graphs,"time steps juxtaposed in a static diagram, not layers"
+R2-C12570,exclude,E3,This paper applies layered graph drawing to layout a Software City in 3D.,desktop software city; single dependency graph (journal version of R2-C11594)
+R3-C13312,exclude,E2,"we contribute the ability to overlay visualizations onto a video, to extract the robot's algorithms, in particular to follow its route planning and execution",robot path-planning overlays on video (A1: navigation)
+R3-C17047,include,I2,"instantiating it to the well-known Dijkstra's algorithm, resulting in an augmented reality tool that generates text, 2D and 3D visualizations",mobile AR visualization of a graph algorithm (graph shown in AR)

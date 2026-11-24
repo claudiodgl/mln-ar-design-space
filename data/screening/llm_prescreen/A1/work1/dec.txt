@@ -1,0 +1,185 @@
+C00060|unsure||ATC design space; no abstract, data type unclear
+C00107|include|I1|time slices as stacked 3D layers
+C00132|exclude|E2|AR on physical molecular models, not abstract data
+C00187|include|I1|stack of 2D layers for snapshots
+C00200|include|I4|situated sensor data visualization in AR
+C00236|exclude|E2|occluded physical objects rendering
+C00247|exclude|E2|utilities infrastructure field AR, no abstract data
+C00248|exclude|E2|realistic urban geovis with navigation aids
+C00261|include|I1|interconnected pathway graphs, layered multilayer
+C00293|include|I1|multi-relational network visualization
+C00304|exclude|E4|sequence of node-link diagrams, juxtaposed
+C00310|exclude|E2|AR x-ray occlusion rendering
+C00349|include|I1|multi-relational dynamic, layer superimposition/juxtaposition views
+C00357|exclude|E4|small multiples of ego networks
+C00364|exclude|E4|radial time encoding, not layers
+C00367|exclude|E4|side-by-side stripes timeline, not layers
+C00383|include|I1|multi-layered graphs with layer superposition
+C00405|exclude|E4|temporal flow of juxtaposed matrices
+C00412|exclude|E4|radial rings timeline, not layers
+C00427|include|I1|2.5D layered view of time slices
+C00469|unsure||radial layered matrix; layer meaning unclear
+C00486|include|I1|Matrix Cube stacked matrices
+C00491|exclude|E4|flip-book small multiples
+C00533|unsure||transparent layering vs flip-book; no abstract
+C00534|include|I1|multiplex host-port matrices set (multi-relational)
+C00537|include|I1|Matrix Cube stacked matrices
+C00539|include|I1|time slices stacked in 3D
+C00541|exclude|E2|heritage reconstruction and guidance, no abstract data vis
+C00566|include|I1|dynamic multi-relational networks
+C00576|include|I1|piled stacked adjacency matrices
+C00582|exclude|E4|juxtaposed matrices, small multiples
+C00594|exclude|E4|sequence of matrices, small multiples
+C00615|include|I1|space-time cube of stacked slices
+C00624|unsure||spatial arrangement of time slices unclear
+C00681|exclude|E2|cabling assembly guidance overlay
+C00707|background|B|design space/typology immersive urban analytics
+C00723|include|I4|cyber network data with cyber-physical AR context
+C00749|include|I4|tangible brushing of data in MR
+C00751|include|I4|tangible AR 3D data visualization exploration
+C00758|include|I1|multilayer epistolary networks
+C00792|include|I4|parallel coordinates anchored to touch tabletop
+C00794|include|I4|abstract data graphs embedded in physical world
+C00811|include|I2|AR node-link diagrams at different scales
+C00844|include|I4|on-body tangible input for immersive vis
+C00867|include|I1|multilayer graph visualization thesis
+C00894|include|I4|AR overlays on physical map visualizations
+C00908|include|I1|dynamic multilayer graphs
+C00913|include|I4|AR space-time cube with tangible ring
+C00950|include|I1|multilayer network visualization library
+C00955|unsure||flow scivis on real objects; abstract-data scope unclear
+C00964|unsure||volumetric scivis with touch; abstract-data scope unclear
+C00977|include|I4|link routing between data and world in AR
+C01011|include|I4|augmenting static printed visualizations in AR
+C01042|include|I4|tangible actuated axes for AR data spaces
+C01064|unsure||signal-strength field scivis in situ; scope unclear
+C01096|include|I4|personal AR for infovis on large displays
+C01102|include|I4|responsive visualizations bound to physical objects
+C01148|exclude|E2|tangible AR heart anatomy model
+C01171|background|B|design space emotional AR visualizations
+C01217|include|I1|temporal multilayer networks
+C01266|include|I4|tangible actuated controller for immersive data vis
+C01271|exclude|E2|visualizing physical historical artefacts
+C01300|background|B|design space 2D/3D vis transformations MR
+C01319|exclude|E2|off-screen POI cues
+C01320|exclude|E2|out-of-view object cues
+C01324|exclude|E2|robot safety zone overlays
+C01371|include|I4|tangible interaction with printed visualizations in AR
+C01386|unsure||touch/tangible selection for volumetric/point-cloud scivis
+C01392|include|I4|situated wireless network behavior data in MR
+C01440|include|I4|situated space-time cube of trajectories
+C01444|include|I4|tangible globes with AR geodata visualization
+C01463|unsure||signal propagation field scivis; scope unclear
+C01485|exclude|E2|disocclusion interfaces (x-ray, cutaway)
+C01534|include|I4|view management for situated visualizations
+C01535|include|I4|situated analytics with movable physical referents
+C01547|background|B|framework/design space non-visible referents
+C01701|background|B|design space tangible cubes MR
+C01737|include|I4|physical referent as input for embedded STC
+C01809|exclude|E2|on-body anatomy/muscle simulation overlay
+C01838|unsure||spatial 3D scivis with touch; scope unclear
+C01846|include|I1|multilayer topic networks, layers per stage
+C01876|background|B|design space transitions 3D spatial data
+C01877|exclude|E2|anatomy/object examination design space, not abstract
+C01979|include|I4|embedded pace data visualization in MR
+C01993|include|I4|flame graphs placed in physical environment
+C02151|include|I1|2D vs 2.5D multiplex layer arrangements
+C02211|exclude|E2|BIM building model overlays thesis
+C02367|exclude|E2|material archive narratives, no data vis
+C02416|include|I4|AR overlays on 3D-printed data physicalizations
+C02447|unsure||simulated airflow on physical propeller; scivis scope unclear
+C02543|background|B|design space immersive data storytelling
+C02643|include|I4|SiteLens situated visualization of site data
+C02651|exclude|E4|animation vs small multiples
+C02700|exclude|E2|annotation layout and explosion diagrams
+C02738|exclude|E2|MAV navigation support
+C02749|include|I4|situated solar data on facades (poster)
+C02753|exclude|E2|land navigation
+C02756|unsure||spatial AR for 3D scivis data; scope unclear
+C02804|exclude|E2|anatomy volume blending with real objects
+C02809|include|I4|machine-state data as situated AR glyphs
+C02859|unsure||factory layout in-situ; mostly virtual objects
+C02865|unsure||thermal false-color on object; scivis scope unclear
+C02866|exclude|E2|TMS neuronavigation anatomy overlay
+C02883|include|I4|data overlaid on physical sticky notes
+C02885|include|I4|HMD + wall display collaborative visual analysis
+C02898|exclude|E2|fieldwork navigation with field overlays
+C02899|include|I4|glyph-based vis authoring in mobile AR
+C02911|include|I4|text data visualization anchored on real objects
+C02940|include|I1|interdependent transit/power coupled networks
+C02948|include|I4|agile situated visualization toolkit
+C02951|exclude|E2|sailing assistance, no abstract data vis
+C02954|include|I1|multiple edge types in matrices (multiplex)
+C02973|include|I4|2D charts perception over real backgrounds
+C02974|include|I4|mobile devices + AR visual data analysis
+C02977|unsure||ICU monitoring; unclear if data visualization
+C02985|include|I4|spatially-aware tablets + AR immersive analytics
+C02995|include|I4|situated shot-performance data visualization
+C03015|include|I4|view layout for situated analytics
+C03030|include|I4|situated analytics toolkit
+C03032|include|I4|smartphone + AR visual analytics
+C03051|include|I4|situated vis physical referent memory (VR-simulated)
+C03052|background|B|design space vis view management
+C03094|include|I1|coupled networks visual analytics
+C03098|exclude|E4|graph comics
+C03132|exclude|E2|AR x-ray vs minimap
+C03134|include|I4|collaborative immersive/ubiquitous analytics platform
+C03169|background|B|design space embedded urban data vis
+C03185|background|B|systematic review/codebook multi-view relations MR
+C03203|include|I4|incidental AR visualizations in context
+C03205|include|I4|distance-responsive situated charts
+R2-C02666|include|I4|RealitySketch embedded responsive vis (dup C01102)
+R2-C02698|exclude|E2|obscured information vis, occluded objects
+R2-C02762|background|B|design space tangible cubes (dup C01701)
+R2-C02803|include|I4|abstract-concrete vis transitions immersive
+R2-C03103|include|I4|AR software-evolution city visualization
+R2-C03174|include|I4|Uplift tangible immersive data vis (garbled title)
+R2-C03186|include|I4|physical vis dashboards via handheld projectors
+R2-C03634|exclude|E2|ultrasound imagery within patient
+R2-C03826|exclude|E2|ultrasound-guided biopsy AR
+R2-C03947|unsure||Studierstube collaborative vis; data type unclear
+R2-C04344|exclude|E2|needle biopsy guidance
+R2-C04354|include|I4|collaborative AR dynamical systems visualization
+R2-C04375|include|I4|geodata on physical map, tangible markers
+R2-C04516|exclude|E2|outdoor navigation and info browsing
+R2-C04597|exclude|E2|occluded layers depth rendering
+R2-C04653|unsure||CFD in AR building; scivis scope unclear
+R2-C04667|exclude|E2|tangible clay/sand landscape, no abstract data vis
+R2-C04714|exclude|E2|virtual x-ray vision tools
+R2-C04848|include|I4|in-situ viticulture GIS data
+R2-C04939|include|I4|augmented paper maps, tangible
+R2-C05004|exclude|E2|tangible molecular models
+R2-C05044|exclude|E2|construction simulation objects rendering
+R2-C05061|include|I1|2.5D drawings of time slices
+R2-C05066|include|I4|situated sensor-network data in AR
+R2-C05250|exclude|E4|time-varying graph, not layered slices
+R2-C05365|exclude|E2|focus+context hidden objects
+R2-C05555|unsure||flow vis in AR; no abstract
+R2-C05603|exclude|E2|underground infrastructure
+R2-C05614|exclude|E2|realistic landscape rendering
+R2-C05733|exclude|E2|utility infrastructure redlining
+R2-C05821|exclude|E2|x-ray/F+C of hidden objects
+R2-C05854|exclude|E2|explosion diagrams of physical objects
+R2-C05881|exclude|E2|AR x-ray vision
+R2-C05887|include|I4|situated visualization dissertation (likely superseded)
+R2-C05889|include|I4|outdoor AR sensor data visualization
+R2-C06048|exclude|E2|CT/MRI volume segmentation
+R2-C06071|include|I1|time slices as 2D planes in 3D
+R2-C06127|exclude|E2|depth perception occluded objects
+R2-C06154|exclude|E2|ghosting occlusions
+R2-C06298|exclude|E2|underground infrastructure
+R2-C06313|exclude|E2|off-screen POI arrows
+R2-C06364|include|I4|situated multivariate sensor data in AR
+R2-C06449|background|B|design space situated glyphs
+R2-C06556|exclude|E4|side-by-side stripes (dup C00367)
+R2-C06672|include|I4|situated corrosion sensor data
+R2-C06768|include|I1|layered multilayer biological networks
+R2-C06798|unsure||GIS data AR; possibly infrastructure ghosting
+R2-C06856|exclude|E2|overview of physical site, multiperspective
+R2-C06883|exclude|E2|welding inspection guidance
+R2-C06894|exclude|E2|4D physical scene reconstructions
+R2-C06995|exclude|E2|underground infrastructure
+R2-C07048|exclude|E2|wall see-through for drivers
+R2-C07136|exclude|E2|ghosted views
+R2-C07156|unsure||urban wind/dust simulation scivis; scope unclear
+R2-C07157|exclude|E2|AR x-ray education

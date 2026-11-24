@@ -1,0 +1,29 @@
+﻿bid,bibkey,short,platform,year,doi,arxiv,title,proposed_criterion
+B01,MuxViz,muxViz,Desktop,2014,10.1093/comnet/cnu038,,MuxViz: a tool for multilayer analysis and visualization of networks,I1
+B02,Arena3Dweb,Arena3Dweb,Desktop,2021,10.1093/nar/gkab278,,Arena3Dweb: interactive 3D visualization of multilayered networks,I1
+B03,MultiNets,MultiNets,Desktop,2015,10.1007/978-3-319-23461-8_34,,MultiNets: Web-Based Multilayer Network Visualization,I1
+B04,Py3plex,Py3plex,Desktop,2019,10.1007/s41109-019-0203-7,,Py3plex toolkit for visualization and analysis of multilayer networks,I1
+B05,pymnet,pymnet,Desktop,2024,10.21105/joss.06930,,pymnet: A Python Library for Multilayer Networks,I1
+B06,7465267,MLN edge bundling,Desktop,2016,10.1109/pacificvis.2016.7465267,,Multilayer graph edge bundling,I1
+B07,9382912,VERTIGo,Desktop,2022,10.1109/tvcg.2021.3067820,,VERTIGo: A Visual Platform for Querying and Exploring Large Multilayer Networks,I1
+B08,Graphon,Graphon abstraction,Desktop,2025,10.1109/tvcg.2025.3581034,,Graphon-Based Visual Abstraction for Large Multi-Layer Networks,I1
+B09,NodeTrix,NodeTrix,Desktop,2007,10.1109/tvcg.2007.70582,,NodeTrix: a Hybrid Visualization of Social Networks,I5
+B10,DynTrix,DynTrix,Desktop,2024,10.1111/cgf.15076,,DynTrix: A Hybrid Representation for Dynamic Graphs,I1 (time slices as layers) / I5
+B11,matrix_cube,Matrix Cubes,Desktop,2014,10.1145/2556288.2557010,,Visualizing dynamic networks with matrix cubes,I1 (time slices as layers)
+B12,7390081,Kwon et al. 2016,VR,2016,10.1109/tvcg.2016.2520921,,"A Study of Layout, Rendering, and Interaction Methods for Immersive Graph Visualization",I2
+B13,Pirch2021,VRNetzer,VR,2021,10.1038/s41467-021-22570-w,,The VRNetzer platform enables interactive network analysis in Virtual Reality,I2
+B14,GAV_VR,GAV-VR,VR,2023,10.2312/egve.20231321,,GAV-VR: An Extensible Framework for Graph Analysis and Visualisation in Virtual Reality,I2
+B15,networks_VR,Joos et al. 2022,VR,2022,10.1109/tvcg.2022.3203001,,Visual Comparison of Networks in VR,I2
+B16,10298000,Feyer et al. 2024,VR,2024,10.1109/tvcg.2023.3327402,,"2D, 2.5D, or 3D? An Exploratory Study on Multilayer Network Visualisations in Virtual Reality",I1+I2
+B17,Lee2026voice,Lee et al. 2026 (voice),VR,2026,10.48550/arxiv.2607.26526,2607.26526,A Design Study on Voice-based Interaction for Immersive Network Visualization and Analysis,I2
+B18,8636208,Buschel et al. 2019,AR,2019,10.1109/mcg.2019.2897927,,Augmented Reality Graph Visualizations,I2
+B19,Lee2022,Lee et al. 2022,AR,2022,10.1145/3491102.3501859,,A Design Space For Data Visualisation Transformations Between 2D And 3D In Mixed-Reality Environments,I4
+B23,HoloGraphs,HoloGraphs,Physical,2025,10.5220/0013116000003912,2502.00044,HoloGraphs: An Interactive Physicalization for Dynamic Graphs,I1+I3
+B24,70140,NODKANT,Physical,2025,10.1111/cgf.70140,,NODKANT: Exploring Constructive Network Physicalization,I3
+B25,Belcher2003,Belcher et al. 2003,AR,2003,10.1109/ismar.2003.1240691,,Using Augmented Reality for Visualizing Complex Graphs in Three Dimensions,I2
+B26,James2020personal,James et al. 2020,AR,2020,10.20380/gi2020.27,,Personal+Context navigation: combining AR and shared displays in network path-following,I2
+B27,Li2022painters,Li and Wang 2022,AR,2022,10.3390/electronics11152367,,An Interactive Augmented Reality Graph Visualization for Chinese Painters,I2
+B28,Schwajda2023,Schwajda et al. 2023,AR,2023,10.3389/frvir.2023.1155628,,Transforming graph data visualisations from 2D displays into augmented reality 3D space: A quantitative study,I2
+B29,Takahira2025tangiblenet,TangibleNet 2025,AR,2025,10.1145/3706598.3714265,,TangibleNet: Synchronous Network Data Storytelling through Tangible Interactions in Augmented Reality,I2
+B30,Feyer2026layers,Feyer et al. 2026,VR,2026,10.2312/vmv20261000,,2D versus 2.5D Layer Arrangement for Animal Behaviour Multiplex Networks,I1
+B31,Liu2026semantic,Semantic Reality 2026,AR,2026,10.48550/arxiv.2604.05265,2604.05265,Semantic Reality: Interactive Context-Aware Visualization of Inter-Object Relationships in Augmented Reality,I2

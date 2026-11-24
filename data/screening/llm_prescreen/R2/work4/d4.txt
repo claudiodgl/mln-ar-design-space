@@ -1,0 +1,135 @@
+410|E3|
+411|E3|
+412|E2|
+413|E2|
+414|E3|
+415|E1|
+416|E1|
+417|E2|
+418|E3|
+419|E1|
+420|E3|
+421|I4|AR 3D topographic map anchored on paper map
+422|E2|
+423|E2|
+424|I2|concept network exploration in virtual reality
+425|E3|
+426|U|mixed reality big data platform (no abstract); check content
+427|E1|
+428|E3|
+429|E3|
+430|E2|
+431|E2|
+432|E2|
+433|E2|
+434|B|physicalization design insights from architectural models
+435|E7|
+436|E3|
+437|E7|
+438|E1|
+439|E2|
+440|E3|
+441|E3|
+442|E1|
+443|E3|
+444|E3|
+445|E3|
+446|E1|
+447|E2|
+448|E1|
+449|E3|
+450|E1|
+451|E1|
+452|E1|
+453|E1|
+454|E3|
+455|E2|
+456|E2|
+457|I4|design space of tangible devices for immersive vis
+458|E1|
+459|E5|
+460|E1|
+461|E1|
+462|E1|
+463|E4|
+464|I4|designing embedded visualizations for AR (no abstract)
+465|E1|
+466|E1|
+467|E4|
+468|E4|
+469|E4|
+470|E3|
+471|E2|
+472|E1|
+473|E2|
+474|E3|
+475|E3|
+476|U|juxtaposed matrix+node-link views; possible I5 building block
+477|U|AR X-ray for underground; check if data vis (I4)
+478|E2|
+479|E3|
+480|E3|
+481|E7|
+482|E3|
+483|E3|
+484|E2|
+485|E1|
+486|E1|
+487|E2|
+488|E3|
+489|E2|
+490|E1|
+491|E2|
+492|E3|
+493|E3|
+494|E2|
+495|E3|
+496|I4|off-screen POI visualization in mobile AR
+497|E1|
+498|E3|
+499|E1|
+500|E1|
+501|E1|
+502|E5|
+503|U|immersive geology field vis (no abstract); possibly in-situ AR
+504|E2|
+505|E2|
+506|U|immersive urban exploded views (no abstract); AR/layers?
+507|E2|
+508|E2|
+509|E2|
+510|E1|
+511|E3|
+512|E2|
+513|E3|
+514|U|decomposes networks into facets; possible multilayer vis
+515|E4|
+516|U|mixed reality data exploration (no abstract); check AR
+517|E3|
+518|E2|
+519|E1|
+520|E2|
+521|E3|
+522|E3|
+523|U|spatially situated visual programming of IoT; check AR (I4)
+524|E1|
+525|E4|
+526|I1|layer hierarchization in multiplex networks for vis
+527|E2|
+528|E3|
+529|E2|
+530|E3|
+531|E3|
+532|E2|
+533|E1|
+534|E1|
+535|E3|
+536|E2|
+537|E3|
+538|E1|
+539|E1|
+540|U|multi-layer knowledge visualization (no abstract); layer meaning unclear
+541|E4|
+542|E4|
+543|E3|
+544|E1|

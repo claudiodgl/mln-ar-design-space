@@ -1,0 +1,1090 @@
+[R2-C04807] Visualizing Large Graphs with Compound-Fisheye Views and Treemaps | Lecture notes in computer science | 2004
+   (no abstract)
+[R2-C04810] WebInterViewer: visualizing and analyzing molecular interaction networks | Nucleic Acids Research | 2004
+   Molecular interaction networks, such as those involving protein-protein and protein-DNA interactions, often consist of thousands of nodes or even more, which severely limits the usefulness of many graph drawing tools because they become too slow for interactiv
+[R2-C04811] WilmaScope — A 3D Graph Visualization System | Mathematics and visualization | 2004
+   (no abstract)
+[R2-C04819] 3-dimensional display for clustered multi-relational parallel coordinates | International Conference on Information Visualisation (IV) | 2005
+   Analysing multivariate data is a difficult task. Extensive interaction with the data is often necessary and, hence, the analysis can be quite time consuming. In this paper, we introduce a method to allow the user to simultaneously examine the relationships of 
+[R2-C04820] 3D visualization techniques to support slicing-based program comprehension | Computers & Graphics | 2005
+   (no abstract)
+[R2-C04823] A Compound Graph Layout Algorithm for Biological Pathways | Lecture notes in computer science | 2005
+   (no abstract)
+[R2-C04827] A note on 3D orthogonal graph drawing | Discrete Appl. Math. | 2005
+   (no abstract)
+[R2-C04829] A Real-Time 3D Visualisation of an Underwater Acoustic Simulator |  | 2005
+   (no abstract)
+[R2-C04831] A Unified Approach to Survivability of Connection-Oriented Networks | Lecture notes in computer science | 2005
+   (no abstract)
+[R2-C04833] A User-centered Look at Glyph-based Security Visualization | IEEE Workshop on Visualization for Computer Security, 2005.  | 2005
+   This paper presents the intrusion detection toolkit (IDtk), an information visualization tool for intrusion detection (ID). IDtk was developed through a user-centered design process, in which we identified design guidelines to support ID users. ID analysts pro
+[R2-C04836] AMMP-Vis: a collaborative virtual environment for molecular modeling | ACM Symposium on Virtual Reality Software and Technology (VR | 2005
+   Molecular modeling is an important research area, helping scientists develop new drugs against diseases such as AIDS and cancer. Prior studies have demonstrated that immersive virtual environments have unique advantages over desktop systems in visualizing mole
+[R2-C04837] An Augmented Reality System for Multi-UAV Missions |  | 2005
+   (no abstract)
+[R2-C04838] An Experimental Comparison of Fast Algorithms for Drawing General Large Graphs | Proceedings of the 13th International Conference on Graph Dr | 2005
+   (no abstract)
+[R2-C04839] An immersive virtual environment for DT-MRI volume visualization applications: a case study | Visualization | 2005
+   We describe a virtual reality environment for visualizing tensor-valued volumetric datasets acquired with diffusion tensor magnetic resonance imaging (DT-MRI). We have prototyped a virtual environment that displays geometric representations of the volumetric s
+[R2-C04846] Arctress: Visualizing relation in hierarchical data | Proc of Eurographics - IEEE VGTC Symp on Visualization | 2005
+   (no abstract)
+[R2-C04848] ARVino - outdoor augmented reality visualisation of viticulture GIS data | Proceedings - International Symposium on Mixed and Augmented | 2005
+   This work describes the combination of two technologies, augmented reality and GIS, to provide a new way to visualise viticulture GIS data using outdoor mobile computers. Viticulturists use GIS to assist with accurately understanding the parameters that affect
+[R2-C04850] Automatic Camera Path Generation for Graph Navigation in 3D | APVIS | 2005
+   This paper addresses the Focus+Context issues involved in navigating very large graphs in 3D Euclidean space. The main aim of the approach presented in this material is to preserve and perhaps enhance the user mental map during the transition phase from one fo
+[R2-C04855] BioGRID: a general repository for interaction datasets | Nucleic Acids Research | 2005
+   Access to unified datasets of protein and genetic interactions is critical for interrogation of gene/protein function and analysis of global network properties. BioGRID is a freely accessible database of physical and genetic interactions available at http://ww
+[R2-C04858] Collaborative Mixed Reality Visualization of an Archaeological Excavation | Proceedings - International Symposium on Mixed and Augmented | 2005
+   We present VITA (visual interaction tool for archaeology), an experimental collaborative mixed reality system for offsite visualization of an archaeological dig. Our system allows multiple users to visualize the dig site in a mixed reality environment in which
+[R2-C04859] Community Mining from Multi-relational Networks | Lecture notes in computer science | 2005
+   (no abstract)
+[R2-C04862] Computing straight-line 3D grid drawings of graphs in linear volume | Computational Geometry | 2005
+   (no abstract)
+[R2-C04867] Cross-Dimensional Gestural Interaction Techniques for Hybrid Imrnersive Environments | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2005
+   We present a set of cross-dimensional interaction techniques for a hybrid user interface that integrates existing 2D and 3D visualization and interaction devices. Our approach is built around one-and two-handed gestures that support the seamless transition of 
+[R2-C04871] DIG-COLA: Directed Graph Layout through Constrained Energy Minimization | IEEE Symposium on Information Visualization | 2005
+   We describe a new method for visualization of directed graphs. The method combines constraint programming techniques with a high performance force-directed placement (FDP) algorithm so that the directed nature of the graph is highlighted while useful propertie
+[R2-C04872] Drawing the AS Graph in 2.5 Dimensions | Lecture notes in computer science | 2005
+   (no abstract)
+[R2-C04874] Dynamic Drawing of Clustered Graphs | IEEE Symposium on Information Visualization | 2005
+   This paper presents an algorithm for drawing a sequence of graphs that contain an inherent grouping of their vertex set into clusters. It differs from previous work on dynamic graph drawing in the emphasis that is put on maintaining the clustered structure of 
+[R2-C04878] Efficient, High-Quality Force-Directed Graph Drawing | The Mathematica Journal | 2005
+   (no abstract)
+[R2-C04880] Elastic hierarchies: combining treemaps and node-link diagrams | IEEE Symposium on Information Visualization | 2005
+   We investigate the use of elastic hierarchies for representing trees, where a single graphical depiction uses a hybrid mixture, or "interleaving", of more basic forms at different nodes of the tree. In particular, we explore combinations of node-link and Treem
+[R2-C04887] Evaluation of mixed-space collaboration | Proceedings - International Symposium on Mixed and Augmented | 2005
+   Recently augmented reality (AR) technology has been used to develop the next generation collaborative interfaces. First results have shown the value of using AR for co-located tasks based on egocentric viewpoints. In contrast, virtual reality (VR) seems to off
+[R2-C04889] Experimental evaluation of an augmented reality visualization for directing a car driver's attention | Proceedings - International Symposium on Mixed and Augmented | 2005
+   With recent advances of head-up display technology in cars, augmented reality becomes interesting in supporting the driving task to guide a driver's attention. We have set up an experiment to compare two different approaches to inform the driver about dangerou
+[R2-C04893] Exploring Relations within Software Systems Using Treemap Enhanced Hierarchical Graphs | Visualizing Software for Understanding and Analysis | 2005
+   The clear and meaningful visualization of relations between software entities is an invaluable tool for the comprehension, evaluation, and reengineering of the structure of existing software systems. This paper presents an interaction and representation scheme
+[R2-C04894] Exploring so-ciocentric and egocentric approaches for social network analysis | Proceedings of the 2nd international conference on knowledge | 2005
+   (no abstract)
+[R2-C04901] Flow map layout | IEEE Symposium on Information Visualization | 2005
+   Cartographers have long used flow maps to show the movement of objects from one location to another, such as the number of people in a migration, the amount of goods being traded, or the number of packets in a network. The advantage of flow maps is that they r
+[R2-C04903] fMRI resting state networks define distinct modes of long-distance interactions in the human brain | NeuroImage | 2005
+   (no abstract)
+[R2-C04904] From diffusion MRI to brain connectomics | reroDoc Digital Library | 2005
+   The success of diffusion MRI is deeply rooted in the fact that during their micrometric random displacements water molecules explore tissue microstructure. Hence by labeling magnetically spins of displaced water, diffusion MRI provides us with exquisite inform
+[R2-C04911] Geometric containers for efficient shortest-path computation | ACM Journal of Experimental Algorithmics | 2005
+   A fundamental approach in finding efficiently best routes or optimal itineraries in traffic information systems is to reduce the search space (part of graph visited) of the most commonly used shortest path routine (Dijkstra's algorithm) on a suitably defined g
+[R2-C04918] How people read graphs | UTAS Research Repository | 2005
+   The graph layout problem has long been a major concern for effectiveness of conveying information. To propose user-centred aesthetic criteria for a good layout, it is important to have knowledge on how people read graphs; how a particular graph layout characte
+[R2-C04919] How People Read Graphs | APVIS | 2005
+   (no abstract)
+[R2-C04920] IEEE Symposium on Information Visualization |  | 2005
+   (no abstract)
+[R2-C04923] Illustration-inspired techniques for visualizing time-varying data | VIS 05. IEEE Visualization, 2005. | 2005
+   (no abstract)
+[R2-C04925] Improving web search results using affinity graph | International ACM SIGIR Conference on Research and Developme | 2005
+   In this paper, we propose a novel ranking scheme named Affinity Ranking (AR) to re-rank search results by optimizing two metrics: (1) diversity -- which indicates the variance of topics in a group of documents; (2) information richness -- which measures the co
+[R2-C04930] Innovations in Systems and Software Engineering Manuscript No. Software Visualization |  | 2005
+   (no abstract)
+[R2-C04938] Learning through computer-generated visualization | COMG | 2005
+   (no abstract)
+[R2-C04939] Localisation and interaction for augmented maps | Proceedings - International Symposium on Mixed and Augmented | 2005
+   Paper-based cartographic maps provide highly detailed information visualisation with unrivalled fidelity and information density. Moreover, the physical properties of paper afford simple interactions for browsing a map or focusing on individual details, managi
+[R2-C04943] MAVisto: a tool for the exploration of network motifs | Computer applications in the biosciences | 2005
+   UNLABELLED: MAVisto is a tool for the exploration of motifs in biological networks. It provides a flexible motif search algorithm and different views for the analysis and visualization of network motifs. These views help to explore interesting motifs: the freq
+[R2-C04946] Medusa: a simple tool for interaction graph analysis | Bioinformatics | 2005
+   Summary: Medusa is a Java application for visualizing and manipulating graphs of interaction, such as data from the STRING database. It features an intuitive user interface developed with the help of biologists. Medusa is optimized for accessing protein intera
+[R2-C04949] metaSHARK: software for automated metabolic network prediction from DNA sequence and its application to the genomes of Plasmodium falciparum and Eimeria tenella | Nucleic acids research | 2005
+   The metabolic SearcH And Reconstruction Kit (metaSHARK) is a new fully automated software package for the detection of enzyme-encoding genes within unannotated genome data and their visualization in the context of the surrounding metabolic network. The gene de
+[R2-C04956] network: Classes for Relational Data |  | 2005
+   (no abstract)
+[R2-C04957] Non-Euclidean Spring Embedders | IEEE Transactions on Visualization and Computer Graphics | 2005
+   We present a conceptually simple approach to generalizing force-directed methods for graph layout from Euclidean geometry to Riemannian geometries. Unlike previous work on non-Euclidean force-directed methods, ours is not limited to special classes of graphs, 
+[R2-C04960] OSGAR: A Scene Graph with Uncertain Transformations | Proceedings - International Symposium on Mixed and Augmented | 2005
+   An important problem for augmented reality is registration error. No system can be perfectly tracked, calibrated or modeled. As a result, the overlaid graphics are not aligned perfectly with objects in the physical world. This can be distracting, annoying or c
+[R2-C04961] Outdoor See-Through Vision Utilizing Surveillance Cameras | Proceedings - International Symposium on Mixed and Augmented | 2005
+   This paper presents a new outdoor mixed-reality system designed for people who carry a camera-attached small handy device in an outdoor scene where a number of surveillance cameras are embedded. We propose a new functionality in outdoor mixed reality that the 
+[R2-C04962] Overview of Visualization | Elsevier eBooks | 2005
+   (no abstract)
+[R2-C04972] Proceedings of the IEEE Symposium on Information Visualization (InfoVis) |  | 2005
+   (no abstract)
+[R2-C04974] Progress in scientific visualization | The Visual Computer | 2005
+   (no abstract)
+[R2-C04977] Real-Time Video Annotations for Augmented Reality | Advances in Visual Computing | 2005
+   (no abstract)
+[R2-C04987] Simultaneous Embedding of Planar Graphs with Few Bends | Lecture notes in computer science | 2005
+   (no abstract)
+[R2-C04989] Social Networks 25.1 Social Network Analysis 25.2 Visualization Principles |  | 2005
+   (no abstract)
+[R2-C04993] Software visualization | ACM/IEEE International Conference on Software Engineering: C | 2005
+   (no abstract)
+[R2-C04994] Software visualization | Innovations in Systems and Software Engineering | 2005
+   (no abstract)
+[R2-C05002] Supporting Visual Queries on Medium-Sized Node–Link Diagrams | Inf. Visual. | 2005
+   For reasons of clarity, a typical node–link diagram statically displayed on paper or a computer screen contains fewer than 30 nodes. However, many problems would benefit if far more complex information could be diagrammed. Following Munzner et al., we suggest 
+[R2-C05004] Tangible Interfaces for Structural Molecular Biology | Structure | 2005
+   (no abstract)
+[R2-C05005] Tangible tabletop interface for an expert to collaborate with remote field workers | Proceedings CollabTech | 2005
+   (no abstract)
+[R2-C05006] Tangible user interfaces for 3D clipping plane interaction with volumetric data: a case study | INTERNATIONAL CONFERENCE ON MULTIMODAL INTERACTION | 2005
+   Visualization via direct volume rendering is a potentially very powerful technique for exploring and interacting with large amounts of scientific data. However, the available two-dimensional (2D) interfaces make three-dimensional (3D) manipulation with such da
+[R2-C05009] The Art and Science of Dynamic Network Visualization. | Journal of Social Structure. | 2005
+   If graph drawing is to become a methodological tool instead of an illustrative art, many concerns need to be overcome. We discuss the problems of social network visualization, and particularly, problems of dynamic network visualization. We consider issues that
+[R2-C05011] The centrality of pivotal points in the evolution of scientific networks | ACM International Conference on Intelligent User Interfaces  | 2005
+   In this paper, we describe the development of CiteSpace as an integrated environment for identifying and tracking thematic trends in scientific literature. The goal is to simplify the process of finding not only highly cited clusters of scientific articles, bu
+[R2-C05013] The global transcriptional regulatory network for metabolism in Escherichia coli exhibits few dominant functional states | Proceedings of the National Academy of Sciences | 2005
+   A principal aim of systems biology is to develop in silico models of whole cells or cellular processes that explain and predict observable cellular phenotypes. Here, we use a model of a genome-scale reconstruction of the integrated metabolic and transcriptiona
+[R2-C05017] The InfoVis Toolkit | IEEE Symposium on Information Visualization | 2005
+   This article presents the InfoVis toolkit, designed to support the creation, extension and integration of advanced 2D information visualization components into interactive Java swing applications. The InfoVis toolkit provides specific data structures to achiev
+[R2-C05018] The Notion of ‘Group’ and Tests of Group Selection | Philosophy of Science | 2005
+   This paper examines the empirical aspect of the debates over group selection. I argue that specific narrow readings of the notion of ‘group’ result in a deficient experimentation of the group selection process. Criteria for empirical testability are presented 
+[R2-C05028] Understanding Statistics in the Behavioral Sciences | Psychology Press eBooks | 2005
+   Understanding Statistics in the Behavioral Sciences is designed to help readers understand research reports, analyze data, and familiarize themselves with the conceptual underpinnings of statistical analyses used in behavioral science literature. The authors r
+[R2-C05032] Using 3D visualization to enhance understanding of computer network state | ACM SIGGRAPH Conference (SIGGRAPH) | 2005
+   Computers networks have introduced incredibly large data sets that need to be understood by human analysts. Traditional methods of presenting these large data sets to humans are typically cumbersome and ineffective. This paper introduces an architecture that t
+[R2-C05039] Visual Correlation of Host Processes and Network Traffic | IEEE Workshop on Visualization for Computer Security, 2005.  | 2005
+   Anomalous communication patterns are one of the leading indicators of computer system intrusions according to the system administrators we have interviewed. But a major problem is being able to correlate across the host/network boundary to see how network conn
+[R2-C05042] Visualisation and Analysis of Large and Complex Scale-free Networks | Eurographics | 2005
+   Scale-free networks appear in many application domains such as social and biological networks [BA99, BB03, BO04]. Roughly speaking, scale-free networks have power-law degree distribution, ultra-short average path length and high clustering coefficient [BA99, B
+[R2-C05044] Visualization of Construction Graphics in Outdoor Augmented Reality | Winter Simulation Conference | 2005
+   This paper describes research that investigates the application of augmented reality (AR) in 3D animation of simulated construction operations. The objective is an AR-based platform that can be used together with corresponding equipment (HMD, GPS receiver, and
+[R2-C05045] Visualization of Graphs and Trees for Software Analysis |  | 2005
+   (no abstract)
+[R2-C05046] Visualization techniques for intrusion behavior identification | IEEE Systems, Man and Cybernetics Information Assurance Work | 2005
+   Current intrusion detection techniques are plagued with false positives and false negatives. Ensuring that intrusions are not missed requires that administrators filter through enormous numbers of false positives. In this work, we are attempting to improve the
+[R2-C05049] Visualizing object oriented software using virtual worlds | International Conference on Software Engineering | 2005
+   (no abstract)
+[R2-C05050] Vizster: visualizing online social networks | IEEE Symposium on Information Visualization | 2005
+   Recent years have witnessed the dramatic popularity of online social networking services, in which millions of members publicly articulate mutual "friendship" relations. Guided by ethnographic research of these online communities, we have designed and implemen
+[R2-C05057] A comparison of immersive HMD, fish tank VR and fish tank with haptics displays for volume visualization | Symposium on Applied Perception in Graphics and Visualizatio | 2006
+   Although a wide range of virtual reality (VR) systems are in use, there are few guidelines to help system and application developers select the components most appropriate for the domain problem they are investigating. Using the results of an empirical study, 
+[R2-C05058] A Data Visualization Virtual Environment Supported by Augmented Reality | Conference proceedings/Conference proceedings - IEEE Interna | 2006
+   The increasing dissemination of information demands new techniques to represent and visualize data, so that the user can understand information sets to support decision-making in a fast and adequate way. This paper presents the DATAVIS-AR, a virtual environmen
+[R2-C05061] A Hybrid Model for Drawing Dynamic and Evolving Graphs | Lecture notes in computer science | 2006
+   Dynamic processes frequently occur in many applications. Visualizations of dynamically evolving data, for example as part of the data analysis, are typically restricted to a cumulative static view or an animation/sequential view. Both methods have their benefi
+[R2-C05065] A New Force-Directed Graph Drawing Method Based on Edge-Edge Repulsion | International Conference on Information Visualisation (IV) | 2006
+   The conventional force-directed methods for drawing undirected graphs are based on either vertex-vertex repulsion or vertex-edge repulsion. In this paper, we propose a new force-directed method based on edge-edge repulsion to draw graphs. In our framework, edg
+[R2-C05066] A novel interface to sensor networks using handheld augmented reality | International Conference on Human-Computer Interaction with  | 2006
+   Augmented Reality technology enables a mobile phone to be used as an x-ray tool, visualizing structures and states not visible to the naked eye. In this paper we evaluate a set of techniques used augmenting the world with a visualization of data from a sensor 
+[R2-C05076] Animated Visualization of Software History using Evolution Storyboards | Working Conference on Reverse Engineering (WCRE) | 2006
+   The understanding of the structure of a software system can be improved by analyzing the system's evolution during development. Visualizations of software history that provide only static views do not capture the dynamic nature of software evolution. We presen
+[R2-C05080] ASK-GraphView: A Large Scale Graph Visualization System | IEEE Transactions on Visualization and Computer Graphics | 2006
+   We describe ASK-GraphView, a node-link-based graph visualization system that allows clustering and interactive navigation of large graphs, ranging in size up to 16 million edges. The system uses a scalable architecture and a series of increasingly sophisticate
+[R2-C05083] Balancing Systematic and Flexible Exploration of Social Networks | IEEE Transactions on Visualization and Computer Graphics | 2006
+   Social network analysis (SNA) has emerged as a powerful method for understanding the importance of relationships in networks. However, interactive exploration of networks is currently challenging because: (1) it is difficult to find patterns and comprehend the
+[R2-C05084] Blograngera multi-faceted blog search engine | Proc WWW Weblogging Ecosystem | 2006
+   (no abstract)
+[R2-C05088] CAVE and fishtank virtual-reality displays: a qualitative and quantitative comparison | IEEE Transactions on Visualization and Computer Graphics | 2006
+   We present the results from a qualitative and quantitative user study comparing fishtank virtual-reality (VR) and CAVE displays. The results of the qualitative study show that users preferred the fishtank VR display to the CAVE system for our scientific visual
+[R2-C05091] Complex networks: Structure and dynamics | PHYS REP | 2006
+   (no abstract)
+[R2-C05097] Drawing Clustered Graphs in Three Dimensions | Lecture notes in computer science | 2006
+   (no abstract)
+[R2-C05101] Effective control of a car driver's attention for visual and acoustic guidance towards the direction of imminent dangers | Proceedings - International Symposium on Mixed and Augmented | 2006
+   In cars, augmented reality is becoming an interesting means to enhance active safety in the driving task. Guiding a driver's attention to an imminent danger somewhere around the car is a potential application. In a research project with the automotive industry
+[R2-C05103] Energy-Based Clustering of Graphs with Nonuniform Degrees | Lecture notes in computer science | 2006
+   (no abstract)
+[R2-C05115] Fisheye Tree Views and Lenses for Graph Visualization | International Conference on Information Visualisation (IV) | 2006
+   We present interactive visual aids to support the exploration and navigation of graph layouts. They include fisheye tree views and composite lenses. These views provide, in an integrated manner, overview+detail and focus+context. Fisheye tree views are novel a
+[R2-C05119] Graph-based analysis and visualization of experimental results with ONDEX | Bioinformatics | 2006
+   MOTIVATION: Assembling the relevant information needed to interpret the output from high-throughput, genome scale, experiments such as gene expression microarrays is challenging. Analysis reveals genes that show statistically significant changes in expression 
+[R2-C05121] GUESS: a language and interface for graph exploration | CHI Conference on Human Factors in Computing Systems | 2006
+   As graph models are applied to more widely varying fields, researchers struggle with tools for exploring and analyzing these structures. We describe GUESS, a novel system for graph exploration that combines an interpreted language with a graphical front end th
+[R2-C05123] Hierarchical Layouts of Directed Graphs in Three Dimensions | Lecture notes in computer science | 2006
+   (no abstract)
+[R2-C05126] How Important Is the “Mental Map”? – An Empirical Investigation of a Dynamic Graph Layout Algorithm | Springer eBooks | 2006
+   (no abstract)
+[R2-C05132] Implementation of god-like interaction techniques for supporting collaboration between outdoor AR and indoor tabletop users | Proceedings - International Symposium on Mixed and Augmented | 2006
+   This paper presents a new interaction metaphor we have termed "god-like interaction". This is a metaphor for improved communication of situational and navigational information between outdoor users, equipped with mobile augmented reality systems, and indoor us
+[R2-C05133] Information Visualization: Design for Interaction |  | 2006
+   (no abstract)
+[R2-C05136] Integrative analysis of metabolic networks: from peaks to flux models? | Current Opinion in Plant Biology | 2006
+   (no abstract)
+[R2-C05143] Interactively combining 2D and 3D visualization for network traffic monitoring | Visualization for Computer Security | 2006
+   With the multiplication of attacks against computer networks, system administrators need to monitor carefully the networks they manage. However, that monitoring task is made harder because of the increasing amount of data to process. Conventional automated too
+[R2-C05145] IPSep-CoLa: An Incremental Procedure for Separation Constraint Layout of Graphs | IEEE Trans Vis Comput Graph | 2006
+   We extend the popular force-directed approach to network (or graph) layout to allow separation constraints, which enforce a minimum horizontal or vertical separation between selected pairs of nodes. This simple class of linear constraints is expressive enough 
+[R2-C05152] “Making it real”: exploring the potential of augmented reality for teaching primary school science | Virtual Reality | 2006
+   (no abstract)
+[R2-C05154] Matrices or Node-Link Diagrams: Which Visual Representation is Better for Visualising Connectivity Models? | Information Visualization | 2006
+   Adjacency matrices or DSMs (design structure matrices) and node-link diagrams are both visual representations of graphs, which are a common form of data in many disciplines. DSMs are used throughout the engineering community for various applications, such as p
+[R2-C05155] MatrixExplorer: a Dual-Representation System to Explore Social Networks | IEEE TVCG | 2006
+   MatrixExplorer is a network visualization system that uses two representations: node-link diagrams and matrices. Its design comes from a list of requirements formalized after several interviews and a participatory design session conducted with social science r
+[R2-C05157] Mental map preserving graph drawing using simulated annealing | Proc Asia-Pacific Symp Information Visualisation | 2006
+   Information visualization has attracted much attention in recent years in many fields of science and engineering. In many applications, graphs are ‘dynamic ’ in the sense that changes are constantly applied to a graph to reflect the evolution of the system beh
+[R2-C05159] Mining and Visualizing the Evolution of Subgroups in Social Networks | IEEE/WIC/ACM International Conference on Web Intelligence | 2006
+   A social network consists of people who interact in some way such as members of online communities sharing information via the WWW. To learn more about how to facilitate community building e.g. in organizations, it is important to analyze the interaction behav
+[R2-C05162] Modeling cellular machinery through biological network comparison | Nature Biotechnology | 2006
+   (no abstract)
+[R2-C05165] Modern approaches to augmented reality: introduction to current approaches | SIGGRAPH Courses | 2006
+   (no abstract)
+[R2-C05168] Morphing Planar Graphs While Preserving Edge Directions | Lecture notes in computer science | 2006
+   (no abstract)
+[R2-C05170] Multidimensional information visualization using augmented reality | ACM SIGGRAPH International Conference on Virtual-Reality Con | 2006
+   This paper presents a prototype for information visualization in an Augmented Reality environment. The prototype allows users to perform common tasks in desktop information visualization tools, such as data dynamic filters, attribute selection, semantic zoom a
+[R2-C05171] MultiPlane: A New Framework for Drawing Graphs in Three Dimensions | Lecture notes in computer science | 2006
+   (no abstract)
+[R2-C05173] NetLens: Iterative Exploration of Content-Actor Network Data | Information Visualization | 2006
+   Networks have remained a challenge for information retrieval and visualization because of the rich set of tasks that users want to accomplish. This paper offers an abstract content-actor network data model, a classification of tasks, and a tool to support them
+[R2-C05175] Network Visualization by Semantic Substrates | IEEE Transactions on Visualization and Computer Graphics | 2006
+   Networks have remained a challenge for information visualization designers because of the complex issues of node and link layout coupled with the rich set of tasks that users present. This paper offers a strategy based on two principles: (1) layouts are based 
+[R2-C05176] Non-rigid alignment of pre-operative MRI, fMRI, and DT-MRI with intra-operative MRI for enhanced visualization and navigation in image-guided neurosurgery | NeuroImage | 2006
+   (no abstract)
+[R2-C05178] Organizational Invention and Elite Transformation: The Birth of Partnership Systems in Renaissance Florence | Am. J. Sociol. | 2006
+   The birth of a new form of business organization, the partnership system, in Renaissance Florence is examined closely in order to discover the social processes of invention in that extraordinarily inventive place. Stated generally, the processes of invention t
+[R2-C05181] Patterns of Influence in a Recommendation Network | Lecture notes in computer science | 2006
+   (no abstract)
+[R2-C05184] Preserving the mental map in interactive graph interfaces | International Conference on Advanced Visual Interfaces (AVI) | 2006
+   Graphs provide good representations for many domains. Interactive graph-based interfaces are desireable to browse and edit data for these domains. However, as graphs increase in size, interactive interfaces risk information overload and low responsiveness. Foc
+[R2-C05188] Proceedings of AVI workshop BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV) |  | 2006
+   (no abstract)
+[R2-C05189] Proceedings of Graph Drawing |  | 2006
+   (no abstract)
+[R2-C05190] Proceedings of the 2006 Asia-Pacific Symposium on Information Visualisation - |  | 2006
+   (no abstract)
+[R2-C05196] Real-time collaborative network monitoring and control using 3D game engines for representation and interaction | Visualization for Computer Security | 2006
+   Identifying and reacting to malicious or anomalous IP traffic is a significant challenge for network operators. Automated real-time responses have been simplistic and require followup actions by technically specialised employees. We describe a system where off
+[R2-C05204] Semantic Analytics Visualization | Intelligence and Security Informatics | 2006
+   (no abstract)
+[R2-C05217] Task Taxonomy for Graph Visualization Categories and Subject Descriptors | Proceedings of the AVI Workshop Beyond Time and Errors: Nove | 2006
+   (no abstract)
+[R2-C05223] The igraph software package for complex network research | InterJournal Complex Syst. | 2006
+   (no abstract)
+[R2-C05224] The impact of immersive virtual reality displays on the understanding of data visualization | ACM Symposium on Virtual Reality Software and Technology (VR | 2006
+   This paper presents evidence that situational awareness in a visualization of data benefits from immersive, virtual reality display technology because such displays appear to support better understanding of the visual information. Our study was designed to de-
+[R2-C05229] The Work to Make a Home Network Work | Springer eBooks | 2006
+   (no abstract)
+[R2-C05230] Time efficiency of CT colonography: 2D vs 3D visualization | Computerized Medical Imaging and Graphics | 2006
+   (no abstract)
+[R2-C05235] TreePlus: Interactive Exploration of Networks with Enhanced Tree Layouts | IEEE Transactions on Visualization and Computer Graphics | 2006
+   Despite extensive research, it is still difficult to produce effective interactive layouts for large graphs. Dense layout and occlusion make food webs, ontologies, and social networks difficult to understand and interact with. We propose a new interactive Visu
+[R2-C05236] Trees in a treemap: visualizing multiple hierarchies | Proceedings of SPIE, the International Society for Optical E | 2006
+   This paper deals with the visual representation of a particular kind of structured data: trees where each node is associated with an object (leaf node) of a taxonomy. We introduce a new visualization technique that we call Trees In A Treemap. In this visualiza
+[R2-C05238] Understanding Software Architectures by Visualization--An Experiment with Graphical Elements | Working Conference on Reverse Engineering | 2006
+   (no abstract)
+[R2-C05239] Upward Three-Dimensional Grid Drawings of Graphs | Order | 2006
+   (no abstract)
+[R2-C05241] Using Augmented Reality for Multidimensional Data Visualization | International Conference on Information Visualisation (IV) | 2006
+   This paper presents a prototype for information visualization in an Augmented Reality environment. The prototype allows users to perform common tasks in desktop information visualization tools, such as data dynamic filters, attribute selection, semantic zoom a
+[R2-C05244] VANTED: A system for advanced data analysis and visualization in the context of biological networks | BMC Bioinformatics | 2006
+   BACKGROUND: Recent advances with high-throughput methods in life-science research have increased the need for automatized data analysis and visual exploration techniques. Sophisticated bioinformatics tools are essential to deduct biologically meaningful interp
+[R2-C05248] Visual Analysis of Multivariate State Transition Graphs | IEEE Transactions on Visualization and Computer Graphics | 2006
+   We present a new approach for the visual analysis of state transition graphs. We deal with multivariate graphs where a number of attributes are associated with every node. Our method provides an interactive attribute-based clustering facility. Clustering resul
+[R2-C05249] Visual analysis of network centralities |  | 2006
+   Centrality analysis determines the importance of vertices in a network based on their connectivity within the network structure. It is a widely used technique to analyse network-structured data. A particularly important task is the comparison of different cent
+[R2-C05250] Visual exploration of complex time-varying graphs | IEEE Transactions on Visualization and Computer Graphics | 2006
+   Many graph drawing and visualization algorithms, such as force-directed layout and line-dot rendering, work very well on relatively small and sparse graphs. However, they often produce extremely tangled results and exhibit impractical running times for highly 
+[R2-C05253] Visualisation and Analysis of Network Motifs | International Conference on Information Visualisation (IV) | 2006
+   Many of the complex networks that occur both in nature and in technology are built up from frequently recurring patterns of basic structural elements. These structural patterns known as motifs play a significant role in the function of the network. Visualisati
+[R2-C05254] Visualization-based information retrieval on the Web | Library Inf Sci Res | 2006
+   (no abstract)
+[R2-C05256] Visualization Support for Fusing Relational, Spatio-Temporal Data: Building Career Histories | International Conference on Information Fusion (FUSION) | 2006
+   Many real-world domains resist analysis because they are best characterized by a variety of data types, including relational, spatial, and temporal components. Examples of such domains include disease outbreaks, criminal networks, and the World-Wide Web. We pr
+[R2-C05261] VRMiner: A Tool for Multimedia Database Mining With Virtual Reality | IGI Global eBooks | 2006
+   We present in this chapter a new 3D interactive method for visualizing multimedia data with virtual reality named VRMiner. We consider that an expert in a specific domain has collected a set of examples described with numeric and symbolic attributes but also w
+[R2-C05270] 20 Years of Four HCI Conferences: A Visual Exploration | International Journal of Human-Computer Interaction | 2007
+   We present a visual exploration of the field of human–computer interaction (HCI) through the author and article metadata of four of its major conferences: the ACM conferences on Computer-Human Interaction (CHI), User Interface Software and Technology, and Adva
+[R2-C05271] 2007 6th International Asia-Pacific Symposium on Visualization |  | 2007
+   (no abstract)
+[R2-C05273] 2007 International Conference on Cyberworlds - Cover | International Conference on Cyberworlds (CW) | 2007
+   In modern biology, major efforts are undertaken to understand diseases, aging, evolution, and many other aspects of life. Biological networks play a key role in this research. Examples of such networks are protein-protein interaction (PPI) networks, gene regul
+[R2-C05275] A 2.5D Hierarchical Drawing of Directed Graphs | Journal of Graph Algorithms and Applications | 2007
+   Abstract. We introduce a new graph drawing convention for 2.5D hierarchical drawings of directed graphs. The vertex set is partitioned both into layers of vertices drawn in parallel planes and into k ≥ 2 subsets, called walls, and also drawn in parallel planes
+[R2-C05278] A comparison of vertex ordering algorithms for large graph visualization | International Asia-Pacific Symposium on Visualization | 2007
+   In this study, we examine the use of graph ordering algorithms for visual analysis of data sets using visual similarity matrices. Visual similarity matrices display the relationships between data items in a dot-matrix plot format, with the axes labeled with th
+[R2-C05282] A new algorithm for removing node overlapping in graph visualization | Inf. Sci. | 2007
+   (no abstract)
+[R2-C05288] Algorithmic aspects of clustering: theory, experimental evaluation, and applications in network analysis and visualization |  | 2007
+   (no abstract)
+[R2-C05293] Asia‐Pacific Symposium on Visualisation (APVIS) |  | 2007
+   (no abstract)
+[R2-C05294] Automated generation and visualization of picture-logic puzzles | Computers & Graphics | 2007
+   (no abstract)
+[R2-C05297] Belief Systems , Discourse Networks and Institutional Communication in Policy Making : A Second Look on Chemicals Regulation in Germany in the 1980 s |  | 2007
+   (no abstract)
+[R2-C05303] Clustering Social Networks | Springer eBooks | 2007
+   (no abstract)
+[R2-C05306] Complexity results for three-dimensional orthogonal graph drawing | J. Discrete Algorithms | 2007
+   (no abstract)
+[R2-C05307] Construction, Visualisation, and Clustering of Transcription Networks from Microarray Expression Data | PLoS computational biology | 2007
+   Network analysis transcends conventional pairwise approaches to data analysis as the context of components in a network graph can be taken into account. Such approaches are increasingly being applied to genomics data, where functional linkages are used to conn
+[R2-C05308] Coordinated and Multiple Views in Augmented Reality Environment | International Conference on Information Visualisation (IV) | 2007
+   The paper presents a prototype that implements multiple coordinated views to information visualization in augmented reality environments. Augmented reality provides more intuitive and easy interaction. It also reduces the limitations of visualization and enhan
+[R2-C05317] Degree-of-Interest Visualization for Ontology Exploration | Lecture notes in computer science | 2007
+   (no abstract)
+[R2-C05319] Designing Semantic Substrates for Visual Network Exploration | Information Visualization | 2007
+   A semantic substrate is a spatial template for a network, where nodes are grouped into regions and laid out within each region according to one or more node attributes. This paper shows how users can be given control in designing their own substrates and how t
+[R2-C05323] Dr.L: Distributed Recursive (Graph) Layout | OSTI OAI (U.S. Department of Energy Office of Scientific and | 2007
+   Dr. L provides two-dimensional visualizations of very large abstract graph structures. it can be used for data mining applications including biology, scientific literature, and social network analysis. Dr. L is a graph layout program that uses a multilevel for
+[R2-C05329] Enabling design and interactive selection of haptic modes. Virtual Reality |  | 2007
+   (no abstract)
+[R2-C05336] Exploring Multiple Trees through DAG Representations | IEEE Transactions on Visualization and Computer Graphics | 2007
+   We present a Directed Acyclic Graph visualisation designed to allow interaction with a set of multiple classification trees, specifically to find overlaps and differences between groups of trees and individual trees. The work is motivated by the need to find a
+[R2-C05341] FEMvrml: An interactive virtual environment for visualization of finite element simulation results | Advances in Engineering Software | 2007
+   (no abstract)
+[R2-C05352] Graph clustering | Computer Science Review | 2007
+   (no abstract)
+[R2-C05353] Handbook of Data Visualization | Springer eBooks | 2007
+   (no abstract)
+[R2-C05356] How to Draw ClusteredWeighted Graphs using a Multilevel Force-Directed Graph Drawing Algorithm | International Conference on Information Visualisation (IV) | 2007
+   Visualization of clustered graphs has been a research area since many years. In this paper, we describe a new approach that can be used in real application where graph does not contain only topological information but also extrinsic parameters (i.e. user attri
+[R2-C05361] Information Visualization, 2007. IV ’07. 11th International Conference |  | 2007
+   (no abstract)
+[R2-C05363] Integrating physical and genetic maps: from genomes to interaction networks | Nature reviews. Genetics | 2007
+   (no abstract)
+[R2-C05364] Integration of biological networks and gene expression data using Cytoscape | Nat. Protoc. | 2007
+   (no abstract)
+[R2-C05365] Interactive Focus and Context Visualization for Augmented Reality | Proceedings - International Symposium on Mixed and Augmented | 2007
+   In this article we present interactive focus and context (F+C) visualizations for augmented reality (AR) applications. We demonstrate how F+C visualizations are used to affect the user's perception of hidden objects by presenting contextual information in the 
+[R2-C05369] Interpreting large visual similarity matrices | International Asia-Pacific Symposium on Visualization | 2007
+   Visual similarity matrices (VSMs) are a common technique for visualizing graphs and other types of relational data. While traditionally used for small data sets or well-ordered large data sets, they have recently become popular for visualizing large graphs. Ho
+[R2-C05373] Learning effective brain connectivity with dynamic Bayesian networks | NeuroImage | 2007
+   (no abstract)
+[R2-C05374] Level-of-detail visualization of clustered graph layouts | International Asia-Pacific Symposium on Visualization | 2007
+   The level-of-detail techniques presented in this paper enable a comprehensible interactive visualization of large and complex clustered graph layouts either in 2D or 3D. Implicit surfaces are used for the visually simplified representation of vertex clusters, 
+[R2-C05381] MatLink: Enhanced Matrix Visualization for Analyzing Social Networks | Lecture notes in computer science | 2007
+   (no abstract)
+[R2-C05383] Matrix Visualization | Springer eBooks | 2007
+   (no abstract)
+[R2-C05385] Mechanical constraints as computational constraints in tabletop tangible interfaces | CHI Conference on Human Factors in Computing Systems | 2007
+   This paper presents a new type of human-computer interface called Pico (Physical Intervention in Computational Optimization) based on mechanical constraints that combines some of the tactile feedback and affordances of mechanical systems with the abstract comp
+[R2-C05387] Metabolic network visualization eliminating node redundance and preserving metabolic pathways | BMC Systems Biology | 2007
+   BACKGROUND: The tools that are available to draw and to manipulate the representations of metabolism are usually restricted to metabolic pathways. This limitation becomes problematic when studying processes that span several pathways. The various attempts that
+[R2-C05397] Navigation techniques for 2.5D graph layout | International Asia-Pacific Symposium on Visualization | 2007
+   In this paper, we consider the problem of navigating graphs drawn in 2.5 dimensions. First, we define criteria for good navigation and then present various methods to satisfy some of the criteria. In particular, we design and implement methods for trees, clust
+[R2-C05407] Online Dynamic Graph Drawing | IEEE Transactions on Visualization and Computer Graphics | 2007
+   This paper presents an algorithm for drawing a sequence of graphs online. The algorithm strives to maintain the global structure of the graph and thus the user's mental map, while allowing arbitrary modifications between consecutive layouts. The algorithm work
+[R2-C05409] ONTOSELF: A 3D ONTOLOGY VISUALIZATION TOOL | OhioLink ETD Center (Ohio Library and Information Network) | 2007
+   (no abstract)
+[R2-C05412] Path Visualization for Adjacency Matrices | Proceedings of Eurographics/IEEE-VGTC Symposium on Visualiza | 2007
+   For displaying a dense graph, an adjacency matrix is superior than a node-link diagram because it is more compact and free of visual clutter. A node-link diagram, however, is far better for the task of path finding because a path can be easily traced by follow
+[R2-C05422] Refining the Usability Engineering Toolbox: Lessons Learned from a User Study on a Visualization Tool | Springer eBooks | 2007
+   (no abstract)
+[R2-C05427] Scientific visualization of geophysical simulation data by the CAVE VR system with volume rendering | Physics of The Earth and Planetary Interiors | 2007
+   (no abstract)
+[R2-C05433] Software Visualization | Springer eBooks | 2007
+   (no abstract)
+[R2-C05434] Software Visualization: Visualizing the Structure, Behaviour, and Evolution of Software (1 ed.) |  | 2007
+   (no abstract)
+[R2-C05442] The Aesthetics of Graph Visualization | Proceedings of Computational Aesthetics '05 | 2007
+   The discipline of graph visualization produces pictorial representations of nodelink structures. Much effort has been directed toward making such diagrams visually pleasing. A variety of aesthetic heuristics have been proposed, with the assumption that these 
+[R2-C05443] The benefits of immersion for spatial understanding of complex underground cave systems | ACM Symposium on Virtual Reality Software and Technology (VR | 2007
+   A common reason for using immersive virtual environments (IVEs) in visualization is the hypothesis that IVEs should provide a higher level of spatial understanding for complex 3D structures, such as those found in underground cave systems. Therefore, we aimed 
+[R2-C05453] The Projection Explorer: A Flexible Tool for Projection-based Multidimensional Visualization | Brazilian Symposium on Computer Graphics and Image Processin | 2007
+   Multidimensional projections map data points, defined in a high-dimensional data space, into a 1D, 2D or 3D representation space. Such a mapping may be typically achieved with dimensional reduction, clustering, or force directed point placement. Projections ca
+[R2-C05456] Topological Visualization of Brain Diffusion MRI Data | IEEE Transactions on Visualization and Computer Graphics | 2007
+   (no abstract)
+[R2-C05464] Using eye tracking to investigate graph layout effects | International Asia-Pacific Symposium on Visualization | 2007
+   Graphs are typically visualized as node-link diagrams. Although there is a fair amount of research focusing on crossing minimization to improve readability, little attention has been paid on how to handle crossings when they are an essential part of the final 
+[R2-C05465] Viability of virtual reality exposure therapy as a treatment alternative | Computers in Human Behavior | 2007
+   (no abstract)
+[R2-C05467] Virtual Reality: Second International Conference, ICVR 2007, Held as part of HCI International 2007, Beijing, China, July 22-27, 2007. Proceedings | Lecture notes in computer science | 2007
+   (no abstract)
+[R2-C05471] Visual Analysis of Dynamic Networks with Geological Clustering | IEEE Conference on Visual Analytics Science and Technology ( | 2007
+   Many dynamic networks have associated geological information. Here we present two complementing visual analysis methods for such networks. The first one provides an overview with summerized information while the second one presents a more detailed view. The ge
+[R2-C05472] Visual Mining of Multi-Modal Social Networks at Different Abstraction Levels | International Conference on Information Visualisation (IV) | 2007
+   Social networks continue to become more and more feature rich. Using local and global structural properties and descriptive attributes are necessary for more sophisticated social network analysis and support for visual mining tasks. While a number of visualiza
+[R2-C05475] Visualising network communications to evaluate a data dissemination method for ubiquitous systems | University of Limerick Institutional Repository (University  | 2007
+   Ubiquitous computing systems which include wireless devices in their networks rely on sometimes frag- ile ah-hoc communication channels between heteroge- neous devices to operate. To maintain stability and ro- bustness, the contextual information contained on 
+[R2-C05476] VISUALISATION AND ANALYSIS OF RELATIONNAL DATA BY CONSIDERING TEMPORAL DIMENSION | International Conference on Enterprise Information Systems | 2007
+   Visualization based on graph drawing allows the identification, the evaluation of passed and present structures between actors and concepts. It also allows the deduction of future ones. VisuGraph is developed in order to offer to the users the visualization an
+[R2-C05477] Visualization and Role-play to Teach Object-Oriented Programming | Springer eBooks | 2007
+   (no abstract)
+[R2-C05478] Visualization of Aligned Biological Networks: A Survey | International Conference on Cyberworlds (CW) | 2007
+   In modern biology, major efforts are undertaken to understand diseases, aging, evolution, and many other aspects of life. Biological networks play a key role in this research. Examples of such networks are protein-protein interaction (PPI) networks, gene regul
+[R2-C05479] Visualizing Network Security Events Using Compound Glyphs from a Service-Oriented Perspective | Springer eBooks | 2007
+   (no abstract)
+[R2-C05483] Visualizing time-oriented data—A systematic view | Comput Graph | 2007
+   (no abstract)
+[R2-C05484] Visually Exploring Large Social Networks | Lecture notes in computer science | 2007
+   (no abstract)
+[R2-C05485] VisuGraph: Un outil d'exploration de données relationnelles évolutives. | INFORSID | 2007
+   Visualization based on graph drawing is a powerful tool to analyze relational information evolution. It is based on big data corpora synthesis. It makes it possible to identify and to evaluate passed and current structures, and to deduce the future ones betwee
+[R2-C05497] 08191 Working Group Report - X-graphs of Y-graphs and their Representations | DROPS (Schloss Dagstuhl – Leibniz Center for Informatics) | 2008
+   We address graph decomposition problems that help the hybrid visualization of large graphs, where different graphic metaphors (node-link, matrix, etc.) are used in the same picture. We generalize the $X$-graphs of $Y$-graphs model introduced by Brandenburg (Br
+[R2-C05505] A Node Aggregation Strategy to Reduce Complexity of Network Visualization using Semantic Substrates |  | 2008
+   (no abstract)
+[R2-C05506] A physics-based approach for interactive manipulation of graph visualizations | Working Conference on Advanced Visual Interfaces (AVI) | 2008
+   This paper presents an interactive physics-based technique for the exploration and dynamic reorganization of graph layouts that takes into account semantic properties which the user might need to emphasize. Many techniques have been proposed that take a graph 
+[R2-C05509] A survey of visualization tools for biological network analysis | BioData Min. | 2008
+   The analysis and interpretation of relationships between biological molecules, networks and concepts is becoming a major bottleneck in systems biology. Very often the pure amount of data and their heterogeneity provides a challenge for the visualization of the
+[R2-C05510] A Survey on Graph Visualization |  | 2008
+   (no abstract)
+[R2-C05511] A Survey on Visualization for Wireless Security | Networked Computing and Advanced Information Management | 2008
+   The Wireless security has been a popular research topic over the past few years with the abruptly growth in the population of WiFi user. The security situation awareness approaches based on visualization were developed due to the problems on wired network such
+[R2-C05513] A Treemap Based Method for Rapid Layout of Large Graphs | IEEE Pacific Visualization Symposium | 2008
+   Abstract graphs or networks are a commonly recurring data type in many fields. In order to visualize such graphs effectively, the graph must be laid out on the screen coherently. Many algorithms exist to do this, but many of these algorithms tend to be very sl
+[R2-C05515] A visual-analytic toolkit for dynamic interaction graphs | ACM SIGKDD Conference on Knowledge Discovery and Data Mining | 2008
+   In this article we describe a visual-analytic tool for the interrogation of evolving interaction network data such as those found in social, bibliometric, WWW and biological applications. The tool we have developed incorporates common visualization paradigms s
+[R2-C05520] An experiment on the role of graphical elements in architecture visualization | Empirical Software Engineering | 2008
+   (no abstract)
+[R2-C05521] An Eye Tracking Study into the Effects of Graph Layout | arXiv (Cornell University) | 2008
+   Graphs are typically visualized as node-link diagrams. Although there is a fair amount of research focusing on crossing minimization to improve readability, little attention has been paid on how to handle crossings when they are an essential part of the final 
+[R2-C05522] An integrative approach for biological data mining and visualisation | International Journal of Data Mining and Bioinformatics | 2008
+   The emergence of systems biology necessitates development of platforms to organise and interpret plentitude of biological data. We present a system to integrate data across multiple bioinformatics databases and enable mining across various conceptual levels of
+[R2-C05524] Analysis and Visualization of Text Networks |  | 2008
+   (no abstract)
+[R2-C05531] As time goes by: integrated visualization and analysis of dynamic networks | Working Conference on Advanced Visual Interfaces (AVI) | 2008
+   The dynamics of networks have become more and more important in all research fields that depend on network analysis. Standard network visualization and analysis tools usual do not offer a suitable interface to network dynamics. These tools do not incorporate s
+[R2-C05535] Augmented Reality Interactive Storytelling Systems Using Tangible Cubes for Edutainment | IEEE International Conference on Advanced Learning Technolog | 2008
+   Augmented Reality has been used in many areas and it has proved to be useful for storytelling. These systems are adequate for edutainment. In this paper, we present two Augmented Reality interactive storytelling systems that use tangible cubes. The first shows
+[R2-C05537] Beyond the Tyranny of the Pixel: Exploring the Physicality of Information Visualization | International Conference on Information Visualisation (IV) | 2008
+   This paper consists of a review of contemporary methods that map and materialize abstract data as physical artifacts. With computing technology and the access of information influencing every aspect of our everyday lives, one can question the current habit of 
+[R2-C05544] Cartesian vs. Radial – A Comparative Evaluation of Two Visualization Tools | Lecture notes in computer science | 2008
+   (no abstract)
+[R2-C05545] Cell phone mini challenge award: Social network accuracy— exploring temporal communication in mobile call graphs | Proc IEEE Symp Visual Analytics Science and Technology | 2008
+   In the mobile call mini challenge of VAST 2008 contest, we explored the temporal communication patterns of Catalano/Vidro social network which is reflected in the mobile call data. We focus on detecting the hierarchy of the social network and try to get the im
+[R2-C05546] Cluster analysis of Java dependency graphs | ACM Symposium on Software Visualization (SoftVis) | 2008
+   We present a novel approach to the analysis of dependency graphs of object-oriented programs. We propose to use the Girvan-Newman clustering algorithm to compute the modular structure of programs. This is useful in assisting software engineers to redraw compon
+[R2-C05550] Configurable Spaces: Temporal analysis in diagrammatic contexts | IEEE Conference on Visual Analytics Science and Technology ( | 2008
+   Social network graphs, concept maps, and process charts are examples of diagrammatic representations employed by intelligence analysts to understand complex systems. Unfortunately, these 2D representations currently do not easily convey the flow, sequence, tem
+[R2-C05552] Connected 2D and 3D visualizations for the interactive exploration of spatial information |  | 2008
+   (no abstract)
+[R2-C05555] Context-controlled flow visualization in augmented reality | Graphics Interface | 2008
+   (no abstract)
+[R2-C05556] Creation and Collaboration: Engaging New Audiences for Information Visualization | Lecture notes in computer science | 2008
+   (no abstract)
+[R2-C05560] Data visualization as new abstraction and anti-sublime |  | 2008
+   (no abstract)
+[R2-C05564] Development of a Dual-Handed Haptic Assembly System: SHARP | Journal of Computing and Information Science in Engineering | 2008
+   Virtual reality (VR) technology holds promise as a virtual prototyping (VP) tool for mechanical assembly; however, several developmental challenges still need to be addressed before VP applications can successfully be integrated into the product realization pr
+[R2-C05565] Digital visualization as a scholarly activity | Lit Linguist Comput | 2008
+   Thought processes are enhanced when ways are found to link external perception with internal mental processes by the use of graphic aids. Such aids range from scribbled diagrams to sophisticated linkages between thought, images, and text such as those employed
+[R2-C05566] Dynamic Visualization of Coexpression in Systems Genetics Data | IEEE Transactions on Visualization and Computer Graphics | 2008
+   Biologists hope to address grand scientific challenges by exploring the abundance of data made available through modern microarray technology and other high-throughput techniques. The impact of this data, however, is limited unless researchers can effectively 
+[R2-C05568] Effects of Crossing Angles | IEEE Pacific Visualization Symposium | 2008
+   In visualizing graphs as node-link diagrams, it is commonly accepted and employed as a general rule that the number of link crossings should be minimized whenever possible. However, little attention has been paid to how to handle the remaining crossings in the
+[R2-C05581] Exploration of Networks using overview+detail with Constraint-based cooperative layout | IEEE Trans. Vis. Comput. Graph. | 2008
+   A standard approach to large network visualization is to provide an overview of the network and a detailed view of a small component of the graph centred around a focal node. The user explores the network by changing the focal node in the detailed view or by c
+[R2-C05582] Exploring large social networks with matrix-based representations |  | 2008
+   I conduct my research in the general field of human-computer interaction, with a primary interest in information visualization. My dissertation research deals with the visual exploration of large social networks, bridging graph theory, social network analysis,
+[R2-C05584] Exploring Social Networks with Matrix‐Based Representations |  | 2008
+   (no abstract)
+[R2-C05585] Exploring the Dynamics of International Trade by Combining the Comparative Advantages of Multivariate Statistics and Network Visualizations | Max Planck Institute for Plasma Physics | 2008
+   This paper contributes to an ongoing debate in International Political Economy about the appropriateness of globalization, regionalization and macroeconomic imbalance theory by identifying quantitative estimates for all three tendencies from world trade data. 
+[R2-C05588] Extremes Are Better: Investigating Mental Map Preservation in Dynamic Graphs | Lecture notes in computer science | 2008
+   (no abstract)
+[R2-C05591] Fast unfolding of community hierarchies in large networks. CoRR abs/0803.0476 |  | 2008
+   (no abstract)
+[R2-C05593] FiveWsand anH: Digital Challenges in Newspaper Newsrooms and Boardrooms | Int J Media Manag | 2008
+   It is no news to anyone involved with the media, from the newsroom to the boardroom to the classroom, that journalism is at a crossroads as an occupation, a busi-ness, a content form, and a public good. This is perhaps particularly true of journalism in the tr
+[R2-C05596] Geometry-Based Edge Clustering for Graph Visualization | IEEE Transactions on Visualization and Computer Graphics | 2008
+   Graphs have been widely used to model relationships among data. For large graphs, excessive edge crossings make the display visually cluttered and thus difficult to explore. In this paper, we propose a novel geometry-based edge-clustering framework that can gr
+[R2-C05600] GRAPHITE: A Visual Query System for Large Graphs | IEEE ... International Conference on Data Mining workshops | 2008
+   We present Graphite, a system that allows the user to visually construct a query pattern, finds both its exact and approximate matching subgraphs in large attributed graphs, and visualizes the matches. For example, in a social network where a person's occupati
+[R2-C05603] Handheld Augmented Reality for underground infrastructure visualization | Personal and Ubiquitous Computing | 2008
+   (no abstract)
+[R2-C05611] Improving the Readability of Clustered Social Networks using Node Duplication | IEEE Transactions on Visualization and Computer Graphics | 2008
+   Exploring communities is an important task in social network analysis. Such communities are currently identified using clustering methods to group actors. This approach often leads to actors belonging to one and only one cluster, whereas in real life a person 
+[R2-C05612] Integrating statistics and visualization: case studies of gaining clarity during exploratory data analysis | CHI Conference on Human Factors in Computing Systems | 2008
+   Although both statistical methods and visualizations have been used by network analysts, exploratory data analysis remains a challenge. We propose that a tight integration of these technologies in an interactive exploratory tool could dramatically speed insigh
+[R2-C05613] Integrating statistics and visualization to improve exploratory social network analysis | University Libraries (University of Maryland) | 2008
+   Social network analysis is emerging as a key technique to understanding social, cultural and economic phenomena. However, social network analysis is inherently complex since analysts must understand every individual's attributes as well as relationships betwee
+[R2-C05614] Integration of augmented reality and GIS: A new approach to realistic landscape visualisation | Landscape and Urban Planning | 2008
+   (no abstract)
+[R2-C05615] Interactive Entity Resolution in Relational Data: A Visual Analytic Tool and Its Evaluation | IEEE Transactions on Visualization and Computer Graphics | 2008
+   Databases often contain uncertain and imprecise references to real-world entities. Entity resolution, the process of reconciling multiple references to underlying real-world entities, is an important data cleaning process required before accurate visualization
+[R2-C05616] Interactive Exploration of Large Dynamic Networks | Lecture notes in computer science | 2008
+   (no abstract)
+[R2-C05618] Interactive Molecular Visualization at the Interface | Advanced information and knowledge processing | 2008
+   Physical and computer models of molecules are designed to embody chemical knowledge of the molecular world. Over the past forty years interactive molecular visualization software has transformed the way chemical scientists build and use molecular models. This 
+[R2-C05619] Interactive Structural Clustering of Graphs based on Multi-Representations | International Conference on Information Visualisation (IV) | 2008
+   This paper investigates the use of a multi-representation of a same graph in order to interactively cluster it. Both a node-link and a matrix representation of the graph are provided. The clustering technique under consideration requires parameters to be set. 
+[R2-C05620] Introducing the bipartite Package: Analysing Ecological Networks | R News | 2008
+   Interactions among species in ecological communities have long fascinated ecologists. Prominent recent examples include pollination webs (Memmott et al., 2004), species-rich predator-prey systems (Tylianakis et al., 2007) and seed dispersal mutualisms (all rev
+[R2-C05624] Knowledge Extraction and Visual Analysis of Social Networks | Anais do Seminário Integrado de Software e Hardware (SEMISH) | 2008
+   Uma rede social é um grafo onde pessoas ou organizações (dependendo da aplicação) são representadas por nodos conectados por arestas as quais podem corresponder tanto a fortes relacionamentos sociais como ao compartilhamento de alguma característica. A análise
+[R2-C05630] Maaten L.v.d., Hinton G (2008) Visualizing data using t-sne. J Mach Learn Res 9:2579–2605 | J Mach Learn Res | 2008
+   (no abstract)
+[R2-C05631] Maaten, Lvander & Hinton, G. Visualizing data using t-SNE. J. Mach. Learn. Res. 9, 2579–2605 (2008). | J. Mach. Learn. Res. | 2008
+   (no abstract)
+[R2-C05632] Maaten, Lvd, Hinton G (2008) Visualizing data using t-sne. J Mach Learn Res 9(Nov):2579–2605. | J Mach Learn Res | 2008
+   (no abstract)
+[R2-C05642] Modularity clustering is force-directed layout | Physical Review E | 2008
+   Two natural and widely used representations for the community structure of networks are clusterings, which partition the vertex set into disjoint subsets, and layouts, which assign the vertices to positions in a metric space. This paper unifies prominent chara
+[R2-C05645] Multiple and coordinated views in information visualization. Trends in Information Visualization 38 |  | 2008
+   (no abstract)
+[R2-C05646] Multivariate Graph Drawing using Parallel Coordinate Visualisations |  | 2008
+   Abstract. Graph drawing is increasingly considering the embedding and drawing of multivariate or highly attributed graphs. The direct appli-cation of classical layout methods is difficult due to limited space and en-coding options as the number of attributes (
+[R2-C05647] Navigation and Interaction in Graph Visualizations | Rev. Informática Teórica Apl. | 2008
+   Graphs are widely utilized in many fields and several applications require their visualization. Graph visualization is based on techniques for graph drawing, interaction and navigation in such a way that helps the user in finding and manipulating information e
+[R2-C05648] network: A Package for Managing Relational Data in R | Journal of Statistical Software | 2008
+   Effective memory structures for relational data within R must be capable of representing a wide range of data while keeping overhead to a minimum. The network package provides an class which may be used for encoding complex relational structures composed a ver
+[R2-C05649] Network pharmacology: the next paradigm in drug discovery | Nature Chemical Biology | 2008
+   (no abstract)
+[R2-C05654] Perceptual Organization in User-Generated Graph Layouts | IEEE Transactions on Visualization and Computer Graphics | 2008
+   Many graph layout algorithms optimize visual characteristics to achieve useful representations. Implicitly, their goal is to create visual representations that are more intuitive to human observers. In this paper, we asked users to explicitly manipulate nodes 
+[R2-C05663] Process and Pitfalls in Writing Information Visualization Research Papers | Lecture notes in computer science | 2008
+   (no abstract)
+[R2-C05665] Rapid Graph Layout Using Space Filling Curves | IEEE Transactions on Visualization and Computer Graphics | 2008
+   Network data frequently arises in a wide variety of fields, and node-link diagrams are a very natural and intuitive representation of such data. In order for a node-link diagram to be effective, the nodes must be arranged well on the screen. While many graph l
+[R2-C05669] Research Note—Towards Dynamic Visualization for Understanding Evolution of Digital Communication Networks | Inf Syst Res | 2008
+   The capabilities offered by digital communication are leading to the evolution of new network structures that are grounded in communication patterns. As these structures are significant for organizations, much research has been devoted to understanding network
+[R2-C05671] Road Stakeout In Wearable Outdoor Augmented Reality | UC Research Repository  (University of Canterbury) | 2008
+   This thesis advances wearable outdoor augmented reality (WOAR) research by proposing novel visualisations, by consolidating previous work, and through several formal user studies. Wearable outdoor augmented reality combines augmented reality (AR) and wearable 
+[R2-C05675] See-Through Vision for Mobile Outdoor Augmented Reality |  | 2008
+   We have developed a system built on our mobile Augmented Reality platform that provides users with see-through vision, allowing visualization of occluded objects textured with real-time video information. The users will be able to wear our lightweight, belt-mo
+[R2-C05680] Social network analysis of animal behaviour: a promising tool for the study of sociality | Animal Behaviour | 2008
+   (no abstract)
+[R2-C05683] Stacked Graphs – Geometry & Aesthetics | IEEE Transactions on Visualization and Computer Graphics | 2008
+   In February 2008, the New York Times published an unusual chart of box office revenues for 7500 movies over 21 years. The chart was based on a similar visualization, developed by the first author, that displayed trends in music listening. This paper describes 
+[R2-C05688] Supporting order picking with Augmented Reality | Proceedings - International Symposium on Mixed and Augmented | 2008
+   We report on recent progress in the iterative process of exploring, evaluating and refining Augmented Reality-based methods to support the order picking process. We present our findings from three user studies and from demonstrations at several exhibitions. Th
+[R2-C05690] Survey of network security visualization techniques | Journal of Computer Applications | 2008
+   (no abstract)
+[R2-C05696] Tangible Interaction for 3D Widget Manipulation in Virtual Environments | TU/e Research Portal | 2008
+   In this paper we explore the usage of tangible controllers for the manipulation of 3D widgets in scientific visualization applications. Tangible controllers can be more efficient than unrestricted 6-DOF devices, since many 3D widgets impose some restrictions o
+[R2-C05706] The mental map versus static aesthetic compromise in dynamic graphs: a user study | Enlighten: Publications (University of Glasgow) | 2008
+   The design of automatic layout algorithms for single graphs is a well established field, and some recent studies show how these algorithms affect human understanding. By contrast, layout algorithms for graphs that change over time are relatively immature, and 
+[R2-C05707] The rule-based language XL and the modelling environment GroIMP illustrated with simulated tree competition | Functional Plant Biology | 2008
+   The programming language XL ('eXtended L-system language') is an extension of Java, which supports the specification and execution of relational growth grammars, a variant of parallel graph grammars. XL is a powerful generalisation of the well-known L-system a
+[R2-C05713] TimeRadarTrees: Visualizing Dynamic Compound Digraphs | Computer Graphics Forum | 2008
+   The evolution of dependencies in information hierarchies can be modeled by sequences of compound digraphs with edge weights. In this paper we present a novel approach to visualize such sequences of graphs. It uses radial tree layout to draw the hierarchy, and 
+[R2-C05714] Title Augmented / Virtual Reality applied to the control and supervision of heterogeneous robotic vehicles in cooperative missions . Advisor ( s ) |  | 2008
+   (no abstract)
+[R2-C05718] Towards Dynamic Visualization for Understanding Evolution of Digital Communication Networks |  | 2008
+   (no abstract)
+[R2-C05722] Uma metodologia para o desenvolvimento de aplicações de realidade aumentada em telefones celulares utilizando dispositivos sensores. | Digital Library of Theses and Dissertations  (Universidade d | 2008
+   O uso de dispositivos móveis ou handheld devices na implementação de um sistema de Realidade Aumentada (RA) é denominado Handheld Augmented Reality ou simplesmente Handheld AR.Aplicações do tipo Handheld AR utilizam a câmera integrada no dispositivo móvel para
+[R2-C05726] User evaluation of see-through vision for mobile outdoor augmented reality | Proceedings - International Symposium on Mixed and Augmented | 2008
+   We have developed a system built on our mobile AR platform that provides users with see-through vision, allowing visualization of occluded objects textured with real-time video information. We present a user study that evaluates the userpsilas ability to view 
+[R2-C05733] Virtual redlining for civil engineering in real environments | Proceedings - International Symposium on Mixed and Augmented | 2008
+   Field workers of utility companies are regularly engaged in outdoor tasks such as network planning and inspection of underground infrastructure. Redlining is the term used for manually annotating either printed paper maps or a 2D geographic information system 
+[R2-C05739] Visual Analytics Techniques for Trend Detection in Correlation Data |  | 2008
+   (no abstract)
+[R2-C05747] Visualization of Graph based on the Three-dimensional Spring Model | International Conference on Pervasive Computing and Applicat | 2008
+   A three-dimensional (3D) Spring Modeling Algorithm is given for the 3D visualization of graph, which have been implemented in OpenGL. It avoids edge crossings more effectively, and strengthens the sense of tridimensionality and aesthetics of graph while laying
+[R2-C05748] Visualization of Program Dependence Graphs | Springer eBooks | 2008
+   (no abstract)
+[R2-C05750] Visualizing Data using t-SNE | JMLR | 2008
+   We present a new technique called “t-SNE” that visualizes high-dimensional data by giving each datapoint a location in a two or three-dimensional map. The technique is a variation of Stochastic Neighbor Embedding (Hinton and Roweis, 2002) that is much easier t
+[R2-C05751] Visualizing Genome Expression and Regulatory Network Dynamics in Genomic and Metabolic Context | Computer Graphics Forum | 2008
+   DNA microarrays are used to measure the expression levels of thousands of genes simultaneously. In a time series experiment, the gene expressions are measured as a function of time. We present an application for integrated visualization of genome expression an
+[R2-C05755] What is a complex graph | Physica A Statistical Mechanics and its Applications | 2008
+   (no abstract)
+[R2-C05757] Wireless Network Visualization and Indoor Empirical Propagation Model for a Campus WI-FI Network |  | 2008
+   (no abstract)
+[R2-C05759] X-graphs of Y-graphs and their Representations ⋆ |  | 2008
+   We address graph decomposition problems that help the hybrid visualization of large graphs, where different graphic metaphors (node-link, matrix, etc.) are used in the same picture. We generalize the X-graphs of Y-graphs model introduced in [1] to formalize th
+[R2-C05760] ZAME: Interactive Large-Scale Graph Visualization | IEEE Pacific Visualization Symposium | 2008
+   We present the zoomable adjacency matrix explorer (ZAME), a visualization tool for exploring graphs at a scale of millions of nodes and edges. ZAME is based on an adjacency matrix graph representation aggregated at multiple scales. It allows analysts to explor
+[R2-C05766] 2009 IEEE Pacific Visualization Symposium |  | 2009
+   (no abstract)
+[R2-C05769] A Comparison of User-Generated and Automatic Graph Layouts | IEEE Transactions on Visualization and Computer Graphics | 2009
+   The research presented in this paper compares user-generated and automatic graph layouts. Following the methods suggested by van Ham et al. (2008), a group of users generated graph layouts using both multi-touch interaction on a tabletop display and mouse inte
+[R2-C05771] A graph reading behavior: Geodesic-path tendency | IEEE Pacific Visualization Symposium | 2009
+   The end result of graph visualization is that people read the graph and understand the data. To make this effective, it is essential to construct visualizations based on how people read graphs. Despite the popularity and importance of graph usage in a variety 
+[R2-C05772] A hybrid space-filling and force-directed layout method for visualizing multiple-category graphs | IEEE Pacific Visualization Symposium | 2009
+   Many graphs used in real-world applications consist of nodes belonging to more than one category. We call such graph ldquomultiple-category graphsrdquo. Social networks are typical examples of multiple-category graphs: nodes are persons, links are friendships,
+[R2-C05775] A Multiple-Aspects Visualization Tool for Exploring Social Networks | Lecture notes in computer science | 2009
+   (no abstract)
+[R2-C05779] A Review on Augmented Reality for Virtual Heritage System | Lecture notes in computer science | 2009
+   (no abstract)
+[R2-C05784] A user study on visualizing directed edges in graphs | CHI Conference on Human Factors in Computing Systems | 2009
+   Graphs are often visualized using node-link representations: vertices are depicted as dots, edges are depicted as (poly)lines connecting two vertices. A directed edge running from vertex A to B is generally visualized using an arrow representation: a (poly)lin
+[R2-C05785] A visual canonical adjacency matrix for graphs | IEEE Pacific Visualization Symposium | 2009
+   Graph data mining algorithms rely on graph canonical forms to compare different graph structures. These canonical form definitions depend on node and edge labels. In this paper, we introduce a unique canonical visual matrix representation that only depends on 
+[R2-C05791] Analysis and Visualization of Relations in eLearning | Computer communications and networks | 2009
+   (no abstract)
+[R2-C05792] Analyzing (social media) networks with NodeXL | International Conference on Communities and Technologies (C& | 2009
+   We present NodeXL, an extendible toolkit for network overview, discovery and exploration implemented as an add-in to the Microsoft Excel 2007 spreadsheet software. We demonstrate NodeXL data analysis and visualization features with a social media data sample d
+[R2-C05793] Annotation in outdoor augmented reality | Computers & Graphics | 2009
+   (no abstract)
+[R2-C05795] Automated design process modelling and analysis using immersive virtual reality | Computer-Aided Design | 2009
+   (no abstract)
+[R2-C05796] Back to the Future: Revisiting Mouse and Keyboard Interaction for HMD-based Immersive Analytics | arXiv (Cornell University) | 2009
+   With the rise of natural user interfaces, immersive analytics applications often focus on novel forms of interaction modalities such as mid-air gestures, gaze or tangible interaction utilizing input devices such as depth-sensors, touch screens and eye-trackers
+[R2-C05799] BioPortal | Infectious Disease Informatics | 2009
+   The BioPortal project was initiated in 2003 by the University of Arizona Artificial Intelligence Lab and its collaborators in the New York State Department of Health and the California Department of Health Services to develop an infectious disease surveillance
+[R2-C05806] CGV—An interactive graph visualization system | Computers & Graphics | 2009
+   (no abstract)
+[R2-C05809] CoCoNutTrix: A Study in Collaborative Retrofitting for Information Visualization |  | 2009
+   Most information visualization systems incorporate little or no spe-cific support for collaboration. Yet, collaboration has been identi-fied as a means to deal with the increasing amount and complex-ity of information available to analysts. Re-implementing exi
+[R2-C05810] CoCoNutTrix: Collaborative Retrofitting for Information Visualization | IEEE Computer Graphics and Applications | 2009
+   In this paper, the authors retrofitted a version of NodeTrix, a single-user graph visualization environment based on the InfoVis toolkit, to support multiple independent mice. The resulting low-cost environment was called CoCoNutTrix (Colocated Collaborative N
+[R2-C05812] Collaborative Visualization CoCoNutTrix : Collaborative Retrofitting for Information Visualization |  | 2009
+   (no abstract)
+[R2-C05815] Community Structure in Time-Dependent, Multiscale, and Multiplex Networks | Science | 2009
+   Network Notation Networks are often characterized by clusters of constituents that interact more closely with each other and have more connections to one another than they do with the rest of the components of the network. However, systematically identifying a
+[R2-C05817] Comparing the Readability of Graph Layouts using Eyetracking and Task-oriented Analysis | Eurographics | 2009
+   In this paper we present the results of a user study comparing the readability of force-directed, orthogonal, and hierarchical graph layouts. To this end we identified prototypical tasks which are solved using visual representations of graphs. Based on the cor
+[R2-C05818] Complex brain networks: graph theoretical analysis of structural and functional systems | Nature reviews. Neuroscience | 2009
+   (no abstract)
+[R2-C05819] Complex network measures of brain connectivity: Uses and interpretations | Neuroimage | 2009
+   (no abstract)
+[R2-C05821] Comprehensible Visualization for Augmented Reality | IEEE Transactions on Visualization and Computer Graphics | 2009
+   This article presents interactive visualizations to support the comprehension of spatial relationships between virtual and real world objects for Augmented Reality (AR) applications. To enhance the clarity of such relationships we discuss visualization techniq
+[R2-C05828] Cross-Filtered Views for Multidimensional Visual Analysis | IEEE Transactions on Visualization and Computer Graphics | 2009
+   Analysis of multidimensional data often requires careful examination of relationships across dimensions. Coordinated multiple view approaches have become commonplace in visual analysis tools because they directly support expression of complex multidimensional 
+[R2-C05834] Design-For-Safety-Process (DFSP) Utilizing Virtual Reality as a Representation Tool | Civil-comp proceedings | 2009
+   (no abstract)
+[R2-C05841] Diverging Color Maps for Scientific Visualization | Lecture notes in computer science | 2009
+   (no abstract)
+[R2-C05843] Drawing graphs with nonuniform nodes using potential fields | Journal of Visual Languages & Computing | 2009
+   (no abstract)
+[R2-C05849] Erratum: Complex brain networks: graph theoretical analysis of structural and functional systems | Nature reviews. Neuroscience | 2009
+   (no abstract)
+[R2-C05851] Exemplar-based Visualization of Large Document Corpus (InfoVis2009-1115) | IEEE Transactions on Visualization and Computer Graphics | 2009
+   With the rapid growth of the World Wide Web and electronic information services,text corpus is becoming available on-line at an incredible rate.By displaying text data in a logical layout (e.g., color graphs),text visualization presents a direct way to observe
+[R2-C05852] Exploratory Search: Beyond the Query-Response Paradigm | Synthesis lectures on information concepts, retrieval, and s | 2009
+   As information becomes more ubiquitous and the demands that searchers have on search systems grow, there is a need to support search behaviors beyond simple lookup. Information seeking is the process or activity of attempting to obtain information in both huma
+[R2-C05854] Explosion Diagrams in Augmented Reality | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2009
+   This article introduces explosion diagrams to augmented reality (AR) applications. It presents algorithms to seamlessly integrate an object's explosion diagram into a real world environment, including the AR rendering of relocated objects textured with live vi
+[R2-C05855] Extraction and visualization of call dependencies for large C/C++ code bases: A comparative study | Visualizing Software for Understanding and Analysis | 2009
+   Investigating program dependencies such as function calls is challenging for very large systems. We present here an integrated pipeline for extraction and visualization of call-and-hierarchy graphs for C/C++ programs. We present several adaptions and enhanceme
+[R2-C05856] Fast Edge-Routing for Large Graphs | Lecture notes in computer science | 2009
+   (no abstract)
+[R2-C05859] FLOVIS: A NETWORK SECURITY VISUALIZATION FRAMEWORK |  | 2009
+   (no abstract)
+[R2-C05860] Focused Animation of Dynamic Compound Graphs | International Conference on Information Visualisation (IV) | 2009
+   Many applications feature large hierarchic dynamic graphs that change over time. Often, these changes are more important than the graphs themselves.In our approach, areas of interests in dynamic graphs are detected based on user preferences. The user is guided
+[R2-C05861] Force‐Directed Edge Bundling for Graph Visualization | Computer Graphics Forum | 2009
+   Graphs depicted as node‐link diagrams are widely used to show relationships between entities. However, node‐link diagrams comprised of a large number of nodes and edges often suffer from visual clutter. The use of edge bundling remedies this and reveals high‐l
+[R2-C05863] From spatial interaction data to spatial interaction information? Geovisualisation and spatial structures of migration from the 2001 UK census | Computers Environment and Urban Systems | 2009
+   (no abstract)
+[R2-C05872] Hierarchical Aggregation for Information Visualization: Overview, Techniques, and Design Guidelines | IEEE Transactions on Visualization and Computer Graphics | 2009
+   We present a model for building, visualizing, and interacting with multiscale representations of information visualization techniques using hierarchical aggregation. The motivation for this work is to make visual representations more visually scalable and less
+[R2-C05873] HiMap: Adaptive visualization of large-scale online social networks | IEEE Pacific Visualization Symposium | 2009
+   Visualizing large-scale online social network is a challenging yet essential task. This paper presents HiMap, a system that visualizes it by clustered graph via hierarchical grouping and summarization. HiMap employs a novel adaptive data loading technique to a
+[R2-C05874] Honeycomb: Visual Analysis of Large Scale Social Networks | Lecture notes in computer science | 2009
+   The rise in the use of social network sites allows us to collect large amounts of user reported data on social structures and analysis of this data could provide useful insights for many of the social sciences. This analysis is typically the domain of Social N
+[R2-C05875] How to visually interpret biological data using networks | Nature Biotechnology | 2009
+   Networks in biology can appear complex and difficult to decipher. We illustrate how to interpret biological networks with the help of frequently used visualization and analysis patterns.
+[R2-C05878] IADIS International Conference Computer Graphics, Visualization, Computer Vision and Image Processing 2009 |  | 2009
+   (no abstract)
+[R2-C05880] Improving Graph Drawing Readability by Incorporating Readability Metrics : A Software Tool for Network Analysts |  | 2009
+   (no abstract)
+[R2-C05881] Improving Spatial Perception for Augmented Reality X-Ray Vision | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2009
+   Augmented reality x-ray vision allows users to see through walls and view real occluded objects and locations. We present an augmented reality x-ray vision system that employs multiple view modes to support new visualizations that provide depth cues and spatia
+[R2-C05885] Integrated Representation and Visualisation of the Dynamics in Computer-mediated Social Networks | IEEE/ACM International Conference on Advances in Social Netw | 2009
+   In this paper we will demonstrate the potential of processing and visualising the dynamics of computer-mediated communities by means of Social Network Analysis. According to the fact that computer-mediated community systems are manifested also as structured da
+[R2-C05887] Interaction and presentation techniques for situated visualization |  | 2009
+   Every day we move through a sea of invisible information. As computation, sensing, and display become more mobile and distributed, interaction shifts from our desktop to our environment. This shift changes how we interact with our surroundings, creating the op
+[R2-C05888] Interaction Techniques for Selecting and Manipulating Subgraphs in Network Visualizations | IEEE Transactions on Visualization and Computer Graphics | 2009
+   We present a novel and extensible set of interaction techniques for manipulating visualizations of networks by selecting subgraphs and then applying various commands to modify their layout or graphical properties. Our techniques integrate traditional rectangle
+[R2-C05889] Interaction with the Environment : Sensor Data Visualization in Outdoor Augmented Reality | IEEE/ACM International Symposium on Mixed and Augmented Real | 2009
+   (no abstract)
+[R2-C05890] Interactively visualizing dynamic social networks with DySoN," in Proceedings of the IUI'09 Workshop on Visual Interfaces to the Social and the Semantic Web |  | 2009
+   (no abstract)
+[R2-C05893] Investigating multi-touch and pen gestures for diagram editing on interactive surfaces | ACM International Conference on Interactive Tabletops and Su | 2009
+   Creating and editing large graphs and node-link diagrams are crucial activities in many application areas. For them, we consider multi-touch and pen input on interactive surfaces as very promising. This fundamental work presents a user study investigating how 
+[R2-C05895] J2.5dPathway: A 2.5D Visualization Tool to Display Selected Nodes in Biological Pathways, in Parallel Planes | Genomics & Informatics | 2009
+   The characteristics of metabolic pathways make them particularly amenable to layered graph drawing methods.This paper presents a visual Java-based tool for drawing and annotating biological pathways in twoand-a-half dimensions (2.5D) as an alternative to three
+[R2-C05900] Life in the network: The coming age of computational social science: Science |  | 2009
+   (no abstract)
+[R2-C05904] Matched drawability of graph pairs and of graph triples | Lecture notes in computer science | 2009
+   (no abstract)
+[R2-C05906] Measuring Effectiveness of Graph Visualizations: A Cognitive Load Perspective | Inf Vis | 2009
+   Graph visualizations are typically evaluated by comparing their differences in effectiveness, measured by task performance such as response time and accuracy. Such performance-based measures have proved to be useful in their own right. There are some situation
+[R2-C05907] MetNetGE: Visualizing biological networks in hierarchical views and 3D tiered layouts | IEEE International Conference on Bioinformatics and Biomedic | 2009
+   Linking experimental data with large-scale biomedical networks is key for achieving new discoveries in system biology research. Visualization tools that facilitate these tasks often result in a dense Web of connections that resembles a tangled hairball and is 
+[R2-C05908] Mobile Lidar Mapping : Building the Next Generation of Outdoor Environment Models for AR |  | 2009
+   (no abstract)
+[R2-C05912] MultiPlane Framework for Visualisation and Analysis of Large and Complex Networks (Acceleration and Visualization of Computation for Enumeration Problems) | 数理解析研究所講究録 | 2009
+   This paper presents a new framework for visualisation of large and complex networks in three dimensions.In general, the framework uses a divide and conquer approach.More specifically, the framework divides a graph into a set of smaller subgraphs, and then draw
+[R2-C05915] NapkinVis: Rapid Pen-Centric Authoring of Improvisational Visualizations |  | 2009
+   (no abstract)
+[R2-C05918] Network visualization and analysis of gene expression data using BioLayout Express3D | Nature Protocols | 2009
+   (no abstract)
+[R2-C05925] Photogrammetry and augmented reality for cultural heritage applications | The Photogrammetric Record | 2009
+   Virtual modelling and 3D reconstruction are common tools used in the field of cultural heritage to recreate, analyse and visualise large objects (for example, archaeological sites and architectural buildings) and small objects such as sculptures, ceramic tiles
+[R2-C05927] Pinpoint: A Design Study in Interactive Visualization for Finding People in a Large Organization | Information Visualization | 2009
+   This design study reports on how information visualization was applied to the common problem for knowledge workers to find people with relevant expertise and interests in a large organization. The outcome is the Pinpoint concept, an interactive visualization w
+[R2-C05941] Rapid Multipole Graph Drawing on the GPU | Lecture notes in computer science | 2009
+   (no abstract)
+[R2-C05942] Reaction Centric Layout for Metabolic Networks | Lecture notes in computer science | 2009
+   (no abstract)
+[R2-C05953] “Search, Show Context, Expand on Demand”: Supporting Large Graph Exploration with Degree-of-Interest | IEEE Trans Vis Comput Graph | 2009
+   A common goal in graph visualization research is the design of novel techniques for displaying an overview of an entire graph. However, there are many situations where such an overview is not relevant or practical for users, as analyzing the global structure m
+[R2-C05955] Seeing Past Rivals: Visualizing Evolution of Coordinate Terms over Time | Lecture notes in computer science | 2009
+   (no abstract)
+[R2-C05960] Sizing the horizon: the effects of chart size and layering on the graphical perception of time series visualizations | CHI Conference on Human Factors in Computing Systems | 2009
+   We investigate techniques for visualizing time series data and evaluate their effect in value comparison tasks. We compare line charts with horizon graphs - a space-efficient time series visualization technique - across a range of chart sizes, measuring the sp
+[R2-C05961] Social network visualization in epidemiology | Norsk Epidemiologi | 2009
+   Epidemiological investigations and interventions are increasingly focusing on social networks. Two aspects of social networks are relevant in this regard: the structure of networks and the function of networks. A better understanding of the processes that dete
+[R2-C05962] Social Network Visualization, Methods of | Springer eBooks | 2009
+   (no abstract)
+[R2-C05963] Social networks | Science | 2009
+   (no abstract)
+[R2-C05969] Tangible props for scientific visualization: concept, requirements, application | Virtual Reality | 2009
+   (no abstract)
+[R2-C05972] The Allobrain: An interactive, stereographic, 3D audio, immersive virtual world | International Journal of Human-Computer Studies | 2009
+   (no abstract)
+[R2-C05974] The Benefits of Synchronous Collaborative Information Visualization: Evidence from an Experimental Evaluation | IEEE Transactions on Visualization and Computer Graphics | 2009
+   A great corpus of studies reports empirical evidence of how information visualization supports comprehension and analysis of data. The benefits of visualization for synchronous group knowledge work, however, have not been addressed extensively. Anecdotal evide
+[R2-C05975] The Engineering of Mixed Reality Systems | Human-computer interaction series | 2009
+   (no abstract)
+[R2-C05976] The eXperience Induction Machine: A New Paradigm for Mixed-Reality Interaction Design and Psychological Experimentation | Human-computer interaction series | 2009
+   (no abstract)
+[R2-C05977] The graph camera | ACM Transactions on Graphics | 2009
+   A conventional pinhole camera captures only a small fraction of a 3-D scene due to occlusions. We introduce the graph camera, a non-pinhole with rays that circumvent occluders to create a single layer image that shows simultaneously several regions of interest
+[R2-C05982] The Neighborhood Auditing Tool: A Hybrid Interface for Auditing the UMLS | Journal of Biomedical Informatics | 2009
+   The UMLS’s integration of more than 100 source vocabularies, not necessarily consistent with one another, causes some inconsistencies. The purpose of auditing the UMLS is to detect such inconsistencies and to suggest how to resolve them while observing the req
+[R2-C05985] The Physical Visualization of Information: Designing Data Sculptures in an Educational Context | Springer eBooks | 2009
+   (no abstract)
+[R2-C05989] The Small Project Observatory: Visualizing software ecosystems | Science of Computer Programming | 2009
+   (no abstract)
+[R2-C05995] The Virtual Mirror: A New Interaction Paradigm for Augmented Reality Environments | IEEE Transactions on Medical Imaging | 2009
+   Medical augmented reality (AR) has been widely discussed within the medical imaging as well as computer aided surgery communities. Different systems for exemplary medical applications have been proposed. Some of them produced promising results. One major issue
+[R2-C05999] Topology-aware navigation in large networks | CHI Conference on Human Factors in Computing Systems | 2009
+   Applications supporting navigation in large networks are used every days by millions of people. They include road map navigators, flight route visualization systems, and network visualization systems using node-link diagrams. These applications currently provi
+[R2-C06006] TugGraph: Path-preserving hierarchies for browsing proximity and paths in graphs | Proceedings of IEEE Pacific Visualization (PacificVis) | 2009
+   Many graph visualization systems use graph hierarchies to organize a large input graph into logical components. These approaches detect features globally in the data and place these features inside levels of a hierarchy. However, this feature detection is a gl
+[R2-C06007] Using Force-Based Graph Layout for Clustering of Relational Data | Lecture notes in computer science | 2009
+   (no abstract)
+[R2-C06008] VANLO - Interactive visual exploration of aligned biological networks | BMC Bioinformatics | 2009
+   BACKGROUND: Protein-protein interaction (PPI) is fundamental to many biological processes. In the course of evolution, biological networks such as protein-protein interaction networks have developed. Biological networks of different species can be aligned by f
+[R2-C06009] ViGOR: a grouping oriented interface for search and retrieval in video libraries | ACM/IEEE Joint Conference on Digital Libraries | 2009
+   In this paper, we present ViGOR (Video Grouping, Organisation and Retrieval) a video retrieval system that allows users to group videos in order to facilitate video retrieval tasks. In this way users are able to visualise and conceptualise many aspects of thei
+[R2-C06012] Visual analysis of graphs with multiple connected components | IEEE Conference on Visual Analytics Science and Technology ( | 2009
+   In this paper, we present a system for the interactive visualization and exploration of graphs with many weakly connected components. The visualization of large graphs has recently received much research attention. However, specific systems for visual analysis
+[R2-C06013] Visual Analysis of History of World Cup: A Dynamic Network with Dynamic Hierarchy and Geographic Clustering | Springer eBooks | 2009
+   (no abstract)
+[R2-C06016] Visual Data Mining in Immersive Virtual Environment Based on 4K Stereo Images | Lecture notes in computer science | 2009
+   (no abstract)
+[R2-C06018] Visualisation hybride des liens hiérarchiques incorporant des treemaps dans une matrice d'adjacence | Conference on l'Interaction Homme-Machine (IHM) | 2009
+   Compound graphs are often useful for modeling components of hierarchical systems. While node-link diagrams can be used to visualize these graphs, adjacency matrices have the advantage of eliminating occlusion between edges, even in dense networks. However, mat
+[R2-C06019] Visualization in Ontology Tools | ... International Conference on Complex, Intelligent and Sof | 2009
+   With a literature study we found an enormous number of ontology visualization tools. Many of them apply graph visualization but there are other approaches as well. We have identified interesting solutions for dealing with the complexity of large ontologies. On
+[R2-C06020] Visualization of clustered directed acyclic graphs with node interleaving | ACM Symposium on Applied Computing | 2009
+   Graph drawing and visualization represent structural information as diagrams of abstract graphs and networks. An important subset of graphs is directed acyclic graphs (DAGs). E-Spring algorithm, extended from the popular spring embedder model, eliminates node 
+[R2-C06021] Visualization of Sustainable Construction |  | 2009
+   (no abstract)
+[R2-C06022] Visualization of Two Parameters in a Three-Dimensional Environment | Advances in intelligent and soft computing | 2009
+   (no abstract)
+[R2-C06023] Visualization Techniques for Interactive Exploration of Correlation Data |  | 2009
+   (no abstract)
+[R2-C06024] Visualizing Biodiversity with Voronoi Treemaps | International Symposium on Voronoi Diagrams in Science and E | 2009
+   Introduced in 2005, the Voronoi treemap algorithm is an information visualization technique for displaying hierarchical data. Voronoi treemaps use weighted, centroidal Voronoi diagrams to create a nested tessellation of convex polygons. However, despite appeal
+[R2-C06027] Visualizing networks using adjacency matrices: Progresses and challenges | International Conference on Computer-Aided Design and Comput | 2009
+   Visualizing networks has become a very important research and application topic in the recent years, due to the availability of network data through the web, but also to the need of analyzing several types of networks such as computer networks, social networks
+[R2-C06028] Visualizing the drug target landscape | Drug Discovery Today | 2009
+   (no abstract)
+[R2-C06040] 3D Edge Bundling for Geographical Data Visualization | International Conference on Information Visualisation (IV) | 2010
+   Visualization of graphs containing many nodes and edges efficiently is quite challenging since representations generally suffer from visual clutter induced by the large amount of edge crossings and node-edge overlaps. That problem becomes even more important w
+[R2-C06042] 3D techniques for visualizing user activities on microblogs | International Conference on Frontier Computing: Theory, Tech | 2010
+   Microblogging platforms such as Twitter have recently attracted attention and gained popularity. By using them, people can easily write their opinions and comments on events in the real world in real time. Content on the timeline of Twitter immediately reflect
+[R2-C06044] A Comparison between Political Claims Analysis and Discourse Network Analysis: The Case of Software Patents in the European Union | SSRN Electronic Journal | 2010
+   (no abstract)
+[R2-C06048] A framework for volume segmentation and visualization using Augmented Reality | IEEE Symposium on 3D User Interfaces (3DUI) | 2010
+   We propose a two-handed direct manipulation system to achieve complex volume segmentation of CT/MRI data in Augmented Reality with a remote controller attached to a motion tracking cube. At the same time segmented data is displayed by direct volume rendering u
+[R2-C06050] A new Kalman filter approach for the estimation of high-dimensional time-variant multivariate AR models and its application in analysis of laser-evoked brain potentials | NeuroImage | 2010
+   (no abstract)
+[R2-C06051] A Novel Grid-Based Visualization Approach for Metabolic Networks with Advanced Focus&Context View | Lecture notes in computer science | 2010
+   (no abstract)
+[R2-C06053] A Participatory Design for the Visualization of Airspace Configuration Forecasts | HAL | 2010
+   Abstract — Currently, airspace-related activities in Air Traffic Control Centers (ATCC) are dispatched between the Flow Management Position (FMP) operators and the control room manager, and take place in two different time frames. The first activity (FMP) is t
+[R2-C06055] A retrospective on how the application of data integration and visualisation has been used to connect disparate information sources into a drug-discovery focused, decision making environment. Visualizing the drug target landscape |  | 2010
+   (no abstract)
+[R2-C06056] A set of multi-touch graph interaction techniques | ACM International Conference on Interactive Tabletops and Su | 2010
+   Interactive node-link diagrams are useful for describing and exploring data relationships in many domains such as network analysis and transportation planning. We describe a multi-touch interaction technique set (IT set) that focuses on edge interactions for n
+[R2-C06061] An Algebra for Visual Analysis |  | 2010
+   Abstract—Visual analytics that combine analytical techniques with advanced visualization features is fast becoming a standard tool in extracting information from complex data. A number of sophisticated tools have been developed for this purpose, which necessit
+[R2-C06062] An augmented reality interface to contextual information | Virtual Reality | 2010
+   (no abstract)
+[R2-C06064] An automatic generation of schematic maps to display flight routes for air traffic controllers: structure and color optimization | International Conference on Advanced Visual Interfaces (AVI) | 2010
+   Aircraft must follow strict Air Traffic Control (ATC) rules. One of these rules is that aircraft have to fly over pre-defined Flight Routes (FR). Current ATC visualizations do not display FRs because they are numerous and run into each other, and thus spoil th
+[R2-C06068] An eye tracking study on the effects of layout in understanding the role of design patterns | IEEE International Conference on Software Maintenance (ICSM) | 2010
+   The effect of layout in the comprehension of design pattern roles in UML class diagrams is assessed. This work replicates and extends a previous study using questionnaires but uses an eye tracker to gather additional data. The purpose of the replication is to 
+[R2-C06070] An interactive augmented reality system for learning anatomy structure |  | 2010
+   (no abstract)
+[R2-C06071] An Interactive Visualization Framework for Time-Series of Web Graphs in a 3D Environment | International Conference on Information Visualisation (IV) | 2010
+   We propose an interactive framework for the 3D visualization of the time-series of Web graphs. The purpose of our framework is to enable users to examine the evolution of Web graphs by comparing multiple graphs that have different timings and topics. To achiev
+[R2-C06072] Analyzing conversations with dynamic graph visualization | International Conference on Intelligent Systems Design and A | 2010
+   In this paper, we consider the problem of analysis and visualization of online conversations (chat histories, email archives, etc.). We present a dynamic graph drawing algorithm based on modification of multidimensional scaling. The algorithm builds a layout o
+[R2-C06074] Analyzing Social Media Networks with NodeXL: Insights from a Connected World |  | 2010
+   Businesses, entrepreneurs, individuals, and government agencies alike are looking to social network analysis (SNA) tools for insight into trends, connections, and fluctuations in social media. Microsoft's NodeXL is a free, open-source SNA plug-in for use with 
+[R2-C06077] Atlas of Science: Visualizing What We Know | Journal of the American Society for Information Science and  | 2010
+   (no abstract)
+[R2-C06078] Augmented Reality in Museum Environments |  | 2010
+   (no abstract)
+[R2-C06079] Augmented reality to enhance visitors experience in a digital zoo | International Conference on Mobile and Ubiquitous Multimedia | 2010
+   In this paper we propose three tire based protocol for augmented reality application on mobile phones for animal situation awareness and tracking system in a wireless sensor network. We have developed and deployed an animal tracking system in a local zoo that 
+[R2-C06080] Automated Positioning of Annotations in Immersive Virtual Environments | RWTH Publications (RWTH Aachen) | 2010
+   The visualization of scientific data sets can be enhanced by providing additional information that aids the data analysis process. This information is represented by so called annotations, which contain descriptive meta data about the underlying visualization.
+[R2-C06084] Basic notions on social network analysis - dealing with 2-mode networks | Technical report | 2010
+   (no abstract)
+[R2-C06089] Bundle-Centric Visualization of Compound Digraphs | University of Groningen research database (University of Gro | 2010
+   (no abstract)
+[R2-C06090] Caleydo: Design and evaluation of a visual analysis framework for gene expression data in its biological context | IEEE Pacific Visualization Symposium | 2010
+   The goal of our work is to support experts in the process of hypotheses generation concerning the roles of genes in diseases. For a deeper understanding of the complex interdependencies between genes, it is important to bring gene expressions (measurements) in
+[R2-C06091] CELLMICROCOSMOS 4.1 - An Interactive Approach to Integrating Spatially Localized Metabolic Networks into a Virtual 3D Cell Environment | BIOINFORMATICS 2010 - Proceedings of the 1st International C | 2010
+   The high potential of Bioinformatics research concerning quantitative and qualitative data acquisition such as data warehouses, spatial structure prediction and 3D microscopy conveys the vision of generating a computational virtual cell. This paper discusses a
+[R2-C06092] Clutching at straws: using tangible interaction to provide non-visual access to graphs | CHI Conference on Human Factors in Computing Systems | 2010
+   We present a tangible user interface (TUI) called Tangible Graph Builder, that has been designed to allow visually impaired users to access graph and chart-based data. We describe the current paper-based materials used to allow independent graph construction a
+[R2-C06093] Collaborative Visualization on Interactive Surfaces - CoVIS '09 |  | 2010
+   (no abstract)
+[R2-C06094] Collaborative Visualization on Interactive Surfaces - Covis '09 the Workshop Technical Scope Collaborative Visualization on Interactive Surfaces (covis) Role of Multiple Display Environments (mdes) Role of Users Role of Design Processes Role of Evaluation Tracking for Multi-user Collaboration on Cam |  | 2010
+   (no abstract)
+[R2-C06097] Communities and hierarchical structures in dynamic social networks: analysis and visualization | Social Network Analysis and Mining | 2010
+   (no abstract)
+[R2-C06103] ContexTour: Contextual Contour Visual Analysis on Dynamic Multi-Relational Clustering | SIAM International Conference on Data Mining | 2010
+   Huge amounts of rich context social network data are generated everyday from various applications such as FaceBook and Twitter. These data involve multiple social relations which are community-driven and dynamic in nature. The complex interplay of these charac
+[R2-C06104] Controlling Presentation Speed, Labels, and Tooltips in Interactive Animations | J. Media Psychol.: Theor. Methods Appl. | 2010
+   The experiment investigated whether controlling presentation speed as well as labels, which display the names of the currently presented nodes in interactive dynamic graphs, affects comprehension performance. Dynamic graphs are animated graphical representatio
+[R2-C06107] Cytoscape 2.8: new features for data integration and network visualization | Bioinformatics | 2010
+   UNLABELLED: Cytoscape is a popular bioinformatics package for biological network visualization and data integration. Version 2.8 introduces two powerful new features--Custom Node Graphics and Attribute Equations--which can be used jointly to greatly enhance Cy
+[R2-C06111] Decoding brain states from fMRI connectivity graphs | NeuroImage | 2010
+   (no abstract)
+[R2-C06115] Difference Map Readability for Dynamic Graphs | Lecture notes in computer science | 2010
+   (no abstract)
+[R2-C06118] Do you see what I hear: experiments in multi-channel sound and 3D visualization for network monitoring? | Proceedings of SPIE, the International Society for Optical E | 2010
+   Detection of intrusions is a continuing problem in network security. Due to the large volumes of data recorded in Web server logs, analysis is typically forensic, taking place only after a problem has occurred. This paper describes a novel method of representi
+[R2-C06119] Drawing Method Combined With Matrix Representation and Anchored Map for Semi-Bipartite Graph | 全国大会講演論文集 | 2010
+   (no abstract)
+[R2-C06127] Evaluating depth perception of photorealistic mixed reality visualizations for occluded objects in outdoor environments | Symposium on Virtual Reality | 2010
+   Enabling users to accurately perceive the correct depth of occluded objects is one of the major challenges in user interfaces for Mixed Reality (MR). Therefore, several visualization techniques and user evaluations for this area have been published. Our resear
+[R2-C06129] Explorative graph visualization |  | 2010
+   (no abstract)
+[R2-C06135] From Databases to Graph Visualization | International Conference on Information Visualisation (IV) | 2010
+   The first step of any information visualization system is to enable end user to import their dataset into the system. However, non expert user are faced to the difficult task of choosing how their data should/could be transform to be used in these Infovis syst
+[R2-C06136] From ‘differential expression’ to ‘differential networking’ – identification of dysfunctional regulatory networks in diseases | Trends Genet. | 2010
+   (no abstract)
+[R2-C06143] Graph Drawing Aesthetics—Created by Users, Not Algorithms | IEEE Transactions on Visualization and Computer Graphics | 2010
+   Prior empirical work on layout aesthetics for graph drawing algorithms has concentrated on the interpretation of existing graph drawings. We report on experiments which focus on the creation and layout of graph drawings: participants were asked to draw graphs 
+[R2-C06145] Graphical Perception of Multiple Time Series | IEEE Transactions on Visualization and Computer Graphics | 2010
+   Line graphs have been the visualization of choice for temporal data ever since the days of William Playfair (1759-1823), but realistic temporal analysis tasks often include multiple simultaneous time series. In this work, we explore user performance for compar
+[R2-C06148] Growing Neural Gas Sonification Model for Interactive Surfaces | Proc of the Interactive Sonification Workshop | 2010
+   In this paper we present our reimplementation of the Growing Neural Gas Sonificationfor interactive Interfaces such as our t-Desk or touch-capable tablet PCs. Growing Neural Gas (GNG) is an undirected learning algorithm that incrementally ’grows’ a network gra
+[R2-C06153] Image‐Based Edge Bundles: Simplified Visualization of Large Graphs | Comput Graph Forum | 2010
+   We present a new approach aimed at understanding the structure of connections in edge‐bundling layouts. We combine the advantages of edge bundles with a bundle‐centric simplified visual representation of a graph's structure. For this, we first compute a hierar
+[R2-C06154] Image-based ghostings for single layer occlusions in augmented reality | Proceedings - International Symposium on Mixed and Augmented | 2010
+   In augmented reality displays, X-Ray visualization techniques make hidden objects visible through combining the physical view with an artificial rendering of the hidden information. An important step in X-Ray visualization is to decide which parts of the physi
+[R2-C06155] Immersive Visualization Architectures and Situated Embodiments of Culture and Heritage | International Conference on Information Visualisation (IV) | 2010
+   This paper describes a series of transdisciplinary research projects in five large-scale, interactive visualization architectures. These immersive architectures and their associated visual, sonic and algorithmic techniques offer compelling means for mapping an
+[R2-C06162] Interactive Visualizations of Natural Language |  | 2010
+   (no abstract)
+[R2-C06167] KC-Viz: A Novel Approach to Visualizing and Navigating Ontologies | International Conference Knowledge Engineering and Knowledge | 2010
+   (no abstract)
+[R2-C06172] Managing and Mining Graph Data | The Kluwer international series on advances in database syst | 2010
+   (no abstract)
+[R2-C06176] Mental map preservation principles and related measurements for quantitative evaluation of force-directed graph layout algorithm behaviour | Summit (Simon Fraser University) | 2010
+   Users working with graph layouts form mental maps of the layout's parts and relative structure.When a graph layout is changed, the user's mental map should be preserved.In the field of graph drawing, there is a need for quantitative and objective measurements 
+[R2-C06181] MetNetGE: interactive views of biological networks and ontologies | BMC Bioinformatics | 2010
+   BACKGROUND: Linking high-throughput experimental data with biological networks is a key step for understanding complex biological systems. Currently, visualization tools for large metabolic networks often result in a dense web of connections that is difficult 
+[R2-C06189] Multidimensional data dissection using attribute relationship graphs | IEEE Conference on Visual Analytics Science and Technology ( | 2010
+   Visual exploration and analysis is a process of discovering and dissecting the abundant and complex attribute relationships that pervade multidimensional data. Recent research has identified and characterized patterns of multiple coordinated views, such as cro
+[R2-C06192] Navigating a Speckled World: Interacting with Wireless Sensor Networks |  | 2010
+   The Speckled Computing project is a large multisite research project based in Scotland, UK. The aim of the project is to investigate, prototype, and produce tiny (1mm3) computational devices, called Specks, that can be configured into wireless sensor networks,
+[R2-C06193] Network-based statistic: Identifying differences in brain networks | NeuroImage | 2010
+   (no abstract)
+[R2-C06199] Novel Visualizations and Interactions for Social Networks Exploration | Springer eBooks | 2010
+   (no abstract)
+[R2-C06200] On the future of graph drawing | Invited talk 18th International Symposium on Graph Drawing | 2010
+   (no abstract)
+[R2-C06202] Optimal 3D Angular Resolution for Low-Degree Graphs | Lecture notes in computer science | 2010
+   (no abstract)
+[R2-C06204] Parallel Distances Analyzing Multi-Level Relationships in Networks |  | 2010
+   This paper introduces a new type of visualization that supports the study of queries concerning relationships between different groups of nodes in a network. It allows a user performing a search for a multi-leveled relationship within a graph to see how each p
+[R2-C06208] Pixel-Oriented Visualization of Change in Social Networks | IEEE/ACM International Conference on Advances in Social Netw | 2010
+   We propose a new approach to visualize social networks. Most common network visualizations rely on graph drawing. While without doubt useful, graphs suffer from limitations like cluttering and important patterns may not be realized especially when networks cha
+[R2-C06209] Political Discourse Networks - The missing link in the study of policy-oriented discourse ∗ |  | 2010
+   (no abstract)
+[R2-C06213] Proceedings of IEEE Symposium on Information Visualization (InfoVis) Poster Compendium |  | 2010
+   (no abstract)
+[R2-C06214] Proceedings of the 9th International Symposium on Graph Drawing |  | 2010
+   (no abstract)
+[R2-C06221] Réalisation d'un outil de simulation de réseaux sociaux multiplexes | Archipel (Université du Québec à Montréal) | 2010
+   Nous présentons dans ce document notre projet de recherche dans le cadre de la maitrise en informatique de l'université du Québec à Montréal. Dans le cadre de cette maîtrise nous avons conçu un langage de modélisation de réseaux sociaux permettant de modéliser
+[R2-C06225] Resting-state fMRI can reliably map neural networks in children | NeuroImage | 2010
+   (no abstract)
+[R2-C06232] SemaSun: Visualization of Semantic Knowledge based on an improved Sunburst Visualization Metaphor | TUbilio (Technical University of Darmstadt) | 2010
+   Ontologies have become an established data model for conceptualizing knowledge entities and describing semantic relationships between them. They are used to model the concepts of specific domains and are widespread in the areas of the semantic web, digital lib
+[R2-C06238] SmallWorlds: Visualizing Social Recommendations | Computer Graphics Forum | 2010
+   We present SmallWorlds, a visual interactive graph‐based interface that allows users to specify, refine and build item‐preference profiles in a variety of domains. The interface facilitates expressions of taste through simple graph interactions and these prefe
+[R2-C06240] Social networks | KOPS (University of Konstanz) | 2010
+   Social networks provide a rich source of graph drawing problems, because they appear in an incredibly wide variety of forms and contexts. After sketching the scope of social network analysis, we establish some general principles for social network visualizatio
+[R2-C06241] Social networks | KOPS (University of Konstanz) | 2010
+   Social networks provide a rich source of graph drawing problems, because they appear in an incredibly wide variety of forms and contexts. After sketching the scope of social network analysis, we establish some general principles for social network visualizatio
+[R2-C06242] Social networks | KOPS (University of Konstanz) | 2010
+   Social networks provide a rich source of graph drawing problems, because they appear in an incredibly wide variety of forms and contexts. After sketching the scope of social network analysis, we establish some general principles for social network visualizatio
+[R2-C06254] Statistical parametric network analysis of functional connectivity dynamics during a working memory task | NeuroImage | 2010
+   (no abstract)
+[R2-C06266] Tangible views for information visualization | ACM International Conference on Interactive Tabletops and Su | 2010
+   In information visualization, interaction is commonly carried out by using traditional input devices, and visual feedback is usually given on desktop displays. By contrast, recent advances in interactive surface technology suggest combining interaction and dis
+[R2-C06273] The Network Lens: Interactive Exploration of Multivariate Networks Using Visual Filtering | International Conference on Information Visualisation (IV) | 2010
+   Networks are widely used in modeling relational data often comprised of thousands of nodes and edges. This kind of data alone implies a challenge for its visualization as it is hard to avoid clutter of network elements if using traditional node-link diagrams. 
+[R2-C06274] The Readability of Path‐Preserving Clusterings of Graphs | Computer Graphics Forum | 2010
+   Graph visualization systems often exploit opaque metanodes to reduce visual clutter and improve the readability of large graphs. This filtering can be done in a path‐preserving way based on attribute values associated with the nodes of the graph. Despite exten
+[R2-C06277] TimeMatrix: Analyzing Temporal Social Networks Using Interactive Matrix-Based Visualizations | International Journal of Human-Computer Interaction | 2010
+   Visualization plays a crucial role in understanding dynamic social networks at many different levels (i.e., group, subgroup, and individual). Node-link-based visualization techniques are currently widely used for these tasks and have been demonstrated to be ef
+[R2-C06278] TimeSpiderTrees: A Novel Visual Metaphor for Dynamic Compound Graphs | IEEE Symposium on Visual Languages and Human-Centric Computi | 2010
+   Graphs are a mathematical method to model relations between objects. The most common metaphor to visualize graphs is the node-link technique, which typically suffers from visual clutter caused by many edge crossings. Much research has been done on the developm
+[R2-C06287] Two-handed tangible interaction techniques for composing augmented blocks | Virtual Reality | 2010
+   (no abstract)
+[R2-C06291] Understanding the time variant connectivity of the language network in developmental dyslexia: new insights using Granger causality | J Neural Trans | 2010
+   (no abstract)
+[R2-C06293] Untangling Euler Diagrams | IEEE Transactions on Visualization and Computer Graphics | 2010
+   In many common data analysis scenarios the data elements are logically grouped into sets. Venn and Euler style diagrams are a common visual representation of such set membership where the data elements are represented by labels or glyphs and sets are indicated
+[R2-C06295] User interface design for military AR applications | Virtual Reality | 2010
+   (no abstract)
+[R2-C06296] Using color in visualization: A survey | Computers & Graphics | 2010
+   (no abstract)
+[R2-C06297] Via della Vasca Navale , 79 00146 Roma , Italy Collapsing cliques to get a planar graph is NP-complete |  | 2010
+   (no abstract)
+[R2-C06298] VIDENTE -- 3D Visualization of Underground Infrastructure using Handheld Augmented Reality | Geohydroinformatics-Integrating GIS and Water Engineering&#x | 2010
+   (no abstract)
+[R2-C06299] Virtual Reality and Computational Design | InTech eBooks | 2010
+   Virtual reality (VR) has been used for diverse purposes, including medical surgery training, visualizing metabolic pathways, socio psychological experiments, flight and driving simulation, as well as industrial and architectural design [1-5]. In these applicat
+[R2-C06300] Virtual reality for assembly methods prototyping: a review | Virtual Reality | 2010
+   (no abstract)
+[R2-C06301] Visual analysis of in-car communication networks |  | 2010
+   (no abstract)
+[R2-C06302] Visual Analysis of Large Graphs Using (X,Y)-Clustering and Hybrid Visualizations | IEEE Transactions on Visualization and Computer Graphics | 2010
+   Many different approaches have been proposed for the challenging problem of visually analyzing large networks. Clustering is one of the most promising. In this paper we propose a new goal for clustering that is especially tailored to hybrid-visualization tools
+[R2-C06305] Visual Exploration of Eye Movement Data Using the Space-Time-Cube | Lecture notes in computer science | 2010
+   (no abstract)
+[R2-C06307] Visual Network Analysis of Dynamic Metabolic Pathways | Lecture notes in computer science | 2010
+   (no abstract)
+[R2-C06308] Visual Reasoning about Social Networks Using Centrality Sensitivity | IEEE Transactions on Visualization and Computer Graphics | 2010
+   In this paper, we study the sensitivity of centrality metrics as a key metric of social networks to support visual reasoning. As centrality represents the prestige or importance of a node in a network, its sensitivity represents the importance of the relations
+[R2-C06311] Visualization and Analysis of a Cardio Vascular Diseaseand MUPP1-related Biological Network combining Text Mining and Data Warehouse Approaches | Berichte aus der medizinischen Informatik und Bioinformatik/ | 2010
+   Summary Detailed investigation of socially important diseases with modern experimental methods has resulted in the generation of large volume of valuable data. However, analysis and interpretation of this data needs application of efficient computational techn
+[R2-C06313] Visualization of off-screen objects in mobile augmented reality | International Conference on Human-Computer Interaction with  | 2010
+   An emerging technology for tourism information systems is mobile Augmented Reality using the position and orientation sensors of recent smartphones. State-of-the-art mobile Augmented Reality application accompanies the Augmented Reality visualization with a sm
+[R2-C06317] Visualization of the Static Aspects of Software: A Survey | IEEE Transactions on Visualization and Computer Graphics | 2010
+   Software is usually complex and always intangible. In practice, the development and maintenance processes are time-consuming activities mainly because software complexity is difficult to manage. Graphical visualization of software has the potential to result i
+[R2-C06318] Visualizing Metabolic Pathways and Simulation Results |  | 2010
+   (no abstract)
+[R2-C06319] Visualizing Populated Ontologies with OntoTrix | International Journal on Semantic Web and Information System | 2010
+   Research on visualizing Semantic Web data has yielded many tools that rely on information visualization techniques to better support the user in understanding and editing these data. Most tools structure the visualization according to the concept definitions a
+[R2-C06321] Visualizing the Commonalities Between Hierarchically Structured Data Queries | Distributed Multimedia Systems | 2010
+   Abstract—In this paper we present an information visualization approach for visualizing the intersection between multiple feature hierarchies. In cases where a dataset has multiple complex features of interest, especially ones that have been hierarchically clu
+[R2-C06322] Wakame: sense making of multi-dimensional spatial-temporal data | International Conference on Advanced Visual Interfaces (AVI) | 2010
+   As our ability to measure the world around us improves, we are quickly generating massive quantities of high-dimensional, spatial-temporal data. In this paper, we concern ourselves with datasets in which the spatial characteristics are relatively static but ma
+[R2-C06324] Winding Roads: Routing edges into bundles | Computer Graphics Forum | 2010
+   Visualizing graphs containing many nodes and edges efficiently is quite challenging. Drawings of such graphs generally suffer from visual clutter induced by the large amount of edges and their crossings. Consequently it is difficult to read the relationships b
+[R2-C06325] Yi , J.-S. , Elmqvist , N. , and Lee , S. TimeMatrix: Visualizing Temporal Social Networks Using Interactive Matrix-Based Visualizations. IJHCI 26 , 11 -- 12 ( 2010 ), 1031--1051. Yi, J.-S., Elmqvist, N., and Lee, S. TimeMatrix: Visualizing Temporal Social Networks Using Interactive Matrix-Based Visualizations. IJHCI 26, 11--12 (2010), 1031--1051. | TimeMatrix: Visualizing Temporal Social Networks Using Inter | 2010
+   (no abstract)
+[R2-C06330] 2011 International Conference on Computational Aspects of Social Networks (CASoN) |  | 2011
+   (no abstract)
+[R2-C06332] 3DScape: three dimensional visualization plug-in for Cytoscape | Nature Precedings | 2011
+   3DScape is the first plug-in which enables three-dimensional network visualization in Cytoscape. The extra dimension is useful in accommodating, visualizing, and distinguishing larger networks with multiple crossing connections.Special features in 3DScape incl
+[R2-C06333] A degree centrality in multi-layered social network | International Conference on Computational Aspects of Social  | 2011
+   Multi-layered social networks reflect complex relationships existing in modern interconnected IT systems. In such a network each pair of nodes may be linked by many edges that correspond to different communication or collaboration user activities. Multi-layere
+[R2-C06336] A General Introduction To Graph Visualization Techniques | Visualization of Large and Unstructured Data Sets: Applicati | 2011
+   Generally, a graph is an abstract data type used to represent relations among a given set of data entities. Graphs are used in numerous applications within the field of information visualization, such as VLSI (circuit schematics), state-transition diagrams, an
+[R2-C06337] A Novel Approach to Visualizing and Navigating Ontologies | Lecture notes in computer science | 2011
+   (no abstract)
+[R2-C06338] A Quantitative Comparison of Stress-Minimization Approaches for Offline Dynamic Graph Drawing | Lecture notes in computer science | 2011
+   (no abstract)
+[R2-C06340] A Study on Social Network Services Visualization Based on User Needs | Lecture notes in computer science | 2011
+   (no abstract)
+[R2-C06342] A systematic approach to the one-mode projection of bipartite graphs | Soc Netw Anal Min | 2011
+   (no abstract)
+[R2-C06344] Aesthetic of angular resolution for node-link diagrams: Validation and algorithm | IEEE Symposium on Visual Languages and Human-Centric Computi | 2011
+   When visualizing graphs into node-link diagrams, angular resolution is often used as one of the aesthetic criteria measuring the diagram quality in terms of human comprehension. However, angular resolution has not been empirically validated for its relevance t
+[R2-C06345] Alternative approaches of transforming bimodal into unimodal mutualistic networks. The usefulness of preserving weighted information | Basic and Applied Ecology | 2011
+   (no abstract)
+[R2-C06346] Ambiguity-Free Edge-Bundling for Interactive Graph Visualization | IEEE Transactions on Visualization and Computer Graphics | 2011
+   Graph visualization has been widely used to understand and present both global structural and local adjacency information in relational data sets (e.g., transportation networks, citation networks, or social networks). Graphs with dense edges, however, are diff
+[R2-C06350] An extended evaluation of the readability of tapered, animated, and textured directed-edge representations in node-link graphs | IEEE Pacific Visualization Symposium | 2011
+   We present the results of a study comparing five directed-edge representations for use in 2D, screen-based node-link diagrams. The goal of this work is to extend the understanding of tradeoffs and best practices for the representation of edges in directed grap
+[R2-C06351] An Introduction to Social Network Data Analytics | Springer eBooks | 2011
+   (no abstract)
+[R2-C06353] Analyzing and visualizing residue networks of protein structures | Trends in Biochemical Sciences | 2011
+   (no abstract)
+[R2-C06354] Analyzing Evolution of Network Attributes and Content with NetFlow : A Network Evolution Visualization Tool |  | 2011
+   (no abstract)
+[R2-C06359] Apolo: making sense of large network data by combining rich user interaction and machine learning | CHI Conference on Human Factors in Computing Systems | 2011
+   Extracting useful knowledge from large network datasets has become a fundamental challenge in many domains, from scientific literature to social networks and the web. We introduce Apolo, a system that uses a mixed-initiative approach - combining visualization,
+[R2-C06364] Augmented Reality Prototype for Visualising Large Sensors’ Datasets | TELKOMNIKA (Telecommunication Computing Electronics and Cont | 2011
+   This paper addressed the development of an augmented reality (AR) based scientific visualization system prototype that supports identification, localisation, and 3D visualisation of oil leakages sensors datasets. Sensors generates significant amount of multiva
+[R2-C06365] Augmented Viewport: Towards precise manipulation at a distance for outdoor augmented reality wearable computers | Springer eBooks | 2011
+   (no abstract)
+[R2-C06371] Benefitting InfoVis with Visual Difficulties | IEEE Transactions on Visualization and Computer Graphics | 2011
+   Many well-cited theories for visualization design state that a visual representation should be optimized for quick and immediate interpretation by a user. Distracting elements like decorative "chartjunk" or extraneous information are avoided so as not to slow 
+[R2-C06375] Brain Networks |  | 2011
+   (no abstract)
+[R2-C06376] CAVE-SOM: Immersive visual data mining using 3D Self-Organizing Maps | International Joint Conference on Neural Networks (IJCNN) | 2011
+   Data mining techniques are becoming indispensable as the amount and complexity of available data is rapidly growing. Visual data mining techniques attempt to include a human observer in the loop and leverage human perception for knowledge extraction. This is c
+[R2-C06380] Chapter 3 Visualization Techniques for Augmented Reality |  | 2011
+   (no abstract)
+[R2-C06383] Chemcave3d: Sistema de visualiza&#x00E7;&#x00E3;o imersivo e interativo de mol&#x00E9;culas 3d | Workshop de Realidade Virtual e Au-mentada | 2011
+   (no abstract)
+[R2-C06384] ChronAtlas : A Visualization for Dynamic Topic Exploration |  | 2011
+   (no abstract)
+[R2-C06387] Coherent Time-Varying Graph Drawing with Multifocus+Context Interaction | IEEE Transactions on Visualization and Computer Graphics | 2011
+   We present a new approach for time-varying graph drawing that achieves both spatiotemporal coherence and multifocus+context visualization in a single framework. Our approach utilizes existing graph layout algorithms to produce the initial graph layout, and for
+[R2-C06391] Combined vs. Separate Views in Matrix-based Graph Analysis and Comparison | International Conference on Information Visualisation (IV) | 2011
+   While much work has been done in the area of visualization for analysis of graphs, relatively little research exists into how best to use visualization for comparing graphs. We have developed a suite of general graph comparison questions that can be tailored t
+[R2-C06403] Correlated multiplexity and connectivity of multiplex random networks | New Journal of Physics | 2011
+   Abstract. Nodes in a complex networked system often engage in more than one type of interactions among them; they form a multiplex network with multiple types of links. In real-world complex systems, a node’s degree for one type of links and that for the other
+[R2-C06404] Cover-VT: Converged Security Visualization Tool | IFIP/IEEE International Symposium on Integrated Network Mana | 2011
+   The amount of data that floods today's networks is well beyond what security analysts can manage by textual means alone. In an effort to solve this problem, researchers have explored different methods of visualizing network security threats. There is little de
+[R2-C06405] Creating views on integrated multidomain data | Bioinformatics | 2011
+   MOTIVATION: Modern data acquisition methods in biology allow the procurement of different types of data in increasing quantity, facilitating a comprehensive view of biological systems. As data are usually gathered and interpreted by separate domain scientists,
+[R2-C06406] Current Challenges for Mobile Location-Based Pervasive Content Sharing Application | Ubiquitous Computing | 2011
+   IntroductionWeb 2.0 and social software are changing the way millions of users communicate: digital citizens are not only content receptors but also contributors to content creation, collaborating in social networks or communities.Pervasive computing can incre
+[R2-C06413] Design and Evaluation of MagnetViz—A Graph Visualization Tool | IEEE Transactions on Visualization and Computer Graphics | 2011
+   MagnetViz was designed for the interactive manipulation of force-directed graph layouts, allowing the user to obtain visualizations based on the graph topology and/or the attributes of its nodes and edges. The user can introduce virtual magnets anywhere in the
+[R2-C06414] Design and Implement Augmented Reality for Supporting Driving Visual Guidance | International Conference on Innovations in Bio-inspired Comp | 2011
+   It is an important issue that let drivers obtain driving information easily. There are many advanced electronic devices used for driving safety assistance. During driving a car, the driver receives the information passed by these systems. But with more functio
+[R2-C06415] Design Study of LineSets, a Novel Set Visualization Technique | IEEE Transactions on Visualization and Computer Graphics | 2011
+   Computing and visualizing sets of elements and their relationships is one of the most common tasks one performs when analyzing and organizing large amounts of data. Common representations of sets such as convex or concave geometries can become cluttered and di
+[R2-C06416] Developing and Evaluating Quilts for the Depiction of Large Layered Graphs | IEEE Transactions on Visualization and Computer Graphics | 2011
+   Traditional layered graph depictions such as flow charts are in wide use. Yet as graphs grow more complex, these depictions can become difficult to understand. Quilts are matrix-based depictions for layered graphs designed to address this problem. In this rese
+[R2-C06420] Divided Edge Bundling for Directional Network Data | IEEE Transactions on Visualization and Computer Graphics | 2011
+   The node-link diagram is an intuitive and venerable way to depict a graph. To reduce clutter and improve the readability of node-link views, Holten & van Wijk's force-directed edge bundling employs a physical simulation to spatially group graph edges. While bo
+[R2-C06421] Drawing graphs with right angle crossings | Theoret. Comput. Sci. | 2011
+   (no abstract)
+[R2-C06422] Drawing Semi-bipartite Graphs in Anchor+Matrix Style | International Conference on Information Visualisation (IV) | 2011
+   A bipartite graph consists of a set of nodes that can be divided into two partitions such that no edge has both endpoints in the same partition. A semi-bipartite graph is a bipartite graph with edges in one partition. Anchored map is a graph drawing technique 
+[R2-C06424] Dynamic network visualization in 1.5D | IEEE Pacific Visualization Symposium | 2011
+   The dynamic network visualization has been a challenging topic due to the complexity introduced by the extra time dimension. Existing solutions to this problem are usually good for the overview and presentation, but not for the interactive analysis. We propose
+[R2-C06426] EdgeAnalyzer: Exploratory Analysis through Advanced Edge Interaction | Hawaii International Conference on System Sciences (HICSS) | 2011
+   Overdraw and edge crossings are common problems during the exploration of large graphs. Layout methods, such as edge bundling, have been applied to diminish this problem. They often come at the cost of introducing local ambiguities and losing connectivity deta
+[R2-C06427] EdgeMaps: visualizing explicit and implicit relations | Proceedings of SPIE, the International Society for Optical E | 2011
+   In this work, we introduce EdgeMaps as a new method for integrating the visualization of explicit and implicit data relations. Explicit relations are specific connections between entities already present in a given dataset, while implicit relations are derived
+[R2-C06428] Effective Temporal Graph Layout: A Comparative Study of Animation versus Static Display Methods | Information Visualization | 2011
+   Graph drawing algorithms have classically addressed the layout of static graphs. However, the need to draw evolving or dynamic graphs has brought into question many of the assumptions, conventions and layout methods designed to date. For example, social scient
+[R2-C06435] ePlant and the 3D Data Display Initiative: Integrative Systems Biology on the World Wide Web | PLoS ONE | 2011
+   Visualization tools for biological data are often limited in their ability to interactively integrate data at multiple scales. These computational tools are also typically limited by two-dimensional displays and programmatic implementations that require separa
+[R2-C06436] Establishing aesthetics based on human graph reading behavior: two eye tracking studies | Personal and Ubiquitous Computing | 2011
+   (no abstract)
+[R2-C06437] Etude exploratoire du stylo électronique pour le Contrôle Aérien | Conference on l'Interaction Homme-Machine (IHM) | 2011
+   Current environment used by air traffic controllers mixes digital visualizations (radar screen), and tangible systems with paper strip. Despite the fact that paper strip are robust, flexible and complementary to the radar screen, authorities decided to abandon
+[R2-C06440] Evaluation of HaloDot: Visualization of Relevance of Off-Screen Objects with over Cluttering Prevention on Mobile Devices | Lecture notes in computer science | 2011
+   (no abstract)
+[R2-C06448] Exploring novel interfaces for 3d visualization of reservoir simulation post-processing data | Libraries and Cultural Resources (University of Calgary) | 2011
+   (no abstract)
+[R2-C06449] Exploring the Design Space for Situated Glyphs to Support Dynamic Work Environments | Lecture notes in computer science | 2011
+   (no abstract)
+[R2-C06450] Exploring the Relative Importance of Number of Edge Crossings and Size of Crossing Angles: A Quantitative Perspective | UTAS Research Repository | 2011
+   Recent research has indicated that human graph reading performance can be affected by the size ofcrossing angles. The aesthetic of crossing angles is closely related to another aesthetic factor: edgecrossings. Although the number of edge crossings has been pre
+[R2-C06457] Force-Directed Lombardi-Style Graph Drawing | Lecture notes in computer science | 2011
+   (no abstract)
+[R2-C06462] G-PARE: A visual analytic tool for comparative analysis of uncertain graphs | IEEE Conference on Visual Analytics Science and Technology ( | 2011
+   There are a growing number of machine learning algorithms which operate on graphs. Example applications for these algorithms include predicting which customers will recommend products to their friends in a viral marketing campaign using a customer network, pre
+[R2-C06466] GPU‐accelerated atom and dynamic bond visualization using hyperballs: A unified algorithm for balls, sticks, and hyperboloids | Journal of Computational Chemistry | 2011
+   Ray casting on graphics processing units (GPUs) opens new possibilities for molecular visualization. We describe the implementation and calculation of diverse molecular representations such as licorice, ball-and-stick, space-filling van der Waals spheres, and 
+[R2-C06467] Graph Drawing | Lecture notes in computer science | 2011
+   (no abstract)
+[R2-C06468] Graph Drawing: 18th International Symposium, GD 2010, Konstanz, Germany, September 21-24, 2010. Revised Selected Papers | Lecture notes in computer science | 2011
+   (no abstract)
+[R2-C06469] Graph Visualization | International Symposium Graph Drawing and Network Visualizat | 2011
+   (no abstract)
+[R2-C06470] Graph Visualization and Interactive Exploration |  | 2011
+   (no abstract)
+[R2-C06471] Group-in-a-Box Layout for Multi-faceted Analysis of Communities | International Conference on Social Computing | 2011
+   Communities in social networks emerge from interactions among individuals and can be analyzed through a combination of clustering and graph layout algorithms. These approaches result in 2D or 3D visualizations of clustered graphs, with groups of vertices repre
+[R2-C06472] Group Problem Solving | Princeton University Press eBooks | 2011
+   Experimental research by social and cognitive psychologists has established that cooperative groups solve a wide range of problems better than individuals. Cooperative problem solving groups of scientific researchers, auditors, financial analysts, air crash in
+[R2-C06473] Guiding the interactive exploration of metabolic pathway interconnections | Information Visualization | 2011
+   Approaches to investigate biological processes have been of strong interest in the past few years and are the focus of several research areas, especially Systems Biology. Biochemical networks as representations of processes are very important for a comprehensi
+[R2-C06474] Handbook of Augmented Reality | Springer eBooks | 2011
+   (no abstract)
+[R2-C06488] In Situ Exploration of Large Dynamic Networks | IEEE Transactions on Visualization and Computer Graphics | 2011
+   The analysis of large dynamic networks poses a challenge in many fields, ranging from large bot-nets to social networks. As dynamic networks exhibit different characteristics, e.g., being of sparse or dense structure, or having a continuous or discrete time li
+[R2-C06496] Interactive 3D graphs for web-based social networking platforms | Publikationen an der Universität Bielefeld (Universität Biel | 2011
+   Social networking platforms (SNPs) are meant to reflect the social relationships of their users. Users typically enter very personal information and should get useful feedback about their social network. They should indeed be empowered to exploit the informati
+[R2-C06497] Interactive 3D Graphs for Web - Networking Platforms |  | 2011
+   Social networking platforms (SNPs) are meant to reflect the social relationships of their users. Users typically enter very personal information and should get useful feedback about their social network. They should indeed be empowered to exploit the informati
+[R2-C06499] Interactive, Graph-based Visual Analysis of High-dimensional, Multi-parameter Fluorescence Microscopy Data in Toponomics | IEEE Transactions on Visualization and Computer Graphics | 2011
+   In Toponomics, the function protein pattern in cells or tissue (the toponome) is imaged and analyzed for applications in toxicology, new drug development and patient-drug-interaction. The most advanced imaging technique is robot-driven multi-parameter fluoresc
+[R2-C06500] Interactive Slice WIM: Navigating and Interrogating Volume Data Sets Using a Multisurface, Multitouch VR Interface | IEEE Transactions on Visualization and Computer Graphics | 2011
+   We present Interactive Slice World-in-Miniature (WIM), a framework for navigating and interrogating volumetric data sets using an interface enabled by a virtual reality environment made of two display surfaces: an interactive multitouch table, and a stereoscop
+[R2-C06503] International Symposium on Computational Aesthetics in Graphics, Visualization, and Imaging |  | 2011
+   (no abstract)
+[R2-C06504] Intrinsically dynamic network communities | Computer Networks | 2011
+   (no abstract)
+[R2-C06506] Involve Me and I Will Understand!–Abstract Data Visualization in Immersive Environments | Lecture notes in computer science | 2011
+   (no abstract)
+[R2-C06510] Large Data Scalability in Interactive Visual Analysis |  | 2011
+   (no abstract)
+[R2-C06511] Layout Algorithm Suitable for Structural Analysis and Visualization of Social Network | Journal of Software | 2011
+   力导引布局算法是社会网络信息可视化领域的主流布局算法,但却在结构分析显示方面存在缺陷.产生的图像经常是节点聚集在屏幕中央,难以分辨结构信息.因此,提出了子群分析布局SAL(subgroup analysis layout)算法来解决这一问题.该算法通过角色分析和关键属性分析,对社会网络中的子群进行划分与分析,然后根据子群分析结果对力导引布局算法加以改进,包括2D 和3D 可视化.以对恐怖组织信息进行分析作为实例,也验证了SAL 算法在社会网络结构分析与显示方面具有一定的优越性.

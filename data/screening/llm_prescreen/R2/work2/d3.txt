@@ -1,0 +1,180 @@
+C06009|exclude|E2|
+C06012|exclude|E3|
+C06013|exclude|E4|
+C06016|exclude|E2|
+C06018|exclude|E7|
+C06019|exclude|E3|
+C06020|exclude|E3|
+C06021|exclude|E2|
+C06022|exclude|E2|
+C06023|exclude|E2|
+C06024|exclude|E2|
+C06027|exclude|E3|
+C06028|exclude|E3|
+C06040|exclude|E3|
+C06042|exclude|E3|
+C06044|exclude|E1|
+C06048|include|I4|AR volume segmentation with tracked tangible cube
+C06050|exclude|E1|
+C06051|exclude|E3|
+C06053|exclude|E2|
+C06055|exclude|E3|
+C06056|exclude|E3|
+C06061|exclude|E2|
+C06062|unsure||AR interface to contextual information; no abstract
+C06064|exclude|E3|
+C06068|exclude|E3|
+C06070|unsure||AR anatomy learning; check physical anchoring of vis
+C06071|include|I1|Web-graph time series as 2D TimeSlice planes in 3D
+C06072|exclude|E4|
+C06074|exclude|E3|
+C06077|exclude|E3|
+C06078|exclude|E2|
+C06079|unsure||Mobile AR of sensor-network animal tracking; situated data
+C06080|exclude|E2|
+C06084|exclude|E1|
+C06089|exclude|E3|
+C06090|unsure||Caleydo multiple linked pathway views (2.5D bucket); possible MLN
+C06091|unsure||Metabolic networks mapped into 3D cell compartments
+C06092|exclude|E2|
+C06093|exclude|E5|
+C06094|exclude|E5|
+C06097|exclude|E4|
+C06103|unsure||Dynamic multi-relational clustering visual analysis
+C06104|exclude|E4|
+C06107|exclude|E3|
+C06111|exclude|E1|
+C06115|exclude|E4|
+C06118|exclude|E2|
+C06119|exclude|E6|
+C06127|include|I4|Depth perception of outdoor MR occlusion visualizations
+C06129|exclude|E3|
+C06135|exclude|E3|
+C06136|exclude|E1|
+C06143|exclude|E3|
+C06145|exclude|E2|
+C06148|exclude|E2|
+C06153|exclude|E3|
+C06154|include|I4|Image-based ghosting for AR x-ray occlusion
+C06155|exclude|E2|
+C06162|exclude|E2|
+C06167|exclude|E3|
+C06172|exclude|E1|
+C06176|exclude|E4|
+C06181|unsure||MetNetGE 3D tiered network views (cf. C05907)
+C06189|exclude|E2|
+C06192|exclude|E1|
+C06193|exclude|E1|
+C06199|exclude|E3|
+C06200|exclude|E5|
+C06202|exclude|E3|
+C06204|exclude|E3|
+C06208|exclude|E4|
+C06209|exclude|E1|
+C06213|exclude|E5|
+C06214|exclude|E5|
+C06221|exclude|E7|
+C06225|exclude|E1|
+C06232|exclude|E3|
+C06238|exclude|E3|
+C06240|exclude|E3|
+C06241|exclude|E3|
+C06242|exclude|E3|
+C06254|exclude|E1|
+C06266|unsure||Tangible spatially-aware views over tabletop; check AR/anchoring
+C06273|exclude|E3|
+C06274|exclude|E3|
+C06277|exclude|E4|
+C06278|exclude|E4|
+C06287|exclude|E2|
+C06291|exclude|E1|
+C06293|exclude|E2|
+C06295|unsure||Military AR UI design; check situated data vis
+C06296|exclude|E2|
+C06297|exclude|E3|
+C06298|include|I4|Handheld AR 3D underground infrastructure (VIDENTE)
+C06299|exclude|E2|
+C06300|exclude|E2|
+C06301|exclude|E3|
+C06302|include|I5|Hybrid visualizations via (X,Y)-clustering; verify McGee
+C06305|exclude|E2|
+C06307|exclude|E3|
+C06308|exclude|E3|
+C06311|exclude|E3|
+C06313|include|I4|Off-screen object visualization in mobile AR
+C06317|exclude|E3|
+C06318|exclude|E3|
+C06319|include|I5|OntoTrix NodeTrix-style hybrid for ontologies; verify McGee
+C06321|exclude|E3|
+C06322|exclude|E2|
+C06324|exclude|E3|
+C06325|exclude|E4|
+C06330|exclude|E5|
+C06332|exclude|E3|
+C06333|exclude|E1|
+C06336|exclude|E3|
+C06337|exclude|E3|
+C06338|exclude|E4|
+C06340|exclude|E3|
+C06342|exclude|E1|
+C06344|exclude|E3|
+C06345|exclude|E1|
+C06346|exclude|E3|
+C06350|exclude|E3|
+C06351|exclude|E1|
+C06353|exclude|E3|
+C06354|exclude|E4|
+C06359|exclude|E3|
+C06364|include|I4|AR localisation and 3D vis of sensor datasets
+C06365|exclude|E2|
+C06371|exclude|E2|
+C06375|exclude|E1|
+C06376|exclude|E2|
+C06380|background|B|Book chapter overviewing AR visualization techniques
+C06383|exclude|E7|
+C06384|exclude|E4|
+C06387|exclude|E4|
+C06391|include|I1|Graph comparison via superimposed vs juxtaposed matrices
+C06403|exclude|E1|
+C06404|exclude|E2|
+C06405|unsure||Integrated multidomain biological data views; possibly multi-network
+C06406|exclude|E1|
+C06413|exclude|E3|
+C06414|exclude|E2|
+C06415|exclude|E2|
+C06416|exclude|E3|
+C06420|exclude|E3|
+C06421|exclude|E3|
+C06422|include|I5|Anchored map + matrix hybrid for semi-bipartite graphs; verify
+C06424|exclude|E4|
+C06426|exclude|E3|
+C06427|exclude|E3|
+C06428|unsure||Animation vs static (small-multiple) temporal graph layouts
+C06435|exclude|E2|
+C06436|exclude|E3|
+C06437|exclude|E7|
+C06440|exclude|E2|
+C06448|exclude|E2|
+C06449|include|I4|Design space of situated glyphs; verify AR relevance
+C06450|exclude|E3|
+C06457|exclude|E3|
+C06462|exclude|E3|
+C06466|exclude|E2|
+C06467|exclude|E5|
+C06468|exclude|E5|
+C06469|exclude|E5|
+C06470|exclude|E3|
+C06471|exclude|E3|
+C06472|exclude|E1|
+C06473|exclude|E3|
+C06474|exclude|E5|
+C06488|unsure||In-situ dynamic network views; check juxtaposed time slices
+C06496|exclude|E3|
+C06497|exclude|E3|
+C06499|exclude|E3|
+C06500|exclude|E2|
+C06503|exclude|E5|
+C06504|exclude|E1|
+C06506|unsure||Abstract data vis in immersive environments; may include networks
+C06510|exclude|E2|
+C06511|exclude|E7|

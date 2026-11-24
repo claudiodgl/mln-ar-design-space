@@ -1,0 +1,158 @@
+cid,decision,code,evidence,note
+R2-C07832,needs_fulltext,,,"undecidable; no abstract (title: spatial interface for head-worn displays, possible I4)"
+R2-C07837,exclude,E3,"Polyptychon, an interactive node-link visualization designed for incremental exploration of dependency information",single-layer desktop dependency graph; classification is of sibling nodes
+R2-C07881,needs_fulltext,,,"undecidable; no abstract, garbled title"
+R2-C07954,needs_fulltext,,These graphs are then matched together with a consistent graph matching method.,"undecidable; matched topic graphs from multiple sources, check whether sources shown as layers"
+R2-C07971,needs_fulltext,,a 3D game engine was leveraged to develop a unique visualisation system,likely include I2: immersive collaborative 3D environment for computer-network topology
+R2-C08027,exclude,E3,We determine physical variables from interaction frequencies between the user and their friends to be visualized.,desktop 3D ego network; interaction types encoded as attributes in one drawing
+R2-C08076,exclude,E2,"superimposing the virtually visualized inner object onto the real object surface (for example, pipes and cables behind a wall or under a floor)",A1: AR see-through/x-ray vision of physical objects
+R2-C08099,needs_fulltext,,"we present a block-organized visualization approach in the hybrid form of matrix, node-link, and arc diagrams",likely include I5: hybrid matrix/node-link/arc (signed edges also possible I1); check snowball provenance
+R2-C08145,needs_fulltext,,"We present Dendrogramix, a hybrid tree-matrix interactive visualization of dendrograms",likely include I5: hybrid tree-matrix representation; check snowball provenance
+R2-C08157,needs_fulltext,,A novel 2.5D paradigm is proposed that provides a robust and practical solution based on separating and then integrating back again the networked and geographical dimensions,likely include I1: 2.5D separate network/geographic planes; check whether layers are network layers
+R2-C08158,needs_fulltext,,,"undecidable; graph sequence with per-graph metaphors, may be plain juxtaposition (E4 under A1)"
+R2-C08188,needs_fulltext,,This includes using circular layouts that represent network connectivity and volume renderings with 'in situ' network diagrams.,likely include I2: brain network diagrams in VR/AR
+R2-C08197,needs_fulltext,,,undecidable; no abstract
+R2-C08211,exclude,E2,volume clipping for markerless on-patient medical data visualization,A1: AR medical volume overlay on patient (physical data); title only
+R2-C08272,needs_fulltext,,,undecidable; no abstract
+R2-C08318,exclude,E2,"This work applies a common visualization technique, Ghosting, to improve depth perception in Augmented Reality scenes.",A1: AR ghosting/occlusion rendering
+R2-C08336,needs_fulltext,,,"undecidable; dynamic network platform, check for matrix-cube/layered views"
+R2-C08377,needs_fulltext,,,"undecidable; no abstract, AR information visibility"
+R2-C08535,exclude,E2,A Markerless Augmented Reality Environment for On-Patient Medical Data Visualization,A1: AR medical overlay on patient; title only (cf. C08211)
+R2-C08540,exclude,E2,X-ray view can be defined as the ability one has to see through real surfaces.,A1: AR x-ray vision
+R2-C08580,exclude,E2,The emergence of augmented reality (AR) technology for DTM representation offers a new way to develop map-reading skills.,"terrain model (physical data), no network, not abstract-data AR vis"
+R2-C08581,needs_fulltext,,,"undecidable; solar radiation data in mobile AR, field vs chart unclear"
+R2-C08591,exclude,E2,Automatic Information Positioning Scheme in AR-assisted Maintenance Based on Visual Saliency,A1: AR maintenance guidance overlay; title only
+R2-C08613,needs_fulltext,,,"undecidable; no abstract, AR for computer-network operations (possible I2)"
+R2-C08620,exclude,E2,"combining tiled displays (PerceptuWall) and head-mounted displays (Oculus DK2, Google Cardboard)","reef data, no network; VR/tiled display, not AR"
+R2-C08676,needs_fulltext,,,"undecidable; multi-state networks in synchronized views, may be plain juxtaposition"
+R2-C08760,exclude,E2,"The objective of this thesis is to study SAR and its rich space for interaction, and find novel techniques to take advantage of it.","SAR interaction in general, no data visualization (also doctoral proposal, E5)"
+R2-C08813,needs_fulltext,,Graphs with multi-type edges are possible representation for these relations,likely include I1: multi-type-edge (multi-relational) software graph visualization
+R2-C08831,needs_fulltext,,,"undecidable; time-to-space mapping of routing changes, layering unclear"
+R2-C08933,needs_fulltext,,,"undecidable; no abstract, stereoscopic 3D graph (possible I2 if immersive)"
+R2-C08951,exclude,E4,we explore graph comics as a medium to communicate changes in dynamic networks,A1: comics -> E4
+R2-C08959,needs_fulltext,,,"undecidable; no abstract, dynamic graph wall with multiple metaphors"
+R2-C08980,needs_fulltext,,we describe a multiscale and multi-level interpretation of complex networks in public healthcare,"undecidable; multi-level temporal contact networks, check layering"
+R2-C09155,needs_fulltext,,"The data types include network data, volumetric data, high dimensional, and spectral data for different mixed reality devices such as Microsoft HoloLens",likely include I2: network data in MR/AR
+R2-C09255,needs_fulltext,,"We explore the relative merits of matrix, node-link and combined side-by-side views for the visualisation of weighted networks",likely include I5: combined matrix + node-link views; check snowball provenance
+R2-C09258,exclude,E2,Evaluation of X-ray visualization techniques for vertical depth judgments in underground exploration,A1: AR x-ray vision; title only
+R2-C09326,needs_fulltext,,,"undecidable; no abstract, immersive geology fieldwork (possibly physical data)"
+R2-C09329,needs_fulltext,,,"undecidable; no abstract, immersive urban exploded views"
+R2-C09351,needs_fulltext,,,undecidable; no abstract
+R2-C09359,needs_fulltext,,"Ivy allows users to link smart objects, insert logic constructs, and visualize real-time data flows between real-world sensors and actuators.",likely include I2: dataflow graph between smart objects in immersive VR
+R2-C09402,needs_fulltext,,They have complex network structures consisting of nodes and links.,"undecidable; 'multi-layer' likely abstraction levels, check"
+R2-C09418,needs_fulltext,,,"undecidable; no abstract, possible B"
+R2-C09426,needs_fulltext,,we propose to use the network topology and node-similarity graph using metadata,"likely include I5: NodeTrix hybrid variant (two graphs, possible I1)"
+R2-C09454,exclude,E2,a visualization technique that conveys the 3D direction and distance of off-screen POIs,"A1: out-of-view guidance cue (also ISMAR poster, E5)"
+R2-C09475,needs_fulltext,,,"undecidable; HoloBee AR vs desktop UX analysis, AR-specific value unclear"
+R2-C09540,needs_fulltext,,"Synthetic Visualizations, which enable us to visualize in situ, data embedded in physical objects, using MR",likely include I4: in-situ abstract data anchored to physical objects via markers
+R2-C09544,needs_fulltext,,,"undecidable; temporal graph thesis, check layered techniques and E5/E6"
+R2-C09546,exclude,E2,Digital terrain modelling is added to the traditional cartographic techniques to represent the landforms,"terrain relief (physical data), no network"
+R2-C09567,exclude,E3,We determine physical variables from interaction frequencies between the user and their friends to be visualized.,desktop 3D ego network; interaction types encoded as attributes (cf. C08027)
+R2-C09583,background,B,In this position paper we propose a short historical perspective on the use of immersive technologies for visual analytics,position paper on immersive analytics
+R2-C09585,needs_fulltext,,,undecidable; mixed-reality library with navigation and vis interfaces
+R2-C09607,background,B,Virtual Reality (VR) technologies have demonstrated their potential to unlock human understanding of complex data sets through immersion and natural spatial interaction. In this position paper,position paper on immersive human-data interaction
+R2-C09612,needs_fulltext,,For examining these nodes in the interconnected network views,likely include I1: interconnected heterogeneous networks + text
+R2-C09628,needs_fulltext,,Our proposed interleaved parallel edge splatting technique uses a time,undecidable; check whether time slices count as distinct layers under A1
+R2-C09747,needs_fulltext,,,undecidable; no abstract
+R2-C09758,needs_fulltext,,BayesPiles builds upon and extends MultiPiles,likely include I1: piled/stacked matrices of network collections
+R2-C09764,exclude,E2,we implemented interactive tasks for a volume visualization of graphite billet data,A1: volume (physical) data
+R2-C09767,needs_fulltext,,we have developed visualization and interactive techniques for coordinating augmented reality devices together with classical WIMP GUIs systems,likely include I4: AR integrating physical displays/environment
+R2-C09781,needs_fulltext,,individual graphs are horizontally stacked by drawing partial edges,undecidable; check whether stacked slices count as layers under A1
+R2-C09813,needs_fulltext,,,undecidable; no abstract
+R2-C09839,needs_fulltext,,DXR further provides a GUI for easy and quick edits and previews of visualization designs in-situ,likely include I4: AR/VR vis toolkit; check physical anchoring support
+R2-C09849,needs_fulltext,,,"undecidable; no abstract, 3D cyber-defense vis"
+R2-C09927,needs_fulltext,,,"undecidable; no abstract, possible B"
+R2-C09936,needs_fulltext,,Immersive Human Networks: An Exploration of How VR Network Analysis Can Transform Sensemaking,"likely include I2: VR network analysis (grey literature, check E5)"
+R2-C09995,exclude,E2,"by revealing hidden components, displaying additional information and guiding them in complex tasks",A1: maintenance guidance / hidden infrastructure
+R2-C10036,needs_fulltext,,allows users to easily create different types of molecular interaction networks and visually explore them in a three-dimensional (3D) space,likely include I1: multi-type molecular networks in 3D; possible E6 vs OmicsNet 2.0 (C12493)
+R2-C10044,needs_fulltext,,,"undecidable; software city/space-time cube on HoloLens, non-network, AR-specific value unclear"
+R2-C10054,exclude,E2,visualization metaphor has proved to be invaluable for operation and maintenance tasks such as locating utilities behind a wall.,A1: AR x-ray vision
+R2-C10142,needs_fulltext,,"Therefore, there is a need to develop tools for ecological multilayer network",likely include I1: ecological multilayer network vis tool; record identity unclear (garbled title)
+R2-C10155,needs_fulltext,,,"undecidable; situated knee trajectory AR concept, physical motion vs abstract data unclear"
+R2-C10238,needs_fulltext,,,"undecidable; ranking tool for multi-layered networks, visualization unclear"
+R2-C10326,needs_fulltext,,,"undecidable; no abstract, multimodal graph explorer (possible I1)"
+R2-C10327,needs_fulltext,,,"undecidable; PAOH time slots as columns, check A1 layer criterion"
+R2-C10346,needs_fulltext,,generating explorable multi-layered representations,likely include I1: layers from edge decomposition; check whether derived layers count
+R2-C10350,needs_fulltext,,,"undecidable; no abstract, possible B (research agenda)"
+R2-C10387,needs_fulltext,,Our system visualizes both citation and co-author networks at the same time.,likely include I1: linked co-citation and co-author networks
+R2-C10425,exclude,E4,we seek to incorporate elements of comics into the construction of data-driven stories about dynamic networks,A1: comics -> E4
+R2-C10458,needs_fulltext,,,"undecidable; no abstract, draft; possible B"
+R2-C10528,needs_fulltext,,a growing number of real world networks are multivariate and often interconnected with each other,likely include I1: interconnected heterogeneous networks
+R2-C10547,needs_fulltext,,network connectivity between the moving nodes on the ground and in the air,likely include I2: network simulation visualized on HTC Vive
+R2-C10555,needs_fulltext,,,"undecidable; abstract in Italian (possible E7), VR semantic data"
+R2-C10571,needs_fulltext,,,"undecidable; no abstract, AR shell with tangible interaction"
+R2-C10590,needs_fulltext,,,"undecidable; smartphone pan/zoom for 3D data in HMD AR, AR-specific value unclear"
+R2-C10662,needs_fulltext,,"We first propose a new design space for OBT interactions, and specifically on the forearm.",likely include I4: tangible on-body input design space for immersive vis; check AR
+R2-C10674,needs_fulltext,,,"undecidable; no abstract, 3D cybersecurity vis"
+R2-C10699,needs_fulltext,,,undecidable; design workshops on immersive analytics prototypes
+R2-C10703,needs_fulltext,,Reality Graph Visualizations Investigation of Visual Styles in 3D Node-Link Diagrams,likely include I2: 3D node-link styles in (virtual/augmented) reality; title only
+R2-C10734,exclude,E2,with small displays as the hardware target platform,"situated vis on small displays, no network, not AR (SAR only envisioned)"
+R2-C10746,needs_fulltext,,Exploring of software architectures with software visualization in Augmented Reality (AR),likely include I2: component-based software architecture in AR (check graph representation)
+R2-C10748,exclude,E2,"Our tangible sphere, exactly aligned with the sphere visualizations shown in VR",non-network spherical data in VR
+R2-C10868,needs_fulltext,,Visualization: A Tool to Study Nodes in Multi-dimensional Networks,likely include I1: multi-dimensional (multilayer) network vis; title only
+R2-C10870,needs_fulltext,,examining the modules and their dependencies,likely include I2: module dependency graph in VR (IslandViz)
+R2-C10873,needs_fulltext,,,"undecidable; no abstract, temporal network vis chapter"
+R2-C10888,needs_fulltext,,"s/he visualizes virtual graphs, which are overlaid on the floor of the room",likely include I2: walkable graph in AR anchored to the floor
+R2-C10921,needs_fulltext,,,"undecidable; multilayer network modelling for humanities, vis unclear (possible B or E1)"
+R2-C10984,needs_fulltext,,,"undecidable; no abstract, AR aids for drone operation (possible guidance, E2)"
+R2-C10988,needs_fulltext,,"ARMath recognizes everyday objects, visualizes their mathematical attributes, and turns them into tangible or virtual manipulatives","likely include I4: abstract attributes anchored to physical objects, tangible input"
+R2-C11000,needs_fulltext,,,"undecidable; VR/AR security vis, network graphs unclear"
+R2-C11006,needs_fulltext,,,"undecidable; no abstract, EMC testing (likely field data, E2)"
+R2-C11081,needs_fulltext,,consider a design space across a number of layout and interaction dimensions,likely include I4: design space for immersive (VR) small multiples (or B)
+R2-C11107,exclude,E2,Displaying Occlusions In Augmented Reality,A1: occlusion/depth rendering; title only
+R2-C11139,needs_fulltext,,,"undecidable; AR news data vis user test, AR-specific value unclear"
+R2-C11165,exclude,E1,I replaced classical keyboards with an alternative – wearable keyboards,"text-input device for programming, not visualization"
+R2-C11236,needs_fulltext,,,undecidable; no abstract
+R2-C11300,background,B,"In this paper, we review the different aspects and terminologies of multilayered networks.",review of multilayer networks incl. implementations
+R2-C11327,needs_fulltext,,,"undecidable; heterogeneous multivariate network, multi-relational unclear"
+R2-C11331,needs_fulltext,,,undecidable; heterogeneous networks in list-based mobile UI
+R2-C11380,exclude,E2,Visualizations Supporting Crafting and Assembly Purposes,A1: assembly guidance visualizations
+R2-C11406,needs_fulltext,,,"undecidable; thesis (French abstract), situated vis in motion mostly on wearables; check E5/E6/E7"
+R2-C11579,background,B,This chapter surveys the space of three-dimensional (3D) mobile visualizations,survey chapter incl. 3D immersive displays
+R2-C11594,needs_fulltext,,,"undecidable; no abstract, layered (Sugiyama) software city; possible E6 vs C12570"
+R2-C11595,needs_fulltext,,,undecidable; no abstract
+R2-C11619,needs_fulltext,,A-UDT: Augmented Urban Digital Twin for Visualization of Virtual and Real IoT Data,likely include I4: situated IoT data in AR; title only
+R2-C11628,needs_fulltext,,,"undecidable; no abstract, AR algal bloom (model vs field data)"
+R2-C11739,needs_fulltext,,,"undecidable; generic mobile AR data vis, AR-specific value unclear"
+R2-C11786,needs_fulltext,,,"undecidable; AR HMD city miniature with IoT data, anchoring unclear (possible I4)"
+R2-C11889,needs_fulltext,,,undecidable; no abstract
+R2-C11905,needs_fulltext,,Multi-Variate Multi-View Brain Network Comparison,likely include I1: multi-view (multi-feature) brain networks
+R2-C12081,needs_fulltext,,vasturiano/3d-force-graph,"likely include I2: 3D force graph library with VR/AR modes; software repo, check eligibility"
+R2-C12104,exclude,E4,visualizing spatial co-evolution networks of different evolutionary timepoints as small multiples,A1: small multiples -> E4
+R2-C12117,needs_fulltext,,VR-UML: The Unified Modeling Language in Virtual Reality,likely include I2: UML graph diagrams in VR; title only
+R2-C12123,needs_fulltext,,,"undecidable; MR in wet lab, data vis unclear"
+R2-C12200,needs_fulltext,,,undecidable; AR wind data (field vs sensor glyphs unclear)
+R2-C12223,needs_fulltext,,,undecidable; no abstract
+R2-C12229,needs_fulltext,,,"undecidable; compound (multilevel) graphs, check whether counts as multilayer"
+R2-C12244,needs_fulltext,,"Users can employ desktop, mobile, and virtual reality devices to collaboratively explore software visualizations.",likely include I2: ExplorViz software landscape in VR/mobile AR
+R2-C12246,needs_fulltext,,allows users to collaboratively explore software visualizations in a device-heterogeneous environment,likely include I2: ExplorViz collaborative XR; possible E6 vs C12244
+R2-C12282,needs_fulltext,,,"undecidable; multilayer modelling of medieval relations, vis unclear"
+R2-C12339,needs_fulltext,,,"undecidable; time-to-space mapping of dynamic graphs, check layer criterion"
+R2-C12351,needs_fulltext,,,undecidable; position paper on historical network modelling (possible B)
+R2-C12390,needs_fulltext,,,"undecidable; multiple-graph clustering, visualization unclear"
+R2-C12396,needs_fulltext,,,undecidable; no abstract
+R2-C12493,needs_fulltext,,enhanced network visual analytics with eleven 2D graph layout options and a novel 3D module layout,likely include I1: multi-omics networks with 3D module layout
+R2-C12538,exclude,E2,ReLive combines an in-situ virtual reality view with a complementary ex-situ desktop view.,"non-network study data, VR not AR"
+R2-C12570,needs_fulltext,,we can additionally display dynamic dependencies as arcs atop the city,"undecidable; static vs dynamic dependencies, possible I1"
+R2-C12628,needs_fulltext,,we present a virtual reality programming environment,likely include I2: UML diagrams in VR
+R2-C12662,exclude,E5,"We present a new system for the visualization, visual query, and comparison of social networks modeled as bipartite multivariate dynamic graphs.",EuroVis poster (DOI 10.2312/evp)
+R2-C12700,needs_fulltext,,,"undecidable; no abstract, multilayer network software comparison (possible B)"
+R2-C12767,needs_fulltext,,la combinaison de la Réalité Augmentée (RA) et d,"likely include I4: AR extending a physical wall display; thesis, check language/E6"
+R2-C12797,exclude,E2,Presenting medical volume data using augmented reality (AR),A1: medical volume data
+R2-C12809,needs_fulltext,,"Hybrid interfaces, such as AR+tablet, can mitigate these limitations",likely include I4: AR + tablet touch input for glyph fields
+R2-C12871,needs_fulltext,,situated visual links in outdoor augmented reality (AR) for connecting miniature buildings on a virtual map to their real-world counterparts,"undecidable; map-to-building links, abstract data vs navigation unclear"
+R2-C12892,needs_fulltext,,,"undecidable; AR system with physical objects, data type unclear"
+R2-C12931,needs_fulltext,,The flow of an algorithm is commonly represented pictorially as a control flow graph (CFG),likely include I2: control flow graph in AR
+R2-C12959,needs_fulltext,,"including how information is automatically positioned, laid out, and interacted with",likely include I4: mobile AR infovis toolkit; check anchoring
+R2-C12968,needs_fulltext,,utiliser le monde physique comme canevas de visualisation,"likely include I4: situated AR data vis; thesis, check language/E6"
+R2-C12969,needs_fulltext,,HMD improved the perception of hybrid space,likely include I4: AR unit visualization (HMD vs handheld)
+R2-C13019,needs_fulltext,,,"undecidable; co-located AR collaborative vis, AR-specific value unclear"
+R2-C13113,needs_fulltext,,,undecidable; generic AR data vis framework
+R2-C13186,needs_fulltext,,we present a new egocentric metaphor for graph visualization,likely include I2: egocentric spherical graph space (check immersive)
+R2-C13199,needs_fulltext,,,"undecidable; situated cultural board game, abstract data unclear"
+R2-C13200,needs_fulltext,,,undecidable; no abstract
+R2-C13240,needs_fulltext,,We explore the use of virtual reality to visualise the complexities of electric networks,likely include I2: electric network in VR (check graph representation)
+R2-C13323,needs_fulltext,,,"undecidable; wearable AR occupancy monitoring, anchoring unclear (possible I4)"
+R2-C13449,needs_fulltext,,we explored a novel design for the immersive Sankey diagram system within VR environments,likely include I2: Sankey flow network in VR
+R2-C13475,needs_fulltext,,Through a mobile application utilizing location-based augmented reality to visualize traffic,likely include I4: temporal data embedded on physical surfaces in AR
+R2-C13482,needs_fulltext,,,undecidable; no abstract

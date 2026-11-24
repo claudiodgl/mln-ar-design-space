@@ -1,0 +1,168 @@
+[R4-C03250] Joslyn, C.A., Mniszewski, S.M., Smith, S.A., Weber, P.M.: Spindleviz: A three dimensional, order theoretical visualization environment for the gene ontology. In: Proceedings of Joint BioLINK and 9th Bio-Ontologies Meeting (2006) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R4-C03658] Takimoto, T., Namatame, N., Nakazawa, J., Takashio, K. and Tokuda, H. (2010) Extate: Visualizing Wireless Networks by Using AR Technology. The 4th International Workshop on Ubiquitous Virtual Reality, Helsinki, 17 May 2010. |  | 
+    ABS: [abstract omitted; see the DOI]
+[R4-C03717] Ubiquitous Network Browser (3D-Tcpdump) Demo. https://www.youtube.com/watch?v=k7UO45k7Mvw |  | 
+    ABS: [abstract omitted; see the DOI]
+[R4-C03817] Xu, K., Huang, X.X., Cotsapas, C., Hong, S.H., McCaughan, G., Gorrell, M., Little, P., Williams, R.: Combined visualisation and analysis of gene ontology annotations using multivariate representations of annotations and bipartite networks. Technical Report 09/166, CSIRO (2009) |  | 
+    ABS: [abstract omitted; see the DOI]
+[R4-C04651] A visualizer for e-mail traffic | Proceedings of 4th International Pacific Graphics Conference | 1994
+    ABS: [abstract omitted; see the DOI]
+[R4-C04771] Social Network Analysis: Methods and Applicaitons | CAMBRIDGE UNIVERSITY PRESS 40 West 20th Street | 1995
+    ABS: [abstract omitted; see the DOI]
+[R4-C04995] Proceedings of VIZ '97: Visualization Conference, Information Visualization Symposium and Parallel Rendering Symposium |  | 1997
+    ABS: [abstract omitted; see the DOI]
+[R4-C05118] Self-Organizing Graphs — A Neural Network Perspective of Graph Layout | Lecture notes in computer science | 1998
+    ABS: [abstract omitted; see the DOI]
+[R4-C05119] Self-organizing maps for drawing large graphs | Information Processing Letters | 1998
+    ABS: [abstract omitted; see the DOI]
+[R4-C05163] 1999 IEEE International Conference on Information Visualization (Cat. No. PR00210) | IEEE Conference on Information Visualization (IV) | 1999
+    ABS: [abstract omitted; see the DOI]
+[R4-C05224] Information visualization: Using vision to think |  | 1999
+    ABS: [abstract omitted; see the DOI]
+[R4-C05245] Old theories, new technologies: cumulative clutter effects using augmented reality |  | 1999
+    ABS: [abstract omitted; see the DOI]
+[R4-C05312] VRDD: applying irtual eality visualization to protein ocking and esign | Journal of Molecular Graphics and Modelling | 1999
+    ABS: [abstract omitted; see the DOI]
+[R4-C05753] Graph multidimensional scaling with self-organizing maps | Information Sciences | 2002
+    ABS: [abstract omitted; see the DOI]
+[R4-C05901] Wireless sensor networks: a survey | Computer Networks | 2002
+    ABS: [abstract omitted; see the DOI]
+[R4-C06047] Location based applications for mobile augmented reality | Proc of the 4th Australasian User Interface Conference | 2003
+    ABS: [abstract omitted; see the DOI]
+[R4-C06094] Recommending collaboration with social networks: a comparative evaluation | CHI Conference on Human Factors in Computing Systems | 2003
+    ABS: [abstract omitted; see the DOI]
+[R4-C06103] Social network fragments: an interactive tool for exploring digital social connections | ACM SIGGRAPH Conference (SIGGRAPH) | 2003
+    ABS: [abstract omitted; see the DOI]
+[R4-C06168] Visualization of Communication Patterns in Collaborative Innovation Networks - Analysis of Some W3C Working Groups | ACM International Conference on Information and Knowledge Ma | 2003
+    ABS: [abstract omitted; see the DOI]
+[R4-C06214] ARCOLITE - an XML based system for building and presenting virtual museum exhibitions using Web3D and augmented reality | Theory and Practice of Computer Graphics (TPCG) | 2004
+    ABS: [abstract omitted; see the DOI]
+[R4-C06355] Proceedings of the 2004 ACM SIGGRAPH international conference on Virtual Reality continuum and its applications in industry |  | 2004
+    ABS: [abstract omitted; see the DOI]
+[R4-C06422] User Interface for Wireless Networks Featuring Visualization of Information | Toshiba Review, | 2004
+    ABS: [abstract omitted; see the DOI]
+[R4-C06515] BiNGO: a Cytoscape plugin to assess overrepresentation of Gene Ontology categories in Biological Networks | Bioinformatics | 2005
+    ABS: [abstract omitted; see the DOI]
+[R4-C06615] How to search a social network | Social Networks | 2005
+    ABS: [abstract omitted; see the DOI]
+[R4-C06649] Layered drawings of directed graphs in three dimensions |  | 2005
+    ABS: [abstract omitted; see the DOI]
+[R4-C06679] Network Analysis: Methodological Foundations | Lecture Notes in Computer Science | 2005
+    ABS: [abstract omitted; see the DOI]
+[R4-C06682] New Dimensions in Seismic Data Interpretation with 3-D Virtual Reality Visualisation for Burst-Prone Mines | International Symposium on Rockburst and Seismicity in Mines | 2005
+    ABS: [abstract omitted; see the DOI]
+[R4-C06744] Spatial augmented reality - merging real and virtual worlds |  | 2005
+    ABS: [abstract omitted; see the DOI]
+[R4-C06769] The Dominance Tree in Visualizing Software Dependencies | Visualizing Software for Understanding and Analysis | 2005
+    ABS: [abstract omitted; see the DOI]
+[R4-C06808] Using intimacy, chronology and zooming to visualize rhythms in email experience | CHI Conference Extended Abstracts on Human Factors in Comput | 2005
+    ABS: [abstract omitted; see the DOI]
+[R4-C06889] Capturing Team Dynamics through Temporal Social Surfaces | International Conference on Information Visualisation (IV) | 2006
+    ABS: [abstract omitted; see the DOI]
+[R4-C06955] GOlorize: a Cytoscape plug-in for network visualization with Gene Ontology-based layout and coloring | Bioinformatics | 2006
+    ABS: [abstract omitted; see the DOI]
+[R4-C07017] Modelling and Handling Seams in Wide-Area Sensor Networks | Proceedings | 2006
+    ABS: [abstract omitted; see the DOI]
+[R4-C07119] The real communication network behind the formal chart: Community structure in organizations | Journal of Economic Behavior & Organization | 2006
+    ABS: [abstract omitted; see the DOI]
+[R4-C07196] A mobility aware protocol synthesis for efficient routing in ad hoc mobile networks | Computer Networks | 2007
+    ABS: [abstract omitted; see the DOI]
+[R4-C07425] Real-time camera tracking for marker-less and unprepared augmented reality environments | Image Vis. Comput. | 2007
+    ABS: [abstract omitted; see the DOI]
+[R4-C07731] Immersive Visual Data Mining: The 3DVDM Approach | Lecture notes in computer science | 2008
+    ABS: [abstract omitted; see the DOI]
+[R4-C08029] Application of VLAN Information to Topology Inference rule for Layer 2 Network Topology Visualizing System | Proc of IPSJ DICOMO 2009 Symposium | 2009
+    ABS: [abstract omitted; see the DOI]
+[R4-C08054] Clustering in weighted networks | Social Networks | 2009
+    ABS: [abstract omitted; see the DOI]
+[R4-C08192] Making augmented realitypractical on mobile phones | IEE Computer Society | 2009
+    ABS: [abstract omitted; see the DOI]
+[R4-C08341] Uncluttering Graph Layouts Using Anisotropic Diffusion and Mass Transport | IEEE Transactions on Visualization and Computer Graphics | 2009
+    ABS: [abstract omitted; see the DOI]
+[R4-C08495] Cytoscape: Software for Visualization and Analysis of Biological Networks | Methods in molecular biology | 2010
+    ABS: [abstract omitted; see the DOI]
+[R4-C08572] Inferring and Visualizing of Ethernet Network Topology -Improvement of Inference Algorithm Using Transmission Rate | IPSJ SIG Technical Reports on Internet and Operation Technol | 2010
+    ABS: [abstract omitted; see the DOI]
+[R4-C08813] Zooming interfaces for augmented reality browsers | International Conference on Human-Computer Interaction with  | 2010
+    ABS: [abstract omitted; see the DOI]
+[R4-C09422] A methodological framwork for augmented reality technological applications in industrial field | Thesis MSM | 2012
+    ABS: [abstract omitted; see the DOI]
+[R4-C09681] Interactive visual queries for multivariate graphs exploration | Computers & Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R4-C10017] A Spatial Augmented Reality system for intuitive display of robotic data | ACM/IEEE International Conference on Human-Robot Interaction | 2013
+    ABS: [abstract omitted; see the DOI]
+[R4-C10253] Infographics: The New Communication Tools in Digital Age |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R4-C10509] Theory and Practice of Graph Drawing | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R4-C10664] A human cognition framework for information visualization | Computers & Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R4-C10667] A Mobile AR Assistant for Campus Area Network Management | ... International Conference on Complex, Intelligent and Sof | 2014
+    ABS: [abstract omitted; see the DOI]
+[R4-C10700] An AR-based VLAN visualizer | IEEE International Conference on Consumer Electronics - Taiw | 2014
+    ABS: [abstract omitted; see the DOI]
+[R4-C10815] Development of a Real-Time System for Visualizing Network Topology and Packet Flow in MANET Field Experiments | Proc 10th International Conference on Mobile Ad-hoc and Sens | 2014
+    ABS: [abstract omitted; see the DOI]
+[R4-C11030] Multi-users Real-Time Interaction with Bacterial Biofilm Images Using Augmented Reality | Lecture notes in computer science | 2014
+    ABS: [abstract omitted; see the DOI]
+[R4-C11110] Proceedings of the IEEE Conference on Information Visualization (Poster Paper) |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R4-C11147] Short- and long-term effects of embodied experiences in immersive virtual environments on environmental locus of control and behavior | Computers in Human Behavior | 2014
+    ABS: [abstract omitted; see the DOI]
+[R4-C11176] State of the art and future developments of the Augmented Reality for measurement applications | Measurement | 2014
+    ABS: [abstract omitted; see the DOI]
+[R4-C11349] 2015 Big Data Visual Analytics (BDVA) |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[R4-C11352] 2015 IEEE International Symposium on Mixed and Augmented Reality |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[R4-C11375] A Network Topology Visualization System Based on Mobile AR Technology | International Conference on Advanced Information Networking  | 2015
+    ABS: [abstract omitted; see the DOI]
+[R4-C11595] Eurographics Conference on Visualization (EuroVis)-STARs (pp. 061-081) |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[R4-C11858] Real-time finite element structural analysis in augmented reality | Adv. Eng. Softw. | 2015
+    ABS: [abstract omitted; see the DOI]
+[R4-C12170] Application of multiple view geometry for object positioning and inquiry in agricultural augmented reality | In Proceedings of the 2nd International Conference on Agricu | 2016
+    ABS: [abstract omitted; see the DOI]
+[R4-C12323] Enabling smart retail settings via mobile augmented reality shopping apps | Technological Forecasting and Social Change | 2016
+    ABS: [abstract omitted; see the DOI]
+[R4-C12645] Sparse Tangibles: Collaborative Exploration of Gene Networks using Active Tangibles and Interactive Tabletops | International Conference on Tangible, Embedded, and Embodied | 2016
+    ABS: [abstract omitted; see the DOI]
+[R4-C12688] The application of augmented reality technologies for the improvement of occupational safety in an industrial environment | Comput. Ind. | 2016
+    ABS: [abstract omitted; see the DOI]
+[R4-C12752] Using Augmented Reality and Internet of Things to improve accessibility of people with motor disabilities in the context of Smart Cities | Future Gener. Comput. Syst. | 2016
+    ABS: [abstract omitted; see the DOI]
+[R4-C12769] ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories | IEEE Transactions on Visualization and Computer Graphics | 2016
+    ABS: [abstract omitted; see the DOI]
+[R4-C12893] A review of research on emerging technologies of the Internet of Things and augmented reality | International Conference on I-SMAC (IoT in Social, Mobile, A | 2017
+    ABS: [abstract omitted; see the DOI]
+[R4-C12952] Anatomical augmented reality with 3D commodity tracking and image-space alignment | Comput. Graph. | 2017
+    ABS: [abstract omitted; see the DOI]
+[R4-C13311] Markerless tracking system for augmented reality in the automotive industry | Expert Syst. Appl. | 2017
+    ABS: [abstract omitted; see the DOI]
+[R4-C14019] Erlen : Une interface tangible pour la réduction de la consommation énergétique sur le poste de travail |  | 2018
+    ABS: [abstract omitted; see the DOI]
+[R4-C14356] SIGGRAPH Asia 2018 Technical Briefs |  | 2018
+    ABS: [abstract omitted; see the DOI]
+[R4-C14816] Comprehensible and Interactive Visualizations of Spatial Building Data in Augmented Reality | ASCE International Conference on Computing in Civil Engineer | 2019
+    ABS: [abstract omitted; see the DOI]
+[R4-C14843] Data by Proxy — Material Traces as Autographic Visualizations | IEEE Transactions on Visualization and Computer Graphics | 2019
+    ABS: [abstract omitted; see the DOI]
+[R4-C14906] Drowning in Plastic—Visualising the World’s Addiction to Plastic Bottles |  | 2019
+    ABS: [abstract omitted; see the DOI]
+[R4-C15455] Visualising the Invisible: Augmented Reality and Virtual Reality as Persuasive Technologies for Energy Feedback | IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanc | 2019
+    ABS: [abstract omitted; see the DOI]
+[R4-C15845] Evaluating the effectiveness of learning design with mixed reality (MR) in higher education | Virtual Reality | 2020
+    ABS: [abstract omitted; see the DOI]
+[R4-C16328] The Use of Low-Cost Unmanned Aerial Vehicles in the Process of Building Models for Cultural Tourism, 3D Web and Augmented/Mixed Reality Applications | Sensors | 2020
+    ABS: [abstract omitted; see the DOI]
+[R4-C16434] Visualizing impact through augmented reality – using concrete scales to combat waste | https://nicstark.com/visualizing-impact-with-augmented-reali | 2020
+    ABS: [abstract omitted; see the DOI]
+[R4-C16440] :Visualizingtheclimateimpactofdietarychoicethroughashareddatasculpture | Proceedings of the 2020 ACM Designing Interactive Systems Co | 2020
+    ABS: [abstract omitted; see the DOI]
+[R4-C17731] Integrating internet of things and mixed reality to teach performance-based architectural design: a case study of shading devices | Education and Information Technologies | 2022
+    ABS: [abstract omitted; see the DOI]
+[R4-C18167] 2023 IEEE Conference on Virtual Reality and 3D User Interfaces | IEEE Transactions on Visualization and Computer Graphics | 2023
+    ABS: [abstract omitted; see the DOI]
+[R4-C18366] Dam health monitoring with virtual reality |  | 2023
+    ABS: [abstract omitted; see the DOI]

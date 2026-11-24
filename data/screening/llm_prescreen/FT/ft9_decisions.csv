@@ -1,0 +1,8 @@
+cid,decision,code,evidence,note
+R2-C04805,exclude,E3,we focus on visualising the core tree structure of the large and complex network,3D desktop layout of one tree/graph on subplanes
+R2-C05097,exclude,E3,it draws each cluster in a 2D plane to minimise occlusion and ease navigation,clusters of one graph on separate planes; layers derived from one graph
+R2-C05123,exclude,E3,The vertex set is partitioned into layers of vertices drawn in parallel planes.,3D hierarchical layout of one digraph (earlier version of R2-C05275)
+R2-C05171,exclude,E5,This poster presents a new framework for drawing graphs in three dimensions,poster
+R2-C05775,exclude,E3,"developed a tool called MixVis that integrates a tagcloud, network diagrams, and a list",multiple coordinated views of one social network
+R2-C06597,exclude,E8,we propose a social augmented reality architecture that selectively visualizes sensor information based on the user's social network community,architecture and scenarios only; no visualization design that could be coded
+R2-C07182,exclude,E2,we are displaying seamless information layers by simply moving around a Greek statue or a miniature model of an Ariane-5 space rocket,"AR annotation layers on physical objects (A1), not abstract-data visualization"

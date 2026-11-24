@@ -1,0 +1,471 @@
+[C02605] Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data | IEEE Transactions on Visualization and Computer Graphics | 2006 | doi:10.1109/tvcg.2006.147
+    WHY UNSURE: Hierarchical edge bundles, compound graphs; possible I5
+    ABS: [abstract omitted; see the DOI]
+[C02611] Visual Analysis of Large Heterogeneous Social Networks by Semantic and Structural Abstraction | IEEE Transactions on Visualization and Computer Graphics | 2006 | doi:10.1109/tvcg.2006.107
+    WHY UNSURE: OntoVis heterogeneous social networks; possibly multi-relational
+    ABS: [abstract omitted; see the DOI]
+[C02620] Tools for visually exploring biological networks | Bioinformatics | 2007 | doi:10.1093/bioinformatics/btm401
+    WHY UNSURE: Review of biological network vis tools; check MLN coverage
+    ABS: [abstract omitted; see the DOI]
+[C02628] Junker and Falk Schreiber |  | 2008 | doi:
+    WHY UNSURE: Author-names-only record; cannot identify
+    ABS: [abstract omitted; see the DOI]
+[C02634] Visualizing graphs in three dimensions | ACM Transactions on Applied Perception (TAP) | 2008 | doi:10.1145/1279640.1279642
+    WHY UNSURE: Stereo 3D graph comprehension; check immersion
+    ABS: [abstract omitted; see the DOI]
+[C02639] ManyNets: an interface for multiple network analysis and visualization | CHI Conference on Human Factors in Computing Systems | 2009 | doi:10.1145/2207676.2208293
+    WHY UNSURE: Multiple-network analysis/vis interface; check multilayer
+    ABS: [abstract omitted; see the DOI]
+[C02647] Visual Analysis of One-to-Many Matched Graphs | Lecture notes in computer science | 2009 | doi:10.1007/978-3-642-00219-9_14
+    WHY UNSURE: One-to-many matched graphs; possibly two-layer interlinked
+    ABS: [abstract omitted; see the DOI]
+[C02652] Discovering hidden relationships between renal diseases and regulated genes through 3D network visualizations | BMC Research Notes | 2010 | doi:10.1186/1756-0500-3-296
+    WHY UNSURE: 3D disease-gene network vis; check layers/immersion
+    ABS: [abstract omitted; see the DOI]
+[C02655] Investigating the performance of path-searching tasks in depth on multiview displays | ACM Transactions on Applied Perception | 2010 | doi:10.1145/1857893.1857901
+    WHY UNSURE: Path tracing on multiview autostereo display; check immersion
+    ABS: [abstract omitted; see the DOI]
+[C02663] Hive plots--rational approach to visualizing networks | Briefings in Bioinformatics | 2011 | doi:10.1093/bib/bbr069
+    WHY UNSURE: Hive plots; possible I5 building block
+    ABS: [abstract omitted; see the DOI]
+[C02666] Navigation to Support | Physical | 2011 | doi:
+    WHY UNSURE: Fragmentary record; likely physical navigation graph paper
+    ABS: [abstract omitted; see the DOI]
+[C02668] Physical Navigation to Support Graph Exploration on a Large High-Resolution Display | Lecture notes in computer science | 2011 | doi:10.1007/978-3-642-24028-7_46
+    WHY UNSURE: Graph exploration on large high-res display; check immersion
+    ABS: [abstract omitted; see the DOI]
+[C02670] Stereoscopic Highlighting: 2D Graph Visualization on Stereo Displays | IEEE Transactions on Visualization and Computer Graphics | 2011 | doi:10.1109/tvcg.2011.234
+    WHY UNSURE: Stereoscopic depth layering of 2D graphs; check immersion
+    ABS: [abstract omitted; see the DOI]
+[C02671] Visual Analysis of Large Graphs: State‐of‐the‐Art and Future Research Challenges | Computer Graphics Forum | 2011 | doi:10.1111/j.1467-8659.2011.01898.x
+    WHY UNSURE: Large-graph vis STAR; check MLN/immersive coverage
+    ABS: [abstract omitted; see the DOI]
+[C02672] Visual Community Detection: An Evaluation of 2D, 3D Perspective and 3D Stereoscopic Displays | Lecture notes in computer science | 2011 | doi:10.1007/978-3-642-25878-7_21
+    WHY UNSURE: 2D vs 3D stereo community detection; check immersion
+    ABS: [abstract omitted; see the DOI]
+[C02674] Visualizing Social Networks | Springer eBooks | 2011 | doi:10.1007/978-1-4419-8462-3_11
+    WHY UNSURE: Book on social network vis; content unclear
+    ABS: [abstract omitted; see the DOI]
+[C02678] Embodied interaction with complex neuronal data in mixed-reality | Virtual Reality International Conference | 2012 | doi:10.1145/2331714.2331718
+    WHY UNSURE: Mixed-reality neuronal data; check network vis
+    ABS: [abstract omitted; see the DOI]
+[C02685] Interactive graph matching and visual comparison of graphs and clustered graphs | International Conference on Advanced Visual Interfaces (AVI) | 2012 | doi:10.1145/2254556.2254654
+    WHY UNSURE: interactive graph comparison; may count as multi-graph vis
+    ABS: [abstract omitted; see the DOI]
+[C02694] Visualizing distributed memory computations with hive plots | IEEE Symposium on Visualization for Cyber Security (VIZSEC) | 2012 | doi:10.1145/2379690.2379698
+    WHY UNSURE: hive plots; possible MLN building block (I5)
+    ABS: [abstract omitted; see the DOI]
+[C02695] 3Omics: a web-based systems biology tool for analysis, integration and visualization of human transcriptomic, proteomic and metabolomic data | BMC Systems Biology | 2013 | doi:10.1186/1752-0509-7-64
+    WHY UNSURE: multi-omics integration; may visualize multilayer networks
+    ABS: [abstract omitted; see the DOI]
+[C02702] GraphCharter: Combining browsing with query to explore large semantic graphs | IEEE Pacific Visualization Symposium | 2013 | doi:10.1109/pacificvis.2013.6596127
+    WHY UNSURE: heterogeneous semantic graph exploration; possibly multi-relational
+    ABS: [abstract omitted; see the DOI]
+[C02709] Network Visualization for Integrative Bioinformatics | Springer eBooks | 2013 | doi:10.1007/978-3-642-41281-3_7
+    WHY UNSURE: integrative bioinformatics network vis; may cover multiple networks
+    ABS: [abstract omitted; see the DOI]
+[C02717] VisNEST — Interactive analysis of neural activity data | IEEE Symposium on Biological Data Visualization (BioVis) | 2013 | doi:10.1109/biovis.2013.6664348
+    WHY UNSURE: VisNEST brain connectivity analysis; possibly immersive
+    ABS: [abstract omitted; see the DOI]
+[C02727] 3D Network Spatialization: Does It Add Depth to 2D Representations of Semantic Proximity? | Lecture notes in computer science | 2014 | doi:10.1007/978-3-319-11593-1_3
+    WHY UNSURE: 3D network spatialization; may be immersive
+    ABS: [abstract omitted; see the DOI]
+[C02733] ChronoTwigger: A Visual Analytics Tool for Understanding Source and Test Co-evolution | IEEE Working Conference on Software Visualization (VISSOFT) | 2014 | doi:10.1109/vissoft.2014.28
+    WHY UNSURE: software co-evolution; possibly immersive 3D graph
+    ABS: [abstract omitted; see the DOI]
+[C02734] Collaborative Information Visualization Using a Multi-projection System and Mobile Devices | International Conference on Information Visualisation (IV) | 2014 | doi:10.1109/iv.2014.23
+    WHY UNSURE: multi-projection collaborative vis; data type unclear
+    ABS: [abstract omitted; see the DOI]
+[C02736] Entanglement in Multiplex Networks: Understanding Group Cohesion in Homophily Networks | Lecture notes in social networks | 2014 | doi:10.1007/978-3-319-12188-8_5
+    WHY UNSURE: multiplex entanglement; may include visualization
+    ABS: [abstract omitted; see the DOI]
+[C02787] Reorder.js: A JavaScript Library to Reorder Tables and Networks | HAL | 2015 | doi:
+    WHY UNSURE: matrix reordering library; possible I5 building block
+    ABS: [abstract omitted; see the DOI]
+[C02827] Graphiti: Interactive Specification of Attribute-Based Edges for Network Modeling and Visualization | IEEE Transactions on Visualization and Computer Graphics | 2017 | doi:10.1109/tvcg.2017.2744843
+    WHY UNSURE: attribute-based edge specification; may yield multiple edge types
+    ABS: [abstract omitted; see the DOI]
+[C02828] GraSp: Combining Spatially‐aware Mobile Devices and a Display Wall for Graph Visualization and Interaction | Computer Graphics Forum | 2017 | doi:10.1111/cgf.13206
+    WHY UNSURE: spatially-aware mobiles + wall for graphs; spatial interaction
+    ABS: [abstract omitted; see the DOI]
+[C02829] Guidance for Multi-Type Entity Graphs from Text Collections | EuroVA@EuroVis | 2017 | doi:10.2312/eurova.20171111
+    WHY UNSURE: multi-type entity graphs; possibly heterogeneous network vis
+    ABS: [abstract omitted; see the DOI]
+[C02833] Immersive Analytics for Clinical Neuroscience |  | 2017 | doi:
+    WHY UNSURE: immersive analytics neuroscience; possibly connectome networks
+    ABS: [abstract omitted; see the DOI]
+[C02859] Immersive Modular Factory Layout Planning using Augmented Reality | Procedia CIRP | 2018 | doi:10.1016/j.procir.2018.03.200
+    WHY UNSURE: factory layout in-situ; mostly virtual objects
+    ABS: [abstract omitted; see the DOI]
+[C02861] Immersive Visualisation of Geo-Temporal Narratives in Law Enforcement | Big Data Visual and Immersive Analytics | 2018 | doi:10.1109/bdva.2018.8533896
+    WHY UNSURE: VR geo-temporal narratives; entity relationships may form network
+    ABS: [abstract omitted; see the DOI]
+[C02878] Visualizing Software Architectures in Virtual Reality with an Island Metaphor | Lecture notes in computer science | 2018 | doi:10.1007/978-3-319-91581-4_13
+    WHY UNSURE: VR software architecture island metaphor; dependencies graph?
+    ABS: [abstract omitted; see the DOI]
+[C02884] Challenges for Brain Data Analysis in VR Environments | IEEE Pacific Visualization Symposium | 2019 | doi:10.1109/pacificvis.2019.00013
+    WHY UNSURE: VR brain data challenges; may cover connectivity networks
+    ABS: [abstract omitted; see the DOI]
+[C02892] Extending Virtual Reality Display Wall Environments Using Augmented Reality | Symposium on Spatial User Interaction | 2019 | doi:10.1145/3357251.3357579
+    WHY UNSURE: AR HMD extending CAVE2; spatial context use unclear
+    ABS: [abstract omitted; see the DOI]
+[C02909] VR-EA: Virtual Reality Visualization of Enterprise Architecture Models with ArchiMate and BPMN | Lecture notes in business information processing | 2019 | doi:10.1007/978-3-030-24854-3_11
+    WHY UNSURE: VR enterprise architecture models (layered graphs?)
+    ABS: [abstract omitted; see the DOI]
+[C02910] VR/MR Supporting the Future of Defensive Cyber Operations | IFAC-PapersOnLine | 2019 | doi:10.1016/j.ifacol.2019.12.093
+    WHY UNSURE: VR/MR cyber operations; network data vis unclear
+    ABS: [abstract omitted; see the DOI]
+[C02914] XRaSE: Towards Virtually Tangible Software using Augmented Reality | IEEE/ACM International Conference on Automated Software Engi | 2019 | doi:10.1109/ase.2019.00135
+    WHY UNSURE: AR software visualization; relationship graph unclear
+    ABS: [abstract omitted; see the DOI]
+[C02949] Towards an Understanding of Augmented Reality Extensions for Existing 3D Data Analysis Tools | CHI Conference on Human Factors in Computing Systems | 2020 | doi:10.1145/3313831.3376657
+    WHY UNSURE: AR extension to desktop 3D analysis; AR-specific value unclear
+    ABS: [abstract omitted; see the DOI]
+[C02950] Towards immersive comprehension of software systems using augmented reality: an empirical evaluation | IEEE/ACM International Conference on Automated Software Engi | 2020 | doi:10.1145/3324884.3418907
+    WHY UNSURE: AR software comprehension; relationship graph likely
+    ABS: [abstract omitted; see the DOI]
+[C02959] 3D Volume Visualization and Screen-based Interaction with Dynamic Ray Casting on Autostereoscopic Display | IEEE International Symposium on Mixed and Augmented Reality  | 2021 | doi:10.1109/ismar-adjunct54149.2021.00056
+    WHY UNSURE: AR volume vis with tracked handheld display; AR value unclear
+    ABS: [abstract omitted; see the DOI]
+[C02977] opticARe - Augmented Reality Mobile Patient Monitoring in Intensive Care Units | ACM Symposium on Virtual Reality Software and Technology (VR | 2021 | doi:10.1145/3489849.3489852
+    WHY UNSURE: ICU monitoring; unclear if data visualization
+    ABS: [abstract omitted; see the DOI]
+[C02983] SecondSight: A Framework for Cross-Device Augmented Reality Interfaces | CHI Conference Extended Abstracts on Human Factors in Comput | 2021 | doi:10.1145/3411763.3451839
+    WHY UNSURE: cross-device AR design space framework; visualization unclear
+    ABS: [abstract omitted; see the DOI]
+[C03027] Multilevel Visual Analysis of Aggregate Geo-Networks | IEEE Transactions on Visualization and Computer Graphics | 2022 | doi:10.1109/tvcg.2022.3229953
+    WHY UNSURE: many geo-networks compared across levels; multilayer-like
+    ABS: [abstract omitted; see the DOI]
+[C03048] ComBiNet: Visual Query and Comparison of Bipartite Multivariate Dynamic Social Networks | Computer Graphics Forum | 2023 | doi:10.1111/cgf.14731
+    WHY UNSURE: bipartite multivariate dynamic networks; two-mode layers?
+    ABS: [abstract omitted; see the DOI]
+[C03058] Mixed Reality Learning Visualizations Using Knowledge Graphs | Lecture notes in computer science | 2023 | doi:10.1007/978-981-99-8385-8_12
+    WHY UNSURE: mixed reality knowledge graph visualization
+    ABS: [abstract omitted; see the DOI]
+[C03076] visMOP – A Visual Analytics Approach for Multi‐omics Pathways | Computer Graphics Forum | 2023 | doi:10.1111/cgf.14828
+    WHY UNSURE: multi-omics on pathway networks; possibly layered
+    ABS: [abstract omitted; see the DOI]
+[C03100] Exploration of Multi-layers Networks to Elicit and Capture Product Changes | IFIP advances in information and communication technology | 2024 | doi:10.1007/978-3-031-62578-7_14
+    WHY UNSURE: multi-layer network exploration of product changes; no abstract
+    ABS: [abstract omitted; see the DOI]
+[C03123] Stepping into the Unknown: Immersive Spatial Hypertext | Workshop on Human Factors in Hypertext (HUMAN) | 2024 | doi:10.1145/3679058.3688632
+    WHY UNSURE: immersive spatial hypertext (node-link structure) position
+    ABS: [abstract omitted; see the DOI]
+[C03126] Two-layer visual analytics of truckers’ risk-coping social network | Information Visualization | 2024 | doi:10.1177/14738716241265110
+    WHY UNSURE: two-layer geo-map plus social network visual analytics
+    ABS: [abstract omitted; see the DOI]
+[R2-C02637] 2 Related Work Augmented Reality and Gis: on the Possibilities and Limits of Markerless Ar |  |  | doi:
+    WHY UNSURE: AR+GIS markerless AR fragment; check content
+    ABS: [abstract omitted; see the DOI]
+[R2-C02645] 2022. TimeTables: Embodied Exploration of Immersive Spatio-Temporal Data | 2022 IEEE Conference on Virtual Reality and 3D User Interfac |  | doi:
+    WHY UNSURE: TimeTables immersive spatio-temporal; may use physical table referent
+    ABS: [abstract omitted; see the DOI]
+[R2-C02706] “Being the graph |  |  | doi:
+    WHY UNSURE: title fragment only; possibly embodied graph interaction
+    ABS: [abstract omitted; see the DOI]
+[R2-C02780] DwyerT.:Two and a Half Dimensional Visualisation of Relational Networks.PhD thesis The University of Sydney 2005. |  |  | doi:
+    WHY UNSURE: Dwyer thesis 2.5D relational networks; check if published elsewhere
+    ABS: [abstract omitted; see the DOI]
+[R2-C02792] EnMRgy: Energy network analysis in mixed reality |  |  | doi:
+    WHY UNSURE: energy network in mixed reality; check graph vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C02802] Exploring Pen and Paper Interaction for Task Management in AR |  |  | doi:
+    WHY UNSURE: pen-paper AR; unclear if visualization
+    ABS: [abstract omitted; see the DOI]
+[R2-C02807] Feel the story in your hands: Tangibles for exploring collaborative scientific storytelling |  |  | doi:
+    WHY UNSURE: tangibles for scientific storytelling; unclear AR/network
+    ABS: [abstract omitted; see the DOI]
+[R2-C02918] Journal of Graph Algorithms and Applications a 2.5d Hierarchical Drawing of Directed Graphs |  |  | doi:
+    WHY UNSURE: 2.5D hierarchical drawing; levels on planes, check MLN relevance
+    ABS: [abstract omitted; see the DOI]
+[R2-C02960] Markus Tatzgern. 2015. Situated Visualization in Augmented Reality. (2015).  Markus Tatzgern. 2015. Situated Visualization in Augmented Reality. (2015). |  |  | doi:
+    WHY UNSURE: Tatzgern situated AR vis thesis; check if published elsewhere
+    ABS: [abstract omitted; see the DOI]
+[R2-C03004] NEXO: Adaptive Visualization for Comparative Exploration of Knowledge Graphs with Natural Language Interaction |  |  | doi:
+    WHY UNSURE: knowledge graphs (multi-relational) comparative exploration
+    ABS: [abstract omitted; see the DOI]
+[R2-C03020] Operator impressions of 3 D visualizations for cybersecurity analysts | Proceedings of the 18 th European Conference on Cyber Warfar |  | doi:
+    WHY UNSURE: 3D cyber visualizations; may be immersive network vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C03091] Shabbeer, A., Ozcaglar, C., Gonzalez, M., Bennett, KP.: Optimal embedding of heterogeneous graph data with edge crossing constraints. In: Presented at NIPS Workshop on Challenges of Data Visualization, p. 1 (2010) |  |  | doi:
+    WHY UNSURE: heterogeneous graph layout; possibly multi-relational
+    ABS: [abstract omitted; see the DOI]
+[R2-C03772] The magnifying glass approach to augmented reality systems | ICAT/VRST'95 | 1995 | doi:
+    WHY UNSURE: magnifying-glass AR; info on physical objects, unclear vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C03899] Multilevel visualization of clustered graphs | Lecture notes in computer science | 1997 | doi:10.1007/3-540-62495-3_41
+    WHY UNSURE: clustered graph levels on stacked 3D planes (Eades-Feng)
+    ABS: [abstract omitted; see the DOI]
+[R2-C03947] Collaborative visualization in augmented reality | IEEE Computer Graphics and Applications | 1998 | doi:10.1109/38.689665
+    WHY UNSURE: Studierstube collaborative vis; data type unclear
+    ABS: [abstract omitted; see the DOI]
+[R2-C03982] ?Studierstube?: An environment for collaboration in augmented reality | Virtual Reality | 1998 | doi:10.1007/bf01409796
+    WHY UNSURE: Studierstube AR environment; check visualization content
+    ABS: [abstract omitted; see the DOI]
+[R2-C04253] Interaction modes for augmented reality visualization | Proceedings of the Asia-Pacific Symposium on Information Vis | 2001 | doi:
+    WHY UNSURE: AR information visualization interaction modes; vague abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C04300] The MagicBook: a transitional AR interface | Computers & Graphics | 2001 | doi:10.1016/s0097-8493(01)00117-0
+    WHY UNSURE: MagicBook AR on physical book; unclear data vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C04313] Using Virtual Reality Data Mining for Network Management. | International Conference on Enterprise Information Systems | 2001 | doi:
+    WHY UNSURE: VR data mining for network management; may show graphs
+    ABS: [abstract omitted; see the DOI]
+[R2-C04476] Virtual but visible software | IEEE Conference on Information Visualization (IV) | 2002 | doi:10.1109/iv.2000.859756
+    WHY UNSURE: VR software visualization; check for graph structures
+    ABS: [abstract omitted; see the DOI]
+[R2-C04478] Visualising a fund manager flow graph with columns and worms | International Conference on Information Visualisation (IV) | 2002 | doi:10.1109/iv.2002.1028770
+    WHY UNSURE: dynamic flow graph with time as third dimension
+    ABS: [abstract omitted; see the DOI]
+[R2-C04479] Visualising software in virtual reality | IEEE International Conference on Program Comprehension (ICPC | 2002 | doi:10.1109/wpc.1998.693276
+    WHY UNSURE: VR software visualization; check for graph structures
+    ABS: [abstract omitted; see the DOI]
+[R2-C04520] Comparison of metabolic pathways using constraint graph drawing | Proceedings of the First Asia-Pacific Bioinformatics Confere | 2003 | doi:
+    WHY UNSURE: pathway comparison across species; juxtaposed related networks?
+    ABS: [abstract omitted; see the DOI]
+[R2-C04522] Comprehension with[in] virtual environment visualisations | IEEE International Conference on Program Comprehension (ICPC | 2003 | doi:10.1109/wpc.1999.777733
+    WHY UNSURE: VR software visualization; check for graph structures
+    ABS: [abstract omitted; see the DOI]
+[R2-C04541] Enveloping users and computers in a collaborative 3D augmented reality |  | 2003 | doi:10.1109/iwar.1999.803804
+    WHY UNSURE: EMMIE collaborative AR hybrid UI; unclear vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C04584] Overlaying Graph Links on Treemaps | HAL | 2003 | doi:
+    WHY UNSURE: graph links on treemaps hybrid; I5 if from McGee
+    ABS: [abstract omitted; see the DOI]
+[R2-C04648] A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations | IEEE Symposium on Information Visualization | 2004 | doi:10.1109/infvis.2004.1
+    WHY UNSURE: node-link vs matrix eval; I5 if from McGee
+    ABS: [abstract omitted; see the DOI]
+[R2-C04672] CyberSeer: 3D audio-visual immersion for network security and management | IEEE Symposium on Visualization for Cyber Security (VIZSEC) | 2004 | doi:10.1145/1029208.1029223
+    WHY UNSURE: immersive audio-visual network security; check graph vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C04763] Simultaneous embedding and visualization of graphs |  | 2004 | doi:
+    WHY UNSURE: simultaneous embedding of graphs; maybe multiplex vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C04805] Visualisation of Large and Complex Networks Using PolyPlane | Lecture notes in computer science | 2004 | doi:10.1007/978-3-540-31843-9_49
+    WHY UNSURE: PolyPlane subgraphs on 3D planes; check layer relevance
+    ABS: [abstract omitted; see the DOI]
+[R2-C04811] WilmaScope — A 3D Graph Visualization System | Mathematics and visualization | 2004 | doi:10.1007/978-3-642-18638-7_3
+    WHY UNSURE: 3D graph vis system; check stereo/layered support
+    ABS: [abstract omitted; see the DOI]
+[R2-C04837] An Augmented Reality System for Multi-UAV Missions |  | 2005 | doi:
+    WHY UNSURE: AR display for UAV missions; possibly situated data vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C04858] Collaborative Mixed Reality Visualization of an Archaeological Excavation | Proceedings - International Symposium on Mixed and Augmented | 2005 | doi:10.1109/ismar.2004.23
+    WHY UNSURE: Collaborative MR archaeology dig vis; check AR anchoring
+    ABS: [abstract omitted; see the DOI]
+[R2-C04867] Cross-Dimensional Gestural Interaction Techniques for Hybrid Imrnersive Environments | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2005 | doi:10.1109/vr.2005.27
+    WHY UNSURE: Hybrid AR 2D/3D gestural interaction; check spatial context
+    ABS: [abstract omitted; see the DOI]
+[R2-C04893] Exploring Relations within Software Systems Using Treemap Enhanced Hierarchical Graphs | Visualizing Software for Understanding and Analysis | 2005 | doi:10.1109/vissof.2005.1684312
+    WHY UNSURE: Hybrid treemap/graph representation; possible I5
+    ABS: [abstract omitted; see the DOI]
+[R2-C04961] Outdoor See-Through Vision Utilizing Surveillance Cameras | Proceedings - International Symposium on Mixed and Augmented | 2005 | doi:10.1109/ismar.2004.45
+    WHY UNSURE: Outdoor MR see-through with surveillance cameras; spatial context
+    ABS: [abstract omitted; see the DOI]
+[R2-C04977] Real-Time Video Annotations for Augmented Reality | Advances in Visual Computing | 2005 | doi:10.1007/11595755_36
+    WHY UNSURE: AR video annotations; possible physical anchoring
+    ABS: [abstract omitted; see the DOI]
+[R2-C04987] Simultaneous Embedding of Planar Graphs with Few Bends | Lecture notes in computer science | 2005 | doi:10.1007/978-3-540-31843-9_21
+    WHY UNSURE: Simultaneous embedding of multiple graphs on shared vertices
+    ABS: [abstract omitted; see the DOI]
+[R2-C05005] Tangible tabletop interface for an expert to collaborate with remote field workers | Proceedings CollabTech | 2005 | doi:
+    WHY UNSURE: Tangible tabletop remote collaboration; vis role unclear
+    ABS: [abstract omitted; see the DOI]
+[R2-C05058] A Data Visualization Virtual Environment Supported by Augmented Reality | Conference proceedings/Conference proceedings - IEEE Interna | 2006 | doi:10.1109/icsmc.2006.384365
+    WHY UNSURE: AR infovis environment with markers; check tangible input
+    ABS: [abstract omitted; see the DOI]
+[R2-C05097] Drawing Clustered Graphs in Three Dimensions | Lecture notes in computer science | 2006 | doi:10.1007/11618058_44
+    WHY UNSURE: Clustered graphs drawn on 3D planes; possible layered
+    ABS: [abstract omitted; see the DOI]
+[R2-C05123] Hierarchical Layouts of Directed Graphs in Three Dimensions | Lecture notes in computer science | 2006 | doi:10.1007/11618058_23
+    WHY UNSURE: Directed graphs layered in parallel 3D planes
+    ABS: [abstract omitted; see the DOI]
+[R2-C05132] Implementation of god-like interaction techniques for supporting collaboration between outdoor AR and indoor tabletop users | Proceedings - International Symposium on Mixed and Augmented | 2006 | doi:10.1109/ismar.2006.297809
+    WHY UNSURE: Outdoor AR + tabletop collaboration; situational info vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C05170] Multidimensional information visualization using augmented reality | ACM SIGGRAPH International Conference on Virtual-Reality Con | 2006 | doi:10.1145/1128923.1128996
+    WHY UNSURE: AR infovis prototype; check tangible markers (dup of C05241?)
+    ABS: [abstract omitted; see the DOI]
+[R2-C05171] MultiPlane: A New Framework for Drawing Graphs in Three Dimensions | Lecture notes in computer science | 2006 | doi:10.1007/11618058_49
+    WHY UNSURE: MultiPlane 3D multi-plane graph drawing; possible layered
+    ABS: [abstract omitted; see the DOI]
+[R2-C05173] NetLens: Iterative Exploration of Content-Actor Network Data | Information Visualization | 2006 | doi:10.1057/palgrave.ivs.9500143
+    WHY UNSURE: Content-actor (two-type) network vis; possibly multi-relational
+    ABS: [abstract omitted; see the DOI]
+[R2-C05204] Semantic Analytics Visualization | Intelligence and Security Informatics | 2006 | doi:10.1007/11760146_5
+    WHY UNSURE: Semantic (multi-relational) graph analytics vis; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C05241] Using Augmented Reality for Multidimensional Data Visualization | International Conference on Information Visualisation (IV) | 2006 | doi:10.1109/iv.2006.117
+    WHY UNSURE: AR infovis prototype; check tangible markers (dup of C05170?)
+    ABS: [abstract omitted; see the DOI]
+[R2-C05249] Visual analysis of network centralities |  | 2006 | doi:
+    WHY UNSURE: Centrality comparison via stacked 3D planes; possible layers
+    ABS: [abstract omitted; see the DOI]
+[R2-C05275] A 2.5D Hierarchical Drawing of Directed Graphs | Journal of Graph Algorithms and Applications | 2007 | doi:10.7155/jgaa.00151
+    WHY UNSURE: 2.5D drawing, vertices in parallel planes; possible layered
+    ABS: [abstract omitted; see the DOI]
+[R2-C05308] Coordinated and Multiple Views in Augmented Reality Environment | International Conference on Information Visualisation (IV) | 2007 | doi:10.1109/iv.2007.38
+    WHY UNSURE: Coordinated multiple views in AR; check anchoring/tangible
+    ABS: [abstract omitted; see the DOI]
+[R2-C05385] Mechanical constraints as computational constraints in tabletop tangible interfaces | CHI Conference on Human Factors in Computing Systems | 2007 | doi:10.1145/1240624.1240746
+    WHY UNSURE: Tangible tabletop with projection; data vis role unclear
+    ABS: [abstract omitted; see the DOI]
+[R2-C05397] Navigation techniques for 2.5D graph layout | International Asia-Pacific Symposium on Visualization | 2007 | doi:10.1109/apvis.2007.329279
+    WHY UNSURE: Navigation of 2.5D layered graph layouts
+    ABS: [abstract omitted; see the DOI]
+[R2-C05550] Configurable Spaces: Temporal analysis in diagrammatic contexts | IEEE Conference on Visual Analytics Science and Technology ( | 2008 | doi:10.1109/vast.2008.4677355
+    WHY UNSURE: Temporal diagram analysis in 3D configurable space; possible slices
+    ABS: [abstract omitted; see the DOI]
+[R2-C05671] Road Stakeout In Wearable Outdoor Augmented Reality | UC Research Repository  (University of Canterbury) | 2008 | doi:10.26021/2215
+    WHY UNSURE: Wearable outdoor AR visualisations thesis; check publication/E5
+    ABS: [abstract omitted; see the DOI]
+[R2-C05675] See-Through Vision for Mobile Outdoor Augmented Reality |  | 2008 | doi:
+    WHY UNSURE: Mobile AR see-through vision of occluded objects
+    ABS: [abstract omitted; see the DOI]
+[R2-C05714] Title Augmented / Virtual Reality applied to the control and supervision of heterogeneous robotic vehicles in cooperative missions . Advisor ( s ) |  | 2008 | doi:
+    WHY UNSURE: AR/VR supervision of robot vehicles thesis; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C05726] User evaluation of see-through vision for mobile outdoor augmented reality | Proceedings - International Symposium on Mixed and Augmented | 2008 | doi:10.1109/ismar.2008.4637327
+    WHY UNSURE: User study of mobile AR see-through vision
+    ABS: [abstract omitted; see the DOI]
+[R2-C05751] Visualizing Genome Expression and Regulatory Network Dynamics in Genomic and Metabolic Context | Computer Graphics Forum | 2008 | doi:10.1111/j.1467-8659.2008.01221.x
+    WHY UNSURE: Regulatory + metabolic networks integrated; possible two-layer
+    ABS: [abstract omitted; see the DOI]
+[R2-C05775] A Multiple-Aspects Visualization Tool for Exploring Social Networks | Lecture notes in computer science | 2009 | doi:10.1007/978-3-642-02559-4_31
+    WHY UNSURE: Multiple-aspects social network tool; possibly multi-relational
+    ABS: [abstract omitted; see the DOI]
+[R2-C05904] Matched drawability of graph pairs and of graph triples | Lecture notes in computer science | 2009 | doi:10.1007/978-3-642-00202-1_28
+    WHY UNSURE: Matched drawability of graph pairs/triples (multiplex drawing theory)
+    ABS: [abstract omitted; see the DOI]
+[R2-C05907] MetNetGE: Visualizing biological networks in hierarchical views and 3D tiered layouts | IEEE International Conference on Bioinformatics and Biomedic | 2009 | doi:10.1109/bibmw.2009.5332109
+    WHY UNSURE: 3D tiered biological network layouts; possible layers
+    ABS: [abstract omitted; see the DOI]
+[R2-C05912] MultiPlane Framework for Visualisation and Analysis of Large and Complex Networks (Acceleration and Visualization of Computation for Enumeration Problems) | 数理解析研究所講究録 | 2009 | doi:
+    WHY UNSURE: MultiPlane 3D multi-plane network framework; possible layered
+    ABS: [abstract omitted; see the DOI]
+[R2-C05995] The Virtual Mirror: A New Interaction Paradigm for Augmented Reality Environments | IEEE Transactions on Medical Imaging | 2009 | doi:10.1109/tmi.2009.2018622
+    WHY UNSURE: Medical AR virtual mirror interaction; check physical anchoring
+    ABS: [abstract omitted; see the DOI]
+[R2-C06062] An augmented reality interface to contextual information | Virtual Reality | 2010 | doi:10.1007/s10055-010-0183-5
+    WHY UNSURE: AR interface to contextual information; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C06070] An interactive augmented reality system for learning anatomy structure |  | 2010 | doi:
+    WHY UNSURE: AR anatomy learning; check physical anchoring of vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C06079] Augmented reality to enhance visitors experience in a digital zoo | International Conference on Mobile and Ubiquitous Multimedia | 2010 | doi:10.1145/1899475.1899482
+    WHY UNSURE: Mobile AR of sensor-network animal tracking; situated data
+    ABS: [abstract omitted; see the DOI]
+[R2-C06090] Caleydo: Design and evaluation of a visual analysis framework for gene expression data in its biological context | IEEE Pacific Visualization Symposium | 2010 | doi:10.1109/pacificvis.2010.5429609
+    WHY UNSURE: Caleydo multiple linked pathway views (2.5D bucket); possible MLN
+    ABS: [abstract omitted; see the DOI]
+[R2-C06091] CELLMICROCOSMOS 4.1 - An Interactive Approach to Integrating Spatially Localized Metabolic Networks into a Virtual 3D Cell Environment | BIOINFORMATICS 2010 - Proceedings of the 1st International C | 2010 | doi:10.5220/0002692500900095
+    WHY UNSURE: Metabolic networks mapped into 3D cell compartments
+    ABS: [abstract omitted; see the DOI]
+[R2-C06103] ContexTour: Contextual Contour Visual Analysis on Dynamic Multi-Relational Clustering | SIAM International Conference on Data Mining | 2010 | doi:10.1137/1.9781611972801.37
+    WHY UNSURE: Dynamic multi-relational clustering visual analysis
+    ABS: [abstract omitted; see the DOI]
+[R2-C06181] MetNetGE: interactive views of biological networks and ontologies | BMC Bioinformatics | 2010 | doi:10.1186/1471-2105-11-469
+    WHY UNSURE: MetNetGE 3D tiered network views (cf. C05907)
+    ABS: [abstract omitted; see the DOI]
+[R2-C06266] Tangible views for information visualization | ACM International Conference on Interactive Tabletops and Su | 2010 | doi:10.1145/1936652.1936684
+    WHY UNSURE: Tangible spatially-aware views over tabletop; check AR/anchoring
+    ABS: [abstract omitted; see the DOI]
+[R2-C06428] Effective Temporal Graph Layout: A Comparative Study of Animation versus Static Display Methods | Information Visualization | 2011 | doi:10.1057/ivs.2010.10
+    WHY UNSURE: Animation vs static (small-multiple) temporal graph layouts
+    ABS: [abstract omitted; see the DOI]
+[R2-C06488] In Situ Exploration of Large Dynamic Networks | IEEE Transactions on Visualization and Computer Graphics | 2011 | doi:10.1109/tvcg.2011.213
+    WHY UNSURE: In-situ dynamic network views; check juxtaposed time slices
+    ABS: [abstract omitted; see the DOI]
+[R2-C06506] Involve Me and I Will Understand!–Abstract Data Visualization in Immersive Environments | Lecture notes in computer science | 2011 | doi:10.1007/978-3-642-24028-7_49
+    WHY UNSURE: Abstract data vis in immersive environments; may include networks
+    ABS: [abstract omitted; see the DOI]
+[R2-C06517] Medusa: A tool for exploring and clustering biological networks | BMC Research Notes | 2011 | doi:10.1186/1756-0500-4-384
+    WHY UNSURE: bio network tool; Medusa supports multi-edge types
+    ABS: [abstract omitted; see the DOI]
+[R2-C06597] Social Augmented Reality for Sensor Visualization in Ubiquitous Virtual Reality | Lecture notes in computer science | 2011 | doi:10.1007/978-3-642-22021-0_9
+    WHY UNSURE: social AR sensor visualization; no abstract, maybe situated
+    ABS: [abstract omitted; see the DOI]
+[R2-C06602] SolarMap: Multifaceted Visual Analytics for Topic Exploration | Proceedings | 2011 | doi:10.1109/icdm.2011.135
+    WHY UNSURE: SolarMap multi-relational faceted corpora; check graph representation
+    ABS: [abstract omitted; see the DOI]
+[R2-C06629] The Innovation pyramid: a categorization of the innovation phenomenon in the product-design field | Virtual Community of Pathological Anatomy (University of Cas | 2011 | doi:
+    WHY UNSURE: AR data visualisation design in presentations; check spatial context
+    ABS: [abstract omitted; see the DOI]
+[R2-C06637] Time spring layout for visualization of dynamic social networks | IEEE Network Science Workshop (NSW) | 2011 | doi:10.1109/nsw.2011.6004630
+    WHY UNSURE: time spring layout places time slices along axis
+    ABS: [abstract omitted; see the DOI]
+[R2-C06678] Visualization methods for longitudinal social networks and stochastic actor-oriented modeling | Social Networks | 2011 | doi:10.1016/j.socnet.2011.06.002
+    WHY UNSURE: longitudinal network vis; check for juxtaposed snapshots
+    ABS: [abstract omitted; see the DOI]
+[R2-C06688] Visualizing explicit and implicit relations of complex information spaces | Information Visualization | 2011 | doi:10.1177/1473871611425872
+    WHY UNSURE: EdgeMaps: explicit+implicit relation types together
+    ABS: [abstract omitted; see the DOI]
+[R2-C06689] Visualizing Pipeline Sensors Datasets Using Augmented Reality Based Prototype |  | 2011 | doi:
+    WHY UNSURE: AR prototype for pipeline sensor data; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C06716] 3 D Visualization System for Temporal Changes in Blog Users ’ Activities and Interests Based on Dependency Analysis ∗ |  | 2012 | doi:
+    WHY UNSURE: 3D temporal blog-user activity vis; maybe stacked slices
+    ABS: [abstract omitted; see the DOI]
+[R2-C06740] A virtual reality-based approach for interactive and visual mining of association rules | HAL | 2012 | doi:
+    WHY UNSURE: VR visual mining of association rules; maybe graph-based
+    ABS: [abstract omitted; see the DOI]
+[R2-C06743] A Visual Cross-Database Comparison of Metabolic Networks | Lecture notes in computer science | 2012 | doi:10.1007/978-3-642-33191-6_67
+    WHY UNSURE: cross-database comparison of metabolic networks; maybe layered
+    ABS: [abstract omitted; see the DOI]
+[R2-C06755] An Investigation into Visual Graph Comparison | Edinburgh Napier Research Repository (Edinburgh Napier Unive | 2012 | doi:10.17869/enu.190709
+    WHY UNSURE: graph comparison node-link vs matrix, combined views
+    ABS: [abstract omitted; see the DOI]
+[R2-C06798] Comprehensible and Interactive Visualizations of GIS Data in Augmented Reality | Lecture notes in computer science | 2012 | doi:10.1007/978-3-642-33179-4_64
+    WHY UNSURE: GIS data AR; possibly infrastructure ghosting
+    ABS: [abstract omitted; see the DOI]
+[R2-C06927] Mobile augmented reality for environmental monitoring | Personal and Ubiquitous Computing | 2012 | doi:10.1007/s00779-012-0597-z
+    WHY UNSURE: mobile AR environmental monitoring; no abstract, likely situated
+    ABS: [abstract omitted; see the DOI]
+[R2-C07009] Strip'TIC: exploring augmented paper strips for air traffic controllers | International Conference on Advanced Visual Interfaces (AVI) | 2012 | doi:10.1145/2254556.2254598
+    WHY UNSURE: augmented paper strips (projection on tangible referent) for ATC
+    ABS: [abstract omitted; see the DOI]
+[R2-C07050] Towards the Visualization of Multivariate Biochemical Networks |  | 2012 | doi:
+    WHY UNSURE: interconnected pathways; possibly 2.5D stacked pathway layers
+    ABS: [abstract omitted; see the DOI]
+[R2-C07120] A sensing architecture for empathetic data systems | Augmented Human International Conference | 2013 | doi:10.1145/2459236.2459253
+    WHY UNSURE: mixed-reality immersive data exploration; data type unclear
+    ABS: [abstract omitted; see the DOI]
+[R2-C07182] Controlling and Filtering Information Density with Spatial Interaction Techniques via Handheld Augmented Reality | Lecture notes in computer science | 2013 | doi:10.1007/978-3-642-39405-8_6
+    WHY UNSURE: No abstract; AR info-density filtering, data type unclear
+    ABS: [abstract omitted; see the DOI]
+[R2-C07217] Entourage: Visualizing Relationships between Biological Pathways using Contextual Subsets | IEEE Transactions on Visualization and Computer Graphics | 2013 | doi:10.1109/tvcg.2013.154
+    WHY UNSURE: Entourage: links across multiple pathways; maybe MLN survey item
+    ABS: [abstract omitted; see the DOI]
+[R2-C07352] Ploceus: Modeling, visualizing, and analyzing tabular data as networks | Information Visualization | 2013 | doi:10.1177/1473871613488591
+    WHY UNSURE: Ploceus: multiple networks with different edge semantics from tables
+    ABS: [abstract omitted; see the DOI]
+[R2-C07423] The Extended Stereoscopic Highlighting Technique for Node-Link Diagrams: An Empirical Study | IASTED International Conference on Signal Processing, Patter | 2013 | doi:10.2316/p.2013.797-018
+    WHY UNSURE: stereoscopic depth highlighting for node-link; check immersion
+    ABS: [abstract omitted; see the DOI]
+[R2-C07440] The Reflection Layer Extension to the Stereoscopic Highlight Technique for Node-Link Diagrams: An Empirical Study | Lecture notes in computer science | 2013 | doi:10.1007/978-3-642-41939-3_1
+    WHY UNSURE: stereoscopic highlight reflection layer node-link; check immersion
+    ABS: [abstract omitted; see the DOI]
+[R2-C07483] ViStruclizer: A Structural Visualizer for Multi-dimensional Social Networks | Lecture notes in computer science | 2013 | doi:10.1007/978-3-642-37456-2_5
+    WHY UNSURE: ViStruclizer multi-dimensional (multiplex?) social networks; no abstract
+    ABS: [abstract omitted; see the DOI]
+[R2-C07504] Visualizing edge-edge relations in graphs | IEEE Pacific Visualization Symposium | 2013 | doi:10.1109/pacificvis.2013.6596146
+    WHY UNSURE: edge-edge plus vertex-vertex relations: two relation types
+    ABS: [abstract omitted; see the DOI]
+[R2-C07510] Visualizing social learning ties by type and topic: rationale and concept demonstrator | International Conference on Learning Analytics and Knowledge | 2013 | doi:10.1145/2460296.2460305
+    WHY UNSURE: social learning ties by type: possibly multiplex vis
+    ABS: [abstract omitted; see the DOI]
+[R2-C07517] Visualizing Urban Anaylsis in Mixed Reality | International Conference on Intelligent Environments (IE) | 2013 | doi:10.1109/ie.2013.44
+    WHY UNSURE: urban analysis composited on real footage (mixed reality video)
+    ABS: [abstract omitted; see the DOI]
+[R2-C07639] Data Visualization of Web Service with Parallel Coordinates and NodeTrix | IEEE International Conference on Services Computing | 2014 | doi:10.1109/scc.2014.104
+    WHY UNSURE: NodeTrix hybrid applied to web services; check I5
+    ABS: [abstract omitted; see the DOI]
+[R2-C07681] ExpanD: a stereoscopic expanding technique for compound graphs | ACM Symposium on Virtual Reality Software and Technology (VR | 2014 | doi:10.1145/2671015.2671124
+    WHY UNSURE: ExpanD stereoscopic compound graph expansion (VRST); check immersion
+    ABS: [abstract omitted; see the DOI]
+[R2-C07731] How to master challenges in experimental evaluation of 2D versus 3D software visualizations |  | 2014 | doi:10.1109/3dvis.2014.7160097
+    WHY UNSURE: 2D vs 3D/immersive software visualization evaluation; maybe graphs
+    ABS: [abstract omitted; see the DOI]
+[R2-C07809] Network Splitter 3D |  | 2014 | doi:
+    WHY UNSURE: Network Splitter 3D: likely 3D layer splitting; no abstract
+    ABS: [abstract omitted; see the DOI]

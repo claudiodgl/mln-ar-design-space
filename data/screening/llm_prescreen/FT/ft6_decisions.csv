@@ -1,0 +1,5 @@
+cid,decision,code,evidence,note
+R3-C10415,include,I1,a multilayer radial drawing that represents the activity of the employees and clients. Each layer represents a different examined pattern,desktop; relation types (fraud patterns) drawn as concentric layers
+R3-C15049,exclude,E1,we examine how CNNs can be visualized in Virtual Reality (VR),neural network in the machine-learning sense; no graph visualization
+R2-C11594,exclude,E3,This paper applies layered graph drawing to layout a Software City in 3D.,"decided on the abstract retrieved from Semantic Scholar; single dependency graph, layers are a layout device"
+R3-C15665,needs_fulltext,,,retrieved abstract (AR augmentation of Minard's figurative map for cultural mediation) is insufficient to decide I4

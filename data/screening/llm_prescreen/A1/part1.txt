@@ -1,0 +1,370 @@
+[C00060] (current I4) Reinventing the Familiar: Exploring an Augmented Reality Design Space for Air Traffic Control | conf/chi | 1998
+    ABS: [abstract omitted; see the DOI]
+[C00107] (current I1) Visual unrolling of network evolution and the analysis of dynamic discourse | Information Visualization | 2002
+    ABS: [abstract omitted; see the DOI]
+[C00132] (current I4) Augmented Reality with Tangible Auto-Fabricated Models for Molecular Biology Applications | conf/visualization | 2004
+    ABS: [abstract omitted; see the DOI]
+[C00187] (current I1) Multi-Layered Network Visualizer for Time Series Analysis of Social Systems | SCIS & ISIS SCIS & ISIS 2006 | 2006
+    ABS: [abstract omitted; see the DOI]
+[C00200] (current I4) Visualization of sensor data using mobile phone augmented reality | Proceedings - International Symposium on Mixed and | 2006
+    ABS: [abstract omitted; see the DOI]
+[C00236] (current I4) Visualizing Occluded Physical Objects in Unfamiliar Outdoor Augmented Reality Environments | conf/ismar | 2007
+    ABS: [abstract omitted; see the DOI]
+[C00247] (current I4) Employing location-aware handheld augmented reality to assist utilities field personnel |  | 2008
+    ABS: [abstract omitted; see the DOI]
+[C00248] (current I4) Evaluation of a Mobile MR Geovisualisation Interface | Eurographics 2008 - Short Papers | 2008
+    ABS: [abstract omitted; see the DOI]
+[C00261] (current I1) Navigation and Exploration of Interconnected Pathways | Computer Graphics Forum | 2008
+    ABS: [abstract omitted; see the DOI]
+[C00293] (current I1) Semantic Visualization to Support Knowledge Discovery in Multi-Relational Service Communities | IGI Global eBooks | 2009
+    ABS: [abstract omitted; see the DOI]
+[C00304] (current I1) Visualizing the Evolution of Compound Digraphs with TimeArcTrees | Computer Graphics Forum | 2009
+    ABS: [abstract omitted; see the DOI]
+[C00310] (current I4) An Augmented Reality X-Ray system based on visual saliency | Proceedings - International Symposium on Mixed and | 2010
+    ABS: [abstract omitted; see the DOI]
+[C00349] (current I1) A visual analytics approach to dynamic social networks | i-KNOW '11 | 2011
+    ABS: [abstract omitted; see the DOI]
+[C00357] (current I1) Exploring temporal ego networks using small multiples and tree-ring layouts | Advances in Computer-Human Interaction | 2011
+    ABS: [abstract omitted; see the DOI]
+[C00364] (current I1) Layered TimeRadarTrees | International Conference on Information Visualisat | 2011
+    ABS: [abstract omitted; see the DOI]
+[C00367] (current I1) Parallel Edge Splatting for Scalable Dynamic Graph Visualization | IEEE Transactions on Visualization and Computer Gr | 2011
+    ABS: [abstract omitted; see the DOI]
+[C00383] (current I1) Visual Comparison of Document Collections Using Multi-Layered Graphs | HAL | 2011
+    ABS: [abstract omitted; see the DOI]
+[C00405] (current I1) MatrixFlow: Temporal Network Visual Analytics to Track Symptom Evolution during Disease Progression | PubMed Central | 2012
+    ABS: [abstract omitted; see the DOI]
+[C00412] (current I1) Radial Edge Splatting for Visualizing Dynamic Directed Graphs | International Joint Conference on Computer Vision, | 2012
+    ABS: [abstract omitted; see the DOI]
+[C00427] (current I1) Vertigo zoom: combining relational and temporal perspectives on dynamic networks | AVI '12 | 2012
+    ABS: [abstract omitted; see the DOI]
+[C00469] (current I1) Radial Layered Matrix Visualization of Dynamic Graphs | International Conference on Information Visualisat | 2013
+    ABS: [abstract omitted; see the DOI]
+[C00486] (current I1) Visualizing Dense Dynamic Networks with Matrix Cubes | HAL | 2013
+    ABS: [abstract omitted; see the DOI]
+[C00491] (current I1) A Flip-Book of Edge-Splatted Small Multiples for Visualizing Dynamic Graphs | VINCI '14 | 2014
+    ABS: [abstract omitted; see the DOI]
+[C00533] (current I1) Transparent Layering for Visualizing Dynamic Graphs Using the Flip Book Metaphor |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[C00534] (current I1) Visual Analysis of Sets of Heterogeneous Matrices Using Projection-Based Distance Functions and Semantic Zoom | Computer Graphics Forum | 2014
+    ABS: [abstract omitted; see the DOI]
+[C00537] (current I1) Visualizing dynamic networks with matrix cubes | CHI '14 | 2014
+    ABS: [abstract omitted; see the DOI]
+[C00539] (current I1) 3D DynNetVis: A 3D Visualization Technique for Dynamic Networks | ASONAM '15 | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00541] (current I4) A Location-Based Augmented Reality System for the Spatial Interaction with Historical Datasets | International Congress on Digital Heritage - Theme | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00566] (current I1) MultiStory: Visual analytics of dynamic multi-relational networks | IEEE Pacific Visualization Symposium | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00576] (current I1) Small MultiPiles: Piling Time to Explore Temporal Patterns in Dynamic Networks | Computer Graphics Forum | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00582] (current I1) The Effects of Representation and Juxtaposition on Graphical Perception of Matrix Visualization | CHI Conference on Human Factors in Computing Syste | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00594] (current I1) Visualizing Dynamic Hierarchies in Graph Sequences | IEEE Transactions on Visualization and Computer Gr | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00615] (current I1) CuboidMatrix: Exploring Dynamic Structural Connections in Software Components Using Space-Time Cube | IEEE Working Conference on Software Visualization  | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00624] (current I1) Evaluation of Two Interaction Techniques for Visualization of Dynamic Graphs | Lecture notes in computer science | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00681] (current I4) An AR Network Cabling Tutoring System for Wiring a Rack | conf/egve | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00707] (current I4) Exploring the design space of immersive urban analytics | Visual Informatics | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00723] (current I4) MARCS: mobile augmented reality for cybersecurity | CISRC '17 | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00749] (current I4) Tangible Visual Analysis: Brushing in a Mixed-Reality Environment | conf/vissym | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00751] (current I4) The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality? | conf/visualization | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00758] (current I1) Using Multi-Layered Networks to Disclose Books in the Republic of Letters | DOAJ (DOAJ: Directory of Open Access Journals) | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00792] (current I4) Clusters, Trends, and Outliers: How Immersive Technologies Can Facilitate the Collaborative Analysis of Multidimensional Data | CHI '18Paper No.: 90, | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00794] (current I4) Data Visualization Using Augmented Reality | ScholarWorks - GVSU (Grand Valley State University | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00811] (current I4) Exploring the Effects of Scale in Augmented Reality-Empowered Visual Analytics | CHI EA '18Paper No.: LBW012, | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00844] (current I4) On-Body tangible interaction: using the body to support tangible manipulations for immersive visualization | IHM '18 | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00867] (current I1) Visualisation de données dynamiques et complexes: des séries temporelles hiérarchiques aux graphes multicouches. (Visualization of Dynamic and Complex Data: from Hierarchical Time Series to Multilayer Graphs / Visualización de datos dinámicos y complejos: desde series temporales jerárquicas a grafos |  | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00894] (current I4) Coordinate: A Spreadsheet-Programmable Augmented Reality Framework for Immersive Map-Based Visualizations | IEEE International Conference on Artificial Intell | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00908] (current I1) Exploring dynamic multilayer graphs for digital humanities | Applied Network Science | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00913] (current I4) GeoGate: Correlating Geo-Temporal Datasets Using an Augmented Reality Space-Time Cube and Tangible Interactions | conf/vr | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00950] (current I1) Py3plex toolkit for visualization and analysis of multilayer networks | Applied Network Science | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00955] (current I4) Simulation and Visualization of Fluid Flows Around Real Objects in Augmented Reality | EuroVis 2019 - Short Papers | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00964] (current I4) Supporting Volumetric Data Visualization and Analysis by Combining Augmented Reality Visuals with Multi-Touch Input | conf/vissym | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00977] (current I4) Visual Link Routing in Immersive Visualisations | ACM International Conference on Interactive Surfac | 2019
+    ABS: [abstract omitted; see the DOI]
+[C01011] (current I4) Augmenting Static Visualizations with PapARVis Designer | CHI Conference on Human Factors in Computing Syste | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01042] (current I4) Embodied Axes: Tangible, Actuated Interaction for 3D Augmented Reality Data Spaces | conf/chi | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01064] (current I4) In Situ Wireless Channel Visualization Using Augmented Reality and Ray Tracing | Sensors | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01096] (current I4) Personal Augmented Reality for Information Visualization on Large Interactive Displays | IEEE Transactions on Visualization and Computer Gr | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01102] (current I4) RealitySketch: Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching | UIST '20 | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01148] (current I4) A Tangible Interface for Augmented Reality Visualisation in 4D Echocardíography lmaging of the Left Ventricle of the Heart | Interacção 2004 - 1ª Conferência Nacional em Inter | 2021
+    ABS: [abstract omitted; see the DOI]
+[C01171] (current I4) Co-exploring the Design Space of Emotional AR Visualizations | Communications in computer and information science | 2021
+    ABS: [abstract omitted; see the DOI]
+[C01217] (current I1) Introducing the novel Cytoscape app TimeNexus to analyze time-series data using temporal MultiLayer Networks (tMLNs) | Scientific Reports | 2021
+    ABS: [abstract omitted; see the DOI]
+[C01266] (current I4) The MADE-Axis: A Modular Actuated Device to Embody the Axis of a Data Dimension | PACMHCI Volume 5, Issue ISS | 2021
+    ABS: [abstract omitted; see the DOI]
+[C01271] (current I4) Touching the Past: Developing and Evaluating A Heritage kit for Visualizing and Analyzing Historical Artefacts Using Tangible Augmented Reality | TEI '21 | 2021
+    ABS: [abstract omitted; see the DOI]
+[C01300] (current I4) A Design Space For Data Visualisation Transformations Between 2D And 3D In Mixed-Reality Environments | CHI '22 | 2022
+    ABS: [abstract omitted; see the DOI]
+[C01319] (current I4) AroundArrow: Off-Screen POI visualization for handheld Augmented Reality in vertically dense regions | conf/ismar | 2022
+    ABS: [abstract omitted; see the DOI]
+[C01320] (current I4) Arrow, Bézier Curve, or Halos? - Comparing 3D Out-of-View Object Visualization Techniques for Handheld Augmented Reality | conf/ismar | 2022
+    ABS: [abstract omitted; see the DOI]
+[C01324] (current I4) Augmented Reality for Safety Zones in Human-Robot Collaboration | Computer Graphics and Visual Computing (CGVC) | 2022
+    ABS: [abstract omitted; see the DOI]
+[C01371] (current I4) Exploring Interactions with Printed Data Visualizations in Augmented Reality | IEEE Transactions on Visualization and Computer Gr | 2022
+    ABS: [abstract omitted; see the DOI]
+[C01386] (current I4) Hybrid Touch/Tangible Spatial Selection in Augmented Reality | conf/vissym | 2022
+    ABS: [abstract omitted; see the DOI]
+[C01392] (current I4) Introspecting network behavior with mixed reality | ACM Annual International Conference on Mobile Comp | 2022
+    ABS: [abstract omitted; see the DOI]
+[C01440] (current I4) SSCA: Situated Space-time Cube Analytics | EuroVis 2022 - Short Papers | 2022
+    ABS: [abstract omitted; see the DOI]
+[C01444] (current I4) Tangible Globes for Data Visualisation in Augmented Reality | CHI '22 | 2022
+    ABS: [abstract omitted; see the DOI]
+[C01463] (current I4) WaveRider: Immersive Visualization of Indoor Signal Propagation | SUI '22 | 2022
+    ABS: [abstract omitted; see the DOI]
+[C01485] (current I4) AR Interfaces for Disocclusion—A Comparative Study | IEEE Conference on Virtual Reality and 3D User Int | 2023
+    ABS: [abstract omitted; see the DOI]
+[C01534] (current I4) Evaluating View Management for Situated Visualization in Web-based Handheld AR | Computer Graphics Forum | 2023
+    ABS: [abstract omitted; see the DOI]
+[C01535] (current I4) Exploring Augmented Reality for Situated Analytics with Many Movable Physical Referents | VRST '23 | 2023
+    ABS: [abstract omitted; see the DOI]
+[C01547] (current I4) Handling Non-Visible Referents in Situated Visualizations | IEEE Transactions on Visualization and Computer Gr | 2023
+    ABS: [abstract omitted; see the DOI]
+[C01701] (current I4) Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed Reality | CHI '24 | 2024
+    ABS: [abstract omitted; see the DOI]
+[C01737] (current I4) Exploiting Physical Referent Features as Input for Multidimensional Data Selection in Augmented Reality | TOCHI | 2024
+    ABS: [abstract omitted; see the DOI]
+[C01809] (current I4) PerSiVal: On-Body AR Visualization of Biomechanical Arm Simulations | IEEE Computer Graphics and Applications | 2024
+    ABS: [abstract omitted; see the DOI]
+[C01838] (current I4) SpatialTouch: Exploring Spatial Data Visualizations in Cross-Reality | IEEE Transactions on Visualization and Computer Gr | 2024
+    ABS: [abstract omitted; see the DOI]
+[C01846] (current I1) Topics evolution through multilayer networks; Analysing 2M tweets from 2022 Qatar FIFA World Cup | arXiv | 2024
+    ABS: [abstract omitted; see the DOI]
+[C01876] (current I4) A Design Space for Visualization Transitions of 3D Spatial Data in Hybrid AR-Desktop Environments | Computer Graphics Forum, vol. 45, article no. e703 | 2025
+    ABS: [abstract omitted; see the DOI]
+[C01877] (current I4) A Desktop-Centric Design Space for Direct Object Examination and Visualization in Mixed-Reality Environments | arXiv | 2025
+    ABS: [abstract omitted; see the DOI]
+[C01979] (current I4) Embedded and Situated Visualisation in Mixed Reality to Support Interval Running | Computer Graphics Forum | 2025
+    ABS: [abstract omitted; see the DOI]
+[C01993] (current I4) FlameGraph AR: Immersive Visualization of CPU Profiles in Augmented Reality | IEEE Working Conference on Software Visualization  | 2025
+    ABS: [abstract omitted; see the DOI]
+[C02151] (current I1) 2D versus 2.5D Layer Arrangement for Animal Behaviour Multiplex Networks | Vision, Modeling, and Visualization (VMV) | 2026
+    ABS: [abstract omitted; see the DOI]
+[C02211] (current I4) Building Information Modeling Data: Mixed Reality Visualisations and Interaction Techniques | Publication Server of Goethe University Frankfurt  | 2026
+    ABS: [abstract omitted; see the DOI]
+[C02367] (current I4) Material Exploratory: A Hand-Tracked Mixed Reality Interface for Phygital Material Archives | ACM Symposium on Spatial User Interaction (SUI) | 2026
+    ABS: [abstract omitted; see the DOI]
+[C02416] (current I4) Pose Tracking and Augmented Reality for 3D-Printed Objects |  | 2026
+    ABS: [abstract omitted; see the DOI]
+[C02447] (current I4) RotorFlow: Overlaying Simulated Airflow onto a Physical Propeller Using Augmented Reality | UIST Adjunct '26 | 2026
+    ABS: [abstract omitted; see the DOI]
+[C02543] (current I4) Immersive Data-Driven Storytelling Design Space |  | 
+    ABS: [abstract omitted; see the DOI]
+[C02643] (current I4) SiteLens: situated visualization techniques for urban site visits | CHI Conference on Human Factors in Computing Syste | 2009
+    ABS: [abstract omitted; see the DOI]
+[C02651] (current I1) Animation, Small Multiples, and the Effect of Mental Map Preservation in Dynamic Graphs | IEEE Transactions on Visualization and Computer Gr | 2010
+    ABS: [abstract omitted; see the DOI]
+[C02700] (current I4) Dynamic compact visualizations for augmented reality | IEEE Conference on Virtual Reality and 3D User Int | 2013
+    ABS: [abstract omitted; see the DOI]
+[C02738] (current I4) FlyAR: Augmented Reality Supported Micro Aerial Vehicle Navigation | IEEE Transactions on Visualization and Computer Gr | 2014
+    ABS: [abstract omitted; see the DOI]
+[C02749] (current I4) [Poster] Visualization of solar radiation data in augmented reality | Proceedings - International Symposium on Mixed and | 2014
+    ABS: [abstract omitted; see the DOI]
+[C02753] (current I4) Shvil: collaborative augmented reality land navigation | CHI Conference Extended Abstracts on Human Factors | 2014
+    ABS: [abstract omitted; see the DOI]
+[C02756] (current I4) Spatial augmented reality — A tool for 3D data visualization |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[C02804] (current I4) Infocarve: A Framework for Volume Visualization on Commodity Augmented Reality Displays | International Conference on Virtual Reality and Vi | 2016
+    ABS: [abstract omitted; see the DOI]
+[C02809] (current I4) Pre-attentive Features in Natural Augmented Reality Visualizations | Proceedings - International Symposium on Mixed and | 2016
+    ABS: [abstract omitted; see the DOI]
+[C02859] (current I4) Immersive Modular Factory Layout Planning using Augmented Reality | Procedia CIRP | 2018
+    ABS: [abstract omitted; see the DOI]
+[C02865] (current I4) Look Inside: Understanding Thermal Flux Through Augmented Reality | IEEE International Symposium on Mixed and Augmente | 2018
+    ABS: [abstract omitted; see the DOI]
+[C02866] (current I4) Mixed-Reality Guidance for Brain Stimulation Treatment of Depression | IEEE International Symposium on Mixed and Augmente | 2018
+    ABS: [abstract omitted; see the DOI]
+[C02883] (current I4) Affinity Lens: Data-Assisted Affinity Diagramming with Augmented Reality | CHI Conference on Human Factors in Computing Syste | 2019
+    ABS: [abstract omitted; see the DOI]
+[C02885] (current I4) Collaborative Visual Analysis with Multi-level Information Sharing Using a Wall-Size Display and See-Through HMDs | IEEE Pacific Visualization Symposium | 2019
+    ABS: [abstract omitted; see the DOI]
+[C02898] (current I4) Location-Based Augmented Reality In-situ Visualization Applied for Agricultural Fieldwork Navigation | IEEE International Symposium on Mixed and Augmente | 2019
+    ABS: [abstract omitted; see the DOI]
+[C02899] (current I4) MARVisT: Authoring Glyph-Based Visualization in Mobile Augmented Reality | IEEE Transactions on Visualization and Computer Gr | 2019
+    ABS: [abstract omitted; see the DOI]
+[C02911] (current I4) WA VIS: A Web-Based Augmented Reality Text Data Visual Analysis Tool | International Conference on Virtual Reality and Vi | 2019
+    ABS: [abstract omitted; see the DOI]
+[C02940] (current I1) Spatio-Temporal Visualization of Interdependent Battery Bus Transit and Power Distribution Systems | IEEE Power & Energy Society Innovative Smart Grid  | 2020
+    ABS: [abstract omitted; see the DOI]
+[C02948] (current I4) Toward Agile Situated Visualization: An Exploratory User Study | CHI Conference Extended Abstracts on Human Factors | 2020
+    ABS: [abstract omitted; see the DOI]
+[C02951] (current I4) Towards Sailing supported by Augmented Reality: Motivation, Methodology and Perspectives | IEEE International Symposium on Mixed and Augmente | 2020
+    ABS: [abstract omitted; see the DOI]
+[C02954] (current I1) Visual Encodings for Networks with Multiple Edge Types | International Conference on Advanced Visual Interf | 2020
+    ABS: [abstract omitted; see the DOI]
+[C02973] (current I4) Investigating the Impact of Real-World Environments on the Perception of 2D Visualizations in Augmented Reality | CHI Conference on Human Factors in Computing Syste | 2021
+    ABS: [abstract omitted; see the DOI]
+[C02974] (current I4) MARVIS: Combining Mobile Devices and Augmented Reality for Visual Data Analysis | CHI Conference on Human Factors in Computing Syste | 2021
+    ABS: [abstract omitted; see the DOI]
+[C02977] (current I4) opticARe - Augmented Reality Mobile Patient Monitoring in Intensive Care Units | ACM Symposium on Virtual Reality Software and Tech | 2021
+    ABS: [abstract omitted; see the DOI]
+[C02985] (current I4) STREAM: Exploring the Combination of Spatially-Aware Tablets with Augmented Reality Head-Mounted Displays for Immersive Analytics | CHI Conference on Human Factors in Computing Syste | 2021
+    ABS: [abstract omitted; see the DOI]
+[C02995] (current I4) Towards an Understanding of Situated AR Visualization for Basketball Free-Throw Training | CHI Conference on Human Factors in Computing Syste | 2021
+    ABS: [abstract omitted; see the DOI]
+[C03015] (current I4) Effects of View Layout On Situated Analytics for Multiple-View Representations in Immersive Visualization | IEEE Transactions on Visualization and Computer Gr | 2022
+    ABS: [abstract omitted; see the DOI]
+[C03030] (current I4) RagRug: A Toolkit for Situated Analytics | IEEE Transactions on Visualization and Computer Gr | 2022
+    ABS: [abstract omitted; see the DOI]
+[C03032] (current I4) SPARVIS: Combining Smartphone and Augmented Reality for Visual Data Analytics | IEEE International Symposium on Mixed and Augmente | 2022
+    ABS: [abstract omitted; see the DOI]
+[C03051] (current I4) Context-Dependent Memory in Situated Visualization | arXiv (Cornell University) | 2023
+    ABS: [abstract omitted; see the DOI]
+[C03052] (current I4) DataDancing: An Exploration of the Design Space For Visualisation View Management for 3D Surfaces and Spaces | CHI Conference on Human Factors in Computing Syste | 2023
+    ABS: [abstract omitted; see the DOI]
+[C03094] (current I1) CSLens: Towards Better Deploying Charging Stations via Visual Analytics — a Coupled Networks Perspective | IEEE Transactions on Visualization and Computer Gr | 2024
+    ABS: [abstract omitted; see the DOI]
+[C03098] (current I1) DG Comics: Semi-Automatically Authoring Graph Comics for Dynamic Graphs | IEEE Transactions on Visualization and Computer Gr | 2024
+    ABS: [abstract omitted; see the DOI]
+[C03132] (current I4) Can AR Embedded Visualizations Foster Appropriate Reliance on AI in Spatial Decision-Making? A Comparative Study of AR X-Ray vs. 2D Minimap | CHI Conference on Human Factors in Computing Syste | 2025
+    ABS: [abstract omitted; see the DOI]
+[C03134] (current I4) DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics | IEEE Transactions on Visualization and Computer Gr | 2025
+    ABS: [abstract omitted; see the DOI]
+[C03169] (current I4) Toward a Design Space for Embedded Urban Data Visualizations | Visualization | 2025
+    ABS: [abstract omitted; see the DOI]
+[C03185] (current I4) Beyond Links: Exploring Visual Representations of Multi-View Relations in Mixed Reality | CHI Conference on Human Factors in Computing Syste | 2026
+    ABS: [abstract omitted; see the DOI]
+[C03203] (current I4) Incidental Visualizations: Augmented Reality as a Medium for Contextual Information | arXiv (Cornell University) | 2026
+    ABS: [abstract omitted; see the DOI]
+[C03205] (current I4) Less is more afar: responsive design for situated visualization based on viewing distance | Virtual Reality | 2026
+    ABS: [abstract omitted; see the DOI]
+[R2-C02666] (current I4) a dynamic sketching system for real-time authoring of embedded and responsive visualizations in AR, contextualized in the larger design space of dynamic graphics authoring approaches |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02698] (current I4) Augmented-reality visualizations guided by cognition: Perceptual heuristics for combining visible and obscured information |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02762] (current I4) Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C02803] (current I4) Exploring the Design of Animated Transitions between Abstract and Concrete Visualizations in Immersive Environments |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03103] (current I4) SkyscrapAR: An augmented reality visualization for software evolution |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03174] (current I4) Uplift: A tangible and [41] Com-Authorized licensed use limited to the terms of the applicable |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03186] (current I4) VisTorch: Authoring Physical Visualization Dashboards using Handheld Projectors |  | 
+    ABS: [abstract omitted; see the DOI]
+[R2-C03634] (current I4) Merging virtual objects with the real world: seeing ultrasound imagery within the patient | ACM SIGGRAPH Conference (SIGGRAPH) | 1992
+    ABS: [abstract omitted; see the DOI]
+[R2-C03826] (current I4) Technologies for augmented reality systems: realizing ultrasound-guided needle biopsies | ACM SIGGRAPH Conference (SIGGRAPH) | 1996
+    ABS: [abstract omitted; see the DOI]
+[R2-C03947] (current I4) Collaborative visualization in augmented reality | IEEE Computer Graphics and Applications | 1998
+    ABS: [abstract omitted; see the DOI]
+[R2-C04344] (current I4) Augmented reality guidance for needle biopsies: An initial randomized, controlled trial in phantoms††A preliminary version of this paper was presented at the Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2001 conference in Utrecht. The Netherlands (Rosenthal et al., 2001) | Medical Image Analysis | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04354] (current I4) Collaborative augmented reality: exploring dynamical systems | Visualization | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04375] (current I4) Explorations in the Use of Augmented Reality for Geographic Visualization | PRESENCE Virtual and Augmented Reality | 2002
+    ABS: [abstract omitted; see the DOI]
+[R2-C04516] (current I4) Collaborative Augmented Reality for Outdoor Navigation and Information Browsing |  | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04597] (current I4) Resolving Multiple Occluded Layers in Augmented Reality | Proceedings - International Symposium on Mixed and | 2003
+    ABS: [abstract omitted; see the DOI]
+[R2-C04653] (current I4) A new paradigm for Human-Building Interaction: the use of CFD and Augmented Reality | Automation in Construction | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04667] (current I4) Bringing Clay and Sand into Digital Design — Continuous Tangible user Interfaces | BT Technology Journal | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04714] (current I4) Interactive Tools for Virtual X-Ray Vision in Mobile Augmented Reality | Proceedings - International Symposium on Mixed and | 2004
+    ABS: [abstract omitted; see the DOI]
+[R2-C04848] (current I4) ARVino - outdoor augmented reality visualisation of viticulture GIS data | Proceedings - International Symposium on Mixed and | 2005
+    ABS: [abstract omitted; see the DOI]
+[R2-C04939] (current I4) Localisation and interaction for augmented maps | Proceedings - International Symposium on Mixed and | 2005
+    ABS: [abstract omitted; see the DOI]
+[R2-C05004] (current I4) Tangible Interfaces for Structural Molecular Biology | Structure | 2005
+    ABS: [abstract omitted; see the DOI]
+[R2-C05044] (current I4) Visualization of Construction Graphics in Outdoor Augmented Reality | Winter Simulation Conference | 2005
+    ABS: [abstract omitted; see the DOI]
+[R2-C05061] (current I1) A Hybrid Model for Drawing Dynamic and Evolving Graphs | Lecture notes in computer science | 2006
+    ABS: [abstract omitted; see the DOI]
+[R2-C05066] (current I4) A novel interface to sensor networks using handheld augmented reality | International Conference on Human-Computer Interac | 2006
+    ABS: [abstract omitted; see the DOI]
+[R2-C05250] (current I1) Visual exploration of complex time-varying graphs | IEEE Transactions on Visualization and Computer Gr | 2006
+    ABS: [abstract omitted; see the DOI]
+[R2-C05365] (current I4) Interactive Focus and Context Visualization for Augmented Reality | Proceedings - International Symposium on Mixed and | 2007
+    ABS: [abstract omitted; see the DOI]
+[R2-C05555] (current I4) Context-controlled flow visualization in augmented reality | Graphics Interface | 2008
+    ABS: [abstract omitted; see the DOI]
+[R2-C05603] (current I4) Handheld Augmented Reality for underground infrastructure visualization | Personal and Ubiquitous Computing | 2008
+    ABS: [abstract omitted; see the DOI]
+[R2-C05614] (current I4) Integration of augmented reality and GIS: A new approach to realistic landscape visualisation | Landscape and Urban Planning | 2008
+    ABS: [abstract omitted; see the DOI]
+[R2-C05733] (current I4) Virtual redlining for civil engineering in real environments | Proceedings - International Symposium on Mixed and | 2008
+    ABS: [abstract omitted; see the DOI]
+[R2-C05821] (current I4) Comprehensible Visualization for Augmented Reality | IEEE Transactions on Visualization and Computer Gr | 2009
+    ABS: [abstract omitted; see the DOI]
+[R2-C05854] (current I4) Explosion Diagrams in Augmented Reality | IEEE Conference on Virtual Reality and 3D User Int | 2009
+    ABS: [abstract omitted; see the DOI]
+[R2-C05881] (current I4) Improving Spatial Perception for Augmented Reality X-Ray Vision | IEEE Conference on Virtual Reality and 3D User Int | 2009
+    ABS: [abstract omitted; see the DOI]
+[R2-C05887] (current I4) Interaction and presentation techniques for situated visualization |  | 2009
+    ABS: [abstract omitted; see the DOI]
+[R2-C05889] (current I4) Interaction with the Environment : Sensor Data Visualization in Outdoor Augmented Reality | IEEE/ACM International Symposium on Mixed and Augm | 2009
+    ABS: [abstract omitted; see the DOI]
+[R2-C06048] (current I4) A framework for volume segmentation and visualization using Augmented Reality | IEEE Symposium on 3D User Interfaces (3DUI) | 2010
+    ABS: [abstract omitted; see the DOI]
+[R2-C06071] (current I1) An Interactive Visualization Framework for Time-Series of Web Graphs in a 3D Environment | International Conference on Information Visualisat | 2010
+    ABS: [abstract omitted; see the DOI]
+[R2-C06127] (current I4) Evaluating depth perception of photorealistic mixed reality visualizations for occluded objects in outdoor environments | Symposium on Virtual Reality | 2010
+    ABS: [abstract omitted; see the DOI]
+[R2-C06154] (current I4) Image-based ghostings for single layer occlusions in augmented reality | Proceedings - International Symposium on Mixed and | 2010
+    ABS: [abstract omitted; see the DOI]
+[R2-C06298] (current I4) VIDENTE -- 3D Visualization of Underground Infrastructure using Handheld Augmented Reality | Geohydroinformatics-Integrating GIS and Water Engi | 2010
+    ABS: [abstract omitted; see the DOI]
+[R2-C06313] (current I4) Visualization of off-screen objects in mobile augmented reality | International Conference on Human-Computer Interac | 2010
+    ABS: [abstract omitted; see the DOI]
+[R2-C06364] (current I4) Augmented Reality Prototype for Visualising Large Sensors’ Datasets | TELKOMNIKA (Telecommunication Computing Electronic | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06449] (current I4) Exploring the Design Space for Situated Glyphs to Support Dynamic Work Environments | Lecture notes in computer science | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06556] (current I1) Parallel edge splatting for scalable dynamic graph vis | IEEE TVCG | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06672] (current I4) Visualising Environmental Corrosion in Outdoor Augmented Reality | Adelaide Research & Scholarship (AR&S) (University | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06768] (current I1) Arena3D: visualizing time-driven phenotypic differences in biological systems | BMC Bioinform. | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06798] (current I4) Comprehensible and Interactive Visualizations of GIS Data in Augmented Reality | Lecture notes in computer science | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06856] (current I4) Extended Overview Techniques for Outdoor Augmented Reality | IEEE Transactions on Visualization and Computer Gr | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06883] (current I4) In-Situ Support for Automotive Manufacturing Using Spatial Augmented Reality | International Journal of Virtual Reality | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06894] (current I4) Interactive 4D overview and detail visualization in augmented reality | Proceedings - International Symposium on Mixed and | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06995] (current I4) Smart Vidente: advances in mobile augmented reality for interactive visualization of underground infrastructure | Personal and Ubiquitous Computing | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07048] (current I4) Toward a practical wall see-through system for drivers: How simple can it be? | Proceedings - International Symposium on Mixed and | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07136] (current I4) Adaptive ghosted views for Augmented Reality | Proceedings - International Symposium on Mixed and | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07156] (current I4) Augmented Reality Visualization of Numerical Simulations in Urban Environments | International Journal on Advances in Systems and M | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07157] (current I4) Augmented Reality X-Ray Interaction in K-12 Education: Theory, Student Perception and Teacher Evaluation | IEEE International Conference on Advanced Learning | 2013
+    ABS: [abstract omitted; see the DOI]

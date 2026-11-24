@@ -1,0 +1,1090 @@
+[R2-C06513] Lombardi Drawings of Graphs | Lecture notes in computer science | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06514] Longitudinal Social Networks and |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06516] Materializing the query with facet-streams: a hybrid surface for collaborative search on tabletops | CHI Conference on Human Factors in Computing Systems | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06517] Medusa: A tool for exploring and clustering biological networks | BMC Research Notes | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06520] Methods and Tools for Visual Analytics. | Deep Blue (University of Michigan) | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06522] Mirror Worlds as Large-Scale Outdoor Mixed Reality Enablers |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06526] MoleView: An Attribute and Structure-Based Semantic Lens for Large Element-Based Plots | IEEE Transactions on Visualization and Computer Graphics | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06527] Multi-touch 3D exploratory analysis of ocean flow models | MTS/IEEE OCEANS Conference (OCEANS) | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06531] Multilevel agglomerative edge bundling for visualizing large graphs | IEEE Pacific Visualization Symposium | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06534] Mutual telexistence surrogate system: ESAR4 - telexistence in real environments using autostereoscopic immersive display- | IEEE/RSJ | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06538] NetEvViz : Extending NodeXL for Dynamic Network Visualization |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06539] NetVisia: Heat Map & Matrix Visualization of Dynamic Social Network Statistics & Content | International Conference on Social Computing | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06540] Network analysis |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06541] Network-based visual analysis of tabular data | IEEE Conference on Visual Analytics Science and Technology ( | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06542] Network topology layout algorithm based on community detection of complex networks[J] | Journal of Computer-Aided Design&Computer Graphics | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06543] Networks: an introduction | Choice Reviews Online | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06548] OntoTrix: a hybrid visualization for populated ontologies | International World Wide Web Conference (WWW) | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06549] OpenOrd: an open-source toolbox for large graph layout | Proceedings of SPIE, the International Society for Optical E | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06556] Parallel edge splatting for scalable dynamic graph vis | IEEE TVCG | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06563] Predicting Researchers' Future Activities Using Visualization System for Co-authorship Networks | IEEE/WIC/ACM International Conference on Web Intelligence an | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06579] RDF Visualization using a Three-Dimensional Adjacency Matrix |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06585] Robustness of a Network of Networks | Phys Rev Lett | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06586] Rubi: An open source Android platform for mobile augmented reality applications | Proc MobileHCI Workshop on Mobile Augmented Reality | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06589] Semi-automatic transfer function generation for volumetric data visualization using contour tree analyses |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06591] Shortest Path Discovery in the Multi-layered Social Network | IEEE/ACM International Conference on Advances in Social Netw | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06594] Skeleton-Based Edge Bundling for Graph Visualization | IEEE Transactions on Visualization and Computer Graphics | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06596] Slice WIM: a multi-surface, multi-touch interface for overview+detail exploration of volume datasets in virtual reality | ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06597] Social Augmented Reality for Sensor Visualization in Ubiquitous Virtual Reality | Lecture notes in computer science | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06599] Social Network Analysis: History, Theory and Methodology |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06600] Social Network Analysis Layout Algorithm under Ontology Model | Journal of Software | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06602] SolarMap: Multifaceted Visual Analytics for Topic Exploration | Proceedings | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06610] Suppressing cascades of load in interdependent networks | PNAS | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06611] Systems Biology: A Promising Tool to Study Abiotic Stress Responses | BENTHAM SCIENCE PUBLISHERS eBooks | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06612] Technical Skills in Developing Augmented Reality Application: Teachers' Readiness | Lecture notes in computer science | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06615] Temporal Visualization of Social Network Dynamics: Prototypes for Nation of Neighbors | Lecture notes in computer science | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06621] The Bohemian Bookshelf : Design and Implementation of a Visualization Prototype for Serendipitous Browsing |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06623] The Connectome Viewer Toolkit: An Open Source Framework to Manage, Analyze, and Visualize Connectomes | Frontiers in Neuroinformatics | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06629] The Innovation pyramid: a categorization of the innovation phenomenon in the product-design field | Virtual Community of Pathological Anatomy (University of Cas | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06630] The ML-Model for Multi-layer Social Networks | IEEE/ACM International Conference on Advances in Social Netw | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06632] The network takeover | Nature Physics | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06637] Time spring layout for visualization of dynamic social networks | IEEE Network Science Workshop (NSW) | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06639] TreeNetViz: Revealing Patterns of Networks over Tree Structures | IEEE Transactions on Visualization and Computer Graphics | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06641] Triadic closure in two-mode networks: Redefining the global and local clustering coefficients | Social Networks | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06646] Using Aging to Visually Uncover Evolutionary Processes on Networks | IEEE Transactions on Visualization and Computer Graphics | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06651] Verification, slicing, and visualization of programs with contracts |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06653] Virtual reality in neuroscience research and therapy | Nature reviews. Neuroscience | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06656] VisBricks: Multiform Visualization of Large, Inhomogeneous Data | IEEE Transactions on Visualization and Computer Graphics | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06659] Visual Analysis of Social Networks in a Counter-Insurgency Context |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06660] Visual Analysis of Temporal Trends in Social Networks Using Edge Color Coding and Metric Timelines | International Conference on Social Computing | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06661] Visual Analytics of Dynamic Social Networks |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06662] Visual analytics of terrestrial lidar data for cliff erosion assessment on large displays | Proceedings of SPIE, the International Society for Optical E | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06666] Visual Enterprise Network Analytics - Visualizing Organizational Change | Procedia - Social and Behavioral Sciences | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06668] Visual Mining of Epidemic Networks | Lecture notes in computer science | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06669] Visual Recommendations for Network Navigation | Computer Graphics Forum | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06671] Visual social network analytics for relationship discovery in the enterprise | IEEE Conference on Visual Analytics Science and Technology ( | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06672] Visualising Environmental Corrosion in Outdoor Augmented Reality | Adelaide Research & Scholarship (AR&S) (University of Adelai | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06673] Visualização Interativa de Redes Sociais: um Estudo de Caso em Redes de Colaboração Cient́ıfica |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06674] Visualization and control system for wireless network using augmented reality technology | IEEE Consumer Communications and Networking Conference | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06675] Visualization-Based Support of Hypothesis Verification for Research Survey with Co-authorship Networks | IEEE/WIC/ACM International Conference on Web Intelligence an | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06676] Visualisation d'information : de la théorie sémiotique à des exemples pratiques basés sur la représentation de graphes et d'hypergraphes | theses.fr (ABES) | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06677] Visualization Methods for Longitudinal Social 1 Networks and Actor-based Modeling ? |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06678] Visualization methods for longitudinal social networks and stochastic actor-oriented modeling | Social Networks | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06679] Visualization of Knowledge Map: A Focus and Context Approach | Lecture notes in electrical engineering | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06680] Visualization of Time-Oriented Data | Human-computer interaction series | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06681] Visualization Techniques for Augmented Reality | Springer eBooks | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06684] Visualizing and Understanding Large-Scale Bayesian Networks | KiltHub Repository | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06685] Visualizing Biological Data in Google Earth |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06686] Visualizing collaboration and influence in the open-source software community | International Conference on Mining Software Repositories (MS | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06688] Visualizing explicit and implicit relations of complex information spaces | Information Visualization | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06689] Visualizing Pipeline Sensors Datasets Using Augmented Reality Based Prototype |  | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06690] Visualizing the Evolution of Community Structures in Dynamic Social Networks | Computer Graphics Forum | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06691] Visualizing the Evolution of Social Networks | Lecture notes in computer science | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06692] Visually exploring multi-dimensional code couplings | IEEE Working Conference on Software Visualization (VISSOFT) | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06694] Vizgr - Combining Data on a Visual Level | International Conference on Web Information Systems and Tech | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06695] Vizgr: Linking Data in Visualizations | Lecture notes in business information processing | 2011
+    ABS: [abstract omitted; see the DOI]
+[R2-C06713] 25 Social Networks |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06714] 26 Social Networks |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06715] 26 Social Networks |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06716] 3 D Visualization System for Temporal Changes in Blog Users ’ Activities and Interests Based on Dependency Analysis ∗ |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06719] 3D Slicer as an image computing platform for the Quantitative Imaging Network | Magnetic Resonance Imaging | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06720] 3D Visualization |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06724] A Framework for Quantifying Node-Level Community Structure Group Differences in Brain Connectivity Networks | Lecture notes in computer science | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06725] A Friendly Navigation-System Based on Points of Interest, Augmented Reality and Context-Awareness | Lecture notes in computer science | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06730] A regularized graph layout framework for dynamic network visualization | Data Mining and Knowledge Discovery | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06737] A survey of two-dimensional graph layout techniques for information visualisation | Information Visualization | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06738] A travel guide to Cytoscape plugins | Nat. Methods | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06739] A User Study on Curved Edges in Graph Visualization | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06740] A virtual reality-based approach for interactive and visual mining of association rules | HAL | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06741] A Visual Analytic Framework for Graphs | Deep Blue (University of Michigan) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06743] A Visual Cross-Database Comparison of Metabolic Networks | Lecture notes in computer science | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06745] Adaptation of Electrical Laboratory Systems through Augmented Reality for Optimization of Engineering Teaching University | Eurographics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06747] Alertwheel: radial bipartite graph visualization applied to intrusion detection system alerts | IEEE Network | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06749] Algorithmique des réseaux socio-sémantiques pour la visualisation par points de vue des communautés en ligne. (Socio-semantic Networks Algorithm for a Point of View Based Visualization of On-line Communities) |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06752] An architecture for visual patent analysis | OPUS Publication Server of the University of Stuttgart (Univ | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06754] An interactive and flexible information visualization method | Information Sciences | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06755] An Investigation into Visual Graph Comparison | Edinburgh Napier Research Repository (Edinburgh Napier Unive | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06759] Analysis of complex contagions in random multiplex networks | PHYS REV E | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06764] Analyzing Multiple Network Centralities with ViNCent | The Swedish Chapter of Eurographics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06768] Arena3D: visualizing time-driven phenotypic differences in biological systems | BMC Bioinform. | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06770] Arts, Humanities and Complex Networks | Project Muse (Johns Hopkins University) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06773] atBioNet– an integrated network analysis tool for genomics and biomarker discovery | BMC Genomics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06774] Augmented Reality in Education and Training | TechTrends | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06781] BOTTARI: An Augmented Reality Mobile Application to Deliver Personalized and Location-Based Recommendations by Continuous Analysis of Social Media Streams | Journal of Web Semantics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06789] Challenges of Time-oriented Data in Visual Analytics for Healthcare |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06793] Co-Authorship Networks Visualization System for Supporting Survey of Researchers’ Future Activities | Journal of Emerging Technologies in Web Intelligence | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06796] Combing the hairball with BioFabric: a new approach for visualization of large networks | BMC Bioinf | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06798] Comprehensible and Interactive Visualizations of GIS Data in Augmented Reality | Lecture notes in computer science | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06799] Compressed Adjacency Matrices: Untangling Gene Regulatory Networks | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06805] Current and Future Challenges in the Visualization of Large Networks |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06810] Deployment Strategies and Energy Efficiency of Cellular Networks | IEEE Trans. Wirel. Commun. | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06812] Design and evaluation of an advanced virtual reality system for visualization of dentistry structures | International Conference on Virtual Systems and Multimedia ( | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06817] Development of immersive and interactive virtual reality environment for two-player table tennis | CLOK (University of Central Lancashire) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06826] Effects of Immersion on Visual Analysis of Volume Data | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06839] Entropy Based Sensitivity Analysis and Visualization of Social Networks | IEEE/ACM International Conference on Advances in Social Netw | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06844] Evaluating depth perception of volumetric data in semi-immersive VR | International Conference on Advanced Visual Interfaces (AVI) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06848] Evolution of Cooperation in Multiplex Networks | Scientific Reports | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06851] Exploratory analysis of the interrelations between co-located boolean spatial features using network graphs | International Journal of Geographical Information Systems | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06854] Exploring the design space of interactive link curvature in network diagrams | International Conference on Advanced Visual Interfaces (AVI) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06856] Extended Overview Techniques for Outdoor Augmented Reality | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06857] Extending Social Network Analysis with Discourse Analysis: Combining Relational with Interpretive Data | Lecture notes in social networks | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06858] Facilitating Complex Learning by Mobile Augmented Reality Learning Environments | New frontiers of educational research | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06863] Graph Bundling by Kernel Density Estimation | Computer Graphics Forum | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06864] Graph visualization through collaborative node grouping |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06865] GraphPrism: compact visualization of network structure | International Conference on Advanced Visual Interfaces (AVI) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06873] Human diseases through the lens of network biology | Trends in Genetics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06878] Illusion SDK: An Augmented Reality Engine for Flash 11 | Library and Archives Canada (Government of Canada) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06880] Image structures : from augmented reality to image stylization | theses.fr (ABES) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06881] Improving multiple aesthetics produces better graph drawings | Journal of Visual Languages & Computing | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06882] Improving Visualization of Large Hierarchical Clustering | International Conference on Information Visualisation (IV) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06883] In-Situ Support for Automotive Manufacturing Using Spatial Augmented Reality | International Journal of Virtual Reality | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06885] Information theory assisted data visualization and exploration | Sabanci University | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06894] Interactive 4D overview and detail visualization in augmented reality | Proceedings - International Symposium on Mixed and Augmented | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06899] Interactive graph visualisation (elaboration and optimisatio of algorithms with high computationnal cost.) | theses.fr (ABES) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06900] Interactive Level-of-Detail Rendering of Large Graphs | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06901] Interactive Visibility Retargeting in VR Using Conformal Visualization | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06902] Interactive Visual Analysis of High Throughput Text Streams | OSTI OAI (U.S. Department of Energy Office of Scientific and | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06903] Interactive Visualization of Functional Brain Connectivity | Research Repository (Delft University of Technology) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06906] Kelp Diagrams: Point Set Membership Visualization | Computer Graphics Forum | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06907] Languages and Interaction Techniques for the Visualization and Manipulation of Massive Datasets. (Langages et techniques d'interaction pour la visualisation et la manipulation de masses de données) |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06918] Mapping Social Relationships across Space and Time |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06921] Mental Map Preservation Helps User Orientation in Dynamic Graphs | International Symposium on Graph Drawing | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06925] Mining coherent subgraphs in multi-layer graphs with edge labels | ACM SIGKDD Conference on Knowledge Discovery and Data Mining | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06926] Mining Heterogeneous Information Networks: Principles and Methodologies | Synthesis lectures on data mining and knowledge discovery | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06927] Mobile augmented reality for environmental monitoring | Personal and Ubiquitous Computing | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06928] Modeling the multi-layer nature of the European Air Transport Network: Resilience and passengers re-scheduling under random failures | Eur. Phys. J. Spec. Top. | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06930] Multidimensional networks: foundations of structural analysis | World Wide Web | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06931] Multidimensional Projections for Visual Analysis of Social Networks | Journal of Computer Science and Technology | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06932] Multifaceted visual analytics for healthcare applications | IBM Journal of Research and Development | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06933] Multiform Visualization of Heterogeneous Data Spaces |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06939] On the faithfulness of graph visualizations | IEEE Pacific Visualization Symposium | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06940] On the Usability of Lombardi Graph Drawings | Lecture notes in computer science | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06944] Ontology Visualization for Domain Experts: A New Solution | International Conference on Information Visualisation (IV) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06945] OPAvion: mining and visualization in large graphs | ACM SIGMOD International Conference on Management of Data (S | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06946] Organizing Search Results with a Reference Map | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06947] Patient-Tailored Connectomics Visualization for the Assessment of White Matter Atrophy in Traumatic Brain Injury | Frontiers in Neurology | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06950] Photogrammetric Camera Network Design for Micro Aerial Vehicles | Computer Vision Winter Workshop | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06953] PIWI: Visually Exploring Graphs Based on Their Community Structure | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06954] Pixel-Oriented Network Visualization: Static Visualization of Change in Social Networks | Lecture notes in social networks | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06956] PORGY: A Visual Graph Rewriting Environment for Complex Systems | Computer Graphics Forum | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06959] Proc. EuroVA International Workshop on Visual Analytics |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06963] Proceedings of SIGRAD 2012, Interactive Visual Analysis of Data, Växjö, Sweden, November 29-30, 2012 | The Swedish Chapter of Eurographics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06966] Pursuing the Work of Jacques Bertin | Leonardo | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06967] Pursuit of “X-Ray Vision” for Augmented Reality | Springer eBooks | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06968] qgraph : Network Visualizations of Relationships in Psychometric Data | Journal of Statistical Software | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06970] Rapid Serial Visual Presentation in dynamic graph visualization | IEEE Symposium on Visual Languages and Human-Centric Computi | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06973] RelEx: Visualization for Actively Changing Overlay Network Specifications | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06975] Report from Dagstuhl Seminar 12081 Information Visualization , Visual Data Mining and Machine Learning |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06980] Sankey Arcs - Visualizing edge weights in path graphs | Lirias | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06989] Semi-transparent Augmented Reality System | Lecture notes in computer science | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06992] Simple algorithms for network visualization: A tutorial | Tsinghua Science & Technology | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06993] Simultaneous Embedding of Planar Graphs | Chapman & Hall/CRC eBooks | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06995] Smart Vidente: advances in mobile augmented reality for interactive visualization of underground infrastructure | Personal and Ubiquitous Computing | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C06999] SocialNetSense: Supporting sensemaking of social and structural features in networks with interactive visualization | IEEE Conference on Visual Analytics Science and Technology ( | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07002] Spring Embedders and Force Directed Graph Drawing Algorithms | arXiv (Cornell University) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07003] Stability of Boolean multilevel networks | PHYS REV E | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07004] Stacking-Based Visualization of Trajectory Attribute Data | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07009] Strip'TIC: exploring augmented paper strips for air traffic controllers | International Conference on Advanced Visual Interfaces (AVI) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07010] Superman-like X-ray vision: Towards brain-computer interfaces for medical augmented reality | Proceedings - International Symposium on Mixed and Augmented | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07012] Tangible remote controllers for wall-size displays | CHI Conference on Human Factors in Computing Systems | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07015] Technology for development of virtual reality systems based on brain-computer interface with utilization of cloud computing environment | Neyrokomputery Razrabotka i Primenenie | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07019] The analysis of criminal and terrorist organisations as social network structures:a quasi-experimental study | International Journal of Police Science & Management | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07022] The Development of Mobile Augmented Reality | Springer eBooks | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07025] The future of security visualization: Lessons from network visualization | IEEE Network | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07026] The Longitudinal Use of SaNDVis: Visual Social Network Analytics in the Enterprise | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07027] The mental map and memorability in dynamic graphs | IEEE Pacific Visualization Symposium | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07035] Theory and applications of marker-based augmented reality | Aaltodoc (Aalto University) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07039] Tools for protein-protein interaction network analysis in cancer research | Clinical & Translational Oncology | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07043] Topological analysis and interactive visualization of biological networks and protein structures | Nat. Protoc. | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07046] Touchless gesture user interface for interactive image visualization in urological surgery | World J. Urol. | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07047] TouchWave: kinetic multi-touch manipulation for hierarchical stacked graphs | ACM International Conference on Interactive Tabletops and Su | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07048] Toward a practical wall see-through system for drivers: How simple can it be? | Proceedings - International Symposium on Mixed and Augmented | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07050] Towards the Visualization of Multivariate Biochemical Networks |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07053] TrustVis: A Trust Visualisation Service for Online Communities | Lecture notes in computer science | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07055] Understanding Pen and Touch Interaction for Data Exploration on Interactive Whiteboards | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07059] VANTED v2: a framework for systems biology applications | BMC Systems Biology | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07060] ViENA : Visual Enterprise Network Analytics |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07062] Vincent - Visualization of Network Centralities | International Joint Conference on Computer Vision, Imaging a | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07063] Vision-based autonomous mapping and exploration using a quadrotor MAV | IEEE/RSJ International Conference on Intelligent Robots and  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07065] Visual Analysis of Dynamic Networks Using Change Centrality | IEEE/ACM International Conference on Advances in Social Netw | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07066] Visual analytics of brain networks | NeuroImage | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07070] Visual Knowledge Networks Analytics | CRC Press eBooks | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07076] Visualization and Visual Analysis of Multifaceted Scientific Data: A Survey | IEEE Transactions on Visualization and Computer Graphics | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07077] Visualization for search: exploring complex and dynamic information spaces |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07079] Visualization method of User Hierarchy of among SNS users | The Journal of the Korean Institute of Information and Commu | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07080] Visualization of Large Document Corpora |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07081] Visualization of Multidimensional Data with Applications in Molecular Biology |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07082] Visualization of social media data : mapping changing social networks |  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07084] Visualizing Patterns in Node-link Diagrams | International Conference on Information Visualisation (IV) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07086] Volume visualization in serial electron microscopy using local variance | IEEE Symposium on Biological Data Visualization (BioVis) | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07087] VR JuggLua: A framework for VR applications combining Lua, OpenSceneGraph, and VR Juggler | IEEE Workshop on Software Engineering and Architectures for  | 2012
+    ABS: [abstract omitted; see the DOI]
+[R2-C07105] 3-layer 2.5D Metabolic pathway layout algorithm | Journal of the Korea Society of Computer and Information | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07109] A Design Space of Visualization Tasks | IEEE Transactions on Visualization and Computer Graphics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07112] A Matrix-Based Visualization for Exploring Dynamic Compound Digraphs | International Conference on Information Visualisation (IV) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07113] A matter of time: Applying a data-users-tasks design triangle to visual analytics of time-oriented data | Computers & Graphics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07117] A Novel Radial Visualization Approach for Undirected Hypergraphs | Eurographics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07118] A process-centric data mining and visual analytic tool for exploring complex social networks | IDEA@KDD | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07120] A sensing architecture for empathetic data systems | Augmented Human International Conference | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07121] A software environment for visualizing high-dimensional data using contextual self-organizing maps linked with immersive virtual reality | Iowa State University Digital Repository (Iowa State Univers | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07124] A Survey of Visual Analytics Techniques and Applications: State-of-the-Art Research and Future Challenges | Journal of Computer Science and Technology | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07125] A Survey on Augmented Reality Challenges and Tracking | ACTA GRAPHICA Journal for Printing Science and Graphic Commu | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07129] A visualisation technique for large temporal social network datasets in Hyperbolic space | Journal of Visual Languages & Computing | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07131] Abrupt transition in the structural formation of interconnected networks | Nature Physics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07136] Adaptive ghosted views for Augmented Reality | Proceedings - International Symposium on Mixed and Augmented | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07144] An Interaction Model for Visualizations Beyond The Desktop | IEEE Transactions on Visualization and Computer Graphics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07145] An interactive visualization interface for studying egocentric, categorical, contact diary datasets | IEEE/ACM International Conference on Advances in Social Netw | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07146] An Introduction to Community Detection in Multi-layered Social Network | Communications in computer and information science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07147] An Introduction to Graph Theory | Chapman & Hall/CRC eBooks | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07150] Analyse exploratoire de flots de liens pour la détection d'événements | HAL | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07153] ArtifactVis2: Managing real-time archaeological data in immersive 3D environments | Digital Heritage International Congress | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07155] Augmented Reality Teaching and Learning | Springer eBooks | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07156] Augmented Reality Visualization of Numerical Simulations in Urban Environments | International Journal on Advances in Systems and Measurement | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07157] Augmented Reality X-Ray Interaction in K-12 Education: Theory, Student Perception and Teacher Evaluation | IEEE International Conference on Advanced Learning Technolog | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07158] Augmenting MATLAB with semantic objects for an interactive visual environment | IDEA@KDD | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07164] BrainNet Viewer: A Network Visualization Tool for Human Brain Connectomics | PLoS ONE | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07167] Chapter 2 - nodes, edges, and network measures | Analyzing the Social Web | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07170] Combinatorial Analysis of Multiple Networks | arXiv (Cornell University) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07172] Communities in Evolving Networks: Definitions, Detection, and Analysis Techniques | Modeling and simulation in science, engineering & technology | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07177] Comparing the relational structure of the Gospels. Network Analysis as a tool for biblical sciences | HAL | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07179] Contact-based social contagion in multiplex networks | PHYS REV E | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07181] Contributions to the science of controlled transformation | HAL | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07182] Controlling and Filtering Information Density with Spatial Interaction Techniques via Handheld Augmented Reality | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07187] Data Visualization for University Research Papers |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07188] Data visualization in environmental proteomics | PROTEOMICS | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07192] Design for Information: An Introduction to the Histories, Theories, and Best Practices Behind Effective Information Visualizations |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07199] Display blocks: a set of cubic displays for tangible, multi-perspective data exploration | International Conference on Tangible, Embedded, and Embodied | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07204] Drawing dynamic visualizations. URL: worrydream |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07207] Dynamical Interplay between Awareness and Epidemic Spreading in Multiplex Networks | Physical Review Letters | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07208] Edge bundling in information visualization | Tsinghua Science & Technology | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07209] Egocentric storylines for visual analysis of large dynamic graphs | IEEE International Conference on Big Data (BigData) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07215] Enhancing cybersecurity learning through an augmented reality-based serious game | IEEE Global Engineering Education Conference (EDUCON) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07216] enRoute: dynamic path extraction from biological pathway maps for exploring heterogeneous experimental datasets | BMC Bioinformatics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07217] Entourage: Visualizing Relationships between Biological Pathways using Contextual Subsets | IEEE Transactions on Visualization and Computer Graphics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07223] Evaluation of alternative glyph designs for time series data in a small multiple setting | CHI Conference on Human Factors in Computing Systems | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07225] Exploiting Interaction in Dynamic Graph Visualization |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07228] Exploratory visualization of graphs based on community structure | NC Digital Online Collection of Knowledge and Scholarship (T | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07232] Fast layout computation of clustered networks: Algorithmic advances and experimental analysis | Information Sciences | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07237] Finding structures in multi-type code couplings with node-link and matrix visualizations | IEEE Working Conference on Software Visualization (VISSOFT) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07239] Focus-based Interactive Visualization for Structured Data | OhioLink ETD Center (Ohio Library and Information Network) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07241] Force-Directed Graph Drawing Using Social Gravity and Scaling | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07242] Formation of Multiple Networks | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07248] Graph Drawing | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07249] Graph Markup Language (GraphML) | Handbook of Graph Drawing and Visualization | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07252] Grooming the hairball - how to tidy up network visualizations? |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07253] Growing multiplex networks | Physical Review Letters | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07255] Handbook of Graph Drawing and Visualization | Chapman & Hall/CRC eBooks | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07256] Handheld Augmented Reality |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07259] Hierarchical Visualization of Cloud-Based Social Network Service Using Fuzzy | 한국통신학회논문지 | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07263] How Do You Connect Moving Dots? Insights from User Studies on Dynamic Network Visualizations | Springer eBooks | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07267] Human Connectome Project informatics: Quality control, database services, and data visualization | Neuroimage | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07272] Improved Cluster Tracking for Visualization of Large Dynamic Graphs | HAL | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07273] Improving relative depth judgments in augmented reality with auxiliary augmentations | ACM Transactions on Applied Perception | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07274] Incremental Surface Extraction from Sparse Structure-from-Motion Point Clouds | British Machine Vision Conference (BMVC) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07277] Information Visualization - Towards Multivariate Network Visualization (Dagstuhl Seminar 13201) | Dagstuhl Reports | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07278] Initial Positioning Method for Online and Real-Time Dynamic Graph Drawing of Time Varying Data | International Conference on Information Visualisation (IV) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07281] Integration of computational methods and visual analytics for large-scale high-dimensional data |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07283] Intelligent Clustering for Graph Visualization | Infoscience (Ecole Polytechnique Fédérale de Lausanne) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07286] Interactive Visualization of Evolving Force-Directed Graphs | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07287] Interactive Visualization of Streaming Text Data with Dynamic Maps | Journal of Graph Algorithms and Applications | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07291] Investigating the efficacy of network visualizations for intelligence tasks | IEEE International Conference on Intelligence and Security I | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07292] Investigating the efficacy of terrorist network visualizations | DSpace@MIT (Massachusetts Institute of Technology) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07295] Journal of Complex Networks |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07296] KelpFusion: A Hybrid Set Visualization Technique | IEEE Transactions on Visualization and Computer Graphics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07298] Large-Scale Graph Visualization and Analytics | Computer | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07300] LineUp: Visual Analysis of Multi-Attribute Rankings | IEEE Transactions on Visualization and Computer Graphics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07303] Matching Application Requirements with Dynamic Graph Visualization Profiles | International Conference on Information Visualisation (IV) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07304] Mathematical Formulation of Multilayer Networks | Physical Review X | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07307] MLMD: Multi-Layered Visualization for Multi-Dimensional Data | Eurographics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07312] Multi-aspect visual analytics on large-scale high-dimensional cyber security data | Information Visualization | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07314] Multi-focus and multi-level techniques for visualization and analysis of networks with thematic data | Proceedings of SPIE, the International Society for Optical E | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07316] Multivariate Network Exploration with JauntyNets | International Conference on Information Visualisation (IV) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07319] Multivariate Networks: Visualization and Interaction Techniques |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07320] Multivariate Social Network Visual Analytics | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07323] Navigability of interconnected networks under random failures | PNAS | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07324] NetGestalt: integrating multidimensional omics data over biological networks | Nature Methods | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07330] neuroMAP — Interactive graph-visualization of the fruit fly's neural circuit | IEEE Symposium on Biological Data Visualization | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07332] Nodes, Edges, and Network Measures | Elsevier eBooks | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07333] Novel Visual Metaphors for Multivariate Networks | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07335] On Different Aspects of Network Analysis in Systems Biology | Springer eBooks | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07336] On dynamic equilibrium model of supply chain networks with time-varying demand | Syst. Eng. Theory Pract. | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07339] On Visualizing Knowledge Flows at a University Department | Procedia - Social and Behavioral Sciences | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07342] Open graph drawing framework (OGDF) | Centrum Wiskunde & Informatica (CWI), the national research  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07344] Pareto Distance for Multi-layer Network Analysis | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07346] Pep Up Your Time Machine: Recommendations for the Design of Information Visualizations of Time-Dependent Data | Springer eBooks | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07347] Percolation in multiplex networks with overlap | PHYS REV E | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07352] Ploceus: Modeling, visualizing, and analyzing tabular data as networks | Information Visualization | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07353] Poster: Observing change in crowded data sets in 3D space - Visualizing gene expression in human tissues | IEEE Symposium on 3D User Interfaces (3DUI) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07354] Pragmatic Visualizations for Roassal: a Florilegium | HAL | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07362] R2S2: a Hybrid Technique to Visualize Sport Ranking Evolution |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07364] Ranking in interconnected multilayer networks reveals versatile nodes | Nature Communications | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07366] Real-time Intelligent Clustering for Graph Visualization | GRAPP/IVAPP | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07371] Reordering Massive Sequence Views: Enabling temporal and structural analysis of dynamic networks | IEEE Pacific Visualization Symposium | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07372] Representing information - Classifying the Augmented Reality presentation space | Computers & Graphics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07376] Scalability Considerations for Multivariate Graph Visualization | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07377] Scalable Visualization of Semantic Nets using Power-Law Graphs | Appl. Math. Inform. Sci. | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07379] Semantic Network Analysis as a Method for Visual Text Analytics |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07380] SidebARs: improving awareness of off-screen elements in mobile augmented reality | Chilean Conference on Human-Computer Interaction (ChileCHI) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07391] Social Networks | Handbook of Graph Drawing and Visualization | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07392] Social Networks | Handbook of Graph Drawing and Visualization | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07398] Statistical mechanics of multiplex networks: Entropy and overlap | Physical Review E | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07406] Structure of triadic relations in multiplex networks | New Journal of Physics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07407] SUBCELLULAR LOCALIZATION CHARTS: A NEW VISUAL METHODOLOGY FOR THE SEMI-AUTOMATIC LOCALIZATION OF PROTEIN-RELATED DATA SETS | Journal of Bioinformatics and Computational Biology | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07411] Supporting the Visual Analysis of Dynamic Networks by Clustering associated Temporal Attributes | IEEE Transactions on Visualization and Computer Graphics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07414] Temporal Multivariate Networks | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07416] The Complexity of Bendless Three-Dimensional Orthogonal Graph Drawing | J. Graph Algorithms Appl. | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07419] The Dynamic Connectome: A Tool For Large-Scale 3D Reconstruction Of Brain Activity In Real-Time | European Conference on Modelling and Simulation (ECMS) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07420] The dynamic connectome: towards large-scale 3D reconstruction of brain activity in real-time | BMC Neuroscience | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07421] The Effect of Stereoscopic Immersive Environments on Projection-Based Multi-dimensional Data Visualization | International Conference on Information Visualisation (IV) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07423] The Extended Stereoscopic Highlighting Technique for Node-Link Diagrams: An Empirical Study | IASTED International Conference on Signal Processing, Patter | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07424] The Ghosting Technique Applied to Augmented Reality Visualization | Symposium on Virtual and Augmented Reality (SVR) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07425] The Graph Crossing Number and its Variants: A Survey | The Electronic Journal of Combinatorics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07427] The human connectome: Origins and challenges | NeuroImage | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07435] The Open Graph Drawing Framework |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07439] The Reactome pathway Knowledgebase | Nucleic Acids Research | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07440] The Reflection Layer Extension to the Stereoscopic Highlight Technique for Node-Link Diagrams: An Empirical Study | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07442] The VAST Challenge: history, scope, and outcomes: An introduction to the Special Issue | Information Visualization | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07447] Topic hypergraph: hierarchical visualization of thematic structures in long documents | Science China Information Sciences | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07450] Toward a Better Understanding of Evolving Social Networks |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07451] Towards an Explorative Visual Analysis of Cortical Neuronal Network Simulations | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07452] Towards participatory design for contextual visualization in education using augmented reality x-ray | Augmented Human International Conference | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07460] Trust Network Visualization Based on Force-Directed Layout | Web Information System and Application Conference | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07462] Turbo${}_{\mbox{iso}}$iso: Towards ultrafast and robust subgraph isomorphism search in large graph databases | Proc ACM SIGMOD Int Conf Manage Data | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07466] Untangling graphs representing spatial relationships driven by drawing aesthetics | Panhellenic Conference on Informatics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07473] Using Layout Stitching to create deterministic Local Graph Layouts | Digital Library (University of West Bohemia) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07477] VAIT: A Visual Analytics System for Metropolitan Transportation | IEEE Trans. Intell. Transp. Syst. | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07478] Validation of the MR Simulation Approach for Evaluating the Effects of Immersion on Visual Analysis of Volume Data | IEEE Transactions on Visualization and Computer Graphics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07479] Video visual analytics |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07483] ViStruclizer: A Structural Visualizer for Multi-dimensional Social Networks | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07484] Visual Analysis and Knowledge Discovery for Text | Springer eBooks | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07485] Visual analysis of contagion in networks | Information Visualization | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07487] Visual analysis of retweeting propagation network in a microblogging platform | International Symposium on Visual Information Communication  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07488] Visual Analysis of Set Relations in a Graph | Computer Graphics Forum | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07490] Visual analytics in Augmented Reality | Proceedings - International Symposium on Mixed and Augmented | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07491] Visual Comparison of Orderings and Rankings | KOPS (University of Konstanz) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07494] Visualization Method of Social Networks Service using Message correlations based on Distributed Parallel Processing | The Journal of the Korean Institute of Information and Commu | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07496] Visualization of off-surface 3D viewpoint locations in spatial augmented reality | Symposium on Spatial User Interaction | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07497] Visualization of protein interaction networks: problems and solutions | BMC Bioinformatics | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07498] Visualization of Small World Networks Using Similarity Matrices | Lecture notes in computer science | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07499] Visualization of Social Relationship using Dynamic Hierarchy Analyzing |  | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07500] Visualization of Vessel Traffic | Springer eBooks | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07504] Visualizing edge-edge relations in graphs | IEEE Pacific Visualization Symposium | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07505] Visualizing Interchange Patterns in Massive Movement Data | Comput. Graph. Forum | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07507] Visualizing protected variations in evolving software designs | Journal of Systems and Software | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07510] Visualizing social learning ties by type and topic: rationale and concept demonstrator | International Conference on Learning Analytics and Knowledge | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07514] Visualizing the human connectome | NeuroImage | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07517] Visualizing Urban Anaylsis in Mixed Reality | International Conference on Intelligent Environments (IE) | 2013
+    ABS: [abstract omitted; see the DOI]
+[R2-C07535] 1.5D Egocentric Dynamic Network Visualization | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07546] 3D Printed Molecules and Extended Solid Models for Teaching Symmetry and Point Groups | J. Chem. Educ. | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07548] A Comparative Study of Brain Connectivity Visualization and Clustering Techniques |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07550] A Domain-Specific Language for Visualizing Software Dependencies as a Graph | IEEE Working Conference on Software Visualization (VISSOFT) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07551] A dynamic graph visualization perspective on eye movement data | ACM Symposium on Eye Tracking Research and Applications (ETR | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07553] A Gaze‐enabled Graph Visualization to Improve Graph Reading Tasks | Computer Graphics Forum | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07554] A Hybrid Visual Analytics Approach to Dynamic Space-Based Networks | International Conference on Virtual Reality and Visualizatio | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07556] A New Graph Drawing Scheme for Social Network | The Scientific World JOURNAL | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07559] A See-through Vision with Handheld Augmented Reality for Sightseeing | Lecture notes in computer science | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07560] A stereoscopic system for viewing the temporal evolution of brain activity clusters in response to linguistic stimuli | Proceedings of SPIE, the International Society for Optical E | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07561] A survey on information visualization: recent advances and challenges | The Visual Computer | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07567] A Workbench for Visual Design of Executable and Re-usable Network Analysis Workflows | Lecture notes in social networks | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07578] Análisis y Visualización de Big Data mediante técnicas de realidad virtual | ArDIn Arte Diseño e Ingeniería | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07579] Analysis and Visualization of Dynamic Networks | Encyclopedia of Social Network Analysis and Mining | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07581] Analyzing High-dimensional Multivariate Network Links with Integrated Anomaly Detection, Highlighting and Exploration | IEEE Conference on Visual Analytics Science and Technology ( | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07582] Anatomy and efficiency of urban multimodal mobility | Scientific Reports | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07587] Are Crossings Important for Drawing Large Graphs? | Lecture notes in computer science | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07592] Augmented reality to promote collaborative and autonomous learning in higher education | Computers in Human Behavior | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07602] Biological Network Exploration with Cytoscape 3 | Curr. Protoc. Bioinform. | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07609] CAVE: An Emerging Immersive Technology -- A Review | UKSim International Conference on Computer Modelling and Sim | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07610] Centrality rankings in multiplex networks | ACM Web Science Conference (WebSci) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07614] CollaborationViz: Interactive Visual Exploration of Biomedical Research Collaboration Networks | PLoS ONE | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07617] Comparative Eye Tracking Study on Node-Link Visualizations of Trajectories | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07619] Competitive epidemic spreading over arbitrary multilayer networks | Phys. Rev. E | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07621] Concept and workflow for 3D visualization of atmospheric data in a virtual reality environment for analytical approaches | Environmental Earth Sciences | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07623] Connections, changes, and cubes : unfolding dynamic networks for visual exploration | theses.fr (ABES) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07624] Connexel visualization: a software implementation of glyphs and edge-bundling for dense connectivity data using brainGL | Front Neurosci | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07625] Constructing Visual Representations: Investigating the Use of Tangible Tokens | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07627] Constructive Visualization. In ACM conference on Designing Interactive Systems in 2014 (DIS '14 Proceedings of the 2014 conference on Designing interactive systems). ACM, ACM |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07629] ContactTrees: A Technique for Studying Personal Network Data | arXiv.org | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07630] ConTour: Data-Driven Exploration of Multi-Relational Datasets for Drug Discovery | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07632] Contributions and challenges for network models in cognitive neuroscience | Nature neuroscience | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07639] Data Visualization of Web Service with Parallel Coordinates and NodeTrix | IEEE International Conference on Services Computing | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07644] Depth Perception of Augmented and Natural Scenes through Stereoscopic Systems | Aaltodoc (Aalto University) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07649] Development of a Monitoring System for Crack Growth in Bonded Single-Lap Joints Based on the Strain Field and Visualization by Augmented Reality | The Journal of Adhesion | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07650] Development of Handheld Augmented Reality X-Ray for K-12 Settings | Lecture notes in educational technology | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07653] Die Visualisierung dynamischer Graphen als Small Multiples | OPUS Publication Server of the University of Stuttgart (Univ | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07654] Digital Forensics 2.0: A Review on Social Networks Forensics | Studies in computational intelligence | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07658] Does interactivity improve exploratory data analysis of animated trend visualization ? |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07661] Drawing Dynamic Graphs by Stress Minimization | KOPS (University of Konstanz) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07662] Dynamic augmented reality X-Ray on Google Glass | SIGGRAPH ASIA Mobile Graphics and Interactive Applications | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07663] Dynamic Metabolomics for Exploring a Novel View of Metabolic Network:from Development of High-throughput Techniques to Correlation Network Analysis | Institutional Repositories DataBase (IRDB) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07664] Dynamic Network Visualization withExtended Massive Sequence Views | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07668] Egocentric Dynamic Network Visualization |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07670] Empowering biologists with multi-omics data: colorectal cancer as a paradigm | Bioinformatics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07672] Encyclopedia of Social Network Analysis and Mining | Springer eBooks | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07673] Enhanced 3D visualization techniques in support of indoor location planning | Computers Environment and Urban Systems | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07681] ExpanD: a stereoscopic expanding technique for compound graphs | ACM Symposium on Virtual Reality Software and Technology (VR | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07683] Exploring real world points of interest: Design and evaluation of object-centric exploration techniques for augmented reality | Pervasive and Mobile Computing | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07687] Expressiv e Spatial Interfaces for Scientic Visualization and Artistic 3D Modeling |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07690] Fast filtering and animation of large dynamic networks | EPJ Data Science | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07692] Financevis . netA Visual Survey of Financial Data Visualizations |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07695] ForceAtlas2, a Continuous Graph Layout Algorithm for Handy Network Visualization Designed for the Gephi Software | PloS One | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07700] Geo-topo maps: hybrid visualization of movement data over building floor plans and maps | A K Peters/CRC Press eBooks | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07701] Geovisual analytics approaches for the integration of geography and social network contexts |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07707] Glidgets: Interactive Glyphs for Exploring Dynamic Graphs |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07708] GLO-STIX: Graph-Level Operations for Specifying Techniques and Interactive eXploration | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07710] Graph analysis of functional brain networks: practical issues in translational neuroscience | Philosophical Transactions of the Royal Society B Biological | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07711] Graph Exploration by Multiple Linked Metric Views | International Conference on Information Visualisation (IV) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07712] Graph visualization in space and time |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07713] Graphical histories of information foraging | Nordic Conference on Human-Computer Interaction | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07714] GridVis: Visualisation of Island-Based Parallel Genetic Algorithms | Lecture notes in computer science | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07715] Group-Level Graph Visualization Taxonomy | Eurographics Conference on Visualization | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07729] How Should We Use Colour in Euler Diagrams? | International Symposium on Visual Information Communication  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07730] How to Display Group Information on Node-Link Diagrams: An Evaluation | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07731] How to master challenges in experimental evaluation of 2D versus 3D software visualizations |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07732] How to visualize directed graphs: A user study | International Conference on Information, Intelligence, Syste | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07733] ht://com net.oxfournals.org/  D ow nladed from  MUXVIZ: A TOOL FOR MULTILAYER ANALYSIS AND VISUALIZATION OF NETWORKS | Multilayer networks. J. Complex Netw., | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07739] Image-based X-ray visualization techniques for spatial understanding in outdoor augmented reality | Australian Conference on Computer-Human Interaction (OzCHI) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07744] Immersive and Collaborative Analytics, http://visanalytics.org/info/projects/immersiveand-collaborative-decision-making-environments |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07749] Improving automated layout techniques for the production of schematic diagrams | Kent Academic Repository (University of Kent) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07750] Improving On-Patient Medical Data Visualization in a Markerless Augmented Reality Environment by Volume Clipping | SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRA | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07754] Influent : Scalable Transactional Flow Analysis with Entity-Relationship Graphs |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07757] Information Visualization in Virtual Environments: Trade-Offs and Guidelines | Handbook of Virtual Environments, 2nd ed. | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07760] Interaction in the Visualization of Multivariate Networks | Lecture notes in computer science | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07765] iVisDesigner: Expressive Interactive Design of Information Visualizations | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07769] Kivelä, M., Arenas, A., Barthelemy, M., Gleeson, J.P., Moreno, Y., Porter, M.A.: Multilayer networks. Journal of Complex. Networks 2(3), 203–271 (2014) | Networks | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07771] Larger crossing angles make graphs easier to read | Journal of Visual Languages & Computing | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07772] Layer aggregation and reducibility of multilayer interconnected networks. Pre-print, arXiv:1405.0425 |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07775] Lessons learned: Evaluating visualizations for occluded objects in handheld augmented reality | International Journal of Human-Computer Studies | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07776] Let It Flow: A Static Method for Exploring Dynamic Graphs | IEEE Pacific Visualization Symposium | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07777] Leveraging Virtual Reality Experiences With Mixed-Integer Nonlinear Programming Visualization of Disassembly Sequence Planning Under Uncertainty | ASME J. Mech. Des. | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07779] LinkWave: a visual adjacency list for dynamic weighted networks | Conference on l'Interaction Homme-Machine (IHM) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07785] Measuring and modeling correlations in multiplex networks | Physical Review E | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07790] Methods for Gene Coexpression Network Visualization and Analysis | Springer eBooks | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07794] Mixed Reality | Encyclopedia of Multimedia | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07796] Molecular simulations and visualization: introduction and overview | Faraday Discussions | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07797] Monadic exploration: seeing the whole through its parts | CHI Conference on Human Factors in Computing Systems | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07798] Morphing Schnyder Drawings of Planar Triangulations | Discrete & Computational Geometry | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07802] Multilayer Clustering: A Discovery Experiment on Country Level Trading Data | Lecture notes in computer science | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07803] Multilayer weighted social network model | Phys. Rev. E | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07804] Multiple Social Networks, Data Models and Measures for | Encyclopedia of Social Network Analysis and Mining | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07805] Multiplex networks of cortical and hippocampal neurons revealed at different timescales | PLoS ONE | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07807] Mutual awareness in collaborative design: An Augmented Reality integrated telepresence system | Computers in Industry | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07808] NetBioV: an R package for visualizing large network data in biology and medicine | Bioinformatics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07809] Network Splitter 3D |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07810] Networks of Names: Visual Exploration and Semi‐Automatic Tagging of Social Networks from Newspaper Articles | Computer Graphics Forum | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07811] Networks of Networks: The Last Frontier of Complexity |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07813] Node, Node-Link, and Node-Link-Group Diagrams: An Evaluation | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07814] Node-Ring Graph Visualization Clears Edge Congestion |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07815] Object-centric temporal navigation for dynamic information visualizations. | e-scholar@UOIT (University of Ontario Institute of Technolog | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07820] On the Application of Experimental Results in Dynamic Graph Drawing | ED/GViP@Diagrams | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07824] OpenGraphiti: Data Visualization Framework | www | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07826] PanoramicData: Data Analysis through Pen & Touch | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07828] ParaFrustum: visualization techniques for guiding a user to a constrained set of viewing positions and orientations | ACM Symposium on User Interface Software and Technology (UIS | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07830] Partial Link Drawings for Nodes, Links, and Regions of Interest | International Conference on Information Visualisation (IV) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07832] Personal Command and Control : A Spatial Interface for Head-Worn Displays as a Platform for Everyday Visual Analytics |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07837] Polyptychon: A Hierarchically-Constrained Classified Dependencies Visualization | IEEE Working Conference on Software Visualization (VISSOFT) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07838] [Poster] Motion detection based ghosted views for occlusion handling in augmented reality | Proceedings - International Symposium on Mixed and Augmented | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07851] Proceedings of the Eurographics Conference on Visualization |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07861] Replicable Security Monitoring: Visualizing Time-Variant Graphs of Network Metadata | ED/GViP@Diagrams | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07875] Semi‐Automatic Editing of Graphs with Customized Layouts | Computer Graphics Forum | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07876] Show me the invisible: visualizing hidden content | CHI Conference on Human Factors in Computing Systems | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07878] Skalierbare Visualisierung dynamischer Hypergraphen | OPUS Publication Server of the University of Stuttgart (Univ | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07881] Slicing techniques for handheld IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS, VOL | 29, NO. 1, JANUARy 2023 428 augmented reality. In 2014 IEEE  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07884] Social Network Visualization Method using Inherence Relationship of User Based on Cloud | International Journal of Multimedia and Ubiquitous Engineeri | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07885] SocialVis Improving Social Network Knowledge through Information Visualization |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07894] SpiderEyes: designing attention- and proximity-aware collaborative interfaces for wall-sized displays | ACM International Conference on Intelligent User Interfaces  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07896] Spirograph inspired visualization of ecological networks | CAe@Expressive | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07897] Spreading of diseases through comorbidity networks across life and gender | New Journal of Physics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07898] Spreading Processes in Multilayer Networks | IEEE Transactions on Network Science and Engineering | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07905] Structural reducibility of multilayer networks | Nature Communications | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07906] Structuring the space: a study on enriching node-link diagrams with visual references | CHI Conference on Human Factors in Computing Systems | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07909] Supplementary Information for “ Navigability of Interconnected Networks under Random Failures ” |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07910] Support of Temporal Change Observation Using Augmented Reality for Learning | Lecture notes in computer science | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07915] SVEN: Informative Visual Representation of Complex Dynamic Structure | arXiv (Cornell University) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07924] Teegi: tangible EEG interface | ACM Symposium on User Interface Software and Technology (UIS | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07925] The Budapest Reference Connectome Server v2.0 | Neuroscience Letters | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07927] The Connectome Visualization Utility: Software for Visualization of Human Brain Networks | PLoS ONE | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07932] The human is the loop: new directions for visual analytics | Journal of Intelligent Information Systems | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07933] The Human Plasma Membrane Peripherome: Visualization and Analysis of Interactions | BioMed Research International | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07940] The Mind-Mirror: See your brain in action in your head using EEG and augmented reality | IEEE Conference on Virtual Reality and 3D User Interfaces (V | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07950] The Value of Using Big Data Technologies in Computational Social Science | International Conference on Big Data Science and Computing ( | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07954] TopicPanorama: A full picture of relevant topics | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07956] Touching the Past: Haptic Augmented Reality for Museum Artefacts | Lecture notes in computer science | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07959] Towards a Model for the Integration of Time into a Graph-based Key Performance Indicator Analysis | The Swedish Chapter of Eurographics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07965] UnityMol: Interactive scientific visualization for integrative biology | IEEE Symposium on Large Data Analysis and Visualization | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07971] Using immersive real-time collaboration environments to manage IP networks |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07972] Using Simulation and modeling to visualize Object-Oriented Software |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07977] ViSER: Visualizing Supply Chains for Eco-Conscious Redesign | IEEE/ASME International Conference on Mechatronic and Embedd | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07979] Visual Adjacency Lists for Dynamic Graphs | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07980] Visual analysis of patterns in multiple amino acid mutation graphs | IEEE Conference on Visual Analytics Science and Technology ( | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07982] Visual Analytics for Network-Based Market Surveillance | International Workshop on Data Science for Macro-Modeling (D | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07984] Visual Exploration of Relationships between Document Clusters | International Joint Conference on Computer Vision, Imaging a | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07985] Visual Exploration of Sparse Traffic Trajectory Data | IEEE Transactions on Visualization and Computer Graphics | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07987] Visual Methods and Tools for Social Network Analysis | Encyclopedia of Social Network Analysis and Mining | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07988] Visual Models of Time-Varying Topology of Space-Based Networks | International Conference on Virtual Reality and Visualizatio | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07991] Visualisation de réseaux par matrices d'adjacence |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07993] VISUALIZATION IMPACTS ON UTILITY FUNCTIONS AND MULTIATTRIBUTE UTILITY COPULA APPROACH TOWARD ELECTRONIC PRODUCT RECOVERY TECHNIQUES BY AARON THOMAS JOSEPH THESIS |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07994] Visualization in connectomics |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07995] Visualisation of BioPAX Networks using BioLayout Express3D | F1000Research | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07997] Visualization of Large Networks | Encyclopedia of Social Network Analysis and Mining | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07998] Visualization of Metabolic Networks | Qucosa (Saxon State and University Library Dresden) | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C07999] Visualization of Security Metrics for Cyber Situation Awareness | International Conference on Availability, Reliability and Se | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C08001] Visualizing Ontologies with VOWL 1 |  | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C08004] VOWL 2: User-Oriented Visualization of Ontologies | Lecture notes in computer science | 2014
+    ABS: [abstract omitted; see the DOI]
+[R2-C08024] 3D Density Histograms for Criteria-driven Edge Bundling | CoRR | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08025] 3D Graph Drawings: Good Viewing for Occluded Vertices | Int. J. Eng. Res. Appl. | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08027] 3D Visualization of Heterogeneous User Interactions in a Social Network |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08028] A 3D visualization framework to social network monitoring and analysis | Computers in Human Behavior | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08032] A Comic Retrieval System Based on Multilayer Graph Representation and Graph Mining | Lecture notes in computer science | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08033] A community-gravity-directed algorithm for showing community structure of complex networks[J] | Journal of Computer-Aided Design & Computer Graphics | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08034] A community-gravitydirected algorithm for showing community structure of eomplex networks[J] | Journal of Computer-Aided Design&Computer Graphics | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08035] A Concept for the Exploratory Visualization of Patent Network Dynamics | International Joint Conference on Computer Vision, Imaging a | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08038] A draft network of ligand–receptor-mediated multicellular signalling in human | Nat. Commun | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08039] A-Frame: A Web Framework for Building Virtual Reality Experiences | Supermedium | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08044] A Principled Massive-Graph Similarity Function with Attribution |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08052] A Survey on Information Visualization for Network and Service Management | IEEE Communications Surveys & Tutorials | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08053] A Survey on Social Network Visualization | Advances in Social Science, Education and Humanities Researc | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08054] A System Framework for Computer Vision and AR based Dance Learning Technology |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08055] A Tale of Two Communities: Assessing Homophily in Node-Link Diagrams | Lecture notes in computer science | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08056] A tangible user interface for interactive data visualization | OCAD University Open Research Repository (OCAD University) | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08059] A Visual Analytics Approach to Compare Propagation Models in Social Networks | Electronic Proceedings in Theoretical Computer Science | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08060] Abstraction networks for terminologies: supporting management of “big knowledge” | Artif. Intell. Medicine | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08061] Advanced Insights into Functional Brain Connectivity by Combining Tensor Decomposition and Partial Directed Coherence | PLoS ONE | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08062] Advances and Applications in Bioinformatics and Chemistry Tools for visualization and analysis of molecular networks, pathways, and -omics data |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08069] An evaluation of reality tradeoffs in tangible and semaphoric interaction modalities |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08071] An Incremental Layout Method for Visualizing Online Dynamic Graphs | Journal of Graph Algorithms and Applications | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08072] An Interactive Node-Link Visualization of Convolutional Neural Networks | International Symposium on Visual Computing | 2015
+    ABS: [abstract omitted; see the DOI]
+[R2-C08073] An Overview of Visualizing Dynamic Graphs |  | 2015
+    ABS: [abstract omitted; see the DOI]

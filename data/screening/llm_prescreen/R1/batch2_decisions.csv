@@ -1,0 +1,537 @@
+cid,decision,code,note
+C00537,include,I1,Matrix cube; dynamic network time slices as stacked layers
+C00538,exclude,E2,
+C00539,include,I1,Stacked 2D time slices in 3D
+C00540,exclude,E2,
+C00541,include,I4,"Location-based AR, spatial interaction with data"
+C00542,exclude,E2,
+C00543,exclude,E3,
+C00544,exclude,E2,
+C00545,exclude,E2,
+C00546,include,I2,Mixed-reality graph exploration with tablets as tangible nodes
+C00547,exclude,E1,
+C00548,exclude,E1,
+C00549,include,I1,Detangler multiplex network visual analytics
+C00550,exclude,E2,
+C00551,exclude,E1,
+C00552,exclude,E2,
+C00553,exclude,E1,
+C00554,exclude,E5,
+C00555,include,I2,Semi-immersive 2D/3D network visualization
+C00556,unsure,,"No abstract; AR system, unclear content"
+C00557,exclude,E2,
+C00558,background,B,Survey of network representation in augmented home
+C00559,unsure,,"No abstract; tangible mobile AR, maybe visualization"
+C00560,unsure,,"No abstract; comorbidity network with overlay, maybe multilayer"
+C00561,exclude,E1,
+C00562,exclude,E1,
+C00563,exclude,E1,
+C00564,include,I1,Web-based multilayer network visualization
+C00565,unsure,,"No abstract; multiplex network, visualization unclear"
+C00566,include,I1,Dynamic multi-relational network visual analytics
+C00567,include,I2,VR brain network exploration
+C00568,exclude,E1,
+C00569,exclude,E5,
+C00570,exclude,E2,
+C00571,exclude,E2,
+C00572,exclude,E2,
+C00573,exclude,E2,
+C00574,exclude,E2,
+C00575,exclude,E1,
+C00576,include,I1,Piling temporal adjacency-matrix snapshots
+C00577,unsure,,Multilayer Twitter network; visualization role unclear
+C00578,include,I2,Immersive spherical graph layout
+C00579,exclude,E1,
+C00580,exclude,E2,
+C00581,unsure,,"No abstract; dynamic graph vis survey, maybe background"
+C00582,include,I1,Juxtaposed adjacency matrices for multiple networks
+C00583,exclude,E5,
+C00584,unsure,,"Utility network visualisation, possibly AR/spatial"
+C00585,exclude,E2,
+C00586,include,I1,Visual analytics strategies for multiplex networks
+C00587,exclude,E6,
+C00588,exclude,E2,
+C00589,exclude,E1,
+C00590,exclude,E3,
+C00591,exclude,E2,
+C00592,exclude,E3,
+C00593,exclude,E4,
+C00594,include,I1,Graph sequence visualized as juxtaposed time slices
+C00595,include,I1,Multiplex network visual analytics (Detangler)
+C00596,exclude,E2,
+C00597,exclude,E2,
+C00598,exclude,E1,
+C00599,exclude,E2,
+C00600,exclude,E2,
+C00601,include,I2,Collaborative VR social network visualization
+C00602,exclude,E1,
+C00603,unsure,,"Network administration visualization, possibly AR/physical"
+C00604,include,I2,Immersive graph layout/rendering/interaction study
+C00605,background,B,Taxonomy and survey of dynamic graph visualization
+C00606,exclude,E1,
+C00607,unsure,,No abstract; net-map/wennmaker possibly physical network mapping
+C00608,include,I2,Immersive geospatial network exploration
+C00609,exclude,E1,
+C00610,exclude,E2,
+C00611,exclude,E1,
+C00612,exclude,E2,
+C00613,exclude,E2,
+C00614,exclude,E2,
+C00615,include,I1,Space-time cube for dynamic graph
+C00616,exclude,E1,
+C00617,exclude,E2,
+C00618,exclude,E1,
+C00619,exclude,E1,
+C00620,exclude,E5,
+C00621,exclude,E1,
+C00622,exclude,E2,
+C00623,exclude,E2,
+C00624,include,I1,Spatial arrangements of time-slice node-link diagrams evaluated
+C00625,unsure,,Multilayer enterprise networks; visualization contribution unclear
+C00626,exclude,E1,
+C00627,exclude,E1,
+C00628,exclude,E5,
+C00629,exclude,E5,
+C00630,include,I2,CAVE vs HMD collaborative network analysis
+C00631,unsure,,Dynamic graph sequence comparison; time-slice layout unclear
+C00632,exclude,E1,
+C00633,exclude,E3,
+C00634,exclude,E3,
+C00635,unsure,,"No abstract; multiplex relations decision support, vis unclear"
+C00636,exclude,E1,
+C00637,exclude,E1,
+C00638,include,I1,Edge bundling for multilayer graphs
+C00639,exclude,E3,
+C00640,unsure,,No abstract; gesture control for time-evolving graphs
+C00641,exclude,E1,
+C00642,exclude,E1,
+C00643,exclude,E1,
+C00644,exclude,E2,
+C00645,exclude,E1,
+C00646,exclude,E3,
+C00647,exclude,E5,
+C00648,exclude,E1,
+C00649,exclude,E2,
+C00650,exclude,E1,
+C00651,unsure,,Dynamic call graph matrix; time-slice representation unclear
+C00652,exclude,E1,
+C00653,exclude,E1,
+C00654,exclude,E4,
+C00655,exclude,E2,
+C00656,exclude,E2,
+C00657,unsure,,Extended abstract on multilayer graph visual analytics
+C00658,exclude,E3,
+C00659,exclude,E3,
+C00660,exclude,E2,
+C00661,exclude,E3,
+C00662,exclude,E3,
+C00663,exclude,E4,
+C00664,background,B,Book chapter on visualizing multilayer networks
+C00665,unsure,,"Utility network 2D/3D fieldwork vis, possibly AR"
+C00666,exclude,E5,
+C00667,exclude,E2,
+C00668,background,B,Space-time cube descriptive framework for temporal visualization
+C00669,background,B,Design space for AR/VR-introduced IoT
+C00670,include,I2,Gesture input for VR graph visualization
+C00671,exclude,E1,
+C00672,include,I2,Natural user interfaces for immersive 3D graph exploration
+C00673,unsure,,"No abstract; mixed-reality cyber situation awareness, maybe network vis"
+C00674,exclude,E1,
+C00675,exclude,E4,
+C00676,exclude,E3,
+C00677,exclude,E3,
+C00678,exclude,E1,
+C00679,unsure,,"No abstract; cube of multiple ontology alignments, maybe multi-relational"
+C00680,unsure,,AR cabling tutor anchored on network ports
+C00681,include,I4,AR overlay of network state on physical switch ports
+C00682,exclude,E1,
+C00683,exclude,E1,
+C00684,exclude,E1,
+C00685,exclude,E1,
+C00686,exclude,E1,
+C00687,exclude,E1,
+C00688,exclude,E1,
+C00689,exclude,E1,
+C00690,exclude,E1,
+C00691,exclude,E2,
+C00692,exclude,E1,
+C00693,exclude,E2,
+C00694,exclude,E2,
+C00695,exclude,E1,
+C00696,exclude,E1,
+C00697,exclude,E4,
+C00698,exclude,E1,
+C00699,exclude,E1,
+C00700,exclude,E2,
+C00701,exclude,E5,
+C00702,exclude,E1,
+C00703,unsure,,"No abstract; HoloLens cybersecurity vis, likely network data"
+C00704,exclude,E2,
+C00705,include,I2,iCAVE immersive biological network exploration
+C00706,exclude,E4,
+C00707,include,I4,Design space of immersive urban analytics
+C00708,include,I1,Multiplex network visualization for multimedia archives
+C00709,exclude,E1,
+C00710,exclude,E2,
+C00711,exclude,E2,
+C00712,exclude,E5,
+C00713,exclude,E5,
+C00714,exclude,E1,
+C00715,unsure,,Multilayer pathway framework with visualization; role unclear
+C00716,background,B,Survey of interactive lenses for visualization
+C00717,exclude,E1,
+C00718,exclude,E1,
+C00719,exclude,E2,
+C00720,exclude,E3,
+C00721,exclude,E2,
+C00722,exclude,E2,
+C00723,include,I4,Mobile AR network security data in cyber-physical context
+C00724,exclude,E2,
+C00725,exclude,E2,
+C00726,exclude,E1,
+C00727,exclude,E2,
+C00728,include,I2,Mobile AR situated analytics of ego-centric networks
+C00729,exclude,E2,
+C00730,exclude,E1,
+C00731,exclude,E1,
+C00732,exclude,E1,
+C00733,exclude,E1,
+C00734,exclude,E1,
+C00735,exclude,E1,
+C00736,exclude,E2,
+C00737,exclude,E2,
+C00738,exclude,E2,
+C00739,exclude,E2,
+C00740,exclude,E1,
+C00741,exclude,E2,
+C00742,exclude,E2,
+C00743,exclude,E5,
+C00744,unsure,,VR/AR data visualization for design exploration; contribution unclear
+C00745,exclude,E5,
+C00746,exclude,E1,
+C00747,exclude,E5,
+C00748,background,B,Survey on multilayer network visualization
+C00749,include,I4,Tangible brushing in mixed-reality visual analysis
+C00750,background,B,Task taxonomy for multilayer network visual analytics
+C00751,include,I4,Tangible AR (HoloLens) 3D visualization exploration study
+C00752,exclude,E1,
+C00753,exclude,E1,
+C00754,exclude,E1,
+C00755,unsure,,Network drawing library; may support multilayer networks
+C00756,exclude,E6,
+C00757,exclude,E1,
+C00758,include,I1,Multi-layered visualization of epistolary networks
+C00759,exclude,E7,
+C00760,exclude,E3,
+C00761,include,I2,VR exploration of 3D geospatial networks
+C00762,include,I2,VR visualization of Git DAG
+C00763,exclude,E1,
+C00764,exclude,E2,
+C00765,exclude,E7,
+C00766,exclude,E1,
+C00767,exclude,E2,
+C00768,exclude,E1,
+C00769,include,I1,Force-directed layout for multiplex sociograms
+C00770,exclude,E2,
+C00771,include,I1,Multilayer network topology visualization layout
+C00772,exclude,E1,
+C00773,exclude,E5,
+C00774,exclude,E1,
+C00775,exclude,E5,
+C00776,exclude,E1,
+C00777,exclude,E1,
+C00778,exclude,E2,
+C00779,exclude,E1,
+C00780,exclude,E2,
+C00781,exclude,E2,
+C00782,exclude,E2,
+C00783,exclude,E1,
+C00784,exclude,E2,
+C00785,exclude,E1,
+C00786,unsure,,Photos browsed on augmented physical models; AR anchoring possible
+C00787,exclude,E1,
+C00788,exclude,E1,
+C00789,exclude,E3,
+C00790,exclude,E2,
+C00791,exclude,E1,
+C00792,include,I4,Collaborative AR 3D parallel coordinates
+C00793,exclude,E1,
+C00794,include,I4,Embedding data representations in physical world via AR
+C00795,exclude,E5,
+C00796,exclude,E1,
+C00797,exclude,E1,
+C00798,exclude,E2,
+C00799,exclude,E2,
+C00800,exclude,E2,
+C00801,exclude,E1,
+C00802,exclude,E1,
+C00803,exclude,E2,
+C00804,exclude,E2,
+C00805,exclude,E1,
+C00806,exclude,E2,
+C00807,exclude,E1,
+C00808,exclude,E6,Conference version superseded by journal C00907
+C00809,exclude,E1,
+C00810,unsure,,Dynamic graph vis of media archives; time representation unclear
+C00811,include,I4,Scale of AR visualization in physical environment
+C00812,exclude,E2,
+C00813,include,I1,Visual clouds generated from multiplex networks
+C00814,exclude,E2,
+C00815,exclude,E2,
+C00816,exclude,E1,
+C00817,exclude,E4,
+C00818,background,B,Immersive analytics applications in life sciences overview
+C00819,exclude,E1,
+C00820,exclude,E7,
+C00821,exclude,E1,
+C00822,exclude,E2,
+C00823,exclude,E1,
+C00824,exclude,E2,
+C00825,exclude,E3,
+C00826,include,I2,Link attributes of graph vis in mobile AR
+C00827,exclude,E2,
+C00828,exclude,E1,
+C00829,exclude,E1,
+C00830,exclude,E2,
+C00831,exclude,E1,
+C00832,exclude,E1,
+C00833,include,I3,Voxel-printed physical visualization including graph data
+C00834,exclude,E2,
+C00835,exclude,E1,
+C00836,exclude,E2,
+C00837,exclude,E2,
+C00838,unsure,,Immersive multi-omics tool; network content unclear
+C00839,exclude,E2,
+C00840,exclude,E2,
+C00841,exclude,E1,
+C00842,exclude,E2,
+C00843,exclude,E2,
+C00844,include,I4,On-body tangible manipulation for immersive visualization
+C00845,exclude,E3,
+C00846,exclude,E2,
+C00847,exclude,E5,
+C00848,exclude,E1,
+C00849,exclude,E1,
+C00850,include,I1,Library for multilayer network analysis and visualization
+C00851,unsure,,No abstract; AR manufacturing with network analysis
+C00852,exclude,E2,
+C00853,include,I2,Ring graph layout in VR with user study
+C00854,exclude,E1,
+C00855,exclude,E1,
+C00856,exclude,E2,
+C00857,unsure,,3D spatio-temporal social network framework; layering unclear
+C00858,exclude,E1,
+C00859,exclude,E1,
+C00860,exclude,E3,
+C00861,exclude,E2,
+C00862,exclude,E1,
+C00863,exclude,E2,
+C00864,unsure,,Virtual environments for sensor network visualization
+C00865,exclude,E2,
+C00866,exclude,E2,
+C00867,include,I1,Thesis on multilayer graph visualization
+C00868,unsure,,"No abstract; neural network vis in VR, graph-like"
+C00869,include,I2,VR software dependency graph visualization
+C00870,include,I2,AR visualization of software architecture graphs
+C00871,include,I2,Immersive VR social network exploration
+C00872,exclude,E2,
+C00873,exclude,E1,
+C00874,exclude,E5,
+C00875,exclude,E1,
+C00876,exclude,E1,
+C00877,exclude,E2,
+C00878,exclude,E2,
+C00879,include,I1,Force-directed layout for multilayer networks
+C00880,exclude,E2,
+C00881,unsure,,Multilayer historical network analysis and visualization
+C00882,exclude,E1,
+C00883,exclude,E2,
+C00884,include,I2,AR 3D node-link edge styles design space and study
+C00885,exclude,E2,
+C00886,exclude,E1,
+C00887,exclude,E2,
+C00888,exclude,E1,
+C00889,exclude,E2,
+C00890,exclude,E1,
+C00891,exclude,E5,
+C00892,include,I1,Multiplex network tool for cell communication
+C00893,exclude,E1,
+C00894,include,I4,AR overlay on physical map visualizations
+C00895,exclude,E2,
+C00896,exclude,E3,
+C00897,exclude,E7,
+C00898,exclude,E2,
+C00899,exclude,E2,
+C00900,exclude,E2,
+C00901,exclude,E1,
+C00902,exclude,E1,
+C00903,exclude,E1,
+C00904,include,I2,VR graph visualization of news
+C00905,exclude,E2,
+C00906,exclude,E2,
+C00907,include,I2,VR navigation techniques for 3D network visualisation
+C00908,include,I1,Dynamic multilayer graph visual analytics (Intergraph)
+C00909,exclude,E2,
+C00910,exclude,E2,
+C00911,exclude,E1,
+C00912,exclude,E2,
+C00913,include,I4,AR tabletop space-time cube with tangible ring
+C00914,exclude,E1,
+C00915,exclude,E2,
+C00916,exclude,E2,
+C00917,exclude,E2,
+C00918,exclude,E2,
+C00919,include,I1,Human factors of multilayer network visualization
+C00920,include,I2,Immersive analytics of large dynamic networks
+C00921,exclude,E5,
+C00922,exclude,E1,
+C00923,exclude,E2,
+C00924,exclude,E2,
+C00925,unsure,,"No abstract; multilayer layer definition, vis unclear"
+C00926,include,I1,Multiplex network layer-edge pattern visualization
+C00927,exclude,E1,
+C00928,exclude,E2,
+C00929,exclude,E2,
+C00930,exclude,E1,
+C00931,exclude,E1,
+C00932,include,I1,Exploration of big multilayer graphs
+C00933,exclude,E2,
+C00934,exclude,E2,
+C00935,exclude,E2,
+C00936,exclude,E1,
+C00937,exclude,E1,
+C00938,exclude,E5,
+C00939,exclude,E1,
+C00940,exclude,E1,
+C00941,unsure,,AR visualization of VR users; situated anchoring possible
+C00942,exclude,E2,
+C00943,exclude,E2,
+C00944,exclude,E2,
+C00945,exclude,E2,
+C00946,unsure,,AR visualization of streamed network traffic data
+C00947,unsure,,"No abstract; network metadata monitoring, possibly physical/polymedia"
+C00948,exclude,E1,
+C00949,exclude,E1,
+C00950,include,I1,Py3plex multilayer network visualization toolkit
+C00951,exclude,E2,
+C00952,exclude,E2,
+C00953,exclude,E1,
+C00954,exclude,E1,
+C00955,include,I4,AR flow visualization around tracked real objects
+C00956,exclude,E2,
+C00957,exclude,E1,
+C00958,exclude,E5,
+C00959,exclude,E1,
+C00960,exclude,E1,
+C00961,exclude,E1,
+C00962,exclude,E1,
+C00963,exclude,E2,
+C00964,include,I4,AR-HMD volumetric visualization with multi-touch input
+C00965,exclude,E5,
+C00966,exclude,E2,
+C00967,exclude,E2,
+C00968,exclude,E1,
+C00969,exclude,E2,
+C00970,background,B,STAR on multilayer network visualization (seed survey)
+C00971,include,I3,Design principles for node-link network physicalizations
+C00972,background,B,Position on multilayer networks and visual analytics
+C00973,exclude,E2,
+C00974,exclude,E3,
+C00975,exclude,E5,
+C00976,exclude,E5,
+C00977,include,I4,Design space for link routing in immersive visualisations
+C00978,unsure,,"No abstract; CNN visualization in VR, possibly node-link"
+C00979,include,I1,Thesis on interactive multiplex network visualization
+C00980,unsure,,"No abstract; volume-based dynamic graph, possibly stacked time"
+C00981,include,I2,3D edge bundling for immersive analysis
+C00982,exclude,E1,
+C00983,exclude,E5,
+C00984,exclude,E1,
+C00985,exclude,E1,
+C00986,background,B,Design space for visualizing VR/MR user sessions
+C00987,exclude,E1,
+C00988,exclude,E1,
+C00989,exclude,E1,
+C00990,include,I1,Hybrid multilayer node-link/matrix visualization of biclusters
+C00991,include,I1,Multimedia document browser based on multilayer networks
+C00992,exclude,E1,
+C00993,exclude,E1,
+C00994,exclude,E2,
+C00995,background,B,Review of visual perception in optical see-through AR
+C00996,exclude,E1,
+C00997,include,I2,Mental maps in immersive network visualization
+C00998,exclude,E1,
+C00999,exclude,E2,
+C01000,exclude,E1,
+C01001,exclude,E1,
+C01002,exclude,E1,
+C01003,exclude,E2,
+C01004,exclude,E1,
+C01005,include,I2,Immersive node-link visualization of neural networks
+C01006,exclude,E1,
+C01007,exclude,E2,
+C01008,include,I1,Arena3Dweb 3D multilayered network visualization
+C01009,exclude,E2,
+C01010,exclude,E2,
+C01011,include,I4,AR augmentation of static physical visualizations
+C01012,exclude,E1,
+C01013,exclude,E1,
+C01014,include,I2,Brushing in immersive graph visualization
+C01015,exclude,E2,
+C01016,exclude,E1,
+C01017,exclude,E1,
+C01018,exclude,E2,
+C01019,exclude,E5,
+C01020,exclude,E2,
+C01021,exclude,E1,
+C01022,exclude,E2,
+C01023,exclude,E1,
+C01024,exclude,E1,
+C01025,exclude,E2,
+C01026,exclude,E2,
+C01027,exclude,E1,
+C01028,exclude,E2,
+C01029,exclude,E2,
+C01030,exclude,E4,
+C01031,exclude,E1,
+C01032,exclude,E2,
+C01033,exclude,E2,
+C01034,exclude,E2,
+C01035,exclude,E2,
+C01036,exclude,E4,
+C01037,exclude,E4,
+C01038,exclude,E2,
+C01039,exclude,E2,
+C01040,exclude,E2,
+C01041,exclude,E2,
+C01042,include,I4,Tangible actuated controller for AR data spaces
+C01043,exclude,E2,
+C01044,unsure,,No abstract; review of AR with knowledge graphs
+C01045,unsure,,MR vs desktop data visualization study; AR-specific aspect unclear
+C01046,exclude,E4,
+C01047,exclude,E4,
+C01048,exclude,E2,
+C01049,include,I1,Thesis on multilayer network exploration and visualization
+C01050,exclude,E2,
+C01051,unsure,,No abstract; multi-focus comparison of dynamic graph slices
+C01052,exclude,E2,
+C01053,exclude,E2,
+C01054,exclude,E2,
+C01055,exclude,E5,
+C01056,exclude,E2,
+C01057,include,I2,VR visualization of large biological networks
+C01058,unsure,,Dynamic call graph sequences; time-slice representation unclear
+C01059,background,B,Graphical perception study for immersive analytics
+C01060,exclude,E1,
+C01061,exclude,E2,
+C01062,exclude,E2,
+C01063,exclude,E1,
+C01064,include,I4,In-situ AR visualization of wireless signal propagation
+C01065,exclude,E2,
+C01066,exclude,E2,
+C01067,exclude,E2,
+C01068,exclude,E1,
+C01069,exclude,E1,
+C01070,exclude,E2,
+C01071,exclude,E2,
+C01072,exclude,E1,

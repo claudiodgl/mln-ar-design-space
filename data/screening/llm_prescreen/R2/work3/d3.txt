@@ -1,0 +1,135 @@
+R2-C07319|exclude|E3|
+R2-C07320|exclude|E3|
+R2-C07323|exclude|E1|
+R2-C07324|exclude|E3|
+R2-C07330|exclude|E3|
+R2-C07332|exclude|E1|
+R2-C07333|exclude|E3|
+R2-C07335|exclude|E1|
+R2-C07336|exclude|E1|
+R2-C07339|exclude|E4|
+R2-C07342|exclude|E3|
+R2-C07344|exclude|E1|
+R2-C07346|exclude|E2|
+R2-C07347|exclude|E1|
+R2-C07352|unsure|U|Ploceus: multiple networks with different edge semantics from tables
+R2-C07353|exclude|E5|
+R2-C07354|exclude|E3|
+R2-C07362|exclude|E2|
+R2-C07364|exclude|E1|
+R2-C07366|exclude|E3|
+R2-C07371|exclude|E4|
+R2-C07372|include|I4|classification of the AR presentation space (design space)
+R2-C07376|exclude|E3|
+R2-C07377|exclude|E3|
+R2-C07379|exclude|E3|
+R2-C07380|include|I4|mobile AR off-screen POI awareness using spatial context
+R2-C07391|exclude|E3|
+R2-C07392|exclude|E3|
+R2-C07398|exclude|E1|
+R2-C07406|exclude|E1|
+R2-C07407|exclude|E3|
+R2-C07411|exclude|E4|
+R2-C07414|background|B|survey chapter on temporal multivariate network visualization
+R2-C07416|exclude|E3|
+R2-C07419|include|I2|immersive VR 3D connectome network visualization
+R2-C07420|exclude|E5|meeting abstract of C07419
+R2-C07421|exclude|E2|
+R2-C07423|unsure|U|stereoscopic depth highlighting for node-link; check immersion
+R2-C07424|include|I4|ghosting importance map from real scene for AR
+R2-C07425|exclude|E3|
+R2-C07427|exclude|E1|
+R2-C07435|exclude|E3|
+R2-C07439|exclude|E3|
+R2-C07440|unsure|U|stereoscopic highlight reflection layer node-link; check immersion
+R2-C07442|exclude|E5|
+R2-C07447|exclude|E3|
+R2-C07450|exclude|E4|
+R2-C07451|exclude|E3|
+R2-C07452|include|I4|AR x-ray contextual visualization in real environment; edu
+R2-C07460|exclude|E3|
+R2-C07462|exclude|E1|
+R2-C07466|exclude|E3|
+R2-C07473|exclude|E3|
+R2-C07477|exclude|E2|
+R2-C07478|exclude|E2|
+R2-C07479|exclude|E2|
+R2-C07483|unsure|U|ViStruclizer multi-dimensional (multiplex?) social networks; no abstract
+R2-C07484|exclude|E2|
+R2-C07485|exclude|E4|
+R2-C07487|exclude|E4|
+R2-C07488|exclude|E3|
+R2-C07490|background|B|vision paper: visual analytics in mobile AR
+R2-C07491|exclude|E2|
+R2-C07494|exclude|E7|
+R2-C07496|include|I4|spatial AR techniques visualizing remote viewpoints in workspace
+R2-C07497|exclude|E3|
+R2-C07498|exclude|E3|
+R2-C07499|exclude|E3|
+R2-C07500|exclude|E2|
+R2-C07504|unsure|U|edge-edge plus vertex-vertex relations: two relation types
+R2-C07505|exclude|E2|
+R2-C07507|exclude|E2|
+R2-C07510|unsure|U|social learning ties by type: possibly multiplex vis
+R2-C07514|exclude|E3|
+R2-C07517|unsure|U|urban analysis composited on real footage (mixed reality video)
+R2-C07535|exclude|E4|
+R2-C07546|exclude|E2|
+R2-C07548|exclude|E3|
+R2-C07550|exclude|E3|
+R2-C07551|exclude|E4|
+R2-C07553|exclude|E3|
+R2-C07554|include|I1|filmstrip juxtaposition of dynamic network time slices
+R2-C07556|exclude|E3|
+R2-C07559|include|I4|handheld AR see-through vision for sightseeing; no abstract
+R2-C07560|exclude|E2|
+R2-C07561|exclude|E2|
+R2-C07567|exclude|E3|
+R2-C07578|exclude|E7|
+R2-C07579|background|B|encyclopedia overview of dynamic network analysis/visualization
+R2-C07581|exclude|E3|
+R2-C07582|exclude|E1|
+R2-C07587|exclude|E3|
+R2-C07592|exclude|E1|
+R2-C07602|exclude|E3|
+R2-C07609|exclude|E2|
+R2-C07610|exclude|E1|
+R2-C07614|exclude|E3|
+R2-C07617|exclude|E2|
+R2-C07619|exclude|E1|
+R2-C07621|exclude|E2|
+R2-C07623|exclude|E5|Bach thesis (matrix cubes); content published as Cubix etc.
+R2-C07624|exclude|E3|
+R2-C07625|exclude|E2|
+R2-C07627|exclude|E2|
+R2-C07629|exclude|E3|
+R2-C07630|include|I1|ConTour visual exploration of multi-relational datasets
+R2-C07632|exclude|E1|
+R2-C07639|unsure|U|NodeTrix hybrid applied to web services; check I5
+R2-C07644|exclude|E2|
+R2-C07649|include|I4|AR sensor/crack data superimposed on physical specimen
+R2-C07650|include|I4|handheld AR x-ray for K-12; no abstract
+R2-C07653|exclude|E7|
+R2-C07654|exclude|E1|
+R2-C07658|exclude|E2|
+R2-C07661|exclude|E7|
+R2-C07662|include|I4|AR x-ray see-through on Google Glass
+R2-C07663|exclude|E1|
+R2-C07664|exclude|E4|
+R2-C07668|exclude|E4|
+R2-C07670|exclude|E3|
+R2-C07672|exclude|E5|
+R2-C07673|exclude|E2|
+R2-C07681|unsure|U|ExpanD stereoscopic compound graph expansion (VRST); check immersion
+R2-C07683|include|I4|object-centric AR exploration of real-world POIs; no abstract
+R2-C07687|exclude|E2|
+R2-C07690|exclude|E4|
+R2-C07692|exclude|E2|
+R2-C07695|exclude|E3|
+R2-C07700|exclude|E3|
+R2-C07701|exclude|E3|
+R2-C07707|exclude|E4|
+R2-C07708|exclude|E3|
+R2-C07710|exclude|E1|
+R2-C07711|exclude|E3|
+R2-C07712|exclude|E4|

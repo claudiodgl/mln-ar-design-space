@@ -1,0 +1,126 @@
+[C00457] Fingerprint Matrices: Uncovering the dynamics of social networks in prose literature | Computer Graphics Forum | 2013 | doi:10.1111/cgf.12124
+    WHY UNSURE: dynamic social networks as matrices; layering unclear
+    FULLTEXT: fulltext/txt/C00457.txt
+[C00495] Browsing the connectome: 3D functional and structural brain networks in the cloud |  | 2014 | doi:10.5281/zenodo.1400166
+    WHY UNSURE: 3D functional+structural brain networks; multiplex?
+    FULLTEXT: fulltext/txt/C00495.txt
+[C00624] Evaluation of Two Interaction Techniques for Visualization of Dynamic Graphs | Lecture notes in computer science | 2016 | doi:10.1007/978-3-319-50106-2_43
+    WHY UNSURE: spatial arrangement of time slices unclear
+    FULLTEXT: fulltext/txt/C00624.txt
+[C00755] TikZ-network manual | arXiv | 2017 | doi:10.48550/arxiv.1709.06005
+    WHY UNSURE: Network drawing library; may support multilayer networks
+    FULLTEXT: fulltext/txt/C00755.txt
+[C01045] Evaluation of a Financial Portfolio Visualization using Computer Displays and Mixed Reality Devices with Domain Experts | CHI '20 | 2020 | doi:10.1145/3313831.3376556
+    WHY UNSURE: MR vs desktop data visualization study; AR-specific aspect unclear
+    FULLTEXT: fulltext/txt/C01045.txt
+[C01079] MiBiOmics: an interactive web application for multi-omics data exploration and integration | BMC Bioinformatics | 2020 | doi:10.1186/s12859-020-03921-8
+    WHY UNSURE: Multi-omics web app; multilayer network vis unclear
+    FULLTEXT: fulltext/txt/C01079.txt
+[C01091] New Immersive Interface for Zero-Touch Management in 5G Networks | IEEE 5G World Forum (5GWF) | 2020 | doi:10.1109/5gwf49715.2020.9221116
+    WHY UNSURE: Holographic immersive network management interface
+    FULLTEXT: fulltext/txt/C01091.txt
+[C01152] An Extensible Dashboard Architecture For Visualizing Base And Analyzed Data | arXiv | 2021 | doi:10.48550/arxiv.2106.05357
+    WHY UNSURE: Dashboard for MLN analysis results? unclear
+    FULLTEXT: fulltext/txt/C01152.txt
+[C01155] Analysing ocular parameters for web browsing and graph visualization | arXiv | 2021 | doi:10.48550/arxiv.2101.00794
+    WHY UNSURE: Graph analysis on monitor vs VR; graph type unclear
+    FULLTEXT: fulltext/txt/C01155.txt
+[C01158] Analyzing Ocular Parameters for Web Browsing and Graph Visualization | Smart innovation, systems and technologies | 2021 | doi:10.1007/978-981-16-0041-8_28
+    WHY UNSURE: Version of C01155; no abstract
+    FULLTEXT: fulltext/txt/C01158.txt
+[C01175] CoWiz: Interactive Covid-19 Visualization Based On Multilayer Network Analysis | IEEE International Conference on Data Engineering (ICDE) | 2021 | doi:10.1109/icde51399.2021.00299
+    WHY UNSURE: COVID dashboard visualizing multilayer network analysis
+    FULLTEXT: fulltext/txt/C01175.txt
+[C01225] LEVELNET: diving into the multiple layers of protein-protein physical interaction networks | bioRxiv | 2021 | doi:10.1101/2021.07.31.453756
+    WHY UNSURE: LEVELNET multilayer PPI networks; vis unclear
+    FULLTEXT: fulltext/txt/C01225.txt
+[C01424] On Time and Space: An Experimental Study on Graph Structural and Temporal Encodings | Lecture notes in computer science | 2022 | doi:10.1007/978-3-031-22203-0_20
+    WHY UNSURE: Structural x temporal encodings; juxtaposition possible
+    FULLTEXT: fulltext/txt/C01424.txt
+[C01539] Extending Adjacency Matrices to 3D with Triangles | PacificVis 2024 | 2023 | doi:10.1109/pacificvis60374.2024.00033
+    WHY UNSURE: 3D extended adjacency matrices; matrix-cube-like
+    FULLTEXT: fulltext/txt/C01539.txt
+[C01557] Is embodied interaction beneficial? A study on navigating network visualizations | Information Visualization | 2023 | doi:10.1177/14738716231157082
+    WHY UNSURE: Embodied navigation of network visualizations
+    FULLTEXT: fulltext/txt/C01557.txt
+[C01558] LEVELNET to visualize, explore, and compare protein–protein interaction networks | PROTEOMICS | 2023 | doi:10.1002/pmic.202200159
+    WHY UNSURE: LEVELNET multilayer PPI network visualization tool
+    FULLTEXT: fulltext/txt/C01558.txt
+[C01581] On Network Structural and Temporal Encodings: A Space and Time Odyssey | IEEE Transactions on Visualization and Computer Graphics | 2023 | doi:10.1109/tvcg.2023.3310019
+    WHY UNSURE: Structural x temporal encodings; juxtaposition possible
+    FULLTEXT: fulltext/txt/C01581.txt
+[C01643] Visualizing Causality in Mixed Reality for Manual Task Learning: An Exploratory Study | arXiv | 2023 | doi:10.1109/tvcg.2025.3542949
+    WHY UNSURE: MR situated visualization of task causality hierarchies
+    FULLTEXT: fulltext/txt/C01643.txt
+[C01665] An Extended Reality-based Data Visualization Supporting Heterogeneous Remote Collaboration | Journal of the Korea Computer Graphics Society | 2024 | doi:10.15701/kcgs.2024.30.3.87
+    WHY UNSURE: XR collaborative vis with node-link interface; data type unclear
+    FULLTEXT: fulltext/txt/C01665.txt
+[C01707] Design Space of Visual Feedforward And Corrective Feedback in XR-Based Motion Guidance Systems | conf/chi | 2024 | doi:10.1145/3613904.3642143
+    WHY UNSURE: XR feedforward/feedback design space; no abstract
+    FULLTEXT: fulltext/txt/C01707.txt
+[C01744] Exploring the Design Space of Optical See-through AR Head-Mounted Displays to Support First Responders in the Field | conf/chi | 2024 | doi:10.1145/3613904.3642195
+    WHY UNSURE: Design space of OST AR HMD for first responders; no abstract
+    FULLTEXT: fulltext/txt/C01744.txt
+[C01933] Co-Designing a Knowledge-Graph Navigation Interface: A Participatory Approach | DESIDOC Journal of Library & Information Technology | 2025 | doi:10.14429/djlit.21995
+    WHY UNSURE: Navigation interface for multilayered knowledge graphs; co-design
+    FULLTEXT: fulltext/txt/C01933.txt
+[C02104] Show Me Your Best Side: Characteristics of User-Preferred Perspectives for 3D Graph Drawings | 33rd International Symposium on Graph Drawing and Network Vi | 2025 | doi:10.4230/lipics.gd.2025.37
+    WHY UNSURE: Preferred viewpoints for 3D graph drawings; immersive setting unclear
+    FULLTEXT: fulltext/txt/C02104.txt
+[C02122] The Past Is All Around You: Augmenting Cultural Heritage On-Site | EuroVis 2025 - Posters | 2025 | doi:10.2312/evp.20251143
+    WHY UNSURE: AR situated cultural heritage vis; poster, check E5
+    FULLTEXT: fulltext/txt/C02122.txt
+[C02373] Methods for Single and Multilayer Network Analysis for Biomedical Research: The mixmashnet R Package | Epidemiology Biostatistics and Public Health | 2026 | doi:10.54103/2282-0930/31797
+    WHY UNSURE: Multilayer network R package; check visualization component
+    FULLTEXT: fulltext/txt/C02373.txt
+[C02378] MixMashNet: An R Package for Single and Multilayer Networks | arXiv | 2026 | doi:10.48550/arxiv.2602.05716
+    WHY UNSURE: Multilayer network R package; check visualization component
+    FULLTEXT: fulltext/txt/C02378.txt
+[C02388] Navigation in Networks in Immersive Virtual Reality Environments | MOnAMi (Hochschule Mittweida Hochschulbibliothek) | 2026 | doi:
+    WHY UNSURE: VR network navigation thesis; abstract German, check language
+    FULLTEXT: fulltext/txt/C02388.txt
+[C02389] netify: Tools for Network Data Workflows |  | 2026 | doi:10.32614/cran.package.netify
+    WHY UNSURE: R package plotting multilayer networks; check vis contribution
+    FULLTEXT: fulltext/txt/C02389.txt
+[C02803] Immersive visualisation of 3-dimensional spiking neural networks | Evolving Systems | 2016 | doi:10.1007/s12530-016-9170-8
+    WHY UNSURE: immersive visualization of spiking neural network connectivity
+    FULLTEXT: fulltext/txt/C02803.txt
+[C02871] Origraph: Interactive Network Wrangling | IEEE Conference on Visual Analytics Science and Technology ( | 2018 | doi:10.1109/vast47406.2019.8986909
+    WHY UNSURE: network wrangling; may create heterogeneous multi-type networks
+    FULLTEXT: fulltext/txt/C02871.txt
+[C02900] Multi-Perspective, Simultaneous Embedding | IEEE Transactions on Visualization and Computer Graphics | 2019 | doi:10.1109/tvcg.2020.3030373
+    WHY UNSURE: multi-perspective embedding of multiple distance/graph relations
+    FULLTEXT: fulltext/txt/C02900.txt
+[C02936] Ontology-Based Graphs of Research Communities: A Tool for Understanding Threat Reduction Networks | Frontiers in Research Metrics and Analytics | 2020 | doi:10.3389/frma.2020.00003
+    WHY UNSURE: heterogeneous research-community networks tool; vis unclear
+    FULLTEXT: fulltext/txt/C02936.txt
+[C02962] AIive: Interactive Visualization and Sonification of Neural Networks in Virtual Reality | IEEE International Conference on Artificial Intelligence and | 2021 | doi:10.1109/aivr52153.2021.00057
+    WHY UNSURE: VR node-link of neural network architecture
+    FULLTEXT: fulltext/txt/C02962.txt
+[C03010] Augmented Chironomia for Presenting Data to Remote Audiences | ACM Symposium on User Interface Software and Technology (UIS | 2022 | doi:10.1145/3526113.3545614
+    WHY UNSURE: charts overlaid on presenter video with hand interaction
+    FULLTEXT: fulltext/txt/C03010.txt
+[C03013] COVID-19 INFODEMIC IN THE TWITTERVERSE: CHARACTERIZATION OF MISINFORMATION SPREAD AND TWITTER BOT ACTIVITY BY CRITICAL MASS, ENERGY DECAY, ENTANGLEMENTS, AND NODE SYNCHRONIZATION USING MULTILAYER AND SPECTRAL GRAPH VISUALIZATIONS, KURAMOTO MODELING, SONIFICATION, AND WAVEFUNCTION SIMULATION | Zenodo (CERN European Organization for Nuclear Research) | 2022 | doi:10.5281/zenodo.7030283
+    WHY UNSURE: claims multilayer graph visualizations; dubious preprint
+    FULLTEXT: fulltext/txt/C03013.txt
+[C03059] NetPanorama: A Declarative Grammar for Network Construction, Transformation, and Visualization | arXiv (Cornell University) | 2023 | doi:10.48550/arxiv.2310.18902
+    WHY UNSURE: network vis grammar; may support multilayer networks
+    FULLTEXT: fulltext/txt/C03059.txt
+[C03072] Toward an Edu-Metaverse of Knowledge: Immersive Exploration of University Courses | IEEE Transactions on Learning Technologies | 2023 | doi:10.1109/tlt.2023.3290814
+    WHY UNSURE: immersive course exploration; possibly knowledge graph
+    FULLTEXT: fulltext/txt/C03072.txt
+[C03087] An architecture for collaboration in systems biology at the age of the Metaverse | npj Systems Biology and Applications | 2024 | doi:10.1038/s41540-024-00334-8
+    WHY UNSURE: metaverse systems biology; possibly immersive network vis
+    FULLTEXT: fulltext/txt/C03087.txt
+[C03107] MARV: Multiview Augmented Reality Visualisation for Exploring Rich Material Data | Computer Graphics Forum | 2024 | doi:10.1111/cgf.70150
+    WHY UNSURE: multiview AR material data; AR anchoring unclear
+    FULLTEXT: fulltext/txt/C03107.txt
+[C03108] Matrix Snap&Go: Visualization of Paths on Matrices | Eurographics Conference on Visualization | 2024 | doi:10.2312/evs.20241058
+    WHY UNSURE: path visualization on adjacency matrices; possible I5
+    FULLTEXT: fulltext/txt/C03108.txt
+[C03171] Urban Climate InteracTable: towards an immersive contextual data analysis platform to visualize and explore urban heat | Virtual Reality | 2025 | doi:10.1007/s10055-025-01264-4
+    WHY UNSURE: immersive contextual urban heat table; AR/tangible unclear
+    FULLTEXT: fulltext/txt/C03171.txt
+[C03172] Video-Conferencing Beyond Screen-Sharing and Thumbnail Webcam Videos: Gesture-Aware Augmented Reality Video for Data-Rich Remote Presentations | arXiv (Cornell University) | 2025 | doi:10.48550/arxiv.2501.05345
+    WHY UNSURE: gesture-aware AR video overlay for data presentations
+    FULLTEXT: fulltext/txt/C03172.txt

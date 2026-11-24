@@ -1,0 +1,140 @@
+R2-C10685|exclude|E3|
+R2-C10686|unsure||Pervasive AR city vis in workspace; check spatial anchoring
+R2-C10689|exclude|E2|
+R2-C10698|exclude|E1|
+R2-C10699|unsure||Immersive analytics prototypes; no abstract, may be AR
+R2-C10701|exclude|E2|
+R2-C10703|unsure||3D node-link visual styles, likely VR/AR graph vis
+R2-C10704|exclude|E7|
+R2-C10705|exclude|E2|
+R2-C10708|exclude|E4|
+R2-C10714|exclude|E3|
+R2-C10715|exclude|E1|
+R2-C10723|exclude|E2|
+R2-C10730|include|I4|AR situated visualization in spatial context
+R2-C10731|include|I4|AR situated visualization near data referent
+R2-C10732|exclude|E2|
+R2-C10733|unsure||Situated vis design workshops; physical referents, not AR tech
+R2-C10734|unsure||Situated vis sketching, envisions spatial AR
+R2-C10740|exclude|E1|
+R2-C10744|include|I1|Graph explorer for multiple node and edge types
+R2-C10745|exclude|E2|
+R2-C10746|unsure||AR HoloLens software architecture vis; check graph representation
+R2-C10747|exclude|E3|
+R2-C10748|unsure||Tangible sphere aligned with VR vis; tangible input, not AR
+R2-C10749|exclude|E2|
+R2-C10753|exclude|E4|
+R2-C10755|exclude|E1|
+R2-C10759|exclude|E3|
+R2-C10761|exclude|E1|
+R2-C10770|exclude|E3|
+R2-C10771|exclude|E3|
+R2-C10776|unsure||Dynamic connectome vis; possibly immersive/VR, check
+R2-C10777|exclude|E2|
+R2-C10779|include|I2|3D theory graph viewer with HMD/VR support
+R2-C10781|exclude|E2|
+R2-C10788|exclude|E1|
+R2-C10790|exclude|E1|
+R2-C10795|exclude|E1|
+R2-C10797|exclude|E1|
+R2-C10801|exclude|E1|
+R2-C10804|exclude|E2|
+R2-C10810|exclude|E3|
+R2-C10811|exclude|E2|
+R2-C10812|exclude|E2|
+R2-C10814|exclude|E2|
+R2-C10823|exclude|E2|
+R2-C10825|exclude|E2|
+R2-C10830|exclude|E3|
+R2-C10831|exclude|E3|
+R2-C10834|exclude|E1|
+R2-C10836|exclude|E2|
+R2-C10837|background|B|Systematic review of VR/AR for information visualization
+R2-C10838|exclude|E2|
+R2-C10839|exclude|E5|
+R2-C10842|exclude|E2|
+R2-C10845|exclude|E7|
+R2-C10847|exclude|E2|
+R2-C10849|background|B|Position/review on VR for information visualization
+R2-C10850|exclude|E2|
+R2-C10851|exclude|E2|
+R2-C10853|exclude|E2|
+R2-C10856|exclude|E3|
+R2-C10857|exclude|E3|
+R2-C10858|exclude|E3|
+R2-C10862|exclude|E2|
+R2-C10863|exclude|E3|
+R2-C10866|exclude|E4|
+R2-C10868|unsure||Multi-dimensional (multilayer?) network node vis; no abstract
+R2-C10869|exclude|E2|
+R2-C10870|unsure||VR software vis IslandViz; dependency graph in VR?
+R2-C10873|unsure||Temporal network vis chapter; check time-slice layers
+R2-C10876|exclude|E4|
+R2-C10877|exclude|E3|
+R2-C10883|exclude|E2|
+R2-C10885|exclude|E2|
+R2-C10888|unsure||Walkable graph in AR; spatially placed graph?
+R2-C10895|exclude|E3|
+R2-C10898|background|B|Conceptual framework defining mixed reality
+R2-C10900|exclude|E2|
+R2-C10902|exclude|E1|
+R2-C10921|unsure||Multilayer networks framework humanities; may include vis
+R2-C10926|exclude|E1|
+R2-C10930|exclude|E2|
+R2-C10931|exclude|E1|
+R2-C10932|exclude|E1|
+R2-C10934|exclude|E1|
+R2-C10945|exclude|E1|
+R2-C10948|exclude|E2|
+R2-C10952|exclude|E5|
+R2-C10954|exclude|E2|
+R2-C10956|exclude|E3|
+R2-C10958|exclude|E3|
+R2-C10961|include|I4|AR glasses spatially anchored gas distribution vis
+R2-C10964|exclude|E2|
+R2-C10965|exclude|E1|
+R2-C10969|exclude|E2|
+R2-C10974|exclude|E2|
+R2-C10975|exclude|E4|
+R2-C10976|exclude|E2|
+R2-C10978|exclude|E2|
+R2-C10979|exclude|E1|
+R2-C10980|exclude|E4|
+R2-C10982|exclude|E1|
+R2-C10984|unsure||AR visual aids for drones; likely spatially anchored, no abstract
+R2-C10988|unsure||AR math on physical objects, tangible manipulatives
+R2-C10990|exclude|E2|
+R2-C10991|exclude|E2|
+R2-C10992|exclude|E1|
+R2-C10996|exclude|E2|
+R2-C10998|exclude|E5|
+R2-C11000|unsure||VR/AR for security vis; may include network graphs
+R2-C11002|exclude|E2|
+R2-C11003|exclude|E5|
+R2-C11004|include|I4|Mobile AR POI vis with spatial context
+R2-C11005|include|I4|AR situated vis projected atop physical seats
+R2-C11006|include|I4|Augmented situated vis for EMC testing
+R2-C11010|include|I4|X-ray vis of occluded physical objects in OST AR
+R2-C11011|exclude|E2|
+R2-C11013|exclude|E3|
+R2-C11014|exclude|E1|
+R2-C11015|exclude|E3|
+R2-C11018|exclude|E2|
+R2-C11022|exclude|E1|
+R2-C11025|exclude|E2|
+R2-C11030|exclude|E1|
+R2-C11031|background|B|Position on collaborative immersive visualization challenges
+R2-C11034|exclude|E3|
+R2-C11035|exclude|E3|
+R2-C11036|exclude|E2|
+R2-C11037|exclude|E2|
+R2-C11040|exclude|E2|
+R2-C11041|background|B|Survey of collaborative AR work
+R2-C11044|unsure||Network of several relationship kinds among taxpayers
+R2-C11046|exclude|E2|
+R2-C11047|exclude|E2|
+R2-C11053|exclude|E1|
+R2-C11055|exclude|E3|
+R2-C11057|include|I4|Authoring situated AR visualisations via digital twins
+R2-C11058|exclude|E1|
+R2-C11061|exclude|E5|

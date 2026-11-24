@@ -1,0 +1,155 @@
+cid,decision,code,evidence,note
+R2-C13490,needs_fulltext,,,likely include I4 (OST AR vis interpretation vs real environment background = spatial context)
+R2-C13506,needs_fulltext,,,likely include I4 (AR info vis anchored to physical public map); check it is not mere navigation guidance (E2)
+R2-C13552,needs_fulltext,,,undecidable
+R2-C13610,needs_fulltext,,,undecidable
+R2-C13655,exclude,E2,"render patient-specific 3D brain models, reconstructed from MRI data, in a spatially registered way to the surgical field",medical guidance overlay of physical/anatomical data (A1)
+R2-C13701,exclude,E2,"a novel streamline seeding method, which is tailored for visualizing unsteady flow in augmented reality (AR)",flow field = physical/scientific field data (A1 clarification)
+R2-C13711,needs_fulltext,,,likely include I4 (AR vis of tabular data anchored around physical mobile device)
+R2-C13724,exclude,E4,Each subsequence is represented by a horizontal axis placed between two vertical axes. The horizontal axis depicts the order within the subsequence,"time drawn along a timeline axis, not as distinct layers (A1)"
+R2-C13734,exclude,E2,Augmented Reality Enabled X-Ray Vision in Immersive Environments,title; x-ray vision = AR rendering of physical scene (A1)
+R2-C13753,needs_fulltext,,,"undecidable; PolyCube links graph views with time-based encodings, possibly time slices as layers (I1)"
+R2-C13775,exclude,E2,Augmented Reality (AR) applications have been increasingly used to present geodata visualizations in their innate three-dimensional format,geospatial ocean-system science data = physical/field data (A1 clarification); collaboration study
+R2-C13847,exclude,E2,immersive 3D visualization can be placed in the robot's intrinsic coordinate system to support robot programming,"robot programming interface; AR of physical robot space, not abstract data vis (A1)"
+R2-C13869,exclude,E2,A user study on air conditioner,title; airflow field on real object (A1 clarification)
+R2-C13891,needs_fulltext,,,likely include I4 (situated AR/MR immersive-analytics interface design method)
+R2-C13900,needs_fulltext,,,likely include I4 (design space for immersive visualization transitions; VR experiment)
+R2-C13914,needs_fulltext,,,undecidable; contour/wave signal fields suggest E2 (A1 clarification) but stacked-bar charts at routers may be I4
+R2-C13930,background,B,This chapter looks at how augmented reality is changing the way we visualize and understand data.,overview book chapter on AR data visualization; low relevance
+R2-C13932,exclude,E2,visualize and sonify financial transactions—trades and order-book fluctuations. These compositions fuse charts and abstract graphics,"XR art installations via stereoscopic projection; no network, no AR-specific value"
+R2-C13992,needs_fulltext,,,likely include I1 (graph-based multi-domain urban data); no abstract
+R2-C14002,needs_fulltext,,,"undecidable; location-based/situated dashboards, AR use unclear (possibly I4)"
+R2-C14029,needs_fulltext,,,undecidable; possibly I2 if digital-thread graph shown in VR; no abstract
+R2-C14049,needs_fulltext,,,"undecidable; VR experience of box-and-arrow models, unclear if graph is visualized (I2?)"
+R2-C14085,needs_fulltext,,,likely include I4 (MR history vis integrated with physical screen space)
+R2-C14095,needs_fulltext,,,"undecidable; sensor data situated in full-scale turbine model, likely VR not AR"
+R2-C14131,needs_fulltext,,,undecidable; OST AR display-limit study in immersive analytics
+R2-C14165,exclude,E2,Interactive Holographic Medical Volume Visualization,title; medical volume data (A1 clarification)
+R2-C14186,needs_fulltext,,,"undecidable; hybrid layout (RadTrix) for unbalanced bipartite network, possibly I1/I5"
+R2-C14340,needs_fulltext,,,"undecidable; AR 3D astronomy figures, likely spatial scientific data (E2?)"
+R2-C14367,needs_fulltext,,,likely include I2 (VR visualization of ANN structure as network)
+R2-C14431,needs_fulltext,,,likely include I4 (AR immersive analytics prototype; no abstract)
+R2-C14433,needs_fulltext,,,likely include I4 (augmented tangible/spatial interaction with hybrid physical-digital info; no abstract)
+R2-C14615,needs_fulltext,,,"undecidable; artist-exhibition networks with radial layout + coordinated views, likely desktop single-layer (E3?)"
+R2-C14661,needs_fulltext,,,"undecidable; multi-level brain networks (bundles/regions/network), unclear if layers"
+R2-C14696,needs_fulltext,,,"undecidable; AR co-located software city/flame graph/activity map, AR value unclear"
+R2-C14724,needs_fulltext,,,"undecidable; AR target-selection technique in 3D data vis, possibly I4"
+R2-C14748,needs_fulltext,,,likely include I4 (colour-coded vis over physical surfaces in OST AR = spatial context)
+R2-C14805,needs_fulltext,,,likely include I2 (XR spatial graph of linked data)
+R2b-C02687,needs_fulltext,,,undecidable
+R2b-C02695,needs_fulltext,,,undecidable
+R2b-C02712,exclude,E2,Effects of X-Ray Vision Metaphors on Depth Perception in Optical-See-Through Augmented Reality,title; x-ray vision (A1)
+R2b-C02830,needs_fulltext,,,undecidable; possibly B (situated vis position paper) or I4
+R2b-C02991,needs_fulltext,,,undecidable; geological structures likely physical data (E2?)
+R2b-C03112,needs_fulltext,,,undecidable; title garbled with BDVA 2015 proceedings info
+R2b-C03235,needs_fulltext,,,undecidable; possibly I2 if knowledge graph shown in VR
+R2b-C05849,needs_fulltext,,,undecidable; possibly I2/I4 if sensor-network topology shown in AR
+R2b-C06065,needs_fulltext,,,undecidable
+R2b-C09073,exclude,E2,Depth perception is a major issue in augmented reality (AR)-based surgical navigation.,surgical navigation (A1)
+R2b-C09091,exclude,E2,Image-guided medical interventions more frequently rely on Augmented Reality (AR) visualization to enable surgical navigation.,medical navigation/occluded structure perception (A1)
+R2b-C09397,needs_fulltext,,,"undecidable; adjacency matrix of diverse protein relation types, check if relation types are distinct layers (I1) or one single-layer matrix (E3)"
+R2b-C09788,needs_fulltext,,,"undecidable; see-through HMD + tiled display for scientific simulation data (likely field data, E2?)"
+R2b-C09824,exclude,E2,We present a gaze-directed visualization approach to study ensembles of 2D oil spill simulations in mixed reality.,spatial simulation field data (A1 clarification)
+R2b-C10319,needs_fulltext,,,undecidable
+R2b-C10320,needs_fulltext,,,"undecidable; bee drift data on 3D terrain in HoloLens, AR-specific value unclear"
+R2b-C10744,needs_fulltext,,,undecidable
+R2b-C10903,needs_fulltext,,,undecidable
+R2b-C11291,needs_fulltext,,,likely include I2 (VR modules + dependencies between them)
+R2b-C11539,exclude,E5,This article contains three basic protocols covering the key features of OmicsNet,tutorial/protocol article
+R2b-C11740,needs_fulltext,,,undecidable
+R2b-C12054,needs_fulltext,,,undecidable
+R2b-C12140,needs_fulltext,,,likely include I4 (MR visual programming/sensor data anchored to IoT devices)
+R2b-C12486,exclude,E2,Diffusion tensor imaging fiber tracking (DTI FT) was performed and the language-related networks were visualized separated in different tracts by color.,anatomical fiber tracts = physical data (A1)
+R2b-C12628,needs_fulltext,,,undecidable; displays anchored to rods (I4 if charts) vs thermal field (E2)
+R2b-C12811,needs_fulltext,,,undecidable; evaluation metrics for VR cyber-security vis
+R2b-C13019,needs_fulltext,,,likely include I2 (theory graphs in 3D/VR)
+R2b-C13057,needs_fulltext,,,"undecidable; VR software city with call traces, possibly I2"
+R2b-C13066,needs_fulltext,,,undecidable; VR island layout evolution
+R2b-C13930,exclude,E2,This paper presents an Augmented Reality in-field observation tool to navigate agronomists to annotate the observed issues,navigation/annotation tool (A1)
+R2b-C14098,exclude,E2,presented through unconventional media formats such as physical marks,"situated physical marks, no network, no AR"
+R2b-C14624,needs_fulltext,,,undecidable; mostly guidance (E2) but situated performance metrics over time may be I4
+R2b-C14914,needs_fulltext,,,undecidable
+R2b-C14975,needs_fulltext,,,"undecidable; free-hand AR vis creation, possibly I4"
+R2b-C15295,exclude,E2,This technique automatically recolors virtual components based on their physical counterparts,AR rendering for assembly inspection (A1)
+R2b-C15451,exclude,E2,Context-Aware Recoloring Approach for AR-Assisted Maintenance Applications,title; maintenance guidance overlay (A1)
+R2b-C15478,needs_fulltext,,,"undecidable; service dependency graph 2D vs 3D, immersion unclear (I2?)"
+R2b-C15534,needs_fulltext,,,undecidable
+R2b-C15605,needs_fulltext,,,"undecidable; mobile AR health visualizations, AR-specific value unclear (I4?)"
+R2b-C15650,needs_fulltext,,,likely include I2 (microservice dependency model in VR/AR)
+R2b-C15675,needs_fulltext,,,undecidable
+R2b-C15746,needs_fulltext,,,"undecidable; 2D/3D web network vis, check for VR export (I2) else E3"
+R2b-C15808,exclude,E2,"we propose to use a combination of video analysis, AR, and activity recognition for remote sports training",sports guidance (A1); also a thesis
+R2b-C15887,exclude,E2,we visualize sports training instructions in an immersive 3D environment on an AR heads,instructional guidance (A1)
+R2b-C15951,exclude,E2,Two VR studies,"trajectory predictions in VR; no network, not AR"
+R2b-C16023,exclude,E2,Direct volume rendering (DVR) enables the visual exploration of regions of interest (ROI) in a volume,volume data (A1 clarification)
+R2b-C16324,needs_fulltext,,,"undecidable; AR concrete vs desktop charts, situatedness unclear (I4?)"
+R2b-C16464,needs_fulltext,,,undecidable
+R2b-C16608,needs_fulltext,,,"undecidable; dynamic multivariate network communities, check whether time slices drawn as layers (I1) or not (E4)"
+R2b-C16623,needs_fulltext,,,likely include I4 (room-scale AR timeline using spatial context)
+R2b-C16693,needs_fulltext,,,"likely include I4 (AR bar chart unrolled into surrounding space); demo paper, check length (E5?)"
+R2b-C16766,needs_fulltext,,,"likely include I2 (dependency graphs visualized in XR authoring); MIT thesis, check E5"
+R3-C02739,needs_fulltext,,,undecidable
+R3-C02755,needs_fulltext,,,likely include I2 (knowledge graphs in MR; no abstract)
+R3-C02765,needs_fulltext,,,likely include I2 (historical interrelations in immersive VR; no abstract)
+R3-C02809,needs_fulltext,,,undecidable
+R3-C02818,needs_fulltext,,,undecidable; garbled fragment
+R3-C03004,needs_fulltext,,,undecidable; possibly I2 (web structure in 3D CVE)
+R3-C03190,needs_fulltext,,,likely include I2 (immersive network monitoring; no abstract)
+R3-C03215,needs_fulltext,,,"likely include I1 (V-NeuroStack: time-stacked brain networks, VR => also I2); garbled fragment"
+R3-C03252,needs_fulltext,,,"undecidable; simultaneous planarity theory (multiplex drawing), check for visualization content"
+R3-C03635,exclude,E5,"Situated visualization in augmented reality (Doctoral dissertation, PhD thesis Graz University of Technology)",PhD thesis; content published in Tatzgern et al. papers; duplicate of R3-C11627
+R3-C03640,needs_fulltext,,,undecidable
+R3-C03729,needs_fulltext,,,"undecidable; generative AR sensor data, fields (E2) or charts (I4)"
+R3-C03917,needs_fulltext,,,undecidable; table-based bipartite network vis (two-mode; MLN relevance policy) else E3
+R3-C05746,needs_fulltext,,,undecidable; simultaneous embedding theory
+R3-C05964,needs_fulltext,,,undecidable; simultaneous embedding theory
+R3-C06294,needs_fulltext,,,"likely include I1 (2.5D layered relational networks); thesis, check E5"
+R3-C06738,needs_fulltext,,,"undecidable; AR of robot world view, likely physical sensor data (E2?)"
+R3-C07057,needs_fulltext,,,"undecidable; anchored maps for bipartite graphs, possibly I5"
+R3-C07280,needs_fulltext,,,undecidable; simultaneous embedding theory
+R3-C07351,needs_fulltext,,,"undecidable; temporal two-mode networks, time representation unclear"
+R3-C07396,needs_fulltext,,,"undecidable; compound graph layout, possibly I5"
+R3-C07462,needs_fulltext,,,undecidable; simultaneous embedding theory
+R3-C07644,needs_fulltext,,,"undecidable; situated AR site-visit vis (possibly I4); workshop paper, check E5/E6"
+R3-C07651,needs_fulltext,,,undecidable; bipartite graph representations (two-mode)
+R3-C07738,needs_fulltext,,,"likely include I4 (AR situated sensor data); Japanese tech report, check E7"
+R3-C08097,needs_fulltext,,,"undecidable; 3D bipartite anchored map, possibly I5"
+R3-C08181,needs_fulltext,,,likely include I1 (regulatory and metabolic networks visualized together)
+R3-C08320,needs_fulltext,,,undecidable; clustered bipartite drawing (two-mode)
+R3-C08372,needs_fulltext,,,"undecidable; on-site MR environmental data, sensor charts (I4) or fields (E2)"
+R3-C08441,needs_fulltext,,,"undecidable; heterogeneous graph embedding, possibly I1"
+R3-C08582,needs_fulltext,,,likely include I1 (multi-database entity-relation graph with intra- and inter-database links)
+R3-C08753,needs_fulltext,,,likely include I2 (sensor network link status/traffic shown in AR anchored to nodes)
+R3-C09306,needs_fulltext,,,undecidable; tabletop AR of engineering processes
+R3-C09341,needs_fulltext,,,"undecidable; embossed graphs, charts vs node-link (I3?)"
+R3-C10216,background,B,Survey on time-varying network visualization,"title; dynamic network vis survey; check language (likely Chinese, E7)"
+R3-C10415,needs_fulltext,,,"undecidable; multilayer radial drawing, layers = fraud patterns, check if network (I1?)"
+R3-C10529,needs_fulltext,,,likely include I1 (Matrix Cubes); if Bach PhD thesis then E5 (published as Matrix Cubes CHI 2014)
+R3-C11627,exclude,E5,Situated visualization in augmented reality | PhD diss Ph D thesis,PhD thesis (Tatzgern 2015); content published elsewhere; duplicate of R3-C03635
+R3-C12653,needs_fulltext,,,undecidable
+R3-C13115,needs_fulltext,,,undecidable; heart rate anchored to person (I4) vs blood-flow field (E2)
+R3-C13312,needs_fulltext,,,undecidable
+R3-C13862,needs_fulltext,,,undecidable
+R3-C14010,exclude,E5,Posters of IEEE VIS,poster
+R3-C14483,needs_fulltext,,,undecidable; possibly in-situ dam sensor data (I4)
+R3-C14680,needs_fulltext,,,undecidable
+R3-C15049,needs_fulltext,,,"undecidable; VR vis of CNN, check if network structure shown (I2)"
+R3-C15068,needs_fulltext,,,"undecidable; VR TCA cycle model, possibly immersive pathway network (I2)"
+R3-C15499,needs_fulltext,,,likely include I4 (situated AR video analytics using environmental cues)
+R3-C15665,needs_fulltext,,,undecidable; AR information design
+R3-C16191,needs_fulltext,,,undecidable
+R3-C16478,needs_fulltext,,,"undecidable; 3D force-directed graph, check immersion (I2) else E3"
+R3-C16485,needs_fulltext,,,undecidable
+R3-C16658,needs_fulltext,,,likely include I4 (situated visualization of privacy-invasive devices in vicinity)
+R3-C17047,needs_fulltext,,,likely include I2 (AR algorithm animation instantiated for Dijkstra = graph in AR)
+R3-C17226,needs_fulltext,,,undecidable
+R3-C17546,needs_fulltext,,,undecidable; AR sensor range visualization (E2?) plus live sensor data charts (I4?)
+R3-C17936,needs_fulltext,,,"undecidable; AR visualisation of CO2 impact, AR value unclear"
+R3-C18401,needs_fulltext,,,"undecidable; situated AR air quality, field (E2) vs glyphs (I4)"
+R3-C18567,needs_fulltext,,,"undecidable; VR cyber situational awareness, possibly network views (I2)"
+R3-C18727,needs_fulltext,,,undecidable; AR energy-consumption data vis
+R3-C19087,needs_fulltext,,,likely include I4 (MR visualizations placed in physical rooms; spatial-location recall)
+R4-C03658,needs_fulltext,,,likely include I2 (AR visualization of wireless networks); workshop paper
+R4-C10667,needs_fulltext,,,likely include I4 (VLAN configuration superimposed on physical switch; I2 if topology shown); check E6 vs R4-C10700
+R4-C10700,needs_fulltext,,,likely include I4 (VLAN configuration superimposed near real switch); check E6 vs R4-C10667
+R4-C15455,needs_fulltext,,,undecidable; AR/VR energy feedback position/review paper

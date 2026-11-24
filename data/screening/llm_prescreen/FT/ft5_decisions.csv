@@ -1,0 +1,9 @@
+cid,decision,code,evidence,note
+C00577,exclude,E1,In this paper we review a method to perform community detection of multi-layer networks,"community-detection algorithm; visual output is geographic density plots, not an MLN visualization"
+C02116,exclude,E1,"The Coherent Multiplex is formalized and validated as a scalable, real-time system for identifying, analyzing, and visualizing coherence among multiple time series.",signal-processing architecture; the multilayer graph figure is illustrative
+C02177,needs_fulltext,,,downloaded file is an access-denied page (repository withholds the document)
+R2-C06506,exclude,E2,This leads to the introduction of a novel concept for immersive visualization based on the involvement of the viewers into the data display.,"immersive scatter plots and parallel coordinates; no network data, not AR"
+R2-C06678,exclude,E4,Four observations of an acquaintanceship network laid out using stress minimization.,dynamic network as juxtaposed snapshots (A1)
+R2-C10873,exclude,E4,visualisation methods of temporal networks based on 2D layouts where nodes correspond to horizontal lines,"decided on the abstract from the publisher landing page; timeline layouts, time slices not drawn as layers"
+R2-C11406,exclude,E5,This poster was presented at the IEEE VIS 2020 poster session.,poster
+R2b-C05849,include,I4,"an augmented reality visual interface based on artificial markers intended to be used by medical staff, to monitor real time information from different kind of sensors",in-situ sensor values shown on markers associated with each sensor (A1 clarification: in-situ sensor values remain I4)

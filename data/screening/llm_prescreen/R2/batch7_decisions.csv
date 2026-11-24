@@ -1,0 +1,546 @@
+cid,decision,code,note
+R2-C12086,exclude,E2,
+R2-C12087,exclude,E2,
+R2-C12092,exclude,E2,
+R2-C12094,exclude,E6,conference version of 12339 (J. Visualization)
+R2-C12096,exclude,E5,
+R2-C12098,exclude,E2,
+R2-C12104,unsure,,dynamic brain network transitions; no abstract; check for slice layers
+R2-C12106,unsure,,thesis: long dynamic networks on touch displays; check time-slice layers
+R2-C12109,exclude,E2,
+R2-C12111,exclude,E4,
+R2-C12114,exclude,E3,
+R2-C12115,exclude,E2,
+R2-C12117,unsure,,UML diagrams (graphs) in VR; no abstract
+R2-C12120,unsure,,AR data vis in presentations; check AR-specific spatial anchoring
+R2-C12123,unsure,,"mixed reality in wet lab, situated data?; no abstract"
+R2-C12124,exclude,E1,
+R2-C12129,exclude,E3,
+R2-C12131,include,I2,mixed reality visualization of network topology graph
+R2-C12133,background,B,review of VR/AR in systems biology incl. networks
+R2-C12136,exclude,E2,
+R2-C12140,include,I4,design framework for embedded vis in spatial AR
+R2-C12143,exclude,E2,
+R2-C12146,exclude,E2,
+R2-C12149,exclude,E2,
+R2-C12150,exclude,E2,
+R2-C12152,exclude,E1,
+R2-C12153,exclude,E1,
+R2-C12155,exclude,E3,
+R2-C12156,exclude,E2,
+R2-C12157,exclude,E1,
+R2-C12159,exclude,E1,
+R2-C12165,exclude,E2,
+R2-C12173,exclude,E2,
+R2-C12180,exclude,E2,
+R2-C12182,exclude,E7,
+R2-C12188,background,B,overview/typology of immersive data vis applications
+R2-C12191,include,I4,AR data vis overlaid on maritime environment
+R2-C12194,include,I2,XR tool incl. character network in VR and AR
+R2-C12198,exclude,E2,
+R2-C12200,unsure,,AR wind data in city planning; check situated anchoring
+R2-C12202,include,I4,AR data around physical scale models
+R2-C12205,exclude,E2,
+R2-C12211,include,I4,in-situ AR motion data visualization
+R2-C12213,exclude,E2,
+R2-C12217,exclude,E2,
+R2-C12219,exclude,E2,
+R2-C12221,exclude,E2,
+R2-C12223,unsure,,prosopographic network representation/vis; no abstract
+R2-C12224,exclude,E2,
+R2-C12225,exclude,E3,
+R2-C12229,unsure,,compound graphs; check whether multilevel counts as multilayer
+R2-C12230,exclude,E5,
+R2-C12231,exclude,E2,
+R2-C12232,exclude,E1,
+R2-C12233,exclude,E1,
+R2-C12235,exclude,E2,
+R2-C12238,background,B,review of augmented map research (AR cartography)
+R2-C12241,exclude,E3,
+R2-C12242,exclude,E2,
+R2-C12244,unsure,,collab software vis in VR/mobile AR; graph-based?
+R2-C12246,unsure,,"collab software vis (likely ExplorViz, XR); graph-based?"
+R2-C12248,exclude,E3,
+R2-C12249,exclude,E1,
+R2-C12250,exclude,E1,
+R2-C12251,exclude,E3,
+R2-C12256,include,I4,tangible AR interface constructing visualizations on surfaces
+R2-C12259,exclude,E1,
+R2-C12262,exclude,E2,
+R2-C12265,exclude,E3,
+R2-C12271,exclude,E2,
+R2-C12273,exclude,E6,
+R2-C12274,unsure,,heterogeneous (multi-type) biological networks in Cytoscape
+R2-C12278,exclude,E2,
+R2-C12279,exclude,E2,
+R2-C12282,unsure,,multilayer network modelling of medieval relations; vis unclear
+R2-C12289,exclude,E3,
+R2-C12292,exclude,E1,
+R2-C12294,exclude,E3,
+R2-C12297,unsure,,dynamic graph snapshots; check juxtaposed slices
+R2-C12299,exclude,E1,
+R2-C12308,exclude,E2,
+R2-C12311,exclude,E2,
+R2-C12315,exclude,E4,
+R2-C12316,exclude,E3,
+R2-C12317,exclude,E2,
+R2-C12318,exclude,E1,
+R2-C12320,exclude,E2,
+R2-C12323,exclude,E2,
+R2-C12327,include,I4,situated AR visualization evaluation
+R2-C12329,exclude,E3,
+R2-C12334,exclude,E2,
+R2-C12337,exclude,E2,
+R2-C12338,exclude,E2,
+R2-C12339,unsure,,time-to-space mapping of dynamic graphs; juxtaposed slices?
+R2-C12343,exclude,E1,
+R2-C12345,exclude,E1,
+R2-C12346,exclude,E1,
+R2-C12351,unsure,,historical SNA modelling (bipartite/multilayer?) position paper
+R2-C12354,exclude,E3,
+R2-C12361,exclude,E3,
+R2-C12362,exclude,E3,
+R2-C12363,exclude,E3,
+R2-C12365,exclude,E3,
+R2-C12366,exclude,E3,
+R2-C12367,exclude,E3,
+R2-C12372,exclude,E2,
+R2-C12374,exclude,E3,
+R2-C12380,include,I1,visual exploration of multilayer transportation networks
+R2-C12381,exclude,E2,
+R2-C12386,exclude,E1,
+R2-C12390,unsure,,interactive clustering across multiple graphs; vis unclear
+R2-C12391,exclude,E2,
+R2-C12392,exclude,E5,
+R2-C12394,exclude,E2,
+R2-C12395,exclude,E2,
+R2-C12396,unsure,,"VR cell localization + bioinformatics, maybe networks; no abstract"
+R2-C12398,exclude,E2,
+R2-C12401,exclude,E2,
+R2-C12405,exclude,E3,
+R2-C12406,exclude,E1,
+R2-C12408,exclude,E2,
+R2-C12411,exclude,E2,
+R2-C12412,exclude,E1,
+R2-C12413,exclude,E3,
+R2-C12416,exclude,E2,
+R2-C12420,exclude,E2,
+R2-C12423,exclude,E1,
+R2-C12424,exclude,E2,
+R2-C12430,exclude,E2,
+R2-C12436,exclude,E1,
+R2-C12444,exclude,E2,
+R2-C12453,include,I4,tangible hand-held slicer for MR volume visualization
+R2-C12454,unsure,,multi-omics subgraph brushing; possibly multilayer; no abstract
+R2-C12458,exclude,E4,
+R2-C12465,exclude,E3,
+R2-C12468,exclude,E1,
+R2-C12469,exclude,E1,
+R2-C12470,exclude,E1,
+R2-C12471,exclude,E1,
+R2-C12472,exclude,E1,
+R2-C12473,exclude,E1,
+R2-C12477,exclude,E1,
+R2-C12478,exclude,E1,
+R2-C12479,exclude,E1,
+R2-C12481,exclude,E2,
+R2-C12482,exclude,E3,
+R2-C12484,exclude,E2,
+R2-C12487,exclude,E1,
+R2-C12488,exclude,E1,
+R2-C12489,exclude,E3,
+R2-C12492,exclude,E7,
+R2-C12493,unsure,,"multi-omics (multilayer) network vis, 3D; check"
+R2-C12494,exclude,E4,
+R2-C12495,include,I2,VR visualization of network models
+R2-C12496,background,B,review of multiple representations in immersive vis
+R2-C12501,exclude,E3,
+R2-C12504,exclude,E1,
+R2-C12508,exclude,E2,
+R2-C12515,exclude,E2,
+R2-C12525,exclude,E2,
+R2-C12527,exclude,E1,
+R2-C12528,exclude,E2,
+R2-C12532,exclude,E1,
+R2-C12533,exclude,E3,
+R2-C12538,unsure,,in-situ immersive replay of MR study data; AR-specific?
+R2-C12543,exclude,E2,
+R2-C12546,unsure,,robotic haptic tangible proxy for immersive analytics
+R2-C12550,exclude,E2,
+R2-C12551,exclude,E1,
+R2-C12558,exclude,E1,
+R2-C12560,exclude,E2,
+R2-C12564,exclude,E3,
+R2-C12567,exclude,E3,
+R2-C12568,exclude,E1,
+R2-C12569,include,I4,AR IoT data bound to physical objects
+R2-C12570,unsure,,"3D software city, static+dynamic dependency edge types"
+R2-C12573,exclude,E1,
+R2-C12577,exclude,E2,
+R2-C12579,exclude,E3,
+R2-C12584,exclude,E2,
+R2-C12587,exclude,E2,
+R2-C12592,background,B,"review of in-situ digital twin access (AR, smart cities)"
+R2-C12596,exclude,E2,
+R2-C12598,exclude,E3,
+R2-C12599,exclude,E3,
+R2-C12602,exclude,E3,
+R2-C12609,exclude,E1,
+R2-C12614,exclude,E2,
+R2-C12616,exclude,E5,
+R2-C12617,exclude,E2,
+R2-C12620,include,I2,VR interface for biomolecular networks
+R2-C12621,exclude,E2,
+R2-C12624,exclude,E3,
+R2-C12627,exclude,E1,
+R2-C12628,unsure,,UML diagrams (graphs) in VR
+R2-C12629,exclude,E7,
+R2-C12631,exclude,E3,
+R2-C12634,exclude,E1,
+R2-C12641,exclude,E2,
+R2-C12642,include,I1,3D time-stack network vis of neuronal data
+R2-C12644,include,I4,AR in-situ airflow simulation in real room
+R2-C12646,exclude,E2,
+R2-C12647,exclude,E2,
+R2-C12648,exclude,E2,
+R2-C12649,exclude,E2,
+R2-C12652,exclude,E2,
+R2-C12655,exclude,E4,
+R2-C12656,exclude,E3,
+R2-C12658,exclude,E5,
+R2-C12660,exclude,E2,
+R2-C12661,exclude,E3,
+R2-C12662,unsure,,bipartite multivariate dynamic networks; no abstract
+R2-C12668,exclude,E7,
+R2-C12669,exclude,E2,
+R2-C12670,background,B,systematic review of visualization in VR
+R2-C12674,exclude,E2,
+R2-C12675,exclude,E3,
+R2-C12679,exclude,E2,
+R2-C12687,exclude,E2,
+R2-C12693,exclude,E5,
+R2-C12697,exclude,E1,
+R2-C12700,unsure,,comparison of multilayer network software (vis?); no abstract
+R2-C12702,unsure,,AR safety zones anchored to robot arm; data vis?
+R2-C12703,background,B,survey of AR local collaboration
+R2-C12709,exclude,E1,
+R2-C12711,exclude,E1,
+R2-C12714,exclude,E3,
+R2-C12715,background,B,survey of immersive visualization
+R2-C12717,background,B,survey of knowledge graph (multi-relational) visual analytics
+R2-C12723,exclude,E1,
+R2-C12724,exclude,E2,
+R2-C12729,include,I4,"tangible proxies bound to physical referents, situated vis"
+R2-C12736,exclude,E6,
+R2-C12737,exclude,E1,
+R2-C12740,exclude,E2,
+R2-C12742,exclude,E1,
+R2-C12743,exclude,E1,
+R2-C12745,exclude,E2,
+R2-C12746,exclude,E3,
+R2-C12753,background,B,SLR of immersive analytics applications
+R2-C12754,exclude,E6,
+R2-C12757,exclude,E2,
+R2-C12762,include,I4,off-screen POI visualization in mobile AR
+R2-C12763,exclude,E2,
+R2-C12766,include,I4,AR 3D arrows for off-screen POIs
+R2-C12767,unsure,,thesis AR+physical collab analysis; French? check language
+R2-C12769,unsure,,AR for astronomy publications; possibly paper-anchored
+R2-C12770,exclude,E2,
+R2-C12771,exclude,E2,
+R2-C12772,unsure,,AR safety zones around real robot; data vis?
+R2-C12775,exclude,E2,
+R2-C12779,background,B,"overview of network vis beyond node-link (time, geo)"
+R2-C12780,exclude,E2,
+R2-C12785,exclude,E2,
+R2-C12787,exclude,E1,
+R2-C12788,exclude,E3,
+R2-C12790,background,B,review of levels of detail in AR cartography
+R2-C12791,exclude,E2,
+R2-C12792,include,I4,combining physicalization with AR
+R2-C12793,exclude,E3,
+R2-C12796,exclude,E1,
+R2-C12797,unsure,,device-based interaction in medical spatial AR
+R2-C12798,exclude,E1,
+R2-C12800,exclude,E2,
+R2-C12806,exclude,E1,
+R2-C12807,exclude,E2,
+R2-C12808,exclude,E1,
+R2-C12809,unsure,,AR+tablet hybrid geospatial trajectories; no abstract
+R2-C12810,include,I5,evaluation of hybrid graph visualizations
+R2-C12813,exclude,E2,
+R2-C12814,exclude,E2,
+R2-C12817,exclude,E2,
+R2-C12818,exclude,E1,
+R2-C12820,exclude,E3,
+R2-C12824,exclude,E3,
+R2-C12826,exclude,E2,
+R2-C12827,exclude,E2,
+R2-C12828,exclude,E7,
+R2-C12830,background,B,position on anywhere/everywhere (ubiquitous) analytics
+R2-C12831,exclude,E2,
+R2-C12832,exclude,E2,
+R2-C12838,exclude,E2,
+R2-C12839,exclude,E2,
+R2-C12840,exclude,E1,
+R2-C12842,exclude,E1,
+R2-C12843,exclude,E2,
+R2-C12845,exclude,E2,
+R2-C12848,include,I4,design patterns for situated AR visualization
+R2-C12850,exclude,E2,
+R2-C12853,exclude,E2,
+R2-C12854,background,B,position on situated dashboards challenges
+R2-C12856,exclude,E1,
+R2-C12860,exclude,E4,
+R2-C12863,exclude,E1,
+R2-C12864,exclude,E3,
+R2-C12865,exclude,E2,
+R2-C12867,exclude,E2,
+R2-C12871,include,I4,situated links in outdoor AR to real buildings
+R2-C12874,exclude,E3,
+R2-C12881,exclude,E1,
+R2-C12884,exclude,E2,
+R2-C12886,exclude,E3,
+R2-C12887,exclude,E2,
+R2-C12888,background,B,review of data physicalization encoding/evaluation
+R2-C12889,exclude,E1,
+R2-C12890,exclude,E1,
+R2-C12891,exclude,E2,
+R2-C12892,unsure,,AR visualization system; AR-specific values unclear
+R2-C12895,exclude,E2,
+R2-C12896,exclude,E3,
+R2-C12900,exclude,E2,
+R2-C12901,include,I2,VR interaction techniques for 3D graphs
+R2-C12906,exclude,E1,
+R2-C12907,include,I4,extended situated visualization model for AR/MR
+R2-C12910,exclude,E3,
+R2-C12914,include,I4,in-situ immersive visualization of WiFi signals
+R2-C12915,exclude,E2,
+R2-C12918,exclude,E2,
+R2-C12920,exclude,E1,
+R2-C12922,exclude,E1,
+R2-C12926,exclude,E3,
+R2-C12929,include,I4,AR in-situ radio signal visualization
+R2-C12930,exclude,E3,
+R2-C12931,unsure,,AR visualization of control-flow diagrams (graphs)
+R2-C12936,exclude,E2,
+R2-C12939,exclude,E1,
+R2-C12940,exclude,E2,
+R2-C12941,exclude,E2,
+R2-C12945,exclude,E5,
+R2-C12947,exclude,E3,
+R2-C12951,exclude,E3,
+R2-C12952,exclude,E3,
+R2-C12954,include,I4,smartphone touch proxies for MR visualizations
+R2-C12956,exclude,E2,
+R2-C12957,exclude,E1,
+R2-C12958,exclude,E3,
+R2-C12959,unsure,,mobile AR infovis toolkit; spatial anchoring?
+R2-C12960,exclude,E1,
+R2-C12962,exclude,E1,
+R2-C12965,exclude,E2,
+R2-C12966,exclude,E2,
+R2-C12967,exclude,E2,
+R2-C12968,unsure,,thesis on situated AR data representations; language check
+R2-C12969,unsure,,AR unit visualization; AR-specific anchoring?
+R2-C12970,exclude,E2,
+R2-C12971,exclude,E3,
+R2-C12972,exclude,E2,
+R2-C12973,exclude,E3,
+R2-C12977,exclude,E1,
+R2-C12978,exclude,E2,
+R2-C12980,exclude,E3,
+R2-C12983,exclude,E1,
+R2-C12987,exclude,E4,
+R2-C12990,exclude,E1,
+R2-C12991,exclude,E1,
+R2-C12993,exclude,E1,
+R2-C12994,exclude,E1,
+R2-C12996,exclude,E4,
+R2-C12997,unsure,,trans-omics multi-type network visualization; layered?
+R2-C12998,exclude,E2,
+R2-C13001,exclude,E2,
+R2-C13002,exclude,E3,
+R2-C13003,exclude,E3,
+R2-C13004,exclude,E1,
+R2-C13009,exclude,E1,
+R2-C13010,exclude,E3,
+R2-C13011,exclude,E3,
+R2-C13012,include,I4,situated vis blended with physical environment
+R2-C13013,exclude,E2,
+R2-C13019,unsure,,co-located AR collaborative vis; AR-specific?
+R2-C13020,exclude,E2,
+R2-C13022,exclude,E2,
+R2-C13027,exclude,E3,
+R2-C13029,include,I4,mobile AR in-situ solar data on facades
+R2-C13032,exclude,E1,
+R2-C13035,exclude,E3,
+R2-C13036,exclude,E2,
+R2-C13037,exclude,E2,
+R2-C13038,exclude,E3,
+R2-C13039,exclude,E1,
+R2-C13040,exclude,E1,
+R2-C13042,exclude,E1,
+R2-C13048,exclude,E1,
+R2-C13050,exclude,E1,
+R2-C13051,exclude,E1,
+R2-C13052,exclude,E3,
+R2-C13056,exclude,E1,
+R2-C13058,exclude,E1,
+R2-C13062,unsure,,"neuroinformatics platform, brain networks, possibly immersive"
+R2-C13063,exclude,E1,
+R2-C13064,include,I4,AR lenses for in-situ movement analysis
+R2-C13065,exclude,E1,
+R2-C13066,exclude,E2,
+R2-C13067,exclude,E2,
+R2-C13068,exclude,E2,
+R2-C13070,exclude,E1,
+R2-C13082,exclude,E1,
+R2-C13083,exclude,E2,
+R2-C13085,exclude,E1,
+R2-C13090,include,I4,situated vis model with proxies for physical referents
+R2-C13091,include,I4,cross-platform situated analytics framework MR/VR
+R2-C13092,exclude,E2,
+R2-C13094,exclude,E1,
+R2-C13099,exclude,E3,
+R2-C13103,exclude,E2,
+R2-C13105,exclude,E1,
+R2-C13107,exclude,E1,
+R2-C13111,exclude,E5,
+R2-C13112,include,I2,VRnetzer VR platform for combat network analysis
+R2-C13113,unsure,,AR interactive data vis framework; details unclear
+R2-C13116,exclude,E1,
+R2-C13120,exclude,E2,
+R2-C13124,exclude,E2,
+R2-C13125,exclude,E3,
+R2-C13126,exclude,E2,
+R2-C13127,include,I4,situated AR trajectory visualization of pose error
+R2-C13139,exclude,E1,
+R2-C13141,exclude,E2,
+R2-C13142,include,I4,on-site AR sports visualization
+R2-C13144,exclude,E2,
+R2-C13148,exclude,E3,
+R2-C13149,exclude,E2,
+R2-C13150,exclude,E1,
+R2-C13151,exclude,E2,
+R2-C13154,exclude,E2,
+R2-C13156,exclude,E2,
+R2-C13161,exclude,E1,
+R2-C13168,exclude,E2,
+R2-C13173,include,I5,complexity of ChordLink hybrid representation
+R2-C13174,exclude,E2,
+R2-C13175,exclude,E2,
+R2-C13176,exclude,E2,
+R2-C13184,background,B,survey of situated analytics
+R2-C13185,exclude,E1,
+R2-C13186,unsure,,egocentric spherical graph space; possibly VR
+R2-C13187,background,B,STAR dynamic multivariate networks
+R2-C13188,exclude,E2,
+R2-C13190,exclude,E2,
+R2-C13192,exclude,E3,
+R2-C13197,exclude,E4,
+R2-C13199,include,I4,situated AR visualization board game
+R2-C13200,unsure,,timeslice analysis of dynamic visualizations; no abstract
+R2-C13201,exclude,E3,
+R2-C13202,exclude,E3,
+R2-C13203,exclude,E1,
+R2-C13211,exclude,E1,
+R2-C13212,include,I1,2.5D layered visualization of trans-omic networks
+R2-C13216,exclude,E4,
+R2-C13218,exclude,E2,
+R2-C13219,exclude,E2,
+R2-C13220,exclude,E2,
+R2-C13225,exclude,E3,
+R2-C13226,include,I2,VR ontology graph manipulation
+R2-C13227,exclude,E1,
+R2-C13228,exclude,E3,
+R2-C13230,exclude,E2,
+R2-C13233,exclude,E2,
+R2-C13234,exclude,E3,
+R2-C13235,exclude,E2,
+R2-C13238,include,I2,VR access to knowledge graphs
+R2-C13239,exclude,E2,
+R2-C13240,unsure,,VR metaphorical vis of electric networks; graph?
+R2-C13245,exclude,E2,
+R2-C13247,exclude,E2,
+R2-C13251,exclude,E2,
+R2-C13253,exclude,E2,
+R2-C13254,exclude,E2,
+R2-C13255,include,I4,placement of situated vis in outdoor AR tours
+R2-C13258,exclude,E3,
+R2-C13260,exclude,E3,
+R2-C13261,exclude,E2,
+R2-C13264,include,I2,VR visualization of biological networks
+R2-C13267,exclude,E1,
+R2-C13269,exclude,E2,
+R2-C13273,exclude,E2,
+R2-C13274,exclude,E2,
+R2-C13275,exclude,E5,
+R2-C13276,exclude,E2,
+R2-C13279,exclude,E4,
+R2-C13293,exclude,E2,
+R2-C13299,exclude,E3,
+R2-C13300,exclude,E3,
+R2-C13301,exclude,E2,
+R2-C13303,exclude,E2,
+R2-C13304,exclude,E1,
+R2-C13308,exclude,E3,
+R2-C13309,unsure,,software vis across devices incl. AR/VR; graph-based?
+R2-C13310,unsure,,"co-located AR collaborative analysis, display types"
+R2-C13313,background,B,survey immersive cyber situational awareness
+R2-C13316,exclude,E2,
+R2-C13319,exclude,E1,
+R2-C13320,exclude,E2,
+R2-C13321,exclude,E2,
+R2-C13322,exclude,E2,
+R2-C13323,unsure,,wearable AR building occupancy monitoring; situated?
+R2-C13324,exclude,E1,
+R2-C13330,exclude,E2,
+R2-C13334,exclude,E3,
+R2-C13335,exclude,E2,
+R2-C13341,exclude,E2,
+R2-C13342,exclude,E2,
+R2-C13343,exclude,E1,
+R2-C13347,exclude,E3,
+R2-C13351,include,I4,mobile AR solar facades; possible extension of 13029
+R2-C13352,exclude,E2,
+R2-C13353,exclude,E1,
+R2-C13357,exclude,E2,
+R2-C13358,exclude,E2,
+R2-C13361,exclude,E2,
+R2-C13364,exclude,E2,
+R2-C13367,exclude,E2,
+R2-C13369,exclude,E2,
+R2-C13370,exclude,E3,
+R2-C13384,exclude,E2,
+R2-C13390,include,I4,brushing and linking for situated analytics
+R2-C13396,exclude,E2,
+R2-C13398,exclude,E2,
+R2-C13401,unsure,,dynamic graph snapshots in common space; layering?
+R2-C13404,exclude,E1,
+R2-C13405,exclude,E2,
+R2-C13406,exclude,E2,
+R2-C13407,exclude,E2,
+R2-C13408,exclude,E5,
+R2-C13409,unsure,,collaborative VR software exploration; graph-based?
+R2-C13412,exclude,E1,
+R2-C13413,exclude,E2,
+R2-C13417,include,I4,AR radiation vis on spatial mesh
+R2-C13424,exclude,E1,
+R2-C13426,exclude,E2,
+R2-C13427,include,I1,matrix orderings for graph collections (time/specimens)
+R2-C13431,exclude,E2,
+R2-C13433,background,B,SOTA AR data visualization for decision-making
+R2-C13439,exclude,E2,
+R2-C13440,exclude,E2,
+R2-C13441,exclude,E1,
+R2-C13442,exclude,E4,
+R2-C13443,exclude,E3,
+R2-C13444,exclude,E1,
+R2-C13445,exclude,E2,
+R2-C13446,exclude,E2,
+R2-C13449,unsure,,immersive Sankey (flow graph) in VR
+R2-C13456,include,I4,off-screen POI indicator in handheld AR
+R2-C13460,exclude,E2,
+R2-C13463,include,I4,visual comparison of physical targets in MR
+R2-C13466,exclude,E1,

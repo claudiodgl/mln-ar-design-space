@@ -1,0 +1,1072 @@
+[C00537] Visualizing dynamic networks with matrix cubes | CHI '14 | 2014
+    ABS: [abstract omitted; see the DOI]
+[C00538] Visualizing Multidimensional Data with Glyph SPLOMs | Computer Graphics Forum | 2014
+    ABS: [abstract omitted; see the DOI]
+[C00539] 3D DynNetVis: A 3D Visualization Technique for Dynamic Networks | ASONAM '15 | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00540] A Hand-held 3D-Printed Box Projector - Study for a Souvenir from a Mixed-Reality Experience | International Congress on Digital Heritage - Theme 2 - Compu | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00541] A Location-Based Augmented Reality System for the Spatial Interaction with Historical Datasets | International Congress on Digital Heritage - Theme 2 - Compu | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00542] A Mobile Application as an Unobtrusive Tool for Behavioural Mapping in Public Spaces | Lecture notes in computer science | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00543] Analysis of Various Graph Layout Approaches Used in GUESS Software |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00544] Archives, Models, and Methods for Critical Approaches to Identities: Representing Race and Ethnicity in the Digital Humanities | eScholarship (California Digital Library) | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00545] Building heating technology in Smart Home using PI System management tools | Perspectives in Science | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00546] Collaborative magic lens graph exploration | SA '15 Mobile Graphics and Interactive Applications | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00547] Comparison of Collaboration and Performance in Groups of Learners Assembled Randomly or Based on Learners' Topic Preferences | Repositorio Institucional de la Universidad de las Fuerzas A | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00548] Comparison of Inter-Layer Couplings of Multilayer Networks | International Conference on Signal-Image Technology & Intern | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00549] Detangler: Visual Analytics for Multiplex Networks | conf/vissym | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00550] Development and Improvement of Optical Tracking Methods towards Registering the Deformations of 3D Non- Rigid Bodies in Real Time for Augmented Reality Applications | EG Graphics Dissertation Online | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00551] Distributed Artificial Intelligence Models for Knowledge Discovery in Bioinformatics | BioMed Research International | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00552] Dynamic Scheduling for Progressive Large-Scale Visualization | Eurographics Conference on Visualization (EuroVis) - Short P | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00553] Factors that affect the formation of networks for collaborative learning: an empirical study conducted at a chilean university |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00554] Focus on software and data acquisition | Physics Today | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00555] Hybrid-Dimensional Visualization and Interaction - Integrating 2D and 3D Visualization with Semi-Immersive Navigation Techniques | Big Data Visual and Immersive Analytics | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00556] Indexed augmented reality system |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00557] Interactive Procedural Modelling of Coherent Waterfall Scenes | Computer Graphics Forum | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00558] Issues on visual representation of hybrid home environments: survey of strategies and models | International Journal of Intelligent Engineering Informatics | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00559] Largibles: Large Tangible Interaction in Mobile Augmented Reality | conf/chi | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00560] Maps of Human Disease: A Web-Based Framework for the Visualization of Human Disease Comorbidity and Clinical Profile Overlay | Lecture notes in computer science | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00561] Modeling a Philosophical Inquiry: from MySQL to a graph database: The short story of a long refactoring process | HAL | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00562] Motif analysis in directed ordered networks and applications to food webs | Sci. Rep. 5, 11926 (2015) | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00563] Multilayer network representation of membrane potential and cytosolic calcium concentration dynamics in beta cells | Chaos Solitons & Fractals | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00564] MultiNets: Web-Based Multilayer Network Visualization | Lecture notes in computer science | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00565] Multiplex Network Approach for Scientific Articles |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00566] MultiStory: Visual analytics of dynamic multi-relational networks | IEEE Pacific Visualization Symposium | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00567] Network dynamics with BrainX3: a large-scale simulation of the human brain network with real-time interaction | Frontiers in Neuroinformatics | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00568] New Directions for a Japanese Academic Backbone Network | IEICE Trans. Inf. Syst. | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00569] New Perspectives on Design Automation: Celebrating the 40th Anniversary of the ASME Design Automation Conference | Journal of Mechanical Design | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00570] Parallax Occlusion Mapping in Augmented Reality Case Study on Facade of Sino Portuguese Architecture Phuket, Thailand | International Congress on Digital Heritage - Theme 2 - Compu | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00571] Parallel Web Browsing in Tangible Augmented Reality Environments | conf/chi | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00572] Perfopticon: Visual Query Analysis for Distributed Databases | Computer Graphics Forum | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00573] Position‐Based Skinning for Soft Articulated Characters | Computer Graphics Forum | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00574] Real-time Content Adaptive Depth Retargeting for Light Field Displays | EG 2015 - Posters | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00575] Scalable Partitioning for Parallel Position Based Dynamics | Computer Graphics Forum | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00576] Small MultiPiles: Piling Time to Explore Temporal Patterns in Dynamic Networks | Computer Graphics Forum | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00577] Socio-Spatial Pareto Frontiers of Twitter Networks | Lecture notes in computer science | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00578] Spherical layout and rendering methods for immersive graph visualization | IEEE Pacific Visualization Symposium | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00579] Study of immunomodulators from various plant species. |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00580] Supporting Management of Sensor Networks through Interactive Visual Analysis | EG Graphics Dissertation Online | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00581] Survey on Visualizing Dynamic, Weighted, and Directed Graphs in the Context of Data-Driven Journalism |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00582] The Effects of Representation and Juxtaposition on Graphical Perception of Matrix Visualization | CHI Conference on Human Factors in Computing Systems | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00583] The Semantic Web. Latest Advances and New Domains | Lecture Notes in Computer Science | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00584] The system architecture of cyber-physical systems integration for underground utility networks visualisation |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00585] Toward Standard Usability Questionnaires for Handheld Augmented Reality | journals/cga | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00586] Towards effective visual analytics on multiplex and multilayer networks | Chaos Solitons & Fractals | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00587] Towards effective visual analytics on multiplex and multilayer networks 1 |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00588] Towards Estimating Usability Ratings of Handheld Augmented Reality Using Accelerometer Data | conf/ismar | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00589] ● Treatment of Active Duty Military with PTSD in Primary Care : A Follow-Up Report |  | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00590] Using Apps to Visualize Graph Theory | Mathematics Teacher Learning and Teaching PK-12 | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00591] Visual Analysis of Relations in Attributed Time-Series Data | EuroVis Workshop on Visual Analytics (EuroVA) | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00592] Visualization techniques for group structures in graphs | OPUS Publication Server of the University of Stuttgart (Univ | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00593] Visualizing Dynamic Brain Networks Using an Animated Dual-Representation | Eurographics Conference on Visualization (EuroVis) - Short P | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00594] Visualizing Dynamic Hierarchies in Graph Sequences | IEEE Transactions on Visualization and Computer Graphics | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00595] Visualizing Paul Revere's other ride as a multiplex network | HAL | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00596] Water & memory - overview | ResearchOnline at James Cook University (James Cook Universi | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00597] WildAR: Creating a Networked AR System for "In-the-Wild" Studies | conf/ismar | 2015
+    ABS: [abstract omitted; see the DOI]
+[C00598] 네트워크분석과 기술성장모형을 이용한 기술기획 |  | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00599] 3-D Digital Preservation of At-Risk Global Cultural Heritage | Eurographics Workshop on Graphics and Cultural Heritage | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00600] 3D Character Customization for Non-Professional Users in Handheld Augmented Reality | conf/ismar | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00601] A Collaborative Untethered Virtual Reality Environment for Interactive Social Network Visualization | arXiv | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00602] A cultura informacional e participativa de fãs: análise da rede e processo de criação. | Americanae (AECID Library) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00603] A sensor fusion approach for network visualization | IEEE International Conference on Consumer Electronics - Taiw | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00604] A Study of Layout, Rendering, and Interaction Methods for Immersive Graph Visualization | journals/tvcg | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00605] A Taxonomy and Survey of Dynamic Graph Visualization | Computer Graphics Forum | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00606] A Technology Planning Approach Based on Network and Growth Curve Analyses : the Case of Augmented Reality Patents | Journal of Korean Institute of Industrial Engineers | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00607] A visual network perspective on social interaction and space: using net-map and wennmaker in participatory social-spatial research |  | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00608] An immersive approach to the visual exploration of geospatial network datasets | VRCAI '16 | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00609] Analyzing Multiple Rankings of Influential Nodes in Multiplex Networks | Studies in computational intelligence | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00610] Annexing Reality: Enabling Opportunistic Use of Everyday Objects as Tangible Proxies in Augmented Reality | conf/chi | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00611] Big IoT and Social Networking Data for Smart Cities - Algorithmic Improvements on Big Data Analysis in the Context of RADICAL City Applications | International Conference on Cloud Computing and Services Sci | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00612] Building Construction Sets by Tiling Grammar Simplification | Computer Graphics Forum | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00613] Collaboration Methodologies in Art and Design | SpringerBriefs in computer science | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00614] Comparison of mobile touch interfaces for object identification and troubleshooting tasks in augmented reality | conf/vr | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00615] CuboidMatrix: Exploring Dynamic Structural Connections in Software Components Using Space-Time Cube | IEEE Working Conference on Software Visualization (VISSOFT) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00616] Cyber Situation Awareness |  | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00617] Data-Driven Bending Elasticity Design by Shell Thickness | Computer Graphics Forum | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00618] Describe, understand and predict: why do we need networks in ecology? | Functional Ecology | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00619] Development of an optimal dragonfly-like flapping wing structure for use in biomimetic micro air vehicles / Praveena Nair Sivasankaran | University of Malaya Students Repository | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00620] Digital transformations: an introduction | Edward Elgar Publishing eBooks | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00621] Drinking water microbiota: from the source to the tap | BOA (University of Milano-Bicocca) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00622] Editable Reality System for Improvement Design Based on Real Products | Sekkei Kougaku, Shisutemu Bumon Kouenkai kouen rombunshuu/Se | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00623] Effects of Viewing Condition on User Experience of Panoramic Video | ICAT-EGVE 2016 - International Conference on Artificial Real | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00624] Evaluation of Two Interaction Techniques for Visualization of Dynamic Graphs | Lecture notes in computer science | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00625] Exploring the Application of Multilayer Networks in Enterprise Architecture: A Case Study in the Smart Grid | IEEE Conference on Business Informatics | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00626] Finding the Latent Semantics of Haptic Interaction Research: A Systematic Literature Review of Haptic Interaction Using Content Analysis and Network Analysis | Human Factors and Ergonomics in Manufacturing & Service Indu | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00627] Graph-based map representations for efficient path planning in virtual environments | DR-NTU (Nanyang Technological University) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00628] Guest Editors' Introduction: Special Section on the IEEE Pacific Visualization Symposium 2015 | IEEE Transactions on Visualization and Computer Graphics | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00629] IJSRD-International Journal for Scientific Research & Development| Vol. 4, Issue 06, 2016 | ISSN (online): 2321-0613 |  | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00630] Immersive Collaborative Analysis of Network Connectivity: CAVE-style or Head-Mounted Display? | conf/visualization | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00631] Isoline-Enhanced Dynamic Graph Visualization | International Conference on Information Visualisation (IV) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00632] Location Based Preference Aware Recommendation Using Sparse Geo Social Networking Data |  | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00633] Loom : Extreme Scale Visual Analytics for Large Hybrid IT Infrastructure Management |  | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00634] Magnostics: Image-Based Search of Interesting Matrix Views for Guided Network Exploration | IEEE Transactions on Visualization and Computer Graphics | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00635] \mathsf {CORPNET}: Towards a Decision Support System for Organizational Network Analysis Using Multiplex Interpersonal Relations | Studies in computational intelligence | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00636] Most Central or Least Central? How Much Modeling Decisions Influence a Node's Centrality Ranking in Multiplex Networks | European Network Intelligence Conference (ENIC) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00637] Multi-modal image retrieval with random walk on multi-layer graphs | arXiv | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00638] Multilayer graph edge bundling | IEEE Pacific Visualization Symposium | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00639] MultiLayerMatrix: Visualizing Large Taxonomic Datasets | EuroVis Workshop on Visual Analytics (EuroVA) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00640] NaturalMotion : Exploring Gesture Controls for Visualizing Time-Evolving Graphs |  | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00641] On Business Analytics: Dynamic Network Analysis for Descriptive Analytics and Multicriteria Decision Analysis for Prescriptive Analytics. | Portuguese National Funding Agency for Science, Research and | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00642] Popularidad y relaciones entre iguales en el aula: un estudio prospectivo | Psicología Educativa | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00643] Protein sequence modeling and transcription regulation network analysis towards integrative big data biology | Institutional Repositories DataBase (IRDB) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00644] Realistic Urban Road Network Modelling From GIS Data | Eurographics Workshop on Urban Data Modelling and Visualisat | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00645] Semantic Knowledge Detection in Open-ended Questionnaire | 48th Scientific Meeting of the Italian Statistical Society | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00646] Simplification and visualization of brain network extracted from fMRI data using CEREBRA | IEEE International Conference on Cognitive Informatics & Cog | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00647] Space and time visualization book | DOAJ (DOAJ: Directory of Open Access Journals) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00648] Speak up! Barriers to challenging erroneous decisions of seniors in anaesthesia | Anaesthesia | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00649] Tangible Viewports: Getting Out of Flatland in Desktop Environments | TEI '16 | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00650] The development of trust in residential environmental education programs | Environmental Education Research | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00651] The Dynamic Call Graph Matrix | VINCI '16 | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00652] The Genome Conformation As an Integrator of Multi-Omic Data: The Example of Damage Spreading in Cancer | Frontiers in Genetics | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00653] The Wiley Handbook of Personality Assessment |  | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00654] TieVis: visual analytics of evolution of interpersonal ties | Lecture notes in computer science | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00655] Topological Visualisation Techniques for the Understanding of Lattice Quantum Chromodynamics (LQCD) Simulations | Computer Graphics and Visual Computing (CGVC) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00656] Topology-Aware Neighborhoods for Point-Based Simulation and Reconstruction | Eurographics/ ACM SIGGRAPH Symposium on Computer Animation | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00657] Towards Visual Analytics of Multilayer Graphs for Digital Cultural Heritage | Open Repository and Bibliography (University of Luxembourg) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00658] Triangle packing for community detection : algorithms, visualizations and application to Twitter's network | Publications Et Travaux Academiques de Lorraine (Universite  | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00659] Using network projections to explore co-incidence and context in large clinical datasets: Application to homelessness among U.S. Veterans | Journal of Biomedical Informatics | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00660] Visual Analysis of Biomolecular Cavities: State of the Art | Computer Graphics Forum | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00661] Visual Analysis of Governing Topological Structures in Excitable Network Dynamics | Computer Graphics Forum | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00662] Visual Analytics of Network Routing Through Traceroute Data: Models and Techniques | Iris (Roma Tre University) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00663] Visualizing Dynamic Networks using Matrix Technology | Institutional Repositories DataBase (IRDB) | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00664] Visualizing Multilayer Networks | Cambridge University Press eBooks | 2016
+    ABS: [abstract omitted; see the DOI]
+[C00665] 2D and 3D Visualization to Support Fieldwork in the Area of Utility Networks | KTH Publication Database DiVA (KTH Royal Institute of Techno | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00666] 3D Ground Reaction Force Visualization onto Training Video for Sprint Training Support System | ICAT-EGVE 2017 - Posters and Demos | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00667] A comparative study of 2D and 3D mobile keypad user interaction preferences in virtual reality graphic user interfaces | conf/vrst | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00668] A Descriptive Framework for Temporal Data Visualizations Based on Generalized Space‐Time Cubes | Computer Graphics Forum | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00669] A Design Space for Virtuality-Introduced Internet of Things | Future Internet | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00670] A gesture system for graph visualization in virtual reality environments | IEEE Pacific Visualization Symposium | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00671] A Low-Dimensionalization Method for 3D Unsteady Flow Fields Using Deep Autoencoder | Keisan Rikigaku Koenkai koen ronbunshu/Keisan Rikigaku Kouen | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00672] A methodological evaluation of natural user interfaces for immersive 3D Graph explorations | Journal of Visual Languages & Computing | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00673] A Mixed-Reality Approach for Cyber-situation Awareness |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00674] A sensor-service collaboration approach for target tracking in wireless camera networks | China Communications | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00675] A visual analytics approach for understanding egocentric intimacy network evolution and impact propagation in MMORPGs | IEEE Pacific Visualization Symposium | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00676] A visual data-driven and network-based tool for transportation planning and simulation |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00677] A Web-Based Tool for Automatic Data Collection, Curation, and Visualization of Complex Healthcare Survey Studies including Social Network Analysis | Computation and Mathematical Methods in Medicine, Volume 201 | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00678] Affective Symmetry: Affect and Networks in Blizzard’s StarCraft II: Legacy of the Void | Loading | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00679] Alignment Cubes: Towards Interactive Visual Exploration and Evaluation of Multiple Ontology Alignments | Lecture notes in computer science | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00680] An Adaptive AR Tutor For Cabling a Network Topology | conf/egve | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00681] An AR Network Cabling Tutoring System for Wiring a Rack | conf/egve | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00682] Analiza i optimizacija mrežnog prometa usluge proširene stvarnosti |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00683] Analyzing the impedance of reflection coefficient of S-parameters S11 and S22 using vector network analyzer & recognization of hand gesture using DTW |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00684] Anomaly detection in large evolving graphs |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00685] Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs | AKBC2019 | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00686] Assessing Deep Learning Architectures for Visualizing Maya Hieroglyphs | Lecture notes in computer science | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00687] Augmenting Intelligence in Mobile Networked System | eScholarship (California Digital Library) | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00688] Augmenting Intelligence in Mobile Networked System - eScholarship |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00689] Augmenting Sampling Based Controllers with Machine Learning | Eurographics/ ACM SIGGRAPH Symposium on Computer Animation | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00690] Broadcasting Convolutional Network for Visual Relational Reasoning | arXiv | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00691] Classroom Technology Acceptance for Teachers in 3D: A Case Study in PreVieW | Advances in game-based learning book series | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00692] Condensing Temporal Networks using Propagation | Society for Industrial and Applied Mathematics eBooks | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00693] DeepGarment: 3D Garment Shape Estimation from a Single Image | Computer Graphics Forum | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00694] Designing Cable-Driven Actuation Networks for Kinematic Chains and Trees | Eurographics/ ACM SIGGRAPH Symposium on Computer Animation | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00695] Did you know? Modelling vision: computational science for understanding human visual perception | Acta Physiologica | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00696] Drone Networks for Virtual Human Teleportation | DroNet '17 | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00697] Dynamic Influence Networks for Rule-Based Models | IEEE Transactions on Visualization and Computer Graphics | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00698] Dynamic multiplex social network models on multiple time scales for simulating contact formation and patterns in epidemic spread | Winter Simulation Conference | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00699] Dynamic Network: Graphical Deformation of Penetrated Objects | arXiv | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00700] Efficient Remote Rendering Using Equirectangular Projection | Computer Graphics and Visual Computing (CGVC) | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00701] Envisioning Holograms | Apress eBooks | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00702] «Es necesario que nosotros, intelectuales, nos apoderemos de Brasil»: Redes de intelectuales de derechas durante el Estado Novo brasileño (1937-1945) |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00703] Exploring 3D Cybersecurity Visualization with the Microsoft HoloLens | Advances in intelligent systems and computing | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00704] Exploring Advance Interactions for Augmented Reality: From Casual Activities to In-Situ 3D Modeling | TEI '17 | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00705] Exploring biological networks in 3D, stereoscopic 3D and immersive 3D with iCAVE | Current Protocols in Bioinformatics | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00706] Exploring density regions for analyzing dynamic graph data | Journal of Visual Languages & Computing | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00707] Exploring the design space of immersive urban analytics | Visual Informatics | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00708] FaceCloud: Heterogeneous Cloud Visualization of Multiplex Networks for Multimedia Archive Exploration | MM '17: Proceedings of the 25th ACM international conference | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00709] Facial Expression Recognition using Visual Saliency and Deep Learning | arXiv | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00710] Feasibility of Corneal Imaging for Handheld Augmented Reality | conf/ismar | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00711] FluxMarker: Enhancing Tactile Graphics with Dynamic Tactile Markers | International ACM SIGACCESS Conference on Computers and Acce | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00712] Frank Costigliola and Michael J. Hogan, eds., Explaining the History of American Foreign Relations, 3rd ed. New York: Cambridge University Press, 2016. 389 pp. | Journal of Cold War Studies | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00713] Handbook of Teaching and Learning in Tourism |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00714] How to identify the structure of your network and relative techniques to manage it in real time | International Journal of Integrated Care | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00715] Implementing a multilayer framework for pathway data integration, analysis and visualization |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00716] Interactive Lenses for Visualization: An Extended Survey | Computer Graphics Forum | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00717] International Trade Relations of Products for Wind Energy Production: A Study from the Dynamic Social Network Analysis (DSNA) | Portland International Conference on Management of Engineeri | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00718] Learning 3D Human Pose from Structure and Motion | Lecture notes in computer science | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00719] Long Range Constraints for Rigid Body Simulations | Eurographics/ ACM SIGGRAPH Symposium on Computer Animation | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00720] Loom: Complex large-scale visual insight for large hybrid IT infrastructure management | Future Generation Computer Systems | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00721] Lost in cyberspace and art 1 | Routledge eBooks | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00722] M3: Model data representation using virtual reality [Model Qualify, Model Verify, Model Validity] | International Journal of Innovations in Engineering and Tech | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00723] MARCS: mobile augmented reality for cybersecurity | CISRC '17 | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00724] Material Design in Augmented Reality with In-Situ Visual Feedback | Eurographics Symposium on Rendering - Experimental Ideas & I | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00725] Media Innovation and Business Models: the case of Virtual Reality |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00726] Mitochondrial Nanotunnels | Trends in Cell Biology | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00727] Mobile Augmented Reality to Enable Intelligent Mall Shopping by Network Data | CRC Press eBooks | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00728] Mobile situated analytics of ego-centric network data | SA '17 Symposium on Visualization | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00729] Moving Towards Consistent Depth Perception in Stereoscopic Projection-based Augmented Reality | ICAT-EGVE 2017 - International Conference on Artificial Real | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00730] Multiplex flows in citation networks | Applied Network Science | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00731] Multiscale body maps in the human brain | Infoscience (Ecole Polytechnique Fédérale de Lausanne) | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00732] Network analysis of exploratory behaviors of mice in a spatial learning and memory task | PLoS ONE | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00733] Network dynamics in the healthy and epileptic developing brain |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00734] Open academic community in Poland: social aspects of new scholarly communication as observed during the transformation period | Theorie, Semantik und Organisation von Wissen | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00735] Peramalan Komoditas Strategis Pertanian Cabai menggunakan Metode Backpropagation Neural Network |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00736] Photo-Guided Exploration of Volume Data Features | Eurographics Symposium on Parallel Graphics and Visualizatio | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00737] Preprocessing and Transmission for 3D Point Cloud Data | Lecture notes in computer science | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00738] Projecting our Past to the Future - Challenges and Results: The Case of Asinou church | Eurographics Workshop on Graphics and Cultural Heritage | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00739] Real-time Visual Representations for Mixed Reality Remote Collaboration | ICAT-EGVE 2017 - International Conference on Artificial Real | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00740] RELATIVE PANORAMIC CAMERA POSITION ESTIMATION for IMAGE-BASED VIRTUAL REALITY NETWORKS in INDOOR ENVIRONMENTS | ISPRS annals of the photogrammetry, remote sensing and spati | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00741] ScatAR: a mobile augmented reality application that uses scattering delay networks for room acoustic synthesis | conf/vrst | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00742] See-through Visualisation for Training and Assessing Unsighted Physical Examinations | Workshop on Virtual Reality Interaction and Physical Simulat | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00743] Social Media: Practices, Uses and Global Impact |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00744] Spatial Solutions and Solution Spaces: The use of Virtual and Augmented Reality in Design Exploration |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00745] Special Issue on Future Digital Design and Manufacturing: Embracing Industry 4.0 and Beyond-Part II | Chinese Journal of Mechanical Engineering | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00746] Statistical Inference and Spectral Methods for Network Analysis | Deep Blue (University of Michigan) | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00747] Structuring and Visualizing Knowledge in Soil Science | EuroVis 2017 - Posters | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00748] Survey on multilayer networks visualization | IEEE International Conference on Software Engineering and Se | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00749] Tangible Visual Analysis: Brushing in a Mixed-Reality Environment | conf/vissym | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00750] Tasks for Visual Analytics in Multilayer Networks | IEEE International Conference on Data Science in Cyberspace | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00751] The Hologram in My Hand: How Effective is Interactive Exploration of 3D Visualizations in Immersive Tangible Augmented Reality? | conf/visualization | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00752] The Mitochondrion as a Signaling Organelle |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00753] The Third Man: hierarchy formation in Wikipedia | Applied Network Science | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00754] Thoughts About Disordered Thinking: Measuring and Quantifying the Laws of Order and Disorder | Schizophrenia Bulletin | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00755] TikZ-network manual | arXiv | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00756] Title Dynamic Influence Networks for Rule-based Models Permalink |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00757] Tracking Information Flow in Cyber-Physical Systems | IEEE International Conference on Distributed Computing Syste | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00758] Using Multi-Layered Networks to Disclose Books in the Republic of Letters | DOAJ (DOAJ: Directory of Open Access Journals) | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00759] Utilização de SIG para análise de roteirização aplicada a aplicativos lúdicos de realidade aumenta: rotas para Pokémon GO no bairro de Jaguaribe, município de João Pessoa - PB |  | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00760] Visual Comparison of Eye Movement Patterns | Computer Graphics Forum | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00761] Visual Exploration of 3D Geospatial Networks in a Virtual Reality Environment | The Computer Journal | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00762] Visualisation of Git in Virtual Reality | NVA (Nasjonalt vitenarkiv) | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00763] Visualization of Neural Network Predictions for Weather Forecasting | Computer Graphics Forum | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00764] Visualization platform design of failure outage risk assessment based on GIS | Annual International Conference on Electronics, Electrical E | 2017
+    ABS: [abstract omitted; see the DOI]
+[C00765] 스마트 교육 커뮤니티 정보기반 도시재생 | 대한건축학회논문집 계획계 | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00766] A Deep Learned Method for Video Indexing and Retrieval | Pacific Graphics Short Papers | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00767] A Demonstration of VRSpinning: Exploring the Design Space of a 1D Rotation Platform to Increase the Perception of Self-Motion in VR | conf/uist | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00768] A Frame Analysis of VR and AR News Using Semantic Network Method | International Journal of Advanced Science and Technology | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00769] A Generalized Force-Directed Layout for Multiplex Sociograms | Lecture notes in computer science | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00770] A Look at the Effects of Handheld and Projected Augmented-reality on a Collaborative Task | conf/sui | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00771] A Multi-layer Network Topology Visualization Layout Based on Louvain Community Detection | IEEE International Conference on Data Science in Cyberspace | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00772] A Preliminary Survey of Analyzing Dynamic Time-Varying Financial Networks Using Graph Kernels | Lecture notes in computer science | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00773] A Smart Palette for Helping Novice Painters to Mix Physical Watercolor Pigments | EG 2018 - Posters | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00774] A study of protein coding genes in Enterobacteriaceae family: essentiality of genes and orthology. | UC Research Repository  (University of Canterbury) | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00775] A Virtual Space with Real IoT Data | EG 2018 - Posters | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00776] Act Now: A Call to Action for Scholarly Preparation in Mathematics Among Nurse Scientists | Journal of Learning and Teaching in Digital Age | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00777] Adapting Community Detection Approaches to Large, Multilayer, and Attributed Networks | Carolina Digital Repository (University of North Carolina at | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00778] An Explicit Structure-preserving Numerical Scheme for EPDiff | Computer Graphics Forum | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00779] Analysis of population functional connectivity data via multilayer network embeddings | Network Science | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00780] ARCord: Visually Augmented Interactive Cords for Mobile Interaction | CHI EA '18 | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00781] Augmented Reality-Based Pre-visualization for Film Making | Smart innovation, systems and technologies | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00782] Automatic Mechanism Modeling from a Single Image with CNNs | Computer Graphics Forum | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00783] Big data and data science in health care: What nurses and midwives need to know. | Journal of Clinical Nursing | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00784] Block Talks: A Tangible and Augmented Reality Toolkit for Children to Learn Sentence Construction | conf/chi | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00785] Brain2Object: Printing Your Mind from Brain Signals with Spatial Correlation Embedding | arXiv | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00786] Browsing Spatial Photography for Dissemination of Cultural Heritage Research Results using Augmented Models | Eurographics Workshop on Graphics and Cultural Heritage | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00787] Brush Stroke Synthesis with a Generative Adversarial Network Driven by Physically Based Simulation | Expressive: Computational Aesthetics, Sketch-Based Interface | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00788] Cellular Dynamics: Cellular Systems in the Time Domain | PLANT PHYSIOLOGY | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00789] CFGExplorer: Designing a Visual Control Flow Analytics System around Basic Program Analysis Operations | Computer Graphics Forum | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00790] CheckMate: Exploring a Tangible Augmented Reality Interface for Remote Interaction | conf/chi | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00791] City Scanner: Building and Scheduling a Mobile Sensing Platform for Smart City Services | IEEE Internet of Things Journal | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00792] Clusters, Trends, and Outliers: How Immersive Technologies Can Facilitate the Collaborative Analysis of Multidimensional Data | CHI '18Paper No.: 90, | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00793] Construction and analysis of a spatially organized cortical network model | RWTH Publications (RWTH Aachen) | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00794] Data Visualization Using Augmented Reality | ScholarWorks - GVSU (Grand Valley State University) | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00795] Deep Learning for Graphics | EG 2018 - Tutorials | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00796] Deep Learning for Traffic Analytics Application FIFA2022 | Qatar Foundation Annual Research Conference (ARC) | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00797] DeepDecision: A Mobile Deep Learning Framework for Edge Video Analytics | IEEE Conference on Computer Communications (INFOCOM) | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00798] Descriptive Analysis of Diagrammatic Representations of Turkish Middle School Science Textbooks | The Eurasia Proceedings of Educational and Social Sciences | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00799] Design and Assessment of a Collaborative 3D Interaction Technique for Handheld Augmented Reality | conf/vr | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00800] Design and Implementation of Mine Ventilating Safety Information System |  | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00801] Detecting infrasound signals and sources with dense network data | The Journal of the Acoustical Society of America | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00802] Dynamic Functional Magnetic Resonance Imaging Connectivity Tensor Decomposition: A New Approach to Analyze and Interpret Dynamic Brain Connectivity | Brain Connectivity | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00803] E-LEARNING IN MIXED REALITY LANDSCAPE: EMERGING ISSUES AND KEY TRENDS IN SCIENTIFIC RESEARCH | INTED proceedings | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00804] Effects of Embodiment on Generic and Content-Specific Intelligent Virtual Agents as Exhibition Guides | ICAT-EGVE 2018 - International Conference on Artificial Real | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00805] EML-NET:An Expandable Multi-Layer NETwork for Saliency Prediction | arXiv | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00806] Enhancing the Stiffness Perception of Tangible Objects in Mixed Reality Using Wearable Haptics | conf/vr | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00807] «Es necesario que nosotros, intelectuales, nos apoderemos de brasil». Redes de intelectuales de derechas durante el Estado Novo brasileño (1937-1945): Array | Anuario IEHS: Instituto de Estudios histórico sociales | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00808] Evaluating Navigation Techniques for 3D Graph Visualizations in Virtual Reality | Big Data Visual and Immersive Analytics | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00809] Exploring Echo-Systems: How Algorithms Shape Immersive Media Environments | Journal of Media Literacy Education | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00810] Exploring Temporal Communities in Mass Media Archives | MM '18 | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00811] Exploring the Effects of Scale in Augmented Reality-Empowered Visual Analytics | CHI EA '18Paper No.: LBW012, | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00812] Fast and Precise Touch-Based Text Entry for Head-Mounted Augmented Reality with Variable Occlusion | journals/tochi | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00813] Generating “Visual Clouds” from Multiplex Networks for TV News Archive Query Visualization | International Workshop on Content-Based Multimedia Indexing  | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00814] Handheld Guides in Inspection Tasks: Augmented Reality versus Picture | journals/tvcg | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00815] Hardware-Accelerated Multi-Tile Streaming for Realtime Remote Visualization | Eurographics Symposium on Parallel Graphics and Visualizatio | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00816] Human Identification Using Neural Network-Based Classification of Periodic Behaviors in Virtual Reality | conf/vr | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00817] Hunting High and Low: Visualising Shifting Correlations in Financial Markets | Computer Graphics Forum | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00818] Immersive Analytics Applications in Life and Health Sciences | Lecture notes in computer science | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00819] Impact of axonal delay on structure development in a multi-layered network | arXiv | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00820] Implementasi maps jaringan Rumah Sakit Margono dengan menampilkan temperatur router pada aplikasi the dude |  | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00821] In Vivo MuscleGene Transfer of PPARy Is Insufficient to Induce Adipogenesis in Ske } etal |  | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00822] Information-Based Urban Regeneration for Smart Education Community | 대한건축학회 논문집 - 계획계 | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00823] Information-Centric Networking Security | IEEE Communications Magazine | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00824] Information Olfactation: Harnessing Scent to Convey Data | IEEE Transactions on Visualization and Computer Graphics | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00825] Interactive Visual Graph Mining and Learning | ACM TIST, Volume 9, Issue 5 | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00826] Investigating Link Attributes of Graph Visualizations in Mobile Augmented Reality |  | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00827] La VALSE: Scalable Log Visualization for Fault Characterization in Supercomputers | Eurographics Symposium on Parallel Graphics and Visualizatio | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00828] Learning Physically Based Humanoid Climbing Movements | Computer Graphics Forum | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00829] Learning Product Embedding from Multi-relational User Behavior | Lecture notes in computer science | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00830] Learning Scene Illumination by Pairwise Photos from Rear and Front Mobile Cameras | Computer Graphics Forum | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00831] Liquid Splash Modeling with Neural Networks | Computer Graphics Forum | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00832] Machine learning methods for detecting structure in metabolic flow networks | Apollo (University of Cambridge) | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00833] Making data matter: Voxel printing for the digital fabrication of data across scales and domains | Science Advances | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00834] Maps and Globes in Virtual Reality | Computer Graphics Forum | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00835] Mathematics of networks | Oxford University Press eBooks | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00836] Matrix Visualization for Big Data | Tamkang University Institutional Repository (TKUIR) | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00837] Mediate: A Spatial Tangible Interface for Mixed Reality | conf/chi | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00838] MinOmics, an Integrative and Immersive Tool for Multi-Omics Analysis | Berichte aus der medizinischen Informatik und Bioinformatik/ | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00839] Movement Visualizer for Networked Virtual Reality Platforms | conf/vr | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00840] MRTouch: Adding Touch Input to Head-Mounted Mixed Reality | conf/vr | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00841] Nascent Entrepreneurs Managing in Networks: Equivocality, Multiplexity and Tie Formation | Journal of Enterprising Culture | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00842] Navigating the Landscape for Real-time Localisation and Mapping for Robotics and Virtual and Augmented Reality | arXiv | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00843] Olfactory Analytics: Exploring the Design Space of Smell for Data Visualization |  | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00844] On-Body tangible interaction: using the body to support tangible manipulations for immersive visualization | IHM '18 | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00845] Pheromone Model Based Visualization of Malware Distribution Networks | Lecture notes in computer science | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00846] Physical Guides: An Analysis of 3D Sketching Performance on Physical Objects in Augmented Reality | conf/chi | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00847] Programming for the Humanities: A Whirlwind Tour of Assignments (Abstract Only) | SIGCSE '18 | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00848] Propagation-Based Temporal Network Summarization | IEEE Transactions on Knowledge and Data Engineering | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00849] Public Broadcaster's Big-data Technology Trajectories: The Case of NHK and BBC | Portland International Conference on Management of Engineeri | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00850] Py3plex: A Library for Scalable Multilayer Network Analysis and Visualization | Studies in computational intelligence | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00851] Real-time manufacturing modeling and simulation framework using augmented reality and stochastic network analysis | Virtual Reality | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00852] RESEARCH ON VISUALIZATION OF GROUND LASER RADAR DATA BASED ON OSG | The international archives of the photogrammetry, remote sen | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00853] Ring graphs in VR: exploring a new and novel method for node placement and link visibility in VR-based graph analysis | SA '18 Posters | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00854] Robust and Efficient Data Clustering with Signal Processing on Graphs | Infoscience (Ecole Polytechnique Fédérale de Lausanne) | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00855] Social Network Analysis of Pokemon Go in Twitter | National and International Digital Games Research Conference | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00856] Soft Finger-tip Sensing Probe Based on Haptic Primary Colors | ICAT-EGVE 2018 - International Conference on Artificial Real | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00857] Spatio-Temporal-Network Visualization for Exploring Human Movements and Interactions in Physical and Virtual Spaces | Human dynamics in smart cities | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00858] The central role of stress relief in video gaming motivations and preferences | Apollo (University of Cambridge) | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00859] The Internet of Things: A Review of Enabled Technologies and Future Challenges | IEEE Access | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00860] The technique of structuring social network graphs for visual analysis of user groups to counter inappropriate , dubious and harmful information |  | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00861] THE VIRTUAL WORLD OF THE CULTURAL MEMORY: A FANTASY OR AN OBJECTIVE REALITY? | Vestnik Tomskogo gosudarstvennogo universiteta Kul turologiy | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00862] Translating Person-Specific Network Models into Personalized Treatments: Development and Demonstration of the Dynamic Assessment Treatment Algorithm for Individual Networks (DATA-IN) | Psychotherapy and Psychosomatics | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00863] Using deep-neural-network to extend videos for head-mounted display experiences | conf/vrst | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00864] Virtual Environments for Visualizing Structural Health Monitoring Sensor Networks, Data, and Metadata | Sensors | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00865] VirtualHaus: a collaborative mixed reality application with tangible interface | conf/vrst | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00866] Visual Analysis of Protein-ligand Interactions | Computer Graphics Forum | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00867] Visualisation de données dynamiques et complexes: des séries temporelles hiérarchiques aux graphes multicouches. (Visualization of Dynamic and Complex Data: from Hierarchical Time Series to Multilayer Graphs / Visualización de datos dinámicos y complejos: desde series temporales jerárquicas a grafos |  | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00868] Visualization of neural networks in virtual reality using Unreal Engine | conf/vrst | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00869] Visualization of software components and dependency graphs in virtual reality | conf/vrst | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00870] Visualizing and exploring OSGi-based software architectures in augmented reality | VRST '18 | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00871] VRige: Exploring Social Network Interactions In Immersive Virtual Environments |  | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00872] Walk-Centric User Interfaces for Mixed Reality | VTechWorks (Virginia Tech) | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00873] Weak Nodes Detection in Urban Transport Systems: Planning for Resilience in Singapore | IEEE International Conference on Data Science and Advanced A | 2018
+    ABS: [abstract omitted; see the DOI]
+[C00874]  | International Journal of Engineering and Advanced Technology | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00875] 20 years of research on virtual reality and augmented reality in tourism context: A text-mining approach | Tourism Management | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00876] 3D Edge Convolution in Deep Neural Network Implementation for Land Cover Semantic Segmentation of Airborne LiDAR Data | Asia-Pacific Conference on Intelligent Robot Systems (ACIRS) | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00877] 3D Environment Understanding in Real-time Using Input CAD Models for AR Applications | Spanish Computer Graphics Conference (CEIG) | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00878] A CNN-based Flow Correction Method for Fast Preview | Computer Graphics Forum | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00879] A Multi-Force Directed Layout Algorithm for Multilayer Networks Visualization | Journal of Computer-Aided Design & Computer Graphics | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00880] A Review of Digital Terrain Modeling | Computer Graphics Forum | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00881] Analyzing and Visualizing the Complexity and Multidimensionality of an Historical Network | SERVAL (Université de Lausanne) | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00882] Artificial Neural Networks to Assess Virtual Reality Anterior Cervical Discectomy Performance | Operative Neurosurgery | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00883] Augmented Reality Approach For Position-based Service using Handheld Smartphone | conf/vrst | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00884] Augmented Reality Graph Visualizations | journals/cga | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00885] Augmented reality in support of intelligent manufacturing - A systematic literature review | Computers & Industrial Engineering | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00886] BIM-Based Visualization Research in the Construction Industry: A Network Analysis | International Journal of Environmental Research and Public H | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00887] Blended Agents: Manipulation of Physical Objects within Mixed Reality Environments and Beyond | conf/sui | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00888] Class Feature Pyramids for Video Explanation | arXiv | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00889] Combining Crowd Sensing and Social Data Mining with Agent-Based Simulation Using Mobile Agents Towards Augmented Virtuality | Springer proceedings in complexity | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00890] Comparative analysis reveals Ce3D as optimal clearing method for in toto imaging of the mouse intestine | Neurogastroenterology & Motility | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00891] Complex Networks : Plenary Talk | IEEE International Symposium on Intelligent Systems and Info | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00892] COMUNET: a tool to explore and visualize intercellular communication | Bioinformatics | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00893] Convolutional neural networks for EEG signal classification in asynchronous brain-computer interfaces | Digital Collections of Colorado (Colorado State University) | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00894] Coordinate: A Spreadsheet-Programmable Augmented Reality Framework for Immersive Map-Based Visualizations | IEEE International Conference on Artificial Intelligence and | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00895] Coretet: A 21st Century Virtual Reality Musical Instrument for Solo and Networked Ensemble Performance | conf/vr | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00896] Data Visualization Of Product Relations | Lund University Publications Student Papers (Lund University | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00897] De la ciudad próxima y el campo lejano. Planificación y ordenamiento territorial para el cambio de uso del suelo de rural a urbano en un contexto de neoliberalización : el caso de vereda San Jorge Municipio de Mosquera (Cundinamarca) 2007-2019 |  | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00898] De-lighting a High-resolution Picture for Material Acquisition | Eurographics Symposium on Rendering - DL-only and Industry T | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00899] Deep Fluids: A Generative Network for Parameterized Fluid Simulations | Computer Graphics Forum | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00900] Deformed Reality | Computer Graphics and Visual Computing (CGVC) | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00901] Detecting geophysical signals and sources with large-scale network data |  | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00902] Developing an Enhanced NAT-Traversal Approach for Collaborative Augmented Reality e-Maintenance Platforms | HAL | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00903] Dynamic Network analysis in Football - Study of the offensive process of an elite sub-19 team | Portuguese National Funding Agency for Science, Research and | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00904] Effectiveness of Graph Data Visualization of News using VR Experience | IEEE Sciences and Humanities International Research Conferen | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00905] Effects of "Real-World" Visual Fidelity on AR Interface Assessment: A Case Study Using AR Head-up Display Graphics in Driving | conf/ismar | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00906] End-to-end Color 3D Reproduction of Cultural Heritage Artifacts: Roseninsel Replicas | Eurographics Workshop on Graphics and Cultural Heritage | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00907] Examining virtual reality navigation techniques for 3D network visualisations | Journal of Computer Languages | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00908] Exploring dynamic multilayer graphs for digital humanities | Applied Network Science | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00909] Exploring Projection Based Mixed Reality with Tangibles for Nonsymbolic Preschool Math Education | conf/tei | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00910] Exploring the Impact of Network Impairments on Remote Collaborative Augmented Reality Applications | conf/chi | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00911] Fast, Scalable, and Flexible C++ Hardware Architectures for Network Data Plane Queuing and Traffic Management | PolyPublie (École Polytechnique de Montréal) | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00912] From Neurons to Behavior: Visual Analytics Methods for Heterogeneous Spatial Big Brain Data | EG Graphics Dissertation Online | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00913] GeoGate: Correlating Geo-Temporal Datasets Using an Augmented Reality Space-Time Cube and Tangible Interactions | conf/vr | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00914] Gesture networks: Introducing dynamic time warping and network analysis for the kinematic study of gesture ensembles |  | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00915] GPU-Based Contact-Aware Trajectory Optimization Using A Smooth Force Model | Eurographics/ ACM SIGGRAPH Symposium on Computer Animation | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00916] GPU Data Structures and Code Generation for Modeling, Simulation, and Visualization | EG Graphics Dissertation Online | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00917] HapticSphere: Physical Support To Enable Precision Touch Interaction in Mobile Mixed-Reality | conf/vr | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00918] High Dynamic Range Point Clouds for Real-Time Relighting | Computer Graphics Forum | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00919] Human Factors and Multilayer Networks | DiVA (Linnaeus University) | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00920] Immersive Analytics of Large Dynamic Networks via Overview and Detail Navigation | 2019 IEEE International Conference on Artificial Intelligenc | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00921] Interactive 3D Visualizations of Laser Plasma Experiments on the Web and in VR | EuroVis 2019 - Posters | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00922] Isolating critical flow path and algorithmic partitioning of the AND/OR mobile workflow graph | Future Generation Computer Systems | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00923] Latent-space Dynamics for Reduced Deformable Simulation | Computer Graphics Forum | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00924] Latent Space Physics: Towards Learning the Temporal Evolution of Fluid Flow | Computer Graphics Forum | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00925] Layer Deﬁnition and Discovery in Multilayer Network Datasets |  | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00926] Layer-Edge Patterns Exploration and Presentation in Multiplex Networks: From Detail to Overview via Selections and Aggregations | Electronics | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00927] LE-HGR: A Lightweight and Efficient RGB-Based Online Gesture Recognition Network for Embedded AR Devices | conf/ismar | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00928] Learned Fitting of Spatially Varying BRDFs | Computer Graphics Forum | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00929] Learning-Based Animation of Clothing for Virtual Try-On | Computer Graphics Forum | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00930] Learning Rich Representations For Structured Visual Prediction Tasks | arXiv | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00931] Light Field Images Compression Based on Graph Convolution Networks | IEEE International Conference on Visual Communications and I | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00932] M-QuBE3: Querying Big Multilayer Graph by Evolutive Extraction and Exploration | Electronic Imaging | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00933] Mitochondria and Endoplasmic Reticulum Imaging by Correlative Light and Volume Electron Microscopy | Journal of Visualized Experiments | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00934] Mixed reality for collaborative learning and collaborative problem solving environment |  | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00935] Mixed Reality Storytelling Environments Based on Tangible User Interface: Take Origami as an Example | conf/vr | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00936] Movienet: A Movie Multilayer Network Model using Visual and Textual Semantic Cues | arXiv | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00937] Multi-Task and Multi-Level Detection Neural Network Based Real-Time 3D Pose Estimation | Asia-Pacific Signal and Information Processing Association A | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00938] Multidisciplinary Social Networks Research: 6th International Conference, MISNC 2019, Wenzhou, China, August 26–28, 2019, Revised Selected Papers | Communications in computer and information science | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00939] Network-Based Matching of Patients and Targeted Therapies for Precision Oncology | bioRxiv (Cold Spring Harbor Laboratory) | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00940] Networking Consumer Systems to Provide a Development Environment for Inside-Out Marker-Less Tracking for Virtual Reality Headsets | conf/vr | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00941] ObserVAR: Visualization System for Observing Virtual Reality Users using Augmented Reality | Proceedings - International Symposium on Mixed and Augmented | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00942] On Design for Additive Manufacturing: Review of Challenges and Opportunities utilising Visualisation Technologies | IEEE International Conference on Engineering, Technology and | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00943] On the Shoulder of the Giant: A Multi-Scale Mixed Reality Collaboration with 360 Video Sharing and Tangible Interaction | CHI '19 | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00944] Optimal Spatial Registration of SLAM for Augmented Reality | EG Graphics Dissertation Online | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00945] Optimised Molecular Graphics on the HoloLens | conf/vr | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00946] Pedagogical Innovative Research Endeavor: Visualization of Streamed Big Data through Augmented Reality | IEEE SoutheastCon | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00947] Polymedia Design for Network Metadata Monitoring | Human-computer interaction series | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00948] Predicting Protein-Protein Interaction in Multi-layer Blood Cell PPI Networks | Communications in computer and information science | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00949] Progress and Opportunities in the Characterization of Cellulose – An Important Regulator of Cell Wall Growth and Mechanics | Frontiers in Plant Science | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00950] Py3plex toolkit for visualization and analysis of multilayer networks | Applied Network Science | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00951] Remembering winter was coming | Multimedia Tools and Applications, Springer, 2019, 78(24):35 | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00952] Research and Realization of the interactive-control technology on Virtual Simulation Platform for Marine Simulator Based on Web3D | IEEE Joint International Information Technology and Artifici | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00953] Resource Provisioning for a Multi-Layered Network | IEEE Access | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00954] Semantic Network Analysis for VR & Coding Education in Big Data |  | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00955] Simulation and Visualization of Fluid Flows Around Real Objects in Augmented Reality | EuroVis 2019 - Short Papers | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00956] SOAViz: Visualization for Portable X-ray Fluorescence Soil Profiles | Workshop on Visualisation in Environmental Sciences (EnvirVi | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00957] Social Entrepreneurship Learning Model in Higher Education using Social Network Analysis | Journal of Physics Conference Series | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00958] Social network analysis: Measuring, mapping, and modeling collections of connections | Elsevier eBooks | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00959] Stereoscopic Rendering in a Head Mounted Display Elicits Higher Functional Connectivity During Virtual Reality | bioRxiv | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00960] Stereoscopic Rendering via Goggles Elicits Higher Functional Connectivity During Virtual Reality Gaming | Frontiers in Human Neuroscience | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00961] Style Invariant Locomotion Classification for Character Control | Computer Graphics Forum | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00962] Subgraph Patterns in Multiplex Networks |  | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00963] Subspace Neural Physics: Fast Data-Driven Interactive Simulation | Eurographics/ ACM SIGGRAPH Symposium on Computer Animation | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00964] Supporting Volumetric Data Visualization and Analysis by Combining Augmented Reality Visuals with Multi-Touch Input | conf/vissym | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00965] Synthesis: an Anglophone Journal of Comparative Literary Studies |  | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00966] Tangible and Visible 3D Object Reconstruction in Augmented Reality | conf/ismar | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00967] Technology-Enhanced Approaches to Humanities Research Methodologies | International Journal of Innovative Research in Humanities & | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00968] The Aha! Experience of Spatial Reorientation | UCL Discovery (University College London) | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00969] The Smart Point Cloud: Structuring 3D intelligent point data | EG Graphics Dissertation Online | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00970] The State of the Art in Multilayer Network Visualization | journals/cgf | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00971] Towards instantiating design principles for physical networks | Adelaide Research & Scholarship (AR&S) (University of Adelai | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00972] Unifying the framework of Multi-Layer Network and Visual Analytics | SERVAL (Université de Lausanne) | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00973] Viewpoint-Free Photography for Virtual Reality | EG Graphics Dissertation Online | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00974] Visual Analysis of Charge Flow Networks for Complex Morphologies | Computer Graphics Forum | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00975] Visual Analytics of Multilayer Networks Across Disciplines |  | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00976] Visual Analytics of Multilayer Networks Across Disciplines (Dagstuhl Seminar 19061) | Dagstuhl reports | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00977] Visual Link Routing in Immersive Visualisations | ACM International Conference on Interactive Surfaces and Spa | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00978] Visualizing Convolutional Neural Networks with Virtual Reality | conf/vrst | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00979] Visualizing media with interactive multiplex networks | theses.fr (ABES) | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00980] Volume-based large dynamic graph analysis supported by evolution provenance | Multimedia Tools and Applications | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00981] Voxel-based edge bundling through direction-aware kernel smoothing | Computers & Graphics | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00982] Waves Across the Pond: Exiling Clerics in Late Antiquity | Studies in Late Antiquity | 2019
+    ABS: [abstract omitted; see the DOI]
+[C00983]  | International Journal of Soft Computing and Engineering | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00984] A complex networks approach to traffic flow theory: measures and models | Infoscience (Ecole Polytechnique Fédérale de Lausanne) | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00985] A Comprehensive Study on Visual Explanations for Spatio-temporal Networks | arXiv (Cornell University) | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00986] A Design and Application Space for Visualizing User Sessions of Virtual and Mixed Reality Environments | Vision, Modeling, and Visualization | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00987] A dynamic, network and resource-based approach to the sustainable business model | Electronic Markets | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00988] A Framework for Developing a Deeper Understanding of the Factors that Influence Success and Failure in Undergraduate Engineering Capstone Design Experiences | 2020 ASEE Virtual Annual Conference Content Access Proceedin | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00989] A framework for large scale phylogenetic analysis | arXiv | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00990] A Hybrid Multi-Layer Network Visualization for Exploring Overlapping Biclusters | HAL | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00991] A multimedia document browser based on multilayer networks | Multimedia Tools and Applications | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00992] A network‐based, multi‐omics atlas for target identification and prioritization in Alzheimer’s disease: Genome‐metabolome‐phenome: Towards an integrated molecular atlas for Alzheimer's disease | Alzheimer s & Dementia | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00993] A New Multilayer Network Construction via Tensor Learning | Lecture notes in computer science | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00994] A NLP Enhanced Visual Analytics Tool for Archives Metadata | Eurographics Workshop on Graphics and Cultural Heritage | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00995] A Review of Visual Perception Research in Optical See-Through Augmented Reality | ICAT-EGVE 2020 - International Conference on Artificial Real | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00996] A Review on MAS-Based Sentiment and Stress Analysis User-Guiding and Risk-Prevention Systems in Social Network Analysis | Applied Sciences | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00997] A Study of Mental Maps in Immersive Network Visualization | IEEE Pacific Visualization Symposium | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00998] A system approach for closed-loop assessment of neuro-visual function based on convolutional neural network analysis of EEG signals | Neurophotonics | 2020
+    ABS: [abstract omitted; see the DOI]
+[C00999] A Tangible Spherical Proxy for Object Manipulation in Augmented Reality | conf/vr | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01000] Abstract Diagrammatic Reasoning with Multiplex Graph Networks | arXiv | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01001] Accelerating Liquid Simulation With an Improved Data‐Driven Method | Computer Graphics Forum | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01002] Acquisition of Optimal Connection Patterns for Skeleton-based Action Recognition with Graph Convolutional Networks | VISIGRAPP | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01003] Alpaca: AR Graphics Extensions for Web Applications | conf/vr | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01004] An Actor Network Analysis of Libraries as Informal Learning Environments | American Educational Research Association Annual Meeting (AE | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01005] An Immersive Node-Link Visualization of Artificial Neural Networks for Machine Learning Experts | IEEE International Conference on Artificial Intelligence and | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01006] And Yet They Persisted: Early Evaluation of the First2 Network | Proceedings of the West Virginia Academy of Science | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01007] ARcheoBox: Engaging with Historical Artefacts Through Augmented Reality and Tangible Interactions | conf/uist | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01008] Arena3Dweb: interactive 3D visualization of multilayered networks | Nucleic Acids Research | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01009] Augmented Reality Image Generation with Optical Consistency using Generative Adversarial Networks | conf/vr | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01010] Augmenting Physical Buttons with Vibrotactile Feedback for Programmable Feels | ACM Symposium on User Interface Software and Technology (UIS | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01011] Augmenting Static Visualizations with PapARVis Designer | CHI Conference on Human Factors in Computing Systems | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01012] BCI learning induces core-periphery reorganization in M/EEG multiplex brain networks | arXiv | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01013] BrainWave Nets: Are Sparse Dynamic Models Susceptible to Brain Manipulation Experimentation? | Frontiers in Systems Neuroscience | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01014] Brushing Feature Values in Immersive Graph Visualization Environment | arXiv | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01015] Catching the Drone - A Tangible Augmented Reality Game in Superhuman Sports | conf/ismar | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01016] Changing realities, changing methods: digital research methods | Journal of technology in human services | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01017] Cloth and Skin Deformation with a Triangle Mesh Based Convolutional Neural Network | Computer Graphics Forum | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01018] Combining Embedded Computation and Image Tracking for Composing Tangible Augmented Reality | conf/chi | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01019] Complex Networks | IEEE International Conference on Cognitive Informatics & Cog | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01020] Computational design of curved thin shells: from glass façades to programmable matter | EG Graphics Dissertation Online | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01021] Connections Between Relational Event Model and Inverse Reinforcement Learning for Characterizing Group Interaction Sequences | IEEE Transactions on Computational Social Systems | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01022] Contact and Human Dynamics from Monocular Video | Eurographics/ ACM SIGGRAPH Symposium on Computer Animation - | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01023] Continuous-time Dynamic Network Node Classification Algorithm Based on Autoencoder | IEEE Joint International Information Technology and Artifici | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01024] Deep Learning for Content-Based Personalized Viewport Prediction of 360-Degree VR Videos | IEEE Networking Letters | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01025] DeepBRDF: A Deep Representation for Manipulating Measured BRDF | Computer Graphics Forum | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01026] Density Visualization Pipeline: A Tool for Cellular and Network Density Visualization and Analysis | Frontiers in Computational Neuroscience | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01027] Design and Investigation of High-Capacity Spatial-Division Multiplexing Network Employing a Multimode Fiber | Journal of Russian Laser Research | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01028] DeskVR: Nahtlose Integration von virtueller Realität in tischbasierte Arbeitsprozesse der Datenanalyse | RWTH Publications (RWTH Aachen) | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01029] DFR: Differentiable Function Rendering for Learning 3D Generation from Images | Computer Graphics Forum | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01030] dg2pix: Pixel-Based Visual Analysis of Dynamic Graphs | Symposium on Visualization in Data Science (VDS) at IEEE VIS | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01031] DIGITAL GAMES GET VIRAL ON SOCIAL MEDIA: A SOCIAL NETWORK ANALYSIS OF POKEMON GO ON TWITTER | International Journal of Web Based Communities | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01032] Digital storytelling: a tool for promoting historical understanding among college students | Research in Learning Technology | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01033] Distortion Correction Algorithm of AR-HUD Virtual Image based on Neural Network Model of Spatial Continuous Mapping | conf/ismar | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01034] Don't Bother Me: How to Handle Content-Irrelevant Objects in Handheld Augmented Reality | conf/vrst | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01035] Drum Roll: A Data Physicalization of Real-Time Radiation Sensor Readings | Designing Interactive Systems Conference | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01036] Dynamic Graph Map Animation | IEEE Pacific Visualization Symposium | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01037] DyNetVis - An interactive software to visualize structure and epidemics on temporal networks | ASONAM '20 | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01038] Effective User Guidance through Augmented Reality Interfaces: Advances and Applications |  | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01039] Effects of Dark Mode Graphics on Visual Acuity and Fatigue with Virtual Reality Head-Mounted Displays | conf/vr | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01040] Effects of Synchronized Leg Motion in Walk-in-Place Utilizing Deep Neural Networks for Enhanced Body Ownership and Sense of Presence in VR | conf/vrst | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01041] EGGS: Sparsity-Specific Code Generation | Computer Graphics Forum | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01042] Embodied Axes: Tangible, Actuated Interaction for 3D Augmented Reality Data Spaces | conf/chi | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01043] Engaging audiences with Cultural Heritage through Augmented Reality (AR) Enhanced Pop-Up Books | Eurographics Workshop on Graphics and Cultural Heritage | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01044] Enhancing the functionality of augmented reality using deep learning, semantic web and knowledge graphs: A review | journals/vi | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01045] Evaluation of a Financial Portfolio Visualization using Computer Displays and Mixed Reality Devices with Domain Experts | CHI '20 | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01046] Evaluation on visualization methods of dynamic collaborative relationships for project management | The Visual Computer | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01047] Evolutionary hot-spots in Software Systems | ACM/IEEE International Conference on Software Engineering: C | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01048] Experiment Design for Complex Immersive Visualisation | Military Communications and Information Systems Conference | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01049] Exploration, navigation et visualisation des réseaux multi-couches à travers les sciences humaines et sociales | theses.fr (ABES) | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01050] Exploration of smart infrastructure for drivers of autonomous vehicles | Electronic Theses of LMU Munich (Ludwig-Maximilians-Universi | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01051] Exploring a Multi-focus Visual Comparison of Dynamic Graphs |  | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01052] Extensions of Weighted Multidimensional Scaling with Statistics for Data Visualization and Process Monitoring | VTechWorks (Virginia Tech) | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01053] Frequency-Aware Reconstruction of Fluid Simulations with Generative Networks | Eurographics 2020 - Short Papers | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01054] FrictGAN: Frictional Signal Generation from Fabric Texture Images using Generative Adversarial Network | ICAT-EGVE 2020 - International Conference on Artificial Real | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01055] From the Guest Editor | Journal of Eastern Mediterranean Archaeology & Heritage Stud | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01056] Galactica, a Digital Planetarium that explores the Solar System and the Milky Way | 21o Encontro Português de Computação Gráfica | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01057] GeneNet VR: Large Biological Networks in Virtual Reality Using Inexpensive Hardware | NVA (Nasjonalt vitenarkiv) | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01058] Graph-Related Properties for Comparing Dynamic Call Graphs | Journal of Computer Languages | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01059] Graphical Perception for Immersive Analytics | conf/vr | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01060] Hálózatelmélet és -elemzés az irodalomtörténeti kutatásokban: Publikációs térhez jutó értelmiségiek hálózata a régi magyarországi nyomtatványok alapján 1473–1600 között | Literatura | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01061] Heatmaps, Shadows, Bubbles, Rays: Comparing Mid-Air Pen Position Visualizations in Handheld AR | CHI '20 | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01062] How Does Augmented Observation Facilitate Multimodal Representational Thinking? Applying Deep Learning to Decode Complex Student Construct | Journal of Science Education and Technology | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01063] Image Segmentation Using Deep Learning: A Survey | arXiv | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01064] In Situ Wireless Channel Visualization Using Augmented Reality and Ray Tracing | Sensors | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01065] InstanceFusion: Real-time Instance-level 3D Reconstruction Using a Single RGBD Camera | Computer Graphics Forum | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01066] Interactive design to fabrication, immersive visualization and automation in construction | Construction Robotics | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01067] Interactive Freeform Architectural Design with Nearly Developables and Cold Bent Glass | EG Graphics Dissertation Online | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01068] International Aid to Education: Power Dynamics in an Era of Partnership | Harvard Educational Review | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01069] Interpretable Saab Subspace Network for COVID-19 Lung Ultrasound Screening | IEEE Annual Ubiquitous Computing, Electronics & Mobile Commu | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01070] Is Virtual Store Experience an Actual Store Experience?: The Role of Telepresence | International Textile and Apparel Association Annual Confere | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01071] Ivy: A Qualitative Interface to Reduce Sedentary Behavior in the Office Context | Designing Interactive Systems Conference | 2020
+    ABS: [abstract omitted; see the DOI]
+[C01072] Latent Space Subdivision: Stable and Controllable Time Predictions for Fluid Flow | Computer Graphics Forum | 2020
+    ABS: [abstract omitted; see the DOI]

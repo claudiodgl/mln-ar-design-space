@@ -1,0 +1,120 @@
+R2-C07713|exclude|E2|
+R2-C07714|exclude|E2|
+R2-C07715|exclude|E3|
+R2-C07729|exclude|E2|
+R2-C07730|exclude|E3|
+R2-C07731|unsure|U|2D vs 3D/immersive software visualization evaluation; maybe graphs
+R2-C07732|exclude|E3|
+R2-C07733|include|I1|MuxViz multilayer network analysis and visualization tool
+R2-C07739|include|I4|image-based X-ray techniques for outdoor AR
+R2-C07744|exclude|E5|
+R2-C07749|exclude|E3|
+R2-C07750|include|I4|on-patient AR medical visualization with volume clipping
+R2-C07754|exclude|E3|
+R2-C07757|background|B|handbook chapter: infovis in virtual environments, guidelines
+R2-C07760|exclude|E3|
+R2-C07765|exclude|E2|
+R2-C07769|background|B|Kivela et al. multilayer networks review (definitions)
+R2-C07771|exclude|E3|
+R2-C07772|exclude|E1|
+R2-C07775|include|I4|visualizations for occluded objects in handheld AR
+R2-C07776|exclude|E4|
+R2-C07777|exclude|E2|
+R2-C07779|exclude|E4|
+R2-C07785|exclude|E1|
+R2-C07790|exclude|E3|
+R2-C07794|exclude|E2|
+R2-C07796|exclude|E2|
+R2-C07797|exclude|E3|
+R2-C07798|exclude|E3|
+R2-C07802|exclude|E1|
+R2-C07803|exclude|E1|
+R2-C07804|exclude|E1|
+R2-C07805|exclude|E1|
+R2-C07807|exclude|E2|
+R2-C07808|exclude|E3|
+R2-C07809|unsure|U|Network Splitter 3D: likely 3D layer splitting; no abstract
+R2-C07810|exclude|E3|
+R2-C07811|exclude|E1|
+R2-C07813|exclude|E3|
+R2-C07814|exclude|E3|
+R2-C07815|exclude|E4|
+R2-C07820|background|B|review of animation vs small multiples for dynamic graphs
+R2-C07824|exclude|E3|
+R2-C07826|exclude|E2|
+R2-C07828|include|I4|ParaFrustum viewpoint guidance in real/virtual environments
+R2-C07830|exclude|E3|
+R2-C07832|unsure|U|spatial interface for head-worn displays for visual analytics
+R2-C07837|unsure|U|Polyptychon classified (typed) dependencies; maybe multi-relational
+R2-C07838|exclude|E5|
+R2-C07851|exclude|E5|
+R2-C07861|exclude|E4|
+R2-C07875|exclude|E3|
+R2-C07876|exclude|E2|
+R2-C07878|exclude|E7|
+R2-C07881|include|I4|slicing techniques for handheld AR
+R2-C07884|exclude|E3|
+R2-C07885|exclude|E3|
+R2-C07894|exclude|E2|
+R2-C07896|exclude|E3|
+R2-C07897|exclude|E1|
+R2-C07898|exclude|E1|
+R2-C07905|exclude|E1|
+R2-C07906|exclude|E3|
+R2-C07909|exclude|E1|
+R2-C07910|unsure|U|AR for observing temporal change in learning; no abstract
+R2-C07915|exclude|E4|
+R2-C07924|include|I4|Teegi: spatial AR projected on tangible head puppet
+R2-C07925|exclude|E3|
+R2-C07927|exclude|E3|
+R2-C07932|exclude|E2|
+R2-C07933|exclude|E1|
+R2-C07940|include|I4|Mind-Mirror: AR brain activity superimposed in situ on head
+R2-C07950|exclude|E1|
+R2-C07954|unsure|U|TopicPanorama: matched topic graphs across multiple sources
+R2-C07956|exclude|E2|
+R2-C07959|exclude|E4|
+R2-C07965|exclude|E2|
+R2-C07971|unsure|U|immersive collaborative environment for managing IP networks
+R2-C07972|exclude|E2|
+R2-C07977|exclude|E3|
+R2-C07979|exclude|E4|
+R2-C07980|exclude|E3|
+R2-C07982|exclude|E4|
+R2-C07984|exclude|E3|
+R2-C07985|exclude|E2|
+R2-C07987|exclude|E3|
+R2-C07988|include|I1|time-slices stack model for time-varying network topology
+R2-C07991|exclude|E7|
+R2-C07993|exclude|E2|
+R2-C07994|exclude|E3|
+R2-C07995|exclude|E3|
+R2-C07997|exclude|E3|
+R2-C07998|exclude|E3|
+R2-C07999|exclude|E2|
+R2-C08001|exclude|E3|
+R2-C08004|exclude|E3|
+R2-C08024|exclude|E3|
+R2-C08025|exclude|E3|
+R2-C08027|unsure|U|3D vis of heterogeneous interaction types in social network
+R2-C08028|exclude|E3|
+R2-C08032|exclude|E1|
+R2-C08033|exclude|E3|
+R2-C08034|exclude|E3|
+R2-C08035|exclude|E4|
+R2-C08038|exclude|E1|
+R2-C08039|exclude|E2|
+R2-C08044|exclude|E1|
+R2-C08052|exclude|E3|
+R2-C08053|exclude|E3|
+R2-C08054|exclude|E2|
+R2-C08055|exclude|E3|
+R2-C08056|exclude|E2|
+R2-C08059|exclude|E3|
+R2-C08060|exclude|E3|
+R2-C08061|exclude|E1|
+R2-C08062|exclude|E3|
+R2-C08069|exclude|E2|
+R2-C08071|exclude|E4|
+R2-C08072|exclude|E3|
+R2-C08073|background|B|overview of dynamic graph visualization; no abstract

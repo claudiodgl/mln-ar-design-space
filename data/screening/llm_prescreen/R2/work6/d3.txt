@@ -1,0 +1,140 @@
+R2-C11389|exclude|E3|
+R2-C11390|exclude|E1|
+R2-C11393|exclude|E1|
+R2-C11398|exclude|E2|
+R2-C11400|exclude|E2|
+R2-C11401|exclude|E2|
+R2-C11402|exclude|E3|
+R2-C11404|exclude|E2|
+R2-C11406|unsure||Thesis on situated visualization in motion; may be superseded
+R2-C11407|exclude|E2|
+R2-C11408|exclude|E2|
+R2-C11410|exclude|E1|
+R2-C11411|exclude|E1|
+R2-C11412|exclude|E3|
+R2-C11414|exclude|E2|
+R2-C11419|exclude|E1|
+R2-C11420|exclude|E1|
+R2-C11422|exclude|E2|
+R2-C11424|exclude|E1|
+R2-C11425|exclude|E4|
+R2-C11426|exclude|E4|
+R2-C11428|exclude|E1|
+R2-C11430|exclude|E1|
+R2-C11434|exclude|E2|
+R2-C11435|exclude|E1|
+R2-C11436|exclude|E6|
+R2-C11439|include|I3|Tactile node-link/matrix network representations for BLV users
+R2-C11440|exclude|E2|
+R2-C11444|exclude|E2|
+R2-C11445|exclude|E1|
+R2-C11446|exclude|E1|
+R2-C11456|exclude|E3|
+R2-C11457|unsure||Dynamic graph time navigation; small multiples of timeslices?
+R2-C11460|exclude|E2|
+R2-C11461|exclude|E1|
+R2-C11465|exclude|E1|
+R2-C11467|exclude|E1|
+R2-C11468|exclude|E1|
+R2-C11477|exclude|E2|
+R2-C11479|exclude|E4|
+R2-C11481|exclude|E3|
+R2-C11485|exclude|E3|
+R2-C11486|exclude|E2|
+R2-C11491|exclude|E2|
+R2-C11494|background|B|Taxonomy of immersive analytics (facet and position)
+R2-C11496|exclude|E3|
+R2-C11498|exclude|E1|
+R2-C11500|exclude|E1|
+R2-C11503|include|I4|Tangible tabletop with AR overlays for collaborative analytics
+R2-C11504|exclude|E2|
+R2-C11508|exclude|E1|
+R2-C11509|exclude|E1|
+R2-C11510|exclude|E2|
+R2-C11511|include|I1|Neuronal network vis with 3D time stacks (slices as layers)
+R2-C11512|exclude|E2|
+R2-C11514|exclude|E2|
+R2-C11520|exclude|E2|
+R2-C11523|exclude|E3|
+R2-C11525|exclude|E3|
+R2-C11527|exclude|E2|
+R2-C11528|exclude|E2|
+R2-C11529|exclude|E4|
+R2-C11530|exclude|E4|
+R2-C11532|exclude|E3|
+R2-C11536|exclude|E7|
+R2-C11540|exclude|E2|
+R2-C11541|background|B|Taxonomy of AR visualization techniques
+R2-C11545|exclude|E2|
+R2-C11546|exclude|E2|
+R2-C11547|exclude|E1|
+R2-C11550|exclude|E3|
+R2-C11555|exclude|E2|
+R2-C11556|exclude|E2|
+R2-C11578|exclude|E1|
+R2-C11579|unsure||Book chapter 3D mobile data vis; may cover AR
+R2-C11582|exclude|E2|
+R2-C11584|background|B|Classification of AR approaches for spatial data vis
+R2-C11585|exclude|E1|
+R2-C11589|exclude|E1|
+R2-C11591|exclude|E2|
+R2-C11593|exclude|E1|
+R2-C11594|unsure||Layered software city for dependencies; layered graph?
+R2-C11595|unsure||Multi-user AR data vis; no abstract, check anchoring
+R2-C11598|exclude|E3|
+R2-C11599|exclude|E1|
+R2-C11600|exclude|E1|
+R2-C11607|exclude|E1|
+R2-C11609|exclude|E3|
+R2-C11612|background|B|Survey on immersive visualization
+R2-C11619|unsure||AR urban digital twin for IoT data; likely situated
+R2-C11620|include|I5|User study of hybrid NodeTrix-like graph visualizations
+R2-C11622|exclude|E3|
+R2-C11625|exclude|E2|
+R2-C11628|unsure||AR visualizing invisible algal bloom data; likely situated
+R2-C11632|exclude|E1|
+R2-C11633|exclude|E1|
+R2-C11634|exclude|E2|
+R2-C11636|exclude|E1|
+R2-C11653|exclude|E2|
+R2-C11655|include|I4|Outdoor AR of subsurface utilities anchored on site
+R2-C11656|include|I4|Boat-referenced AR wind representation in HMD
+R2-C11657|include|I4|AR situated vis for decision-making (maybe extends C10731)
+R2-C11658|exclude|E5|
+R2-C11661|exclude|E5|
+R2-C11665|exclude|E3|
+R2-C11668|exclude|E1|
+R2-C11671|exclude|E1|
+R2-C11672|exclude|E2|
+R2-C11675|exclude|E1|
+R2-C11677|exclude|E2|
+R2-C11680|exclude|E1|
+R2-C11682|exclude|E2|
+R2-C11683|exclude|E5|
+R2-C11687|exclude|E2|
+R2-C11690|exclude|E1|
+R2-C11691|exclude|E2|
+R2-C11692|exclude|E2|
+R2-C11693|exclude|E2|
+R2-C11697|exclude|E2|
+R2-C11704|exclude|E1|
+R2-C11705|exclude|E1|
+R2-C11706|exclude|E2|
+R2-C11709|background|B|Book chapter on data physicalization
+R2-C11710|exclude|E6|
+R2-C11711|exclude|E6|
+R2-C11712|exclude|E5|
+R2-C11715|exclude|E5|
+R2-C11719|exclude|E3|
+R2-C11723|include|I4|X-ray depth perception through physical objects in AR
+R2-C11727|background|B|Systematic review: design guidelines for immersive dashboards
+R2-C11732|exclude|E1|
+R2-C11735|exclude|E2|
+R2-C11739|unsure||Generic AR data visualization; check physical anchoring
+R2-C11740|exclude|E4|
+R2-C11741|exclude|E2|
+R2-C11742|exclude|E2|
+R2-C11743|exclude|E1|
+R2-C11747|exclude|E1|
+R2-C11748|exclude|E2|
+R2-C11750|exclude|E3|

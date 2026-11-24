@@ -1,0 +1,85 @@
+cid,decision,code,note
+R4-C03250,exclude,E3,"desktop 3D GO hierarchy, single-layer"
+R4-C03658,unsure,I2?,"AR visualization of wireless networks; no abstract, workshop - check full text for graph view"
+R4-C03717,exclude,E5,demo video
+R4-C03817,exclude,E3,"technical report, single-layer bipartite GO networks"
+R4-C04651,exclude,E3,single-layer e-mail network viz
+R4-C04771,exclude,E1,SNA textbook
+R4-C04995,exclude,E5,proceedings volume
+R4-C05118,exclude,E3,graph layout algorithm
+R4-C05119,exclude,E3,graph layout algorithm
+R4-C05163,exclude,E5,proceedings volume
+R4-C05224,exclude,E5,textbook
+R4-C05245,exclude,E2,"AR clutter perception, no abstract data"
+R4-C05312,exclude,E2,VR molecular docking
+R4-C05753,exclude,E3,graph layout algorithm
+R4-C05901,exclude,E1,sensor-network survey
+R4-C06047,exclude,E2,AR location/navigation
+R4-C06094,exclude,E3,single-layer social network
+R4-C06103,exclude,E3,single-layer e-mail social network
+R4-C06168,exclude,E3,communication network analysis
+R4-C06214,exclude,E2,AR museum content
+R4-C06355,exclude,E5,proceedings volume
+R4-C06422,exclude,E2,"wireless UI, no network visualization evident"
+R4-C06515,exclude,E3,"Cytoscape plugin, single-layer"
+R4-C06615,exclude,E1,"network search, no visualization"
+R4-C06649,exclude,E3,"3D layered drawing of a single digraph (hierarchical layers, not network layers)"
+R4-C06679,exclude,E1,network analysis book
+R4-C06682,exclude,E2,VR seismic data
+R4-C06744,exclude,E5,textbook
+R4-C06769,exclude,E3,single-layer dependency graph
+R4-C06808,exclude,E4,"e-mail rhythms, time not as layers"
+R4-C06889,exclude,E4,"dynamic social metrics as surface, not layers"
+R4-C06955,exclude,E3,"Cytoscape plugin, single-layer"
+R4-C07017,exclude,E2,"sensor-network seams, no network visualization"
+R4-C07119,exclude,E1,organizational network analysis
+R4-C07196,exclude,E1,routing protocol
+R4-C07425,exclude,E1,camera tracking
+R4-C07731,exclude,E2,"immersive data mining, no network data"
+R4-C08029,exclude,E3,2D L2 topology visualization
+R4-C08054,exclude,E1,network measure
+R4-C08192,exclude,E1,"AR on phones, technical"
+R4-C08341,exclude,E3,single-layer layout decluttering
+R4-C08495,exclude,E3,"Cytoscape, single-layer"
+R4-C08572,exclude,E1,topology inference algorithm
+R4-C08813,exclude,E2,AR browser of geo-referenced POIs
+R4-C09422,exclude,E5,thesis
+R4-C09681,exclude,E3,"multivariate graph queries, single-layer"
+R4-C10017,exclude,E2,SAR robot workspace guidance
+R4-C10253,exclude,E2,infographics
+R4-C10509,exclude,E5,proceedings volume
+R4-C10664,exclude,E2,"cognition framework, no network/AR"
+R4-C10667,unsure,I2?,mobile AR assistant for VLAN network management - check whether a network/topology view is shown
+R4-C10700,unsure,I2?,AR VLAN visualizer anchored to physical switch - check whether a network view is shown
+R4-C10815,exclude,E4,2D MANET topology over time
+R4-C11030,exclude,E2,AR biofilm images
+R4-C11110,exclude,E5,proceedings/poster
+R4-C11147,exclude,E2,VR behaviour study
+R4-C11176,exclude,E2,AR measurement review
+R4-C11349,exclude,E5,proceedings volume
+R4-C11352,exclude,E5,proceedings volume
+R4-C11375,include,I2,mobile AR network topology visualization in situ
+R4-C11595,exclude,E5,proceedings volume
+R4-C11858,exclude,E2,AR finite-element field data
+R4-C12170,exclude,E2,agricultural AR positioning
+R4-C12323,exclude,E2,AR retail
+R4-C12645,include,I3,tangible (active tangibles + tabletop) gene network exploration
+R4-C12688,exclude,E2,AR occupational safety
+R4-C12752,exclude,E2,AR accessibility
+R4-C12769,exclude,E2,desktop VA of assembly lines
+R4-C12893,exclude,E2,IoT/AR review
+R4-C12952,exclude,E2,anatomical AR
+R4-C13311,exclude,E1,AR tracking
+R4-C14019,exclude,E2,"tangible energy feedback, no network"
+R4-C14356,exclude,E5,proceedings volume
+R4-C14816,exclude,E2,AR building data (physical)
+R4-C14843,exclude,E2,autographic visualization essay
+R4-C14906,exclude,E2,"data sculpture, no network"
+R4-C15455,unsure,I4?,AR energy feedback - check whether consumption shown as situated charts/glyphs
+R4-C15845,exclude,E2,MR education
+R4-C16328,exclude,E2,UAV models for AR
+R4-C16434,exclude,E5,web article
+R4-C16440,exclude,E2,"data sculpture, no network"
+R4-C17731,exclude,E2,MR architecture education
+R4-C18167,exclude,E5,proceedings volume
+R4-C18366,exclude,E2,VR dam monitoring

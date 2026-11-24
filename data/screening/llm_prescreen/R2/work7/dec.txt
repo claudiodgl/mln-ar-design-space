@@ -1,0 +1,545 @@
+12086 E2
+12087 E2
+12092 E2
+12094 E6|conference version of 12339 (J. Visualization)
+12096 E5
+12098 E2
+12104 unsure|dynamic brain network transitions; no abstract; check for slice layers
+12106 unsure|thesis: long dynamic networks on touch displays; check time-slice layers
+12109 E2
+12111 E4
+12114 E3
+12115 E2
+12117 unsure|UML diagrams (graphs) in VR; no abstract
+12120 unsure|AR data vis in presentations; check AR-specific spatial anchoring
+12123 unsure|mixed reality in wet lab, situated data?; no abstract
+12124 E1
+12129 E3
+12131 I2|mixed reality visualization of network topology graph
+12133 B|review of VR/AR in systems biology incl. networks
+12136 E2
+12140 I4|design framework for embedded vis in spatial AR
+12143 E2
+12146 E2
+12149 E2
+12150 E2
+12152 E1
+12153 E1
+12155 E3
+12156 E2
+12157 E1
+12159 E1
+12165 E2
+12173 E2
+12180 E2
+12182 E7
+12188 B|overview/typology of immersive data vis applications
+12191 I4|AR data vis overlaid on maritime environment
+12194 I2|XR tool incl. character network in VR and AR
+12198 E2
+12200 unsure|AR wind data in city planning; check situated anchoring
+12202 I4|AR data around physical scale models
+12205 E2
+12211 I4|in-situ AR motion data visualization
+12213 E2
+12217 E2
+12219 E2
+12221 E2
+12223 unsure|prosopographic network representation/vis; no abstract
+12224 E2
+12225 E3
+12229 unsure|compound graphs; check whether multilevel counts as multilayer
+12230 E5
+12231 E2
+12232 E1
+12233 E1
+12235 E2
+12238 B|review of augmented map research (AR cartography)
+12241 E3
+12242 E2
+12244 unsure|collab software vis in VR/mobile AR; graph-based?
+12246 unsure|collab software vis (likely ExplorViz, XR); graph-based?
+12248 E3
+12249 E1
+12250 E1
+12251 E3
+12256 I4|tangible AR interface constructing visualizations on surfaces
+12259 E1
+12262 E2
+12265 E3
+12271 E2
+12273 E6
+12274 unsure|heterogeneous (multi-type) biological networks in Cytoscape
+12278 E2
+12279 E2
+12282 unsure|multilayer network modelling of medieval relations; vis unclear
+12289 E3
+12292 E1
+12294 E3
+12297 unsure|dynamic graph snapshots; check juxtaposed slices
+12299 E1
+12308 E2
+12311 E2
+12315 E4
+12316 E3
+12317 E2
+12318 E1
+12320 E2
+12323 E2
+12327 I4|situated AR visualization evaluation
+12329 E3
+12334 E2
+12337 E2
+12338 E2
+12339 unsure|time-to-space mapping of dynamic graphs; juxtaposed slices?
+12343 E1
+12345 E1
+12346 E1
+12351 unsure|historical SNA modelling (bipartite/multilayer?) position paper
+12354 E3
+12361 E3
+12362 E3
+12363 E3
+12365 E3
+12366 E3
+12367 E3
+12372 E2
+12374 E3
+12380 I1|visual exploration of multilayer transportation networks
+12381 E2
+12386 E1
+12390 unsure|interactive clustering across multiple graphs; vis unclear
+12391 E2
+12392 E5
+12394 E2
+12395 E2
+12396 unsure|VR cell localization + bioinformatics, maybe networks; no abstract
+12398 E2
+12401 E2
+12405 E3
+12406 E1
+12408 E2
+12411 E2
+12412 E1
+12413 E3
+12416 E2
+12420 E2
+12423 E1
+12424 E2
+12430 E2
+12436 E1
+12444 E2
+12453 I4|tangible hand-held slicer for MR volume visualization
+12454 unsure|multi-omics subgraph brushing; possibly multilayer; no abstract
+12458 E4
+12465 E3
+12468 E1
+12469 E1
+12470 E1
+12471 E1
+12472 E1
+12473 E1
+12477 E1
+12478 E1
+12479 E1
+12481 E2
+12482 E3
+12484 E2
+12487 E1
+12488 E1
+12489 E3
+12492 E7
+12493 unsure|multi-omics (multilayer) network vis, 3D; check
+12494 E4
+12495 I2|VR visualization of network models
+12496 B|review of multiple representations in immersive vis
+12501 E3
+12504 E1
+12508 E2
+12515 E2
+12525 E2
+12527 E1
+12528 E2
+12532 E1
+12533 E3
+12538 unsure|in-situ immersive replay of MR study data; AR-specific?
+12543 E2
+12546 unsure|robotic haptic tangible proxy for immersive analytics
+12550 E2
+12551 E1
+12558 E1
+12560 E2
+12564 E3
+12567 E3
+12568 E1
+12569 I4|AR IoT data bound to physical objects
+12570 unsure|3D software city, static+dynamic dependency edge types
+12573 E1
+12577 E2
+12579 E3
+12584 E2
+12587 E2
+12592 B|review of in-situ digital twin access (AR, smart cities)
+12596 E2
+12598 E3
+12599 E3
+12602 E3
+12609 E1
+12614 E2
+12616 E5
+12617 E2
+12620 I2|VR interface for biomolecular networks
+12621 E2
+12624 E3
+12627 E1
+12628 unsure|UML diagrams (graphs) in VR
+12629 E7
+12631 E3
+12634 E1
+12641 E2
+12642 I1|3D time-stack network vis of neuronal data
+12644 I4|AR in-situ airflow simulation in real room
+12646 E2
+12647 E2
+12648 E2
+12649 E2
+12652 E2
+12655 E4
+12656 E3
+12658 E5
+12660 E2
+12661 E3
+12662 unsure|bipartite multivariate dynamic networks; no abstract
+12668 E7
+12669 E2
+12670 B|systematic review of visualization in VR
+12674 E2
+12675 E3
+12679 E2
+12687 E2
+12693 E5
+12697 E1
+12700 unsure|comparison of multilayer network software (vis?); no abstract
+12702 unsure|AR safety zones anchored to robot arm; data vis?
+12703 B|survey of AR local collaboration
+12709 E1
+12711 E1
+12714 E3
+12715 B|survey of immersive visualization
+12717 B|survey of knowledge graph (multi-relational) visual analytics
+12723 E1
+12724 E2
+12729 I4|tangible proxies bound to physical referents, situated vis
+12736 E6
+12737 E1
+12740 E2
+12742 E1
+12743 E1
+12745 E2
+12746 E3
+12753 B|SLR of immersive analytics applications
+12754 E6
+12757 E2
+12762 I4|off-screen POI visualization in mobile AR
+12763 E2
+12766 I4|AR 3D arrows for off-screen POIs
+12767 unsure|thesis AR+physical collab analysis; French? check language
+12769 unsure|AR for astronomy publications; possibly paper-anchored
+12770 E2
+12771 E2
+12772 unsure|AR safety zones around real robot; data vis?
+12775 E2
+12779 B|overview of network vis beyond node-link (time, geo)
+12780 E2
+12785 E2
+12787 E1
+12788 E3
+12790 B|review of levels of detail in AR cartography
+12791 E2
+12792 I4|combining physicalization with AR
+12793 E3
+12796 E1
+12797 unsure|device-based interaction in medical spatial AR
+12798 E1
+12800 E2
+12806 E1
+12807 E2
+12808 E1
+12809 unsure|AR+tablet hybrid geospatial trajectories; no abstract
+12810 I5|evaluation of hybrid graph visualizations
+12813 E2
+12814 E2
+12817 E2
+12818 E1
+12820 E3
+12824 E3
+12826 E2
+12827 E2
+12828 E7
+12830 B|position on anywhere/everywhere (ubiquitous) analytics
+12831 E2
+12832 E2
+12838 E2
+12839 E2
+12840 E1
+12842 E1
+12843 E2
+12845 E2
+12848 I4|design patterns for situated AR visualization
+12850 E2
+12853 E2
+12854 B|position on situated dashboards challenges
+12856 E1
+12860 E4
+12863 E1
+12864 E3
+12865 E2
+12867 E2
+12871 I4|situated links in outdoor AR to real buildings
+12874 E3
+12881 E1
+12884 E2
+12886 E3
+12887 E2
+12888 B|review of data physicalization encoding/evaluation
+12889 E1
+12890 E1
+12891 E2
+12892 unsure|AR visualization system; AR-specific values unclear
+12895 E2
+12896 E3
+12900 E2
+12901 I2|VR interaction techniques for 3D graphs
+12906 E1
+12907 I4|extended situated visualization model for AR/MR
+12910 E3
+12914 I4|in-situ immersive visualization of WiFi signals
+12915 E2
+12918 E2
+12920 E1
+12922 E1
+12926 E3
+12929 I4|AR in-situ radio signal visualization
+12930 E3
+12931 unsure|AR visualization of control-flow diagrams (graphs)
+12936 E2
+12939 E1
+12940 E2
+12941 E2
+12945 E5
+12947 E3
+12951 E3
+12952 E3
+12954 I4|smartphone touch proxies for MR visualizations
+12956 E2
+12957 E1
+12958 E3
+12959 unsure|mobile AR infovis toolkit; spatial anchoring?
+12960 E1
+12962 E1
+12965 E2
+12966 E2
+12967 E2
+12968 unsure|thesis on situated AR data representations; language check
+12969 unsure|AR unit visualization; AR-specific anchoring?
+12970 E2
+12971 E3
+12972 E2
+12973 E3
+12977 E1
+12978 E2
+12980 E3
+12983 E1
+12987 E4
+12990 E1
+12991 E1
+12993 E1
+12994 E1
+12996 E4
+12997 unsure|trans-omics multi-type network visualization; layered?
+12998 E2
+13001 E2
+13002 E3
+13003 E3
+13004 E1
+13009 E1
+13010 E3
+13011 E3
+13012 I4|situated vis blended with physical environment
+13013 E2
+13019 unsure|co-located AR collaborative vis; AR-specific?
+13020 E2
+13022 E2
+13027 E3
+13029 I4|mobile AR in-situ solar data on facades
+13032 E1
+13035 E3
+13036 E2
+13037 E2
+13038 E3
+13039 E1
+13040 E1
+13042 E1
+13048 E1
+13050 E1
+13051 E1
+13052 E3
+13056 E1
+13058 E1
+13062 unsure|neuroinformatics platform, brain networks, possibly immersive
+13063 E1
+13064 I4|AR lenses for in-situ movement analysis
+13065 E1
+13066 E2
+13067 E2
+13068 E2
+13070 E1
+13082 E1
+13083 E2
+13085 E1
+13090 I4|situated vis model with proxies for physical referents
+13091 I4|cross-platform situated analytics framework MR/VR
+13092 E2
+13094 E1
+13099 E3
+13103 E2
+13105 E1
+13107 E1
+13111 E5
+13112 I2|VRnetzer VR platform for combat network analysis
+13113 unsure|AR interactive data vis framework; details unclear
+13116 E1
+13120 E2
+13124 E2
+13125 E3
+13126 E2
+13127 I4|situated AR trajectory visualization of pose error
+13139 E1
+13141 E2
+13142 I4|on-site AR sports visualization
+13144 E2
+13148 E3
+13149 E2
+13150 E1
+13151 E2
+13154 E2
+13156 E2
+13161 E1
+13168 E2
+13173 I5|complexity of ChordLink hybrid representation
+13174 E2
+13175 E2
+13176 E2
+13184 B|survey of situated analytics
+13185 E1
+13186 unsure|egocentric spherical graph space; possibly VR
+13187 B|STAR dynamic multivariate networks
+13188 E2
+13190 E2
+13192 E3
+13197 E4
+13199 I4|situated AR visualization board game
+13200 unsure|timeslice analysis of dynamic visualizations; no abstract
+13201 E3
+13202 E3
+13203 E1
+13211 E1
+13212 I1|2.5D layered visualization of trans-omic networks
+13216 E4
+13218 E2
+13219 E2
+13220 E2
+13225 E3
+13226 I2|VR ontology graph manipulation
+13227 E1
+13228 E3
+13230 E2
+13233 E2
+13234 E3
+13235 E2
+13238 I2|VR access to knowledge graphs
+13239 E2
+13240 unsure|VR metaphorical vis of electric networks; graph?
+13245 E2
+13247 E2
+13251 E2
+13253 E2
+13254 E2
+13255 I4|placement of situated vis in outdoor AR tours
+13258 E3
+13260 E3
+13261 E2
+13264 I2|VR visualization of biological networks
+13267 E1
+13269 E2
+13273 E2
+13274 E2
+13275 E5
+13276 E2
+13279 E4
+13293 E2
+13299 E3
+13300 E3
+13301 E2
+13303 E2
+13304 E1
+13308 E3
+13309 unsure|software vis across devices incl. AR/VR; graph-based?
+13310 unsure|co-located AR collaborative analysis, display types
+13313 B|survey immersive cyber situational awareness
+13316 E2
+13319 E1
+13320 E2
+13321 E2
+13322 E2
+13323 unsure|wearable AR building occupancy monitoring; situated?
+13324 E1
+13330 E2
+13334 E3
+13335 E2
+13341 E2
+13342 E2
+13343 E1
+13347 E3
+13351 I4|mobile AR solar facades; possible extension of 13029
+13352 E2
+13353 E1
+13357 E2
+13358 E2
+13361 E2
+13364 E2
+13367 E2
+13369 E2
+13370 E3
+13384 E2
+13390 I4|brushing and linking for situated analytics
+13396 E2
+13398 E2
+13401 unsure|dynamic graph snapshots in common space; layering?
+13404 E1
+13405 E2
+13406 E2
+13407 E2
+13408 E5
+13409 unsure|collaborative VR software exploration; graph-based?
+13412 E1
+13413 E2
+13417 I4|AR radiation vis on spatial mesh
+13424 E1
+13426 E2
+13427 I1|matrix orderings for graph collections (time/specimens)
+13431 E2
+13433 B|SOTA AR data visualization for decision-making
+13439 E2
+13440 E2
+13441 E1
+13442 E4
+13443 E3
+13444 E1
+13445 E2
+13446 E2
+13449 unsure|immersive Sankey (flow graph) in VR
+13456 I4|off-screen POI indicator in handheld AR
+13460 E2
+13463 I4|visual comparison of physical targets in MR
+13466 E1

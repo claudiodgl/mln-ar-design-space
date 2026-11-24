@@ -1,0 +1,537 @@
+cid,decision,code,note
+C01073,exclude,E1,
+C01074,exclude,E1,
+C01075,exclude,E1,
+C01076,exclude,E2,
+C01077,exclude,E2,
+C01078,exclude,E1,
+C01079,unsure,,Multi-omics web app; multilayer network vis unclear
+C01080,exclude,E1,
+C01081,exclude,E4,
+C01082,exclude,E1,
+C01083,include,I1,mully R package: create/visualize multilayer networks
+C01084,exclude,E2,
+C01085,exclude,E1,
+C01086,unsure,,Multilayer document networks visualized; vis contribution unclear
+C01087,exclude,E1,
+C01088,unsure,,Multilayer pathway R package; visualization unclear
+C01089,exclude,E2,
+C01090,exclude,E1,
+C01091,unsure,,Holographic immersive network management interface
+C01092,exclude,E1,
+C01093,exclude,E1,
+C01094,exclude,E3,
+C01095,exclude,E2,
+C01096,include,I4,Personal head-mounted AR with large displays for InfoVis
+C01097,include,I2,AR + shared display network path-following techniques
+C01098,exclude,E2,
+C01099,exclude,E2,
+C01100,exclude,E4,
+C01101,exclude,E1,
+C01102,include,I4,RealitySketch: responsive AR visualizations embedded in world
+C01103,exclude,E5,
+C01104,exclude,E1,
+C01105,exclude,E2,
+C01106,exclude,E1,
+C01107,exclude,E2,
+C01108,exclude,E1,
+C01109,exclude,E3,
+C01110,exclude,E1,
+C01111,exclude,E2,
+C01112,exclude,E5,
+C01113,exclude,E1,
+C01114,exclude,E1,
+C01115,exclude,E2,
+C01116,exclude,E1,
+C01117,exclude,E1,
+C01118,exclude,E1,
+C01119,background,B,Monash immersive analytics/network vis lab review
+C01120,exclude,E1,
+C01121,exclude,E2,
+C01122,exclude,E2,
+C01123,exclude,E3,
+C01124,exclude,E6,superseded by journal version C01217
+C01125,exclude,E1,
+C01126,exclude,E2,
+C01127,include,I2,VR home IoT network visualizer
+C01128,exclude,E2,
+C01129,exclude,E1,
+C01130,exclude,E2,
+C01131,exclude,E1,
+C01132,unsure,,Software architecture dependency vis in VR
+C01133,unsure,,Layered set-intersection graphs over time
+C01134,unsure,,Historical network evolution via graphs and matrices
+C01135,exclude,E2,
+C01136,exclude,E5,
+C01137,exclude,E7,
+C01138,unsure,,Temporal contact network vis study; no abstract
+C01139,exclude,E1,
+C01140,exclude,E1,
+C01141,exclude,E1,
+C01142,include,I2,Multi-layout immersive (XR) network visualization
+C01143,exclude,E4,
+C01144,exclude,E1,
+C01145,exclude,E1,
+C01146,exclude,E1,
+C01147,exclude,E2,
+C01148,include,I4,Tangible AR interface for echocardiography visualization
+C01149,exclude,E2,
+C01150,exclude,E1,
+C01151,exclude,E1,
+C01152,unsure,,Dashboard for MLN analysis results? unclear
+C01153,exclude,E1,
+C01154,exclude,E1,
+C01155,unsure,,Graph analysis on monitor vs VR; graph type unclear
+C01156,include,I1,multinet R package for multiplex networks incl. visualization
+C01157,exclude,E1,
+C01158,unsure,,Version of C01155; no abstract
+C01159,exclude,E2,
+C01160,exclude,E1,
+C01161,exclude,E1,
+C01162,background,B,ARtention design space for gaze-adaptive AR interfaces
+C01163,exclude,E1,
+C01164,background,B,MLN book chapter: attribute visualization and MLNs
+C01165,exclude,E5,
+C01166,exclude,E1,
+C01167,exclude,E1,
+C01168,exclude,E1,
+C01169,exclude,E1,
+C01170,include,I2,Aroaro mixed-reality multi-user network data visualization
+C01171,include,I4,Design space of emotional AR visualizations
+C01172,exclude,E4,
+C01173,exclude,E1,
+C01174,exclude,E5,
+C01175,unsure,,COVID dashboard visualizing multilayer network analysis
+C01176,exclude,E5,
+C01177,exclude,E1,
+C01178,exclude,E1,
+C01179,exclude,E2,
+C01180,exclude,E1,
+C01181,unsure,,Linked node-link/matrix dynamic graph; hybrid representation
+C01182,exclude,E1,
+C01183,exclude,E1,
+C01184,exclude,E5,
+C01185,exclude,E1,
+C01186,include,I2,Egocentric immersive network exploration
+C01187,exclude,E2,
+C01188,exclude,E2,
+C01189,background,B,MLN book chapter: evaluation of MLN vis systems
+C01190,exclude,E1,
+C01191,exclude,E2,
+C01192,unsure,,Temporal encodings study; juxtaposed slices possible
+C01193,exclude,E2,
+C01194,exclude,E2,
+C01195,exclude,E1,
+C01196,exclude,E1,
+C01197,exclude,E1,
+C01198,exclude,E1,
+C01199,exclude,E4,
+C01200,exclude,E1,
+C01201,background,B,Survey: multilayer graph models for pathway visualization
+C01202,exclude,E2,
+C01203,include,I1,Visual network analytics for complex multilayer networks
+C01204,include,I3,Physicalised 2D graph layout comprehension study
+C01205,exclude,E1,
+C01206,exclude,E1,
+C01207,exclude,E6,superseded by journal extension C01457
+C01208,exclude,E2,
+C01209,include,I2,Immersive exploration of hierarchical networks in VR
+C01210,include,I2,Immersive pedigree graph layouts in VR
+C01211,exclude,E2,
+C01212,exclude,E1,
+C01213,exclude,E1,
+C01214,exclude,E2,
+C01215,exclude,E1,
+C01216,exclude,E1,
+C01217,include,I1,"TimeNexus Cytoscape app, temporal multilayer networks"
+C01218,exclude,E5,
+C01219,exclude,E2,
+C01220,exclude,E1,
+C01221,exclude,E1,
+C01222,exclude,E1,
+C01223,exclude,E1,
+C01224,exclude,E1,
+C01225,unsure,,LEVELNET multilayer PPI networks; vis unclear
+C01226,exclude,E1,
+C01227,exclude,E1,
+C01228,exclude,E1,
+C01229,exclude,E1,
+C01230,exclude,E2,
+C01231,exclude,E3,
+C01232,exclude,E1,
+C01233,include,I1,Force-directed multilayer network visualization method
+C01234,exclude,E1,
+C01235,exclude,E1,
+C01236,exclude,E1,
+C01237,exclude,E1,
+C01238,exclude,E1,
+C01239,exclude,E1,
+C01240,exclude,E1,
+C01241,exclude,E1,
+C01242,exclude,E1,
+C01243,exclude,E1,
+C01244,exclude,E1,
+C01245,exclude,E1,
+C01246,include,I1,Interactive visual analysis system on multilayer graphs (tax)
+C01247,exclude,E1,
+C01248,unsure,,Immersive archival interface connecting interpretations
+C01249,exclude,E1,
+C01250,exclude,E2,
+C01251,exclude,E1,
+C01252,exclude,E1,
+C01253,exclude,E2,
+C01254,exclude,E1,
+C01255,exclude,E1,
+C01256,exclude,E1,
+C01257,exclude,E1,
+C01258,exclude,E1,
+C01259,background,B,MLN book chapter: task taxonomy for multilayer networks
+C01260,exclude,E1,
+C01261,exclude,E2,
+C01262,exclude,E5,
+C01263,exclude,E1,
+C01264,exclude,E2,
+C01265,exclude,E1,
+C01266,include,I4,Actuated tangible axis device for immersive data vis
+C01267,exclude,E1,
+C01268,exclude,E2,
+C01269,include,I2,VRNetzer VR network analysis platform
+C01270,exclude,E2,
+C01271,include,I4,Tangible AR kit for visualizing heritage artefacts
+C01272,include,I2,Collaborative graph visualization environment in VR
+C01273,exclude,E1,
+C01274,include,I2,Graph visualisations moved from planar displays into AR
+C01275,exclude,E1,
+C01276,exclude,E1,
+C01277,exclude,E1,
+C01278,exclude,E1,
+C01279,exclude,E1,
+C01280,exclude,E1,
+C01281,exclude,E1,
+C01282,exclude,E1,
+C01283,include,I1,VERTIGo visual querying/exploration of multilayer networks
+C01284,exclude,E2,
+C01285,exclude,E1,
+C01286,include,I2,VR force-directed graph visualization
+C01287,background,B,Book: Visual Analysis of Multilayer Networks
+C01288,include,I2,Visual linking of feature values in immersive graph vis
+C01289,background,B,Review of metabolic pathway/network visualization
+C01290,unsure,,Sub-network sets sampling; references multilayer vis
+C01291,exclude,E2,
+C01292,exclude,E5,
+C01293,exclude,E1,
+C01294,exclude,E1,
+C01295,unsure,,3D graph algorithm for MLN analytics; no abstract
+C01296,exclude,E1,
+C01297,exclude,E1,
+C01298,exclude,E1,
+C01299,include,I2,Grapho: XR graph data visualization mechanic
+C01300,include,I4,Design space 2D/3D vis transformations in MR
+C01301,exclude,E2,
+C01302,exclude,E1,
+C01303,exclude,E1,
+C01304,exclude,E3,
+C01305,exclude,E1,
+C01306,exclude,E2,
+C01307,exclude,E2,
+C01308,exclude,E3,
+C01309,exclude,E1,
+C01310,exclude,E1,
+C01311,exclude,E2,
+C01312,exclude,E5,
+C01313,exclude,E1,
+C01314,exclude,E1,
+C01315,include,I2,Interactive AR node-link graph visualization
+C01316,exclude,E1,
+C01317,exclude,E1,
+C01318,include,I1,Arena3Dweb 3D multilayer network visualization (VR mode)
+C01319,include,I4,Off-screen POI visualization in handheld AR
+C01320,include,I4,Out-of-view object visualization techniques handheld AR
+C01321,exclude,E1,
+C01322,exclude,E1,
+C01323,exclude,E2,
+C01324,include,I4,AR safety zones anchored on physical robot arm
+C01325,exclude,E1,
+C01326,exclude,E1,
+C01327,exclude,E1,
+C01328,exclude,E1,
+C01329,exclude,E1,
+C01330,exclude,E1,
+C01331,exclude,E1,
+C01332,exclude,E2,
+C01333,exclude,E1,
+C01334,exclude,E1,
+C01335,exclude,E5,
+C01336,exclude,E2,
+C01337,exclude,E1,
+C01338,exclude,E1,
+C01339,exclude,E1,
+C01340,exclude,E1,
+C01341,exclude,E1,
+C01342,exclude,E1,
+C01343,exclude,E5,
+C01344,exclude,E1,
+C01345,exclude,E5,
+C01346,exclude,E2,
+C01347,exclude,E1,
+C01348,exclude,E3,
+C01349,exclude,E1,
+C01350,exclude,E2,
+C01351,exclude,E5,
+C01352,exclude,E5,
+C01353,exclude,E1,
+C01354,exclude,E1,
+C01355,unsure,,Multi-layer network topology vis system; unclear
+C01356,exclude,E1,
+C01357,exclude,E1,
+C01358,exclude,E1,
+C01359,exclude,E1,
+C01360,exclude,E5,
+C01361,exclude,E5,
+C01362,exclude,E5,
+C01363,exclude,E1,
+C01364,exclude,E1,
+C01365,exclude,E1,
+C01366,exclude,E2,
+C01367,exclude,E1,
+C01368,exclude,E4,
+C01369,exclude,E1,
+C01370,unsure,,Hybrid reality overview+detail immersive vis; no abstract
+C01371,include,I4,Design space: printed visualizations augmented with AR
+C01372,exclude,E2,
+C01373,exclude,E1,
+C01374,exclude,E1,
+C01375,exclude,E1,
+C01376,exclude,E2,
+C01377,exclude,E1,
+C01378,exclude,E2,
+C01379,exclude,E5,
+C01380,exclude,E1,
+C01381,exclude,E1,
+C01382,exclude,E2,
+C01383,exclude,E1,
+C01384,exclude,E2,
+C01385,exclude,E2,
+C01386,include,I4,Hybrid touch/tangible spatial selection in AR
+C01387,exclude,E1,
+C01388,include,I2,Immersive theater network visualization of literature
+C01389,exclude,E2,
+C01390,exclude,E2,
+C01391,background,B,Survey of interactive XR techniques in InfoVis
+C01392,include,I4,Situated MR visualization of wireless network behavior
+C01393,exclude,E4,
+C01394,exclude,E1,
+C01395,exclude,E1,
+C01396,exclude,E1,
+C01397,exclude,E3,
+C01398,exclude,E1,
+C01399,unsure,,New approach visualizing network data; no abstract
+C01400,exclude,E5,
+C01401,exclude,E1,
+C01402,exclude,E2,
+C01403,exclude,E1,
+C01404,exclude,E2,
+C01405,exclude,E1,
+C01406,exclude,E1,
+C01407,exclude,E1,
+C01408,background,B,Survey of mixed-reality-based visual analytics
+C01409,unsure,,ModViz drill-down vis architecture; possibly MLN
+C01410,exclude,E1,
+C01411,exclude,E1,
+C01412,background,B,Book: Multilayer Networks: Analysis and Visualization
+C01413,exclude,E2,
+C01414,exclude,E1,
+C01415,exclude,E1,
+C01416,include,I2,Immersive adjacency matrix with parallel coordinates
+C01417,include,I1,MultiViz Gephi plugin for multilayer network visualization
+C01418,exclude,E1,
+C01419,include,I2,NetImmerse: UX of immersive network exploration
+C01420,exclude,E1,
+C01421,exclude,E1,
+C01422,unsure,,Neural network structure visualization in VR
+C01423,exclude,E2,
+C01424,unsure,,Structural x temporal encodings; juxtaposition possible
+C01425,exclude,E2,
+C01426,include,I3,"Path tracing in 2D, 3D and physicalized networks"
+C01427,exclude,E1,
+C01428,exclude,E1,
+C01429,exclude,E2,
+C01430,exclude,E1,
+C01431,exclude,E1,
+C01432,exclude,E2,
+C01433,exclude,E1,
+C01434,exclude,E1,
+C01435,exclude,E1,
+C01436,exclude,E1,
+C01437,exclude,E2,
+C01438,exclude,E1,
+C01439,exclude,E1,
+C01440,include,I4,Situated space-time cube analytics in AR
+C01441,exclude,E1,
+C01442,exclude,E2,
+C01443,exclude,E2,
+C01444,include,I4,Tangible globes for AR data visualisation
+C01445,exclude,E2,
+C01446,exclude,E2,
+C01447,exclude,E1,
+C01448,exclude,E1,
+C01449,exclude,E1,
+C01450,unsure,,"Perspective on network visualization, possibly VR"
+C01451,exclude,E1,
+C01452,exclude,E1,
+C01453,exclude,E2,
+C01454,unsure,,Mobile AR visualization of recommendation explanations
+C01455,exclude,E3,
+C01456,exclude,E1,
+C01457,include,I2,Immersive 3D VR multi-modal brain network visualization
+C01458,unsure,,Virtual Data Explorer (VR network vis?) interactions
+C01459,include,I2,VR node-link ontology manipulation (VROOM)
+C01460,include,I2,Visual comparison of weighted networks in VR
+C01461,exclude,E1,
+C01462,background,B,Book chapter: visualizing multilayer networks and data
+C01463,include,I4,WaveRider MR situated signal propagation visualization
+C01464,exclude,E1,
+C01465,exclude,E2,
+C01466,include,I1,2D/2.5D/3D multilayer network layouts in VR study
+C01467,include,I2,3D mixed reality network topology for cyber teams
+C01468,exclude,E1,
+C01469,exclude,E1,
+C01470,unsure,,Immersive VR vis of neuronal network data
+C01471,exclude,E2,
+C01472,exclude,E1,
+C01473,exclude,E2,
+C01474,exclude,E1,
+C01475,exclude,E3,
+C01476,exclude,E1,
+C01477,include,I2,Aesthetic-driven navigation of node-link diagrams in VR
+C01478,include,I2,Curved 3D graphs aesthetics/comprehension in VR
+C01479,exclude,E2,
+C01480,exclude,E1,
+C01481,exclude,E1,
+C01482,exclude,E1,
+C01483,exclude,E1,
+C01484,exclude,E1,
+C01485,include,I4,AR disocclusion interfaces using spatial context
+C01486,exclude,E1,
+C01487,exclude,E1,
+C01488,exclude,E5,
+C01489,exclude,E5,
+C01490,exclude,E1,
+C01491,exclude,E1,
+C01492,exclude,E5,
+C01493,exclude,E1,
+C01494,exclude,E2,
+C01495,exclude,E1,
+C01496,exclude,E1,
+C01497,exclude,E1,
+C01498,exclude,E2,
+C01499,exclude,E1,
+C01500,exclude,E1,
+C01501,exclude,E1,
+C01502,exclude,E1,
+C01503,exclude,E5,
+C01504,exclude,E1,
+C01505,exclude,E1,
+C01506,exclude,E1,
+C01507,exclude,E1,
+C01508,exclude,E2,
+C01509,exclude,E5,
+C01510,exclude,E5,
+C01511,exclude,E1,
+C01512,exclude,E1,
+C01513,exclude,E1,
+C01514,exclude,E5,
+C01515,exclude,E1,
+C01516,exclude,E1,
+C01517,exclude,E1,
+C01518,exclude,E2,
+C01519,exclude,E1,
+C01520,exclude,E1,
+C01521,exclude,E1,
+C01522,include,I2,DGT-AR node-link code dependency visualization in AR
+C01523,exclude,E2,
+C01524,exclude,E1,
+C01525,exclude,E1,
+C01526,exclude,E1,
+C01527,exclude,E5,
+C01528,exclude,E5,
+C01529,exclude,E5,
+C01530,exclude,E1,
+C01531,exclude,E2,
+C01532,exclude,E1,
+C01533,exclude,E1,
+C01534,include,I4,View management for situated vis in handheld AR
+C01535,include,I4,AR situated analytics with movable physical referents
+C01536,exclude,E1,
+C01537,exclude,E1,
+C01538,exclude,E1,
+C01539,unsure,,3D extended adjacency matrices; matrix-cube-like
+C01540,exclude,E1,
+C01541,exclude,E1,
+C01542,exclude,E1,
+C01543,include,I2,GAV-VR framework for graph visualisation in VR
+C01544,exclude,E1,
+C01545,exclude,E1,
+C01546,include,I2,Graph theory made embodied in VR (no abstract)
+C01547,include,I4,Situated visualizations with non-visible physical referents
+C01548,exclude,E2,
+C01549,exclude,E1,
+C01550,exclude,E1,
+C01551,unsure,,Immersive VR neural network visualization
+C01552,exclude,E2,
+C01553,unsure,,MR heritage system on knowledge graph
+C01554,exclude,E1,
+C01555,exclude,E1,
+C01556,include,I2,AR node-link diagrams cognitive preference study
+C01557,unsure,,Embodied navigation of network visualizations
+C01558,unsure,,LEVELNET multilayer PPI network visualization tool
+C01559,exclude,E2,
+C01560,exclude,E1,
+C01561,exclude,E1,
+C01562,exclude,E1,
+C01563,exclude,E1,
+C01564,exclude,E1,
+C01565,exclude,E1,
+C01566,exclude,E1,
+C01567,exclude,E2,
+C01568,exclude,E1,
+C01569,include,I1,MLN-Visualizer for multilayer network analysis results
+C01570,exclude,E2,
+C01571,unsure,,Dynamic network snapshots/motifs; slice representation unclear
+C01572,exclude,E1,
+C01573,exclude,E1,
+C01574,exclude,E1,
+C01575,exclude,E1,
+C01576,exclude,E1,
+C01577,exclude,E1,
+C01578,exclude,E1,
+C01579,exclude,E1,
+C01580,exclude,E1,
+C01581,unsure,,Structural x temporal encodings; juxtaposition possible
+C01582,exclude,E1,
+C01583,exclude,E4,
+C01584,exclude,E1,
+C01585,exclude,E2,
+C01586,exclude,E1,
+C01587,exclude,E1,
+C01588,exclude,E1,
+C01589,exclude,E1,
+C01590,exclude,E5,
+C01591,exclude,E1,
+C01592,exclude,E2,
+C01593,exclude,E1,
+C01594,exclude,E2,
+C01595,exclude,E1,
+C01596,exclude,E2,
+C01597,exclude,E1,
+C01598,exclude,E1,
+C01599,exclude,E2,
+C01600,exclude,E2,
+C01601,exclude,E1,
+C01602,exclude,E2,
+C01603,exclude,E1,
+C01604,exclude,E1,
+C01605,exclude,E1,
+C01606,exclude,E1,
+C01607,exclude,E1,
+C01608,exclude,E1,

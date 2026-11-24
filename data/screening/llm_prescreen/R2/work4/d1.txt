@@ -1,0 +1,140 @@
+0|E3|
+1|U|AR see-through vision on real objects; check if data vis (I4)
+2|E3|
+3|E2|
+4|E1|
+5|E2|
+6|E2|
+7|E5|
+8|E3|
+9|U|signed networks: two edge types as multi-relational?
+10|E3|
+11|E3|
+12|E6|duplicate of NetworkCube record without abstract (R2-C08336)
+13|E3|
+14|E4|
+15|E3|
+16|E1|
+17|E1|
+18|E3|
+19|E2|
+20|E2|
+21|E3|
+22|E3|
+23|E3|
+24|U|hybrid tree-matrix; check if I5 building block
+25|E2|
+26|U|2.5D separating network and geographic layers; check stacking
+27|U|dynamic graph sequence with different metaphors; juxtaposed slices?
+28|E1|
+29|E4|
+30|E3|
+31|E4|
+32|E4|
+33|E2|
+34|E2|
+35|E2|
+36|E3|
+37|E2|
+38|E3|
+39|E1|
+40|U|AR fMRI volume rendering; check physical anchoring
+41|E3|
+42|U|AR X-ray legibility; check if data vis (I4)
+43|E2|
+44|E2|
+45|U|no abstract; temporal semantic graph vis, layering unknown
+46|E2|
+47|E1|
+48|E2|
+49|E4|
+50|U|on-patient AR medical vis; physical anchoring (I4?)
+51|E5|
+52|E3|
+53|E7|
+54|E3|
+55|E3|
+56|E3|
+57|E3|
+58|E3|
+59|E1|
+60|E3|
+61|E3|
+62|E1|
+63|E5|
+64|E5|
+65|B|Immersive Analytics position paper (Chandler et al. BDVA 2015)
+66|E6|duplicate citation of Immersive Analytics BDVA 2015 (R2-C08251)
+67|E2|
+68|E2|
+69|E1|
+70|E1|
+71|E3|
+72|E3|
+73|E3|
+74|E3|
+75|E3|
+76|U|no abstract; dynamic multivariate networks, layering unknown
+77|E2|
+78|E2|
+79|E1|
+80|E1|
+81|E3|
+82|E3|
+83|E4|
+84|I1|layer-centered multigraph visualization technique
+85|E7|
+86|E1|
+87|E1|
+88|E4|
+89|U|AR ghosted views; check if data vis (I4)
+90|E3|
+91|E3|
+92|E1|
+93|E1|
+94|E1|
+95|E3|
+96|E1|
+97|E3|
+98|E1|
+99|E3|
+100|U|dynamic network platform; may include matrix-cube/layered views
+101|E3|
+102|E1|
+103|E3|
+104|E2|
+105|E3|
+106|I1|small multiples (juxtaposed time slices) vs animation study
+107|E3|
+108|E3|
+109|E1|
+110|E5|
+111|E5|
+112|E3|
+113|E1|
+114|I4|spatial AR with tangible 3D-printed terrain referent
+115|E2|
+116|E5|
+117|E5|
+118|E1|
+119|E2|
+120|E3|
+121|U|AR label/info visibility in context; check if I4
+122|E4|
+123|E2|
+124|E1|
+125|E3|
+126|E3|
+127|I4|situated analytics, AR vis anchored to physical objects
+128|E3|
+129|E3|
+130|E4|
+131|E2|
+132|E2|
+133|E1|
+134|E3|
+135|E2|
+136|E2|
+137|E4|
+138|E3|
+139|E3|

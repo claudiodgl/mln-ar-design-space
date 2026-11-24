@@ -1,0 +1,545 @@
+C02632|E3
+C02633|E5
+C02634|E5
+C02637|U|AR+GIS markerless AR fragment; check content
+C02638|E5
+C02640|E5
+C02641|E5
+C02645|U|TimeTables immersive spatio-temporal; may use physical table referent
+C02649|E1
+C02653|E3
+C02657|E4
+C02661|E5
+C02666|I4|AR sketching of embedded responsive visualizations
+C02669|I2|immersive multi-layout network visualization
+C02671|E2
+C02682|E5
+C02687|E2
+C02689|E1
+C02693|E3
+C02694|E1
+C02695|E5
+C02698|I4|AR obscured-information vis; partly position/survey paper
+C02700|E3
+C02705|E3
+C02706|U|title fragment only; possibly embodied graph interaction
+C02719|E3
+C02720|E5
+C02724|E3
+C02726|E5
+C02739|E5
+C02751|E3
+C02754|E2
+C02756|E5
+C02761|E5
+C02762|I4|design space of tangible cubes in mixed reality
+C02767|E1
+C02768|E1
+C02770|E2
+C02773|E5
+C02774|E5
+C02775|E5
+C02778|E5
+C02780|U|Dwyer thesis 2.5D relational networks; check if published elsewhere
+C02783|E3
+C02787|E1
+C02788|E5
+C02792|U|energy network in mixed reality; check graph vis
+C02794|I1|stacked interconnected pathway layers in 3D (Streit et al.)
+C02795|E4
+C02797|E3
+C02798|E4
+C02802|U|pen-paper AR; unclear if visualization
+C02803|I4|abstract-concrete transitions in immersive vis design space
+C02805|E5
+C02807|U|tangibles for scientific storytelling; unclear AR/network
+C02808|E1
+C02809|E5
+C02813|E5
+C02819|E5
+C02820|E5
+C02822|E4
+C02825|E2
+C02826|E2
+C02829|E1
+C02830|E3
+C02831|E3
+C02837|E5
+C02842|E5
+C02845|E5
+C02846|E5
+C02848|E5
+C02855|E2
+C02859|E5
+C02865|E5
+C02876|E5
+C02878|E1
+C02879|B|taxonomy of 3D occlusion management for visualization
+C02880|E4
+C02881|E2
+C02882|E2
+C02884|E2
+C02889|E2
+C02891|E2
+C02893|E5
+C02899|E5
+C02903|E2
+C02904|E2
+C02909|E5
+C02910|E5
+C02918|U|2.5D hierarchical drawing; levels on planes, check MLN relevance
+C02919|E4
+C02920|E3
+C02921|E2
+C02922|E3
+C02923|E3
+C02924|E3
+C02932|E5
+C02937|I1|pymnet library; multilayer drawing (software URL)
+C02938|E6
+C02940|I1|layer hierarchization in multiplex networks vis
+C02950|E5
+C02958|B|Kivela multilayer networks review; formal background
+C02960|U|Tatzgern situated AR vis thesis; check if published elsewhere
+C02961|E5
+C02962|E5
+C02970|E2
+C02974|E3
+C02978|E5
+C02980|E5
+C02983|I1|MNET-VR multilayer network exploration in VR (repo); also I2
+C02984|E5
+C02988|E5
+C02989|E1
+C02990|E1
+C03001|E1
+C03002|E5
+C03003|E3
+C03004|U|knowledge graphs (multi-relational) comparative exploration
+C03008|E3
+C03013|E2
+C03016|E2
+C03018|E5
+C03020|U|3D cyber visualizations; may be immersive network vis
+C03024|E3
+C03026|E3
+C03029|E5
+C03030|E5
+C03031|E5
+C03033|E5
+C03037|E3
+C03045|E5
+C03047|E5
+C03048|E5
+C03049|E5
+C03050|E5
+C03052|E5
+C03056|E5
+C03062|E5
+C03063|E5
+C03067|E5
+C03073|E5
+C03080|E5
+C03081|E2
+C03086|E5
+C03091|U|heterogeneous graph layout; possibly multi-relational
+C03097|E1
+C03099|E2
+C03101|E1
+C03103|I4|marker-anchored AR software-evolution visualization
+C03106|E5
+C03115|E4
+C03116|E2
+C03123|I3|tangible network data storytelling
+C03126|E3
+C03133|I1|muxViz multilayer network vis package
+C03137|E1
+C03146|E2
+C03149|E5
+C03154|E2
+C03174|I4|Uplift tangible immersive tabletop (title fragment)
+C03178|E5
+C03185|E5
+C03186|I4|projected physical visualization dashboards on surfaces
+C03187|I1|2.5D two linked hierarchies on planes with inter-edges
+C03188|E5
+C03189|E5
+C03190|E5
+C03192|E5
+C03193|E2
+C03198|E2
+C03199|E5
+C03201|E2
+C03205|E5
+C03206|E5
+C03208|E5
+C03228|E5
+C03229|E5
+C03231|E5
+C03232|E1
+C03267|E3
+C03269|E2
+C03270|E2
+C03271|E2
+C03272|E2
+C03273|E3
+C03274|E4
+C03276|E3
+C03277|E2
+C03279|I1|2.5D stacked phylogenetic trees for comparison
+C03282|E5
+C03286|B|STAR group structures in graphs; layer/group encodings
+C03288|E2
+C03292|E3
+C03293|E3
+C03302|E5
+C03319|E1
+C03350|E1
+C03351|E1
+C03354|E1
+C03363|E3
+C03375|E2
+C03398|E1
+C03422|E1
+C03461|E1
+C03470|E3
+C03471|E3
+C03484|E1
+C03485|E1
+C03501|E1
+C03503|E1
+C03508|E1
+C03526|E3
+C03536|E3
+C03551|E1
+C03558|E3
+C03571|E3
+C03604|E5
+C03605|E5
+C03609|E2
+C03614|E3
+C03616|E3
+C03617|E4
+C03634|I4|AR ultrasound data anchored within patient
+C03643|E2
+C03656|E2
+C03666|E3
+C03667|E3
+C03670|E1
+C03673|E2
+C03682|E3
+C03690|E2
+C03691|E2
+C03697|E2
+C03699|E3
+C03701|E3
+C03706|E3
+C03731|E3
+C03733|B|Milgram taxonomy of mixed reality displays
+C03744|E2
+C03745|E3
+C03751|E3
+C03756|E3
+C03762|E3
+C03771|E2
+C03772|U|magnifying-glass AR; info on physical objects, unclear vis
+C03776|E3
+C03778|E2
+C03780|E3
+C03782|E3
+C03786|E3
+C03790|E3
+C03791|E2
+C03795|E3
+C03803|E3
+C03804|E5
+C03807|E3
+C03808|E2
+C03814|E5
+C03820|E3
+C03826|I4|AR ultrasound biopsy; data anchored on patient
+C03827|E3
+C03828|B|task-by-data-type taxonomy; marginal relevance
+C03830|E3
+C03834|E5
+C03835|E5
+C03836|E2
+C03838|E5
+C03853|E4
+C03855|E2
+C03858|B|Azuma AR survey
+C03859|E6
+C03861|E1
+C03862|E2
+C03863|E3
+C03864|E3
+C03871|E3
+C03876|E3
+C03877|E3
+C03878|E3
+C03881|E3
+C03883|E5
+C03884|E5
+C03886|E3
+C03889|E2
+C03891|E5
+C03894|E3
+C03899|U|clustered graph levels on stacked 3D planes (Eades-Feng)
+C03903|E3
+C03906|E5
+C03907|E5
+C03913|E3
+C03917|E2
+C03918|E5
+C03922|E3
+C03925|E2
+C03926|E2
+C03942|B|AR paradigm position paper (Mackay)
+C03947|I4|Studierstube collaborative AR vis; tangible panel, verify
+C03948|E1
+C03957|E3
+C03962|E5
+C03963|E5
+C03964|E3
+C03965|E3
+C03969|E3
+C03974|E3
+C03979|E2
+C03980|E2
+C03982|U|Studierstube AR environment; check visualization content
+C03985|E3
+C03988|E3
+C03995|E1
+C03997|E3
+C04008|E3
+C04020|E5
+C04021|E3
+C04025|E2
+C04028|E2
+C04032|E3
+C04034|E2
+C04037|E1
+C04042|E5
+C04048|I2|VR exploration of large hierarchies (network management)
+C04054|E5
+C04057|E5
+C04065|E5
+C04085|E2
+C04087|E6
+C04088|U|thesis on 3D/VR software graph vis; check
+C04090|E2
+C04091|E3
+C04092|E6
+C04093|E3
+C04094|E2
+C04099|E2
+C04105|E3
+C04108|E1
+C04110|E3
+C04111|E3
+C04113|E3
+C04116|E2
+C04120|E2
+C04129|E3
+C04131|E1
+C04132|E1
+C04136|E2
+C04139|E2
+C04140|E3
+C04142|E5
+C04146|E3
+C04147|E2
+C04153|E3
+C04154|E3
+C04158|E2
+C04160|E5
+C04162|E5
+C04167|E3
+C04171|E2
+C04180|E5
+C04185|E3
+C04193|E2
+C04204|E3
+C04206|E3
+C04207|E2
+C04209|E3
+C04210|E3
+C04211|E3
+C04219|E2
+C04221|E4
+C04223|E2
+C04232|E3
+C04234|E4
+C04236|E3
+C04237|E1
+C04239|E2
+C04241|E3
+C04242|E5
+C04243|E4
+C04246|E3
+C04247|E3
+C04253|U|AR information visualization interaction modes; vague abstract
+C04257|E3
+C04271|E4
+C04275|E5
+C04276|E5
+C04280|E5
+C04282|B|AR survey update (Azuma 2001)
+C04290|E3
+C04300|U|MagicBook AR on physical book; unclear data vis
+C04301|E4
+C04302|E2
+C04305|E3
+C04313|U|VR data mining for network management; may show graphs
+C04322|E3
+C04329|E1
+C04331|E3
+C04336|E2
+C04344|I4|evaluates AR ultrasound guidance anchored on phantom
+C04347|E3
+C04352|E3
+C04354|I4|Studierstube collaborative AR scientific vis
+C04357|E1
+C04358|E1
+C04371|E3
+C04374|E2
+C04375|I4|AR terrain overlaid on real map
+C04386|E3
+C04387|E3
+C04388|E3
+C04389|E4
+C04395|E3
+C04398|E2
+C04399|E1
+C04406|E2
+C04414|E3
+C04416|E3
+C04418|E2
+C04421|E2
+C04425|E1
+C04426|E1
+C04427|E2
+C04434|E3
+C04435|E3
+C04436|E3
+C04442|E5
+C04443|E5
+C04453|E1
+C04454|E2
+C04467|E5
+C04468|E2
+C04469|E2
+C04470|E3
+C04472|E5
+C04473|E5
+C04476|U|VR software visualization; check for graph structures
+C04478|U|dynamic flow graph with time as third dimension
+C04479|U|VR software visualization; check for graph structures
+C04480|E2
+C04481|E2
+C04482|E3
+C04493|E3
+C04498|E2
+C04501|E4
+C04502|I3|tangible tabletop pucks manipulating network topology
+C04504|E3
+C04507|E3
+C04514|E2
+C04516|I4|location-registered collaborative outdoor AR info browsing
+C04520|U|pathway comparison across species; juxtaposed related networks?
+C04522|U|VR software visualization; check for graph structures
+C04523|E1
+C04528|E3
+C04529|E2
+C04530|E3
+C04531|E5
+C04538|E3
+C04540|E3
+C04541|U|EMMIE collaborative AR hybrid UI; unclear vis
+C04547|E3
+C04552|E5
+C04553|E3
+C04554|E3
+C04555|E3
+C04561|E2
+C04562|E5
+C04564|B|information-rich virtual environments research agenda
+C04572|E3
+C04577|E3
+C04582|E3
+C04583|E3
+C04584|U|graph links on treemaps hybrid; I5 if from McGee
+C04593|E5
+C04597|I4|depicting multiple occluded layers in AR
+C04603|E1
+C04604|E5
+C04605|E2
+C04607|E2
+C04614|E3
+C04620|E2
+C04622|E3
+C04623|E3
+C04628|I2|AR visualization of complex 3D graphs
+C04629|E2
+C04635|E2
+C04637|E4
+C04638|I1|related metabolic pathways stacked in 2.5D
+C04646|E5
+C04648|U|node-link vs matrix eval; I5 if from McGee
+C04653|I4|AR CFD visualization in building context
+C04654|B|taxonomy of tangible interfaces (Fishkin)
+C04655|E2
+C04659|E3
+C04663|E2
+C04667|I4|projected tangible landscape interfaces; verify data vis
+C04668|E2
+C04669|E3
+C04672|U|immersive audio-visual network security; check graph vis
+C04675|E4
+C04676|E3
+C04678|E2
+C04679|E3
+C04681|E3
+C04682|E4
+C04685|E1
+C04699|E3
+C04700|E3
+C04701|E3
+C04706|E3
+C04708|E2
+C04714|I4|AR x-ray vision tools in mobile AR
+C04715|E3
+C04716|E3
+C04717|E3
+C04719|E3
+C04724|E3
+C04731|E3
+C04735|E1
+C04738|B|TUIs and spatiality position paper
+C04740|E1
+C04747|E5
+C04751|E5
+C04752|E1
+C04753|E3
+C04756|E2
+C04759|E4
+C04763|U|simultaneous embedding of graphs; maybe multiplex vis
+C04764|I1|simultaneous drawing of related graphs incl. stacked scheme
+C04766|E3
+C04767|E2
+C04768|E3
+C04770|E3
+C04774|E2
+C04777|E1
+C04779|E1
+C04780|E1
+C04787|E3
+C04789|E2
+C04791|E3
+C04793|E3
+C04801|E3
+C04802|I1|metabolic pathways stacked in 2.5D across organisms
+C04803|E2
+C04804|E3
+C04805|U|PolyPlane subgraphs on 3D planes; check layer relevance
+C04806|E3

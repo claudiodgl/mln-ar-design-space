@@ -1,0 +1,3 @@
+cid,decision,code,evidence,note
+IEEE-C00031,include,I4,"plants, livestock, feed, and water required for all are visualized in front of them",handheld AR unit visualization of resource quantities (abstract data) placed on the scanned kitchen floor with anchors (spatial context); green OA copy (WUR repository)
+IEEE-C00034,exclude,E2,"fuses multiple live data streams, including team member GPS locations, satellite-derived fire perimeters, predictive fire spread simulations, and real-time weather data","geospatial map, navigation arrows, and fire-spread and wind fields (A1: navigation and field data); weather values on a floating panel without AR-specific value; author preprint on Zenodo"

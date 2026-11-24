@@ -1,0 +1,140 @@
+R2-C11064|exclude|E3|
+R2-C11067|background|B|Handbook chapter on data physicalization
+R2-C11071|exclude|E2|
+R2-C11073|exclude|E6|
+R2-C11081|include|I4|Design space of small multiples layout in immersive space
+R2-C11082|exclude|E2|
+R2-C11086|exclude|E2|
+R2-C11088|exclude|E1|
+R2-C11092|exclude|E3|
+R2-C11101|exclude|E2|
+R2-C11105|exclude|E1|
+R2-C11106|exclude|E1|
+R2-C11107|unsure||AR occlusion display; possibly AR vis technique, no abstract
+R2-C11110|exclude|E3|
+R2-C11114|exclude|E3|
+R2-C11115|exclude|E3|
+R2-C11116|exclude|E3|
+R2-C11118|exclude|E4|
+R2-C11120|exclude|E1|
+R2-C11122|exclude|E3|
+R2-C11123|exclude|E1|
+R2-C11125|exclude|E1|
+R2-C11126|exclude|E2|
+R2-C11129|background|B|Position on egocentric viewpoint in MR situated vis
+R2-C11132|exclude|E2|
+R2-C11134|exclude|E2|
+R2-C11137|exclude|E5|
+R2-C11139|unsure||User test of AR data visualizations; check physical anchoring
+R2-C11140|exclude|E2|
+R2-C11142|exclude|E3|
+R2-C11144|exclude|E3|
+R2-C11145|exclude|E2|
+R2-C11146|exclude|E2|
+R2-C11149|exclude|E1|
+R2-C11150|exclude|E1|
+R2-C11151|exclude|E1|
+R2-C11155|exclude|E3|
+R2-C11156|exclude|E2|
+R2-C11159|exclude|E2|
+R2-C11163|exclude|E2|
+R2-C11164|exclude|E2|
+R2-C11165|unsure||Thesis on interaction for immersive/situated vis; may be superseded
+R2-C11167|exclude|E2|
+R2-C11168|exclude|E3|
+R2-C11169|exclude|E3|
+R2-C11172|background|B|Review of XR research challenges in spatial sciences
+R2-C11176|background|B|Assessment of XR toolkits for basic infovis tasks
+R2-C11177|exclude|E1|
+R2-C11178|exclude|E1|
+R2-C11182|exclude|E2|
+R2-C11186|exclude|E2|
+R2-C11187|exclude|E2|
+R2-C11189|exclude|E3|
+R2-C11190|exclude|E3|
+R2-C11193|exclude|E3|
+R2-C11201|include|I5|Combined node-link layouts and matrix reorderings (hybrid)
+R2-C11203|exclude|E2|
+R2-C11205|exclude|E1|
+R2-C11207|exclude|E2|
+R2-C11209|exclude|E2|
+R2-C11212|include|I5|ChordLink hybrid graph visualization (NodeTrix-like)
+R2-C11213|exclude|E3|
+R2-C11215|exclude|E1|
+R2-C11217|exclude|E2|
+R2-C11221|exclude|E2|
+R2-C11222|exclude|E2|
+R2-C11223|include|I4|AR situated bar graphics placed in real landscape
+R2-C11224|unsure||AR information presentation in design reviews; check vis technique
+R2-C11228|exclude|E1|
+R2-C11229|exclude|E2|
+R2-C11231|exclude|E1|
+R2-C11232|exclude|E4|
+R2-C11236|unsure||3D data vis in AR; no abstract, check anchoring
+R2-C11238|exclude|E4|
+R2-C11239|unsure||Multi-user 3D visual analytics in AR; check spatial anchoring
+R2-C11240|exclude|E4|
+R2-C11242|exclude|E2|
+R2-C11244|exclude|E1|
+R2-C11247|exclude|E1|
+R2-C11249|exclude|E1|
+R2-C11251|exclude|E2|
+R2-C11258|exclude|E1|
+R2-C11260|unsure||Outdoor AR helmet visualizing social-distancing rules in space
+R2-C11262|exclude|E1|
+R2-C11264|exclude|E3|
+R2-C11267|exclude|E2|
+R2-C11269|exclude|E2|
+R2-C11272|exclude|E1|
+R2-C11275|exclude|E2|
+R2-C11280|exclude|E1|
+R2-C11281|exclude|E2|
+R2-C11285|exclude|E2|
+R2-C11286|exclude|E2|
+R2-C11289|exclude|E1|
+R2-C11293|exclude|E3|
+R2-C11295|exclude|E1|
+R2-C11296|exclude|E1|
+R2-C11297|exclude|E1|
+R2-C11298|exclude|E1|
+R2-C11299|exclude|E1|
+R2-C11300|unsure||Multilayer network review incl. implementations; may cover vis tools
+R2-C11301|exclude|E1|
+R2-C11302|exclude|E1|
+R2-C11303|exclude|E1|
+R2-C11304|exclude|E1|
+R2-C11305|exclude|E4|
+R2-C11306|exclude|E1|
+R2-C11314|exclude|E3|
+R2-C11317|exclude|E3|
+R2-C11318|exclude|E3|
+R2-C11319|exclude|E1|
+R2-C11322|exclude|E2|
+R2-C11326|exclude|E3|
+R2-C11327|unsure||Heterogeneous multivariate network vis; check multi-relational edges
+R2-C11330|background|B|Classification of AR situated geographical visualizations
+R2-C11331|unsure||Heterogeneous multivariate networks on phones; multi-relational?
+R2-C11333|exclude|E4|
+R2-C11336|exclude|E3|
+R2-C11337|exclude|E3|
+R2-C11338|exclude|E5|
+R2-C11339|exclude|E5|
+R2-C11340|exclude|E5|
+R2-C11341|exclude|E5|
+R2-C11342|exclude|E5|
+R2-C11343|exclude|E5|
+R2-C11344|exclude|E5|
+R2-C11345|exclude|E2|
+R2-C11347|exclude|E1|
+R2-C11351|exclude|E3|
+R2-C11353|exclude|E2|
+R2-C11357|exclude|E3|
+R2-C11362|exclude|E3|
+R2-C11365|exclude|E2|
+R2-C11370|exclude|E2|
+R2-C11378|exclude|E3|
+R2-C11379|exclude|E3|
+R2-C11380|unsure||Evaluation methods for situated/physical vis in assembly
+R2-C11384|exclude|E3|
+R2-C11385|exclude|E3|
+R2-C11387|exclude|E3|
